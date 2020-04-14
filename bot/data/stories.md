@@ -1,9 +1,13 @@
 ## happy path
 * greet
-  - utter_greeting
+  - utter_greeting_hello_introduced_false
 * goodbye
-  - utter_goodbye
+  - utter_greeting_goodbye
 
-##chit-chat
+## chit-chat
 * greet
-  - utter_chit-chat:
+  - utter_greeting_hello_introduced_false
+* bot_sexual
+  - utter_user_love
+* goodbye
+  - utter_greeting_goodbye

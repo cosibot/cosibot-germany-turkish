@@ -1,4 +1,4 @@
-## intent:greet
+## intent: greet
 - hey
 - merhaba
 - günaydın
@@ -6,20 +6,20 @@
 - iyi günler
 - hey
 
-## intent:goodbye
+## intent: goodbye
 - güle güle
 - hoşçakal
 - görüşürüz
 - sonra görüşürüz
 
-## intent:affirm
+## intent: affirm
 - evet
 - gerçekten
 - tabii ki
 - kulağa hoş geliyor
 - doğru
 
-## intent:deny
+## intent: deny
 - hayır
 - asla
 - Sanmıyorum
@@ -27,7 +27,7 @@
 - olmaz
 - pek değil
 
-## intent:mood_great
+## intent: mood_great
 - mükemmel
 - çok iyi
 - harika
@@ -37,7 +37,7 @@
 - ben harikayım
 - ben iyiyim
 
-## intent:mood_unhappy
+## intent: mood_unhappy
 - üzgün
 - çok üzgün
 - mutsuz
@@ -49,7 +49,7 @@
 - son derece üzgün
 - çok üzücü
 
-## intent:bot_challenge
+## intent: bot_challenge
 - bot mısın?
 - insan mısın?
 - Bir botla mı konuşuyorum?
