@@ -6,7 +6,7 @@ import csv
 
 prefix ='de_'
 intents={}
-output_file = 'nlu_out_3.md'
+output_file = 'nlu_out.md'
 
 with open("../data/cosibot-intents-de-en-tr.csv") as f:
     src = csv.reader(f, delimiter=',')
@@ -16,7 +16,6 @@ with open("../data/cosibot-intents-de-en-tr.csv") as f:
             intents[type]= [row[0]]
         else:
             intents[type].append(row[0])
-
 
 file = '../data/' + output_file
 with open(file, 'w') as wf:
