@@ -1,5 +1,4 @@
 intents:
-- nan
 - agent_email_save_message_ask
 - agent_email_cancel
 - bot_fear
@@ -199,16 +198,8 @@ intents:
 - sources
 - anything_else_1
 - anything_else
-- agent
 - further_questions
 responses:
-  utter_agent:
-  - custom:
-      answers:
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_agent_confirmation:
   - custom:
       answers:
@@ -336,8 +327,6 @@ responses:
           veya test hakkında sorularınız varsa size destek olurum. Bir soruyu düşünemiyorsanız,
           bazı öneriler aşağıdadır.
         type: text
-      - text: nan
-        type: text
   utter_bot_fear:
   - custom:
       answers:
@@ -381,8 +370,6 @@ responses:
         type: ssml
       - text: Sadece Almanca konuşuyorum ama İngilizce ve Portekizce bilen meslektaşlarım
           var. Bunun bağlantıları gösterilir.
-        type: text
-      - text: nan
         type: text
   utter_bot_movies:
   - custom:
@@ -713,8 +700,6 @@ responses:
           <a href=''https://www.dzif.de/de/glossar/coronavirus'' target=''_blank''>
           (1) </a> <a href = ''https: //www.rki.de'' hedef = ''_ boş''> (2) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_covid_babys_children:
   - custom:
       answers:
@@ -737,8 +722,6 @@ responses:
           yeterli bilgi yoktur. <a href='https://www.unicef.de/informieren/aktuelles/blog/coronavirus-was-eltern-und-schwangere-jetzt-wissen-sollten/211680'
           target='_blank'> (1) </ a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_crisis_howlong:
   - custom:
       answers:
@@ -750,8 +733,6 @@ responses:
           bir bilgi bulamadım. Bununla ilgili bilgiler herkese açık hale gelirse sizi
           bilgilendirmekten memnuniyet duyarız. </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_current_statistics:
   - custom:
       answers:
@@ -764,10 +745,6 @@ responses:
           istatistikleri için Robert Koch Enstitüsü'nün COVID-19 kontrol paneline
           bakmanızı ve Johns Hopkins Üniversitesi'nin kontrol panelindeki dünya istatistikleri
           hakkında bilgi vermenizi tavsiye ederim. Bunun bağlantıları gösterilir.
-        type: text
-      - text: nan
-        type: text
-      - text: nan
         type: text
   utter_covid_dangerous:
   - custom:
@@ -793,8 +770,6 @@ responses:
           alerjilerini etkiler. <a href='https://www.tagesschau.de/faktenfinder/corona-risikogruppen-101.html'
           target='_blank'> (1) <
         type: html
-      - text: nan
-        type: text
   utter_covid_difference_influenza:
   - custom:
       answers:
@@ -877,10 +852,6 @@ responses:
           bilmiyor. <a href = ''https: //www.tagesspiegel.de/wissen/covid-19-und-influenza-warum-der-vergleich-von-coronavirus-und-grippe-hinkt/25598570.html''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: XXXXX
-        type: text
-      - text: nan
-        type: text
   utter_covid_disease_aftereffects_immunity:
   - custom:
       answers:
@@ -912,8 +883,6 @@ responses:
           target=''_blank''> (1) </a> <a href = ''https: //www.mdr.de/nachrichten/ratgeber/gesundheit/coronavirus-fragen-antworten-100.html#sprung8''
           target = ''_ blank''> (2) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_covid_disease_process:
   - custom:
       answers:
@@ -931,10 +900,6 @@ responses:
           Koch Enstitüsü'nün Covid-19 profilinde bulunabilir. <a href='https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText2'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_covid_duration:
   - custom:
       answers:
@@ -947,8 +912,6 @@ responses:
           olduğunu belirtiyor. <a href='https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText5'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_ibuprofen:
   - custom:
       answers:
@@ -974,8 +937,6 @@ responses:
           tercih ediyorlar. <a href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html'
           target='_blank'>
         type: html
-      - text: nan
-        type: text
   utter_covid_incubation:
   - custom:
       answers:
@@ -986,8 +947,6 @@ responses:
           <a href='https://www.zusammen Gegencorona.de/informieren/basiswissen-uebertragung/'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_info:
   - custom:
       answers:
@@ -1001,8 +960,6 @@ responses:
           denir. Hastalığın seyri hafif ila ölümcül arasında değişir. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_meaning:
   - custom:
       answers:
@@ -1019,8 +976,6 @@ responses:
           Hastalığı 2019) olarak adlandırılıyor. <a href=''https://www.bundesgesundheitsministerium.de/coronavirus.html''
           target=''_blank''> (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_covid_mortality_rate:
   - custom:
       answers:
@@ -1045,8 +1000,6 @@ responses:
           yaklaşık 20 kat daha yüksekti. <a href = ''https: //www.deutschlandfunk.de/zahlen-zum-coronavirus-die-rolle-der-dunkelziffer-bei-covid.676.de.html?
           dram: article_id = 473088'' target = ''_ blank'' > (1) </a> <'
         type: html
-      - text: nan
-        type: text
   utter_covid_origins:
   - custom:
       answers:
@@ -1065,8 +1018,6 @@ responses:
           bulaştığına inanılmaktadır. <a href='https://www.bundesgesundheitsministerium.de/coronavirus.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_preexisting_illness:
   - custom:
       answers:
@@ -1083,8 +1034,6 @@ responses:
           özellikle önemlidir. <a href='https://www.krebsinformationsdienst.de/aktuelles/2020/news012-coronavirus-ansteckungsgefahr-bei-krebs.php'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_pregnancy:
   - custom:
       answers:
@@ -1112,8 +1061,6 @@ responses:
           güvenle cevaplamak için. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_procedure_after_infection:
   - custom:
       answers:
@@ -1132,8 +1079,6 @@ responses:
           enfekte olmasını sağlamaktır. <a href='https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Haeufig-gierter-Fragen.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_risk_people:
   - custom:
       answers:
@@ -1156,8 +1101,6 @@ responses:
           <a href=''https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText2''
           target=''_blank''> (1) </a> <a href = ''https : //www.rheuma-liga.'
         type: html
-      - text: nan
-        type: text
   utter_covid_sars:
   - custom:
       answers:
@@ -1169,8 +1112,6 @@ responses:
           (covid-2019) -ve-the-virus-that -causes-it ''target ='' _ boş ''> (1) </a>
           </p>'
         type: html
-      - text: nan
-        type: text
   utter_covid_surfaces:
   - custom:
       answers:
@@ -1193,8 +1134,6 @@ responses:
           ve su ile yıkayın. Gözlerinize, ağzınıza veya burnunuza dokunmayın. <a href='https://www.who.int/news-room/qa-detail/qa-coronaviruses'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_symptoms:
   - custom:
       answers:
@@ -1220,8 +1159,6 @@ responses:
           lütfen aile doktorunuzla veya mesai saatleri dışında 116 117'deki acil sağlık
           hizmetiyle iletişime geçin. Nefes darlığı gibi acil durumlarda,
         type: html
-      - text: nan
-        type: text
   utter_covid_treatment:
   - custom:
       answers:
@@ -1245,8 +1182,6 @@ responses:
           Gegencorona.de/informieren/basiswissen-coronavirus/' target='_blank'> (1)
           </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_covid_unknown_cases:
   - custom:
       answers:
@@ -1270,8 +1205,6 @@ responses:
           olanlar beş veya yedi gün boyunca semptomları fark etmeyebilir ve daha sonra
           hala bir test yapılması gerekir. <a href = https: //www.deutschlandfunk.'
         type: html
-      - text: nan
-        type: text
   utter_covid_vaccine:
   - custom:
       answers:
@@ -1293,8 +1226,6 @@ responses:
           aşı- yakında geliyor- begin-the-first-tests/a-52893328'' target=''_blank''>
           (1) </a> <a href = ''https: //www.zdf.de/nachrichten/panorama/coronavirus-covid-19-ausbreiten-symptome-faq-100.html'''
         type: html
-      - text: nan
-        type: text
   utter_covid_worry:
   - custom:
       answers:
@@ -1337,8 +1268,6 @@ responses:
           <a href='https://www.tagesspiegel.de/wissen/umgang-mit-dem-coronavirus-angst-kann-helfen-panik-jedoch-schadet/25666034.html
           'target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_current_situation_copy1:
   - custom:
       answers:
@@ -1354,10 +1283,6 @@ responses:
           bağlantılar bulabileceğiniz belirli ülkeleri de arayabilir veya Yurtdışı
           başlığı altındaki Tagesschau.de adresine bakabilirsiniz. </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_economy_consequences:
   - custom:
       answers:
@@ -1365,10 +1290,6 @@ responses:
         type: ssml
       - text: <p> Federal Ekonomi Bakanlığı bu konuda pek çok bilgi sunuyor. </ P>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_features_date:
   - custom:
       answers:
@@ -1416,8 +1337,6 @@ responses:
           <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html' target='_blank'>
           (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_germany_current_situation:
   - custom:
       answers:
@@ -1434,10 +1353,6 @@ responses:
           Aşağıdaki konulardan birini de seçebilirsiniz. <a href='https://www.rki.de/DE/Home/homepage_node.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_food_buy:
   - custom:
       answers:
@@ -1460,8 +1375,6 @@ responses:
           son kullanma tarihine dikkat edilmelidir. <A href = ''https: //www.zdf.de/nachrichten/panorama/coronavirus-covid-19-ausbreit-symptome-faq-100
           .html ''target ='' _ blank ''> (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_germany_food_shortages:
   - custom:
       answers:
@@ -1480,8 +1393,6 @@ responses:
           çok ihtiyaç duyulan günlük eşyaları bulmakta zorlanıyor. <a href='https://www.zusammen
           Gegencorona.de/informieren/zuhause-bleiben/' target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_germany_hotline:
   - custom:
       answers:
@@ -1502,10 +1413,6 @@ responses:
           web sitesine bakın. bağlantı. <a href='https://www.bundesgesundheitsministerium.de/coronavirus.html#c17571'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_lockdown_howlong:
   - custom:
       answers:
@@ -1526,8 +1433,6 @@ responses:
           Yapılması gerekenler yapılır. <a href='https://www.bundesregierung.de/breg-de/themen/coronavirus/ausbreiten-coronavirus-1716188'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_germany_neighbors_close_borders:
   - custom:
       answers:
@@ -1544,10 +1449,6 @@ responses:
           gösterilir. <a href='https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/bevoelkerungsschutz/coronavirus/coronavirus-faqs.html#doc13738352bodyText3'
           target='_blank'> (1) </a> </ p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_nomoney:
   - custom:
       answers:
@@ -1585,10 +1486,6 @@ responses:
           <a href='https://www.kundenerzentrale.de/aktuelle-mmeldung/vertraege-reklamation/coronahilfspaket-und-andere-moeglichkeit-wenn-das-geld-knapp-wird-45990'
           target='_blank'> ( 1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_pandemic:
   - custom:
       answers:
@@ -1617,8 +1514,6 @@ responses:
           koruyun - Birbirinize yardım edin ve birbirleriyle ilgilenin. <a href=''https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html?nn=13490888''
           target=''_blank''> (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_germany_precautions_badenw:
   - custom:
       answers:
@@ -1641,10 +1536,6 @@ responses:
           bakın. <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_bayern:
   - custom:
       answers:
@@ -1666,10 +1557,6 @@ responses:
           href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_berlin:
   - custom:
       answers:
@@ -1692,10 +1579,6 @@ responses:
           <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_brandenburg:
   - custom:
       answers:
@@ -1718,10 +1601,6 @@ responses:
           <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_bremen:
   - custom:
       answers:
@@ -1743,10 +1622,6 @@ responses:
           <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_hamburg:
   - custom:
       answers:
@@ -1768,10 +1643,6 @@ responses:
           href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_hessen:
   - custom:
       answers:
@@ -1794,10 +1665,6 @@ responses:
           <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_mecklenburg:
   - custom:
       answers:
@@ -1820,10 +1687,6 @@ responses:
           <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_niedersachsen:
   - custom:
       answers:
@@ -1845,10 +1708,6 @@ responses:
           = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_nordrhein:
   - custom:
       answers:
@@ -1871,10 +1730,6 @@ responses:
           bakın. <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_rheinland:
   - custom:
       answers:
@@ -1897,10 +1752,6 @@ responses:
           bakın. <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_saarland:
   - custom:
       answers:
@@ -1922,10 +1773,6 @@ responses:
           //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_sachsen:
   - custom:
       answers:
@@ -1947,10 +1794,6 @@ responses:
           //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_sachsenanhalt:
   - custom:
       answers:
@@ -1973,10 +1816,6 @@ responses:
           = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_schleswigholstein:
   - custom:
       answers:
@@ -1999,10 +1838,6 @@ responses:
           bakın. <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_precautions_thüringen:
   - custom:
       answers:
@@ -2025,10 +1860,6 @@ responses:
           <a href = ''https: //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_preparation:
   - custom:
       answers:
@@ -2050,10 +1881,6 @@ responses:
           //www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248''
           target = ''_ blank'' > (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_spread:
   - custom:
       answers:
@@ -2076,8 +1903,6 @@ responses:
           değişmektedir. <a href='https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikob
           Evaluationment.html' target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_germany_spread_water:
   - custom:
       answers:
@@ -2094,8 +1919,6 @@ responses:
           en iyi izlenen gıdalardan biridir. <a href='https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-informationen-miete-kundenerschutz-1734914'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_germany_train_prevention:
   - custom:
       answers:
@@ -2120,10 +1943,6 @@ responses:
           kısıtlamalar hakkında daha fazla bilgi bulabilirsiniz. <a href='https://www.bahn.de/p/view/home/info/corona_startseite_bahnde.shtml'
           target='_blank'> (1) </a> <
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_train_refund:
   - custom:
       answers:
@@ -2140,10 +1959,6 @@ responses:
           soruların cevaplarına bakın. <a href='https://www.bahn.de/p/view/home/info/corona_startseite_bahnde.shtml'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_germany_train_suspect:
   - custom:
       answers:
@@ -2166,8 +1981,6 @@ responses:
           <a href='https://www.bahn.de/p/view/home/info/corona_startseite_bahnde.shtml'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_greeting_goodbye:
   - custom:
       answers:
@@ -2233,20 +2046,12 @@ responses:
           bilgilerden ve koruyucu önlemlere, seyahat bilgilerine ve daha fazlasına.
           Size nasıl yardımcı olabilirim?
         type: text
-      - text: nan
-        type: text
   utter_greeting_hello_introduced_true:
   - custom:
       answers:
       - text: <speak> Merhaba. Size nasıl yardımcı olabilirim? </speak>
         type: ssml
-      - text: <speak> Merhaba. Size nasıl yardımcı olabilirim? </speak>
-        type: ssml
-      - text: <speak> Merhaba. Size nasıl yardımcı olabilirim? </speak>
-        type: ssml
       - text: Merhaba. Size nasıl yardımcı olabilirim
-        type: text
-      - text: Merhaba. Size nasıl yardımcı olabilirim?
         type: text
       - text: Merhaba. Size nasıl yardımcı olabilirim?
         type: text
@@ -2257,8 +2062,6 @@ responses:
         type: ssml
       - text: <speak> <prosody rate = 'slow'> İyi </prosody>, teşekkürler! </speak>
         type: ssml
-      - text: <speak> İyiyim. Teşekkürler! </speak>
-        type: ssml
       - text: <speak> Her şey harika! </speak>
         type: ssml
       - text: <speak> Sorduğun için teşekkürler. Daha önce hiç olmadığı kadar canlı
@@ -2267,8 +2070,6 @@ responses:
       - text: Ben iyiyim Teşekkür ederim
         type: text
       - text: Teşekkürler!
-        type: text
-      - text: Ben iyiyim Teşekkür ederim
         type: text
       - text: Herşey harika!
         type: text
@@ -2344,8 +2145,6 @@ responses:
           Bu nedenle, sadece kısa bir süre için giyilebilirler. <a href='https://www.tagesschau.de/faktenfinder/corona-masken-103.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_mask_ffp3:
   - custom:
       answers:
@@ -2392,8 +2191,6 @@ responses:
           / tavsiye / korona-virüs-solunum cihazları-help-100.html ''target ='' _
           blank ''> (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_mask_general:
   - custom:
       answers:
@@ -2479,8 +2276,6 @@ responses:
           href ='' https: //www.tagesschau.de/inland/corona-deutschland-mundschutz-101.html
           '' target = ''_ blank''> (3) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_myth_alcohol:
   - custom:
       answers:
@@ -2495,8 +2290,6 @@ responses:
           için uygundur. <a href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_myth_garlic:
   - custom:
       answers:
@@ -2509,8 +2302,6 @@ responses:
           koruduğuna dair bir kanıt yoktur. <a href='https://www.who.int/news-room/qa-detail/qa-coronaviruses'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_myth_hold_breath:
   - custom:
       answers:
@@ -2523,8 +2314,6 @@ responses:
           href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html' target='_blank'>
           (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_myth_hot_bath:
   - custom:
       answers:
@@ -2537,8 +2326,6 @@ responses:
           kaçınmak enfeksiyon riskini azaltmak için önemlidir. <a href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_myth_mosquito:
   - custom:
       answers:
@@ -2549,8 +2336,6 @@ responses:
           gösteren hiçbir bilgi yok. <a href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_myth_pneumonia_vaccine:
   - custom:
       answers:
@@ -2575,8 +2360,6 @@ responses:
           hastalarında bu tür süperenfeksiyonların ne sıklıkta meydana geldiğini tahmin
           etmek için yetersizdir. <
         type: html
-      - text: nan
-        type: text
   utter_myth_saline:
   - custom:
       answers:
@@ -2595,8 +2378,6 @@ responses:
           <a href='https://www.who.int/news-room/qa-detail/qa-coronaviruses' target='_blank'>
           (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_myth_sesame:
   - custom:
       answers:
@@ -2611,8 +2392,6 @@ responses:
           kloroform bulunur. <a href='https://www.who.int/news-room/qa-detail/qa-coronaviruses'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_myth_uv_lamp:
   - custom:
       answers:
@@ -2623,8 +2402,6 @@ responses:
           neden olabilirler. <a href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_myths_conspiracy_fakenews:
   - custom:
       answers:
@@ -2650,10 +2427,6 @@ responses:
           bilgi bulduğunuzdan emin olun. Ayrıca size ARD olgu bulucusunun bağlantısını
           da gösterdim. </ P>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_myths_vitamins_plants_minerals_homeopathy:
   - custom:
       answers:
@@ -2694,185 +2467,6 @@ responses:
           tavsiyelerini takip etmek. <a href=https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html''
           target=''_blank''> (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
-  utter_nan:
-  - custom:
-      answers:
-      - text: Girdiğiniz e-posta adresi geçersiz bir biçimde. Maalesef, size e-postayla
-          belge gönderemiyorum. :(
-        type: text
-      - text: $bad_email_response
-        type: text
-      - text: '<speak> Aynı hanehalkının üyesi olmadıkça ikiden fazla kişi birlikte
-          dışarıda olmayabilir. Bu yüzden bir arkadaşınızla yürüyüşe çıkın, evet,
-          üç değil. Koronavirüs yayılımını azaltmak için mümkün olan her yerde diğerlerinden
-          en az 1,5 metre mesafe bırakın. Dışarıda hala izin verilir: koşu turları,
-          kendi çocuklarınızla dolaşmak veya yürüyüşe çıkmak. Böylece temiz havada
-          spor yapın ve egzersiz yapın - ancak bireysel olarak. Çocukların çalışma
-          veya acil bakım yollarına izin verilir, alışveriş yapılır, doktora ziyaretler,
-          gerekli randevular ve sınavlarda, başkalarına yardım edilir. Sadece evinize
-          yiyecek gönderebilir veya alıp evde yiyebilirsiniz. Kuaförler, güzellik
-          salonları, masaj uygulamaları ve dövme stüdyoları kapalı kalmalıdır.'
-        type: ssml
-      - text: '<p> Aynı hanehalkının üyesi olmadıkça ikiden fazla kişi birlikte dışarıda
-          olmayabilir. Üç arkadaşımızla değil, bir arkadaşımızla yürüyüşe çıkın. Koronavirüs
-          yayılımını azaltmak için mümkün olan her yerde diğerlerinden en az 1,5 metre
-          mesafe bırakın. Dışarıda hala izin verilir: koşu turları, kendi çocuklarınızla
-          dolaşmak veya yürüyüşe çıkmak. Böylece temiz havada spor yapın ve egzersiz
-          yapın - ancak bireysel olarak. Çocukların çalışma veya acil bakım yollarına
-          izin verilir, alışveriş yapılır, doktora ziyaretler, gerekli randevular
-          ve sınavlarda, başkalarına yardım edilir. Sadece evinize yiyecek gönderebilir
-          veya alıp evde yiyebilirsiniz. Kuaförler, güzellik salonları, masaj uygulamaları
-          ve dövme stüdyoları kapalı kalmalıdır. Daha fazla bilgiyi Federal Hükümetin
-          web sitesinde bulabilirsiniz. <a href=''https://www.zdf.de/nachrichten/politik/coronavirus-ausgangsbeschraenken-verschaerfung-ueberblick-100.html''
-          target=''_blank''> (1) </a> </p>'
-        type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
-      - text: <speak> Enfekte oldukları ya da enfekte olma riski bulunduğundan karantinaya
-          alması emredilen herkes evde kalmak ve üçüncü şahıslardan uzak durmak zorundadır.
-          İlgili kişi alışveriş veya köpek yürüyüşü için evden ayrılmamalıdır. Akrabalar,
-          ilgili kişiyi günlük yaşamda, örneğin satın alma yaparak destekleyebilir.
-          </speak>
-        type: ssml
-      - text: <p> Enfekte oldukları ya da enfekte olma riski bulunduğundan karantinaya
-          alması emredilen herkes evde kalmak ve üçüncü şahıslardan uzak durmak zorundadır.
-          İlgili kişi alışveriş veya köpek yürüyüşü için evden ayrılmamalıdır. Akrabalar,
-          ilgili kişiyi günlük yaşamda, örneğin satın alma yaparak destekleyebilir.
-          <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html' target='_blank'>
-          (1) </a> </p>
-        type: html
-      - text: nan
-        type: text
-      - text: <speak> Maalesef aradığın hiçbir şey bulamadım. Daha fazla bilgi için
-          Federal Sağlık Bakanlığı'nın veya Robert Koch Enstitüsü'nün web sitesine
-          bakın. </speak>
-        type: ssml
-      - text: Ne yazık ki aradığınız hiçbir şey bulamadım. Daha fazla bilgi için Federal
-          Sağlık Bakanlığı'nın veya Robert Koch Enstitüsü'nün web sitesine bakınız.
-        type: text
-      - text: nan
-        type: text
-      - text: <speak> Federal Sağlık Bakanlığı ve Robert Koch Enstitüsü'nün web sitelerini
-          kontrol ettim ve daha fazlasını bulabileceğiniz bir bağlantı buldum. Bunu
-          burada bulacaksınız. </speak>
-        type: ssml
-      - text: Federal Sağlık Bakanlığı ve Robert Koch Enstitüsü'nün web sitelerini
-          kontrol ettim ve daha fazlasını bulabileceğiniz bir bağlantı buldum. Bunu
-          görüntülenen bulacaksınız.
-        type: text
-      - text: <? $form_result ["data"]?>
-        type: text
-      - text: <speak> Deutsche Welle ve Tagesschau sayfalarını kontrol ettim ve onlar
-          hakkında daha fazla bilgi edinebileceğiniz birkaç bağlantı buldum. Bunu
-          burada bulacaksınız. </speak>
-        type: ssml
-      - text: Deutsche Welle ve Tagesschau sayfalarını kontrol ettim ve onlar hakkında
-          daha fazla bilgi edinebileceğiniz birkaç bağlantı buldum. Bunları görüntülenir.
-        type: text
-      - text: <? $form_result ["data"]?>
-        type: text
-      - text: <speak> Federal Sağlık Bakanlığı ve Robert Koch Enstitüsü'nün web sitelerini
-          kontrol ettim ve daha fazlasını bulabileceğiniz bir bağlantı buldum. Bunu
-          burada bulacaksınız. </speak>
-        type: ssml
-      - text: Federal Sağlık Bakanlığı ve Robert Koch Enstitüsü'nün web sitelerini
-          kontrol ettim ve daha fazlasını bulabileceğiniz bir bağlantı buldum. Bunu
-          görüntülenen bulacaksınız.
-        type: text
-      - text: <? $form_result ["data"]?>
-        type: text
-      - text: <speak> Bunu anlamadım. Şu anda Almanya'da semptomların ne olduğunu
-          veya durumun ne olduğunu bilmek ister misiniz? </speak>
-        type: ssml
-      - text: <speak> Maalesef bunu anlamadım. Şu anda hangi ülkelerin risk altında
-          olduğunu veya nasıl karantinaya alınacağını bilmek ister misiniz? </speak>
-        type: ssml
-      - text: <speak> Ne yazık ki seni anlamadım. Hastalığın nasıl bulaştığını veya
-          virüse karşı aşı olup olmadığını bilmek ister misiniz? </speak>
-        type: ssml
-      - text: <speak> Üzgünüm, bunu anlamadım. Belki de enfeksiyon riskini nasıl en
-          aza indireceğinizi veya uygun el hijyeninin nasıl göründüğünü bilmek istersiniz?
-          </speak>
-        type: ssml
-      - text: Bunu anlamadım. Semptomların ne olduğunu veya Almanya'daki mevcut durumun
-          ne olduğunu bilmek ister misiniz?
-        type: text
-      - text: Maalesef bunu anlamadım. Şu anda hangi ülkelerin risk altında olduğunu
-          veya nasıl karantinaya alınacağını bilmek ister misiniz?
-        type: text
-      - text: Ne yazık ki seni anlamadım. Hastalığın nasıl bulaştığını veya virüse
-          karşı bir aşı olup olmadığını bilmek ister misiniz?
-        type: text
-      - text: Üzgünüm, anlamadım. Belki de enfeksiyon riskini nasıl en aza indirebileceğinizi
-          veya uygun el hijyeninin nasıl göründüğünü bilmek istersiniz?
-        type: text
-      - text: <speak> Maalesef, sorunuza cevap veremiyorum, hala öğrenecek çok şeyim
-          var. Sağlıklı Hasta Danışma Servisi Almanya ile sıfır sekiz yüz, sıfır,
-          bir, bir, yetmiş yedi, yirmi iki numarayla iletişime geçmenizi öneririm.
-          Virüs ve yardım hatları hakkında daha fazla bilgiyi Federal Sağlık Bakanlığı
-          web sitesinde de bulabilirsiniz. Size bağlantıyı gösterdim. </speak>
-        type: ssml
-      - text: Maalesef sorunuzu cevaplayamıyorum, öğrenecek çok şeyim var. Bununla
-          birlikte 0800 011 77 22 numaralı telefondan Bağımsız Hasta Danışma Servisi
-          Almanya ile iletişime geçmenizi öneririm. Virüs ve yardım hatları hakkında
-          daha fazla bilgiyi Federal Sağlık Bakanlığı web sitesinde de bulabilirsiniz.
-          Size bağlantıyı gösterdim.
-        type: text
-      - text: nan
-        type: text
-      - text: <speak> Deutsche Welle web sitesine ve Tagesschau'ya istek gönderilirken
-          bir sorun oluştu. Daha fazla bilgi için web sitelerini doğrudan okumanızı
-          tavsiye ederim. </speak>
-        type: ssml
-      - text: Deutsche Welle web sitesine ve Tagesschau'ya istek gönderilirken bir
-          sorun oluştu. Daha fazla bilgi için web sitesini doğrudan okumanızı tavsiye
-          ederim.
-        type: text
-      - text: nan
-        type: text
-      - text: <speak> Federal Sağlık Bakanlığı ve Robert Koch Enstitüsü'nün web sitesine
-          istek gönderilirken bir sorun oluştu. Daha fazla bilgi için web sitelerini
-          doğrudan okumanızı tavsiye ederim. </speak>
-        type: ssml
-      - text: Talebi Federal Sağlık Bakanlığı ve Robert Koch Enstitüsü web sitesine
-          gönderirken bir sorun oluştu. Daha fazla bilgi için web sitesini doğrudan
-          okumanızı tavsiye ederim.
-        type: text
-      - text: nan
-        type: text
-      - text: <speak> Maalesef aradığın hiçbir şey bulamadım. Daha fazla bilgi için
-          Deutsche Welle veya Tagesschau web sitelerine göz atın. </speak>
-        type: ssml
-      - text: Ne yazık ki aradığınız hiçbir şey bulamadım. Daha fazla bilgi için Deutsche
-          Welle veya Tagesschau web sitesine bakınız.
-        type: text
-      - text: nan
-        type: text
-      - text: <speak> Maalesef aradığın hiçbir şey bulamadım. Daha fazla bilgi için
-          Federal Sağlık Bakanlığı'nın veya Robert Koch Enstitüsü'nün web sitesine
-          bakın. </speak>
-        type: ssml
-      - text: Ne yazık ki aradığınız hiçbir şey bulamadım. Daha fazla bilgi için Federal
-          Sağlık Bakanlığı'nın veya Robert Koch Enstitüsü'nün web sitesine bakınız.
-        type: text
-      - text: nan
-        type: text
-      - text: <speak> Federal Sağlık Bakanlığı ve Robert Koch Enstitüsü'nün web sitesine
-          istek gönderilirken bir sorun oluştu. Daha fazla bilgi için web sitelerini
-          doğrudan okumanızı tavsiye ederim. </speak>
-        type: ssml
-      - text: Talebi Federal Sağlık Bakanlığı ve Robert Koch Enstitüsü web sitesine
-          gönderirken bir sorun oluştu. Daha fazla bilgi için web sitesini doğrudan
-          okumanızı tavsiye ederim.
-        type: text
-      - text: nan
-        type: text
   utter_prevention_clean_hands:
   - custom:
       answers:
@@ -2900,8 +2494,6 @@ responses:
           umumi tuvaletlerde bunun için en uygunudur. Evde herkes kendi havlularını
           kullanmalıdır. <a href = ''https: //www.enfeksiyon koruması.'
         type: html
-      - text: nan
-        type: text
   utter_prevention_desinfection:
   - custom:
       answers:
@@ -2922,10 +2514,6 @@ responses:
           listelere erişebilirsiniz. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html?nn=13490888'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_prevention_distance:
   - custom:
       answers:
@@ -2946,8 +2534,6 @@ responses:
           hastalığın seyri çok hafifse gerçekleşebilir. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_prevention_general:
   - custom:
       answers:
@@ -2968,8 +2554,6 @@ responses:
           Bu önlemler genellikle grip mevsiminde de geçerlidir. <a href='https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Haeufig-gierter-Fragen.html'
           target='_blank'> (1) </a> <a href = 'https://www.zdf.de/nachrichten/panorama/coronavirus-covid-19-ausbreitung-symptome-faq-100.html'
         type: html
-      - text: nan
-        type: text
   utter_prevention_home:
   - custom:
       answers:
@@ -2993,12 +2577,6 @@ responses:
           Karantinada nasıl davranmanız gerektiği hakkında daha fazla bilgi edinmek
           ister misiniz? </ P>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
-      - text: XXXXX
-        type: text
   utter_prevention_informed:
   - custom:
       answers:
@@ -3013,10 +2591,6 @@ responses:
           bağlantıları gösterilir. <a href='https://www.who.int/news-room/qa-detail/qa-coronaviruses'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_prevention_medical_attention:
   - custom:
       answers:
@@ -3040,10 +2614,6 @@ responses:
           telefonla ve Geziye dikkat edin, bir doktora görün. Daha fazla bilgi için
           116 117''yi arayın. <A href = ''https: // www.'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_prevention_medicine:
   - custom:
       answers:
@@ -3061,8 +2631,6 @@ responses:
           Gegencorona.de/informieren/basiswissen-coronavirus/' target='_blank'> (1)
           </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_prevention_touch:
   - custom:
       answers:
@@ -3087,8 +2655,6 @@ responses:
           eldiven giymenize gerek yoktur. <a href='https://www.infektionsschutz.de/haendewaschen/'
           target='_blank'> (1) </a>
         type: html
-      - text: nan
-        type: text
   utter_quarantine_control:
   - custom:
       answers:
@@ -3111,8 +2677,6 @@ responses:
           cezalandırılmalıdır. <a href = ''https: //www.mdr.de/nachrichten/panorama/corona-quarantaene-kontrollen-100.html''
           target = ''_ blank'''
         type: html
-      - text: nan
-        type: text
   utter_quarantine_dogwalking:
   - custom:
       answers:
@@ -3132,8 +2696,6 @@ responses:
           target=''_blank''> (1) </a> <a href = ''https: //www.zusammen Gegencorona.de/informieren/zuhause-bleiben/''
           target = ''_ blank''> (2) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_quarantine_dos_and_donts:
   - custom:
       answers:
@@ -3145,8 +2707,6 @@ responses:
           olduğunuzdan şüphelenildiğiniz için evde karantina almanız istenip sipariş
           edilmediğini lütfen bize bildirin. </p>
         type: html
-      - text: nan
-        type: text
   utter_quarantine_general:
   - custom:
       answers:
@@ -3169,8 +2729,6 @@ responses:
           ister misiniz? <a href='https://www.zusammen Gegencorona.de/informieren/informationen-alltag/'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_quarantine_how_it_works:
   - custom:
       answers:
@@ -3194,10 +2752,6 @@ responses:
           bağlantı altında ev karantinası hakkında ipuçları sunuyor. <a href=''https://www.bundesgesundheitsministerium.de/''
           target=''_blank''> (1) </a> <'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_quarantine_toiletpaper:
   - custom:
       answers:
@@ -3218,8 +2772,6 @@ responses:
           <a href=''https://www.deutschlandfunk.de/supermaerkte-die-warenversorgung-ist-absolut-sichorgt.694.de.html?dram:article_id=472710''
           target=''_blank''> (1) </ a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_quarantine_when_who_howlong:
   - custom:
       answers:
@@ -3246,8 +2798,6 @@ responses:
           alınması gerekmeyen kişiler. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_response_6_1565359271403:
   - custom:
       answers:
@@ -3275,8 +2825,6 @@ responses:
           </a> <a href = ''https : //www.bahn.de/p/view/home/info/corona_startseite_bahnde.shtml
           ''target ='' _ blank ''> Deutsche Bahn </a> <a href ='' https: // www.'
         type: html
-      - text: nan
-        type: text
   utter_spread_air:
   - custom:
       answers:
@@ -3293,8 +2841,6 @@ responses:
           yol açabilecekleri burun veya gözün mukoza zarlarına ulaşır. <a href='https://www.bfr.bund.de/cm/343/kann-das-neuartig-coronavirus-ueber-lebensmittel-und-vertrstaende-ueberhaben-werden.pdf'
           target='_blank'> ( 1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_spread_animals:
   - custom:
       answers:
@@ -3311,8 +2857,6 @@ responses:
           iletmeleri mümkündür. <a href='https://www.dw.com/de/corona-sp%C3%A4tsequen-genesene-haben-teil
           kısmen-reduzierte-lungfunktion/a-52838231' target='_blank'> (1) </ a> </p>
         type: html
-      - text: nan
-        type: text
   utter_spread_feces:
   - custom:
       answers:
@@ -3325,8 +2869,6 @@ responses:
           yoluyla bulaştığı varsayılmaktadır. <a href='https://www.zusammen Gegencorona.de/informieren/basiswissen-uebertragung/'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_spread_general:
   - custom:
       answers:
@@ -3346,8 +2888,6 @@ responses:
           target=''_blank''> (1) </a> <a href = ''https: //www.rki.de/DE/Content /InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
           ''target ='' _ blank ''> (2) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_spread_heat_cold:
   - custom:
       answers:
@@ -3362,8 +2902,6 @@ responses:
           37 derece olduğu insan vücudunda hayatta kalırlar. <a href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_spread_no_symptoms:
   - custom:
       answers:
@@ -3380,8 +2918,6 @@ responses:
           almak mümkündür. <a href='https://www.who.int/news-room/qa-detail/qa-coronaviruses'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_spread_surfaces_food_objects:
   - custom:
       answers:
@@ -3424,8 +2960,6 @@ responses:
           gıda tüketimi hakkında bir göstergesi yoktur. <a href='https://www.dw.com/de/corona-sp%C3%A4tsequen-genesene-haben-teil
           kısmen-reduzierte-lungfunktion/a-52838231' target='_blank'> (1) </ a> </p>
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_authorities:
   - custom:
       answers:
@@ -3444,8 +2978,6 @@ responses:
           veya dijital olarak raporlayabilir ve yardım talep edebilir. <a href='https://www.zusammen
           Gegencorona.de/informieren/zuhause-bleiben/' target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_doctor:
   - custom:
       answers:
@@ -3460,8 +2992,6 @@ responses:
           İlk önce arama yapmadan bir doktorun ofisine girmeyin. <a href='https://www.zusammen
           Gegencorona.de/informieren/zuhause-bleiben/' target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_drive_other_city:
   - custom:
       answers:
@@ -3487,8 +3017,6 @@ responses:
           sporlara yardım ve temiz havada egzersiz ve diğer gerekli aktiviteler elbette
           hala mümkündür. <a href = ''https: //www.niedersachsen.'
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_mask_supermarket:
   - custom:
       answers:
@@ -3500,8 +3028,6 @@ responses:
           en az 1 ila 2 metre mesafe bırakın ve hijyen talimatlarını izleyin. <a href='https://www.zusammen
           Gegencorona.de/informieren/zuhause-bleiben/' target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_network_congestion:
   - custom:
       answers:
@@ -3520,8 +3046,6 @@ responses:
           mesafeyi koruyun. <a href='https://www.zusammen Gegencorona.de/informieren/zuhause-bleiben/'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_open:
   - custom:
       answers:
@@ -3546,8 +3070,6 @@ responses:
           iyisidir. <a href=''https://www.zusammen Gegencorona.de/informieren/zuhause-bleiben/''
           target=''_blank''> (1) </a> </p>'
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_supermarket:
   - custom:
       answers:
@@ -3568,8 +3090,6 @@ responses:
           Gegencorona.de/informieren/zuhause-bleiben/'' target=''_blank''> (1) </a>
           </p>'
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_visit60:
   - custom:
       answers:
@@ -3591,8 +3111,6 @@ responses:
           Gegencorona.de/informieren/informationen-alltag/' target='_blank'> (1) </a>
           </p>
         type: html
-      - text: nan
-        type: text
   utter_stayhomeinfo_visit_parents_children:
   - custom:
       answers:
@@ -3616,8 +3134,6 @@ responses:
           virüsü / answer_of_frequent_questions_faq / sık sorulan sorular-cevap-sss-186686.html
           '''
         type: html
-      - text: nan
-        type: text
   utter_test_payment:
   - custom:
       answers:
@@ -3631,8 +3147,6 @@ responses:
           Gegencorona.de/informieren/informationen-zum-test/' target='_blank'> (1)
           </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_test_per_day:
   - custom:
       answers:
@@ -3659,8 +3173,6 @@ responses:
           yüklenmesine karşı tavsiyelerde bulunur. <a href='https://www.tagesschau.de/inland/corona-testen-101.html'
           target='_blank'>
         type: html
-      - text: nan
-        type: text
   utter_test_quick_test:
   - custom:
       answers:
@@ -3692,8 +3204,6 @@ responses:
           aşamada, antikor testi genellikle negatiftir. <a href='https://www.ndr.de/ratgeber/gesundheit/Coronavirus-Test-Wie-wird-Sars-CoV-2-nachdet,coronavirus712.html
           'target='_blank'> (1) </ a> </p>
         type: html
-      - text: nan
-        type: text
   utter_test_virus:
   - custom:
       answers:
@@ -3712,8 +3222,6 @@ responses:
           başvurmalısınız. <a href='https://www.zusammen Gegencorona.de/informieren/informationen-zum-test/'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_test_who:
   - custom:
       answers:
@@ -3730,8 +3238,6 @@ responses:
           temas halinde olmalıdır. <a href='https://www.zusammen Gegencorona.de/informieren/informationen-zum-test/'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
   utter_travel_before:
   - custom:
       answers:
@@ -3752,10 +3258,6 @@ responses:
           görüntülenen bağlantı altında bulabilirsiniz. <a href='https://www.auswaertiges-amt.de/de/ReisenUndSicherheit/covid-19/2296762'
           target='_blank'> (1) </a> </ p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_travel_cancel:
   - custom:
       answers:
@@ -3780,10 +3282,6 @@ responses:
           gösterilir. <a href='https://www.auswaertiges-amt.de/de/ReisenUndSicherheit/covid-19/2296762'
           target='_blank'>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_travel_general:
   - custom:
       answers:
@@ -3791,8 +3289,6 @@ responses:
         type: ssml
       - text: <p> Hangi konuda daha fazla bilgi edinmek istersiniz? </p>
         type: html
-      - text: nan
-        type: text
   utter_travel_return:
   - custom:
       answers:
@@ -3815,10 +3311,6 @@ responses:
           doktora veya sorumlu sağlık yetkilisine başvurmanızı önerir. <a href=''https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/Dokumente_Tab.html''
           target=''_blank''> (1) </a> <a href = ''https : //www.rki.'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_travel_returnpogram:
   - custom:
       answers:
@@ -3838,10 +3330,6 @@ responses:
           bulabilir. <a href='https://www.auswaertiges-amt.de/de/ReisenUndSicherheit/covid-19/2296762'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_travel_risk_countries:
   - custom:
       answers:
@@ -3855,10 +3343,6 @@ responses:
           günlük olarak güncellenen bilgiler bulacaksınız. Size bağlantıları gösterdim.
           </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_travel_while:
   - custom:
       answers:
@@ -3875,10 +3359,6 @@ responses:
           ertelenemediğini kritik olarak kontrol edin. <a href='https://www.auswaertiges-amt.de/de/ReisenUndSicherheit/covid-19/2296762'
           target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_user_friend:
   - custom:
       answers:
@@ -4007,10 +3487,6 @@ responses:
           iş hukuku ve Kowitt 19 hakkında daha fazla ilgili soru bulacaksınız. <A
           href = ''https: //www.zdf.'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_work_covid_general:
   - custom:
       answers:
@@ -4025,10 +3501,6 @@ responses:
           Federal Çalışma ve Sosyal İşler Bakanlığı''nın web sitesine ve ver.di web
           sitesine göz atmanızı öneririm. Bağlantıları bulacaksınız. </p>'
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_work_homeoffice_rights:
   - custom:
       answers:
@@ -4045,10 +3517,6 @@ responses:
           soru bulacaksınız. <a href='https://www.bmas.de/DE/Presse/Mteilungen/2020/corona-virus-arbeitsrechtliche-aus
           Effects.html 'target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_work_infection:
   - custom:
       answers:
@@ -4067,10 +3535,6 @@ responses:
           ilgili soru bulacaksınız. <a href='https://www.bmas.de/DE/Presse/Mteilungen/2020/corona-virus-arbeitsrechtliche-aus
           Effects.html 'target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_work_notification:
   - custom:
       answers:
@@ -4087,10 +3551,6 @@ responses:
           iş hukuku ve Covid-19 hakkında daha fazla ilgili soru bulacaksınız. <a href='https://www.bmas.de/DE/Presse/Mteilungen/2020/corona-virus-arbeitsrechtliche-aus
           Effects.html 'target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_work_public_transportation:
   - custom:
       answers:
@@ -4109,10 +3569,6 @@ responses:
           ilgili soru bulacaksınız. <a href='https://www.bmas.de/DE/Presse/Mteilungen/2020/corona-virus-arbeitsrechtliche-aus
           Effects.html 'target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
   utter_work_shorttimework_allowance:
   - custom:
       answers:
@@ -4139,7 +3595,3 @@ responses:
           ilgili soru bulacaksınız. <a href='https://www.bmas.de/DE/Presse/Mteilungen/2020/corona-virus-arbeitsrechtliche-aus
           Effects.html 'target='_blank'> (1) </a> </p>
         type: html
-      - text: nan
-        type: text
-      - text: nan
-        type: text
