@@ -2051,8 +2051,6 @@ responses:
       answers:
       - text: <speak> Merhaba. Size nasıl yardımcı olabilirim? </speak>
         type: ssml
-      - text: Merhaba. Size nasıl yardımcı olabilirim
-        type: text
       - text: Merhaba. Size nasıl yardımcı olabilirim?
         type: text
   utter_greeting_how_are_you:
