@@ -1,0 +1,8 @@
+data/Cosibot-Answers-DE-EN.csv
+data/Cosibot-Answers-DE-EN.xlsx
+data/intents_en_tobetranslated.txt
+data/intents_tr_translated.txt
+data/skill-COVID19-Bot-0-0-1-DE.json
+scripts/.ipynb_checkpoints/
+scripts/Cosibot_Answers.ipynb
+scripts/Cosibot_Intents.ipynb
