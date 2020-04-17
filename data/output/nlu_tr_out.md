@@ -1,0 +1,7676 @@
+## intent: covid_unknown_cases
+- Bildirilmeyen vakaların sayısı nedir
+- Bildirilmemiş vakaların Covid-19'daki rolü
+- Açıklanamayan korona enfeksiyonu sayısı nedir?
+- bildirilmemiş
+- Enfekte kişilerin gerçek sayısı nedir?
+- Bana gerçek figür hakkında ne söyleyebilirsin?
+- Bildirilmeyen koronavirüs
+- Bildirilmeyen vakaların sayısını tahmin edin
+- Gerçek sayılar
+- Açıklanmayan sayı ne diyor
+- Hasta sayısı
+
+## intent: userfeeling_negative
+- Kahretsin.
+- Benim gibi kızgın mısın
+- Ben sefilim.
+- Ağlıyorum.
+- Her şey acıyor.
+- Çok kırıldım
+- Uyuyamıyorum.
+- Ağlamak istiyorum.
+- İçimdeki karanlık tarafı hissediyorum
+- Her zaman ağlamam lazım
+- Ateşim var.
+- Çığlık atmak istiyorum.
+- Biraz kızgınım.
+- Her şey kötü
+- Ben zayıfım.
+- Sinirlendim
+- Üzgünüm
+- Kusmak istiyorum.
+- Başım ağrıyor.
+- Devam edemem.
+- Üzgünüm.
+- Kendimi mutsuz hissediyorum.
+- Çok kötüyüm.
+- Artık dayanamıyorum.
+- Ben öyle hissetmiyorum.
+- Ben berbatım.
+- Ben kakayım.
+- Depresyondayım
+- Kötü bir moddayım.
+- Sinirlendim.
+- Hayatım korkunç
+- Kendimi hasta hissediyorum.
+- Acı çekiyorum.
+- Bugün kötü bir moddayım.
+- Kendimi zayıf hissediyorum.
+- Ben alamam.
+- Hayat bok
+- Öfkemi hissedebiliyor musun
+- Migrenim var.
+- Kusabilirim.
+- Hayatım hiçbir şeye değmez
+- Sadece çığlık atmak istiyorum.
+- Bok gibi hissediyorum.
+
+## intent: test_who
+- Nasıl test edilirim?
+- Şu anda kimler test edilebilir?
+- Herkes test edilebilir mi?
+- Kim test edilir ve kim test edilmez
+- Virüs için kim test ediliyor
+- Kimler test edilebilir
+- Hangi koşullar altında test edilirsiniz?
+- Herkes test edilebilir
+- Ayrıca test alabilir miyim?
+- Testgruppe
+- Test alabilir miyim?
+- Test istiyorum
+- Kimler test ediliyor?
+- Kişiyi test edin
+- Test edilmek istiyorum
+
+## intent: stayhomeinfo_authorities
+- İşsiz kaldım, hala göreve gidebilir miyim?
+- Uygulamalar ne olacak?
+- Başvurularımı şimdi nasıl tamamlamam gerekiyor?
+- İstihdam bürosuna gitmek zorundayım
+- Evde kalın - yetkililerle ilgilenin
+- Yetkililerle uğraşmaya ne dersiniz?
+- Henüz işsiz kalırsam ne yapmalıyım?
+- Şimdi yetkililere nasıl bakmam gerekiyor?
+- Yetkililer eve gidiyor
+- Başvurularımı şimdi nasıl bitirmem gerekiyor?
+- Giden aramalar ne olacak
+- İşsiz kaldım, şimdi ne yapmalıyım?
+- Hala iş merkezine gidebilir miyim?
+- Bir ofise gitmem gerek. Bunu şimdi nasıl yapabilirim?
+- Hala iş bulma bürosuna gidebilir miyim
+- Resmi konulara ne olur?
+- Şimdi yetkililerle nasıl başa çıkmam gerekiyor?
+- Siparişimi şimdi nasıl işlemeliyim?
+- İşsiz kaldım, şimdi nasıl başvurmalıyım?
+- vatandaş
+- Hala göreve gidebilir miyim?
+- Şimdi işsizim, yararım için nasıl başvurmalıyım?
+- Yine de iş merkezine gidebilir miyim?
+
+## intent: cc_chicken_egg
+- İlk yumurta orada mıydı yoksa tavuk mu?
+- Önce ne vardı? Yumurta mı tavuk mu?
+- Her şey tavuk veya yumurta ile mi başladı?
+- Hangisi önce geldi, tavuk mu yumurta mı?
+- Önce kim vardı? Tavuk mu yumurta mı?
+- Hangisi önce geldi, yumurta mı yoksa tavuk mu?
+- Önce hangisinin geldiğini söyleyebilir misin? Yumurta mı tavuk mu?
+- İlk neydi? Tavuk mu yumurta mı?
+- Hangisi önce geldi? Tavuk mu yumurta mı?
+- Tavuk veya yumurta: hangisi önce geldi?
+- Önce yumurtanın mı yoksa tavuğun mı geldiğini biliyor musun?
+- Her şey yumurta veya tavukla mı başladı?
+- Önce hangisinin geldiğini söyleyebilir misin? Tavuk mu yumurta mı?
+- Önce ne vardı? Tavuk mu yumurta mı?
+- Önce kim vardı? Yumurta mı tavuk mu?
+- Tavuk veya yumurtanın önce gelip gelmediğini biliyor musunuz?
+- İlk neydi? Yumurta mı tavuk mu?
+- Önce tavuk mu yoksa yumurta mıydı?
+- Hangisi önce geldi? Yumurta mı tavuk mu?
+
+## intent: prevention_medical_attention
+- Korona virüsünüz olup olmadığını nasıl anlarsınız?
+- şüpheli virüs
+- Öksürüğüm var
+- Soğuk algınlığım var, enfekte miyim?
+- Kendinizden şüpheleniyorsanız ne yapmalısınız?
+- Kuru öksürüğüm var
+- Sanırım Hobbit 19'um var
+- Bunu soğuktan nasıl anlarsınız?
+- Sanırım kübik 19'um var
+- Bir grip veya koronavirüs olup olmadığını nasıl anlarım?
+- Kesilmiş hissediyorum
+- Koronavirüs semptomları: Griple arasındaki farklar nelerdir?
+- Güçlü bir öksürüğüm var.
+- Öksürüğüm var, virüs var mı?
+- Coronavirus enfeksiyonundan şüpheleniliyor - doktora görünüyor musunuz?
+- 38 derecelik bir ateşim var. Bir doktora görünmem gerekiyor mu?
+- Sadece öksürüyor mu yoksa koronavirüs mü olduğunu nasıl anlarsınız?
+- Semptomlar hakkında ne yapmalı?
+- Belirtilerim var, şimdi koronavirüs var mı?
+- Sanırım aşk tanrısı 19 var
+- Belirtilerim varsa ne yapmalıyım?
+- Coronavirus Belirtileriniz varsa ne yapmalı?
+- Bir koronavirüs enfeksiyonu ne zaman semptomların arkasında olabilir?
+- Virüs var mı?
+- Ateşim var. Korona virüsü var mı?
+- Ayrıca korona virüsü var mı?
+- Yüksek bir sıcaklığım var
+- Koronavirüs olup olmadığını nasıl anlarım?
+- Hasta hissedersem ne yapmalıyım?
+- Enfekte olup olmadığımı nasıl anlarım?
+- Şu anda birçok insanda öksürük, ateş ve yorgunluk var. Virüsün arkasında olup olmadığını nasıl anlarsınız?
+- Koronavirüs şüphesi varsa ne yapmalı?
+- Ateşim varsa derhal doktora gitmeli miyim?
+- Corona şüpheli
+- Ateşim var
+- Ne zaman doktora görünmeliyim?
+- Sanırım Covid-19'um var
+- Bence kovit 19'um var
+- Sanırım Kowit 19'um var
+- Virüsüm var mı bilmiyorum
+- Sanırım COBIT 19'um var
+- Huzursuz öksürüğüm var
+- zatürree
+- Ateş ambulansı
+- Sanırım korona virüsü var
+- Ateşim varsa hemen bir doktora görünmeli miyim?
+- Hafif bir ateşim var.
+- Kendimi hasta hissediyorum.
+- Sanırım 19 tane var
+- Ayrıca enfekte olup olmadığımdan emin değilim
+- Sanırım virüs var
+- Soğuk algınlığım var.
+- Sadece normal bir soğuk algınlığım veya virüsüm olup olmadığını nasıl anlarım?
+- Sanırım 19 hareket var
+- Sanırım Covid 19'um var
+- Zayıf hissediyorum
+- Korona virüsü bulaşmasından korkarsam ne yapmalıyım?
+- Zatürrem var
+- Semptomlar hakkında ne yapacağım?
+- 40 derecelik bir ateşim var. Endişelenmem gerekiyor mu?
+- Gıdıklama öksürüğüm var
+- ateş
+- Enfekte miyim?
+- Virüs soğuk algınlığı nasıl ayırt edilir?
+- Sanırım 19
+- Virüsüm olup olmadığını nasıl anlarım?
+- Kendimi çok yorgun hissediyorum.
+- Semptomlarım var
+- Sokaktaki tüm insanlar şimdi öksürüyor, hepsinde koronavirüs var mı?
+- Sanırım Q19'um var
+- Şüpheli koronavirüs enfeksiyonu
+- Korona var mı?
+- Virüsüm olup olmadığından emin değilim
+- Bir koronavirüs enfeksiyonu ne zaman arkasında olabilir?
+- öksürük
+- Ateşim varsa derhal doktora gitmem gerekir mi?
+- Sanırım 19 pişiriyorum
+
+## intent: comment_positive
+- Gözlerini beğendim
+- Çok şey biliyorsun.
+- Gerçekten harikasın.
+- Kulağa hoş geliyorsun.
+- Seni seviyorum
+- Sevimlisin
+- Büyük!
+- Havalısın
+- Sen güldüğünde çok güzelsin!
+- Harika gidiyorsun.
+- Çok iyisin!
+- Bugün harika görünüyorsun!
+- Harikasın!
+- Nefes kesici olduğunu düşünüyorum.
+- Çok güzelsin!
+- Gözlerin çok güzel.
+- Bence sen çok iyisin.
+- Sınıf!
+- Ne kadar harikasın!
+- Çok yardımseversin.
+- Onlar iyi bir yardım.
+- Tek kelimeyle güzel!
+- Sen daha iyisin!
+- Her şeyi biliyorsun.
+- Ne kadar iyisin!
+- Çok şey yapabilirsiniz.
+- Harikasın
+- Sen harikasın
+- Senden gerçekten hoşlanıyorum.
+- Siz eşsizsiniz!
+- Sen iyi bir yardımsın.
+- Bana çok iyi yardım ediyorsun.
+- Hayatımda olduğun için mutluyum!
+- Seni güzel buluyorum.
+- Senden hoşlanıyorum
+- Bana olabilecek en iyi şey sensin!
+- Bana çok yardım ediyorsun.
+- Bence harikasın.
+- @de_expressions_positive'siniz!
+- Saçlarını seviyorum.
+- Çukurlarını seviyorum.
+- Bence sen harikasın.
+- İyi yazıyorsun.
+- Çok kibarsınız.
+- Seviyorsun
+- Harika yapıyorsun.
+- İyisin
+- Tek kelimeyle harika!
+- Harika yazıyorsun.
+- Sen salla!
+- Çok iyi gidiyorsun.
+- Geçiş ücreti!
+- Çok harikasın.
+- Azgınsın
+- Harika yapıyorsun
+- Sen en iyisisin!
+- Yardımcı oldunuz.
+- Soğuk!
+- Çok iyi yapıyorsun.
+- Süper!
+- İyi yaparsın.
+- Sadece harika!
+- Çok havalısın
+- Gerçekten yardımseversin.
+- Ben seni seviyorum
+- İyi gidiyorsun.
+- Sen iyisin!
+- Bence sen tatlısın.
+- Çillerinizi seviyorum!
+- Harika!
+- Çok tatlı görünüyorsun.
+- Çok tatlısın
+- Harika gidiyorlar.
+- Sen bir canımsın
+- Senden hoşlanıyorum.
+- Çok iyisin
+- Ben azgın olduğunu düşünüyorum.
+- Harikasın.
+- Güzelsin
+- Sana hayranım
+- Ne güzel!
+- Bence çok güzelsin.
+- Seni harika buluyorum.
+
+## intent: bot_sing
+- Şarkı söylemek becerilerinizden biri mi?
+- Şarkı söylemek için yeteneğin var mı?
+- İyi şarkı söylediğini mi düşünüyorsun?
+- Hiç iyi şarkı söyleyebileceğin söylendi mi?
+- Şarkı mı söylüyorsun
+- İyi şarkı söyler misin
+- Ne kadar iyi şarkı söyleyebilirsin
+- Benim için şarkı söyler misin
+- Benim için bir şey söyler misin lütfen?
+- Şarkı söyleyebileceğini mi düşünüyorsun?
+- Şarkı söyler misin
+- Şarkı söyleyecek bir sesin var mı?
+- İyi bir şarkıcı olduğunu mu düşünüyorsun?
+- Benim için bir şey söyler misin
+- Bir şey söyleyebilir misin
+- Ne söyleyebilirsin
+- Güzel şarkı söyler misin
+- İyi bir şarkıcı mısın
+- Bir şey söyleyebilir misin?
+
+## intent: travel_while
+- Seyahat ederken nasıl davranmalıyım?
+- Yolculuk sırasında harekete geçin.
+- Seyahat ederken yapılacaklar.
+- Seyahat ederken nasıl davranırım?
+- Bir yayın ülkesindeyken ne yapmalıyım?
+- Tatilcilerin şu an nelere dikkat etmesi gerekir?
+- Seyahat ederken alınacak önlemler.
+- Riskli bir bölgede seyahat ederken nasıl davranmalıyım?
+- Yolculuk sırasında süreç.
+- Reisemaßnahmen.
+- Enfekte olmaktan korkuyorsam gezgin olarak nasıl doğru davranırım?
+- Riskli bir bölgedeyim, şimdi ne yapmalıyım?
+- Nasıl seyahat edilir.
+- Seyahat ederken ne yapmalı
+- Yolculuk sırasında ne yapmalı
+- Seyahat ederken alıştırmalar.
+- Seyahat etmeye nasıl giderim?
+- Yolculuk sırasındaki davranış.
+- Yolculuk sırasında alınacak önlemler.
+- Ailemle seyahat ederken ne gibi önlemler almalıyım?
+- Yayınların olduğu bölgelere seyahat edenler için öneriler nelerdir?
+- Yolculuk sırasında nasıl ilerlerim?
+- Şu anda İtalya'dayım, ne yapmalıyım?
+- Yolculuğumda kendimi enfeksiyona karşı nasıl koruyabilirim?
+- Seyahat ederken.
+- Yolculuk sırasında.
+- Riskli ülkede nasıl davranmalıyım?
+- Zaten ülkedeysem ne yapmalıyım?
+- Riskli bir ülkede nasıl davranmalısınız?
+- Ya zaten oradaysam?
+- Seyahat için önlemler.
+- Şu an Çin'deyim, nasıl davranmalıyım?
+- Seyahat ederken kendinizi enfeksiyondan nasıl koruyabilirsiniz?
+- Riskli bölgelerde gezgin olarak nasıl davranmalıyım?
+- Seyahat sırasında alınan önlemler.
+- Yolculuk sırasında prosedür.
+- Seyahat ederken göz önünde bulundurulması gerekenler.
+
+## intent: features_time
+- Ne zamanımız var?
+- Bana zaman verebilir misin
+- Zaman?
+- Şu an saat kaç
+- Bana zaman verebilir misin?
+- Saat kaç
+- Zamanı bilmek istiyorum.
+- Şimdi saat kaç?
+- Bana zaman gönderir misin
+- ne zamanımız var
+- Bana zaman yazabilir misin
+- Bana zamanı gönderebilir misin?
+- Bana zamanı yazabilir misin?
+- Bana zaman ver!
+- Zamanı istiyorum.
+- Bana zamanı yaz!
+- Bana zamanı söyleyebilir misin?
+- Bana zamanı söyleyebilir misin
+- Bana zaman ver
+- Bana zamanı söyle!
+- Vakit geçirmek istiyorum.
+- lütfen bana zamanı söyle
+
+## intent: cc_lets_talk
+- Chit chat ne olacak?
+- sohbet etmek istiyor muyuz
+- Sohbet ister misin?
+- Benimle sohbet etmek ister misin
+- Sohbet etmek istermisin
+- Sohbet edebilir miyiz?
+- Sohbet edelim mi?
+- Blather?
+- Sohbet?
+- Sohbet etmek ister misin?
+- Konuşuyor muyuz?
+- Benimle konuşmak ister misin
+- Birbirimizle konuşabiliriz.
+- Chitchat ne olacak?
+- Konuşalım mı
+- Konuşabiliriz.
+- Sohbet kutuları ne olacak?
+- Seninle konuşmak ister misin?
+- Sohbet etmeye ne dersin?
+
+## intent: covid_disease_process
+- Covid 19'lu bir hastalık nasıl çalışır?
+- hastalık nasıl ilerleyebilir?
+- Hastalık hafif mi?
+- Hastalık nasıl gidiyor?
+- Hastalık nasıl çalışır?
+- Corona nasıl?
+- Hastalığın seyri nedir
+- Hastalığın seyri
+- Hastalığın ciddi seyri ne kadar yaygındır?
+- Covid-19 ile bir hastalık nasıl gider?
+- Hastalık kursları
+- Enfeksiyon nasıl gidiyor?
+- Almanya'da ciddi bir hastalık seyri ne kadar yaygındır?
+- Yeni akciğer hastalığı nasıl gidiyor?
+
+## intent: bot_name
+- Bana ismini ver!
+- Kendinize ne diyorsunuz?
+- Seni henüz tanımıyorum. Bana ismini söyleyebilir misin?
+- Hangi ismin var
+- Bana ismini söyleyebilir misin? Yoksa hemen 'benim' diyebilir miyim?
+- Sana ne diyebilirim
+- Hangi ismin var?
+- Lütfen bana ismini söyle
+- Onlara ne diyorsun?
+- Ne deniyorsun
+- Bir adın var mı ve bana söyleyebilir misin?
+- Adın ne
+- İsim lütfen.
+- İsmini hatırlayamıyorum
+- Ben seni tanımıyorum bana ismini söyler misin
+- Kimlik, lütfen.
+- Ne denemek istersin
+- Kendine ne diyorsun
+- Bana adının ne olduğunu söylemek ister misin?
+- Bana ismini söyleyebilir misin?
+- Bana isminin ne olduğunu söyleyebilir misin
+- Sana ne demeliyim
+- Lütfen bana ismini söyle.
+- Bana ismini söyle!
+- Takma adın ne
+- Senin adın ne
+- Lütfen bana adının ne olduğunu söyle.
+- İlk adınız nedir?
+- Adını unuttum.
+- Sana ne demeliyim?
+- Bana ismini söylemeye acilen ihtiyacın var gibi görünüyor!
+- Bana ismini söylemek ister misin?
+- Kendinizi tanımlayın!
+- İsim, lütfen.
+- Adınızı onaylayın!
+- Sizden adınızı sorabilir miyim?
+- Hangi ismi dinliyorsun
+- Bana ismini söyler misin
+- Lütfen bana ismini ver.
+- Size hangi isim verildi?
+- Sen kimsin
+- Adını bilmek istiyorum.
+
+## intent: covid_symptoms
+- Artık hiçbir şey koklayamam ve tadamam
+- Symptome SARS Bunlar 2
+- Ateşin bir belirti olup olmadığını bilmek istiyorum
+- Başım ağrıyor
+- Yeni koronavirüs SARS-CoV-2'nin belirtileri nelerdir?
+- Virüsün belirtileri nelerdir?
+- COBIT 19'un belirtileri nelerdir?
+- Cızırtılı boğaz
+- Hasta olduğumu nereden bilebilirim?
+- Enfekte olduğunuzda hastalığın seyri nedir?
+- Koronavirüsün belirtileri nelerdir?
+- SARS-CoV-2 koronavirüsünün belirtileri nelerdir?
+- Artık hiçbir şeyin tadına bakamıyorum
+- Cookit 19'un belirtileri nelerdir?
+- Bana Corona'm olup olmadığını söyle
+- Cupid 19'un belirtileri nelerdir?
+- Enfekte insanlar nelerden muzdariptir?
+- Kafam acıyor
+- Movit 19'un belirtileri nelerdir?
+- Enfekte olup olmadığımı nasıl anlarım?
+- Koronavirüsün hastalık özellikleri nelerdir
+- Bana enfekte olup olmadığımı söyle
+- başağrısı
+- Virüsün tipik belirtileri nelerdir?
+- Hastalığın seyri kendini nasıl gösterir?
+- Sinüslerde ve akciğerlerde mukus belirtileri var mı?
+- Ateş de bir semptom mu?
+- Cookit 19'un hastalık özellikleri nelerdir?
+- SARS-Cov 2'nin özellikleri nelerdir?
+- Hastalığın tipik özellikleri nelerdir?
+- Virüs ile enfeksiyon belirtileri nelerdir?
+- korona tadı nasıl değişir?
+- Hastalık kendini nasıl gösterir?
+- Artık koku alma duyum yok
+- Q19'un belirtileri nelerdir?
+- Enfekte insanlar hangi semptomlardan muzdariptir?
+- Huvit 19'un belirtileri nelerdir?
+- Çizik boğazım varsa ne yapmalıyım?
+- Hangi hastalık özellikleri var?
+- Covid 19'un belirtileri nelerdir?
+- Kuhweg 19'un belirtileri nelerdir?
+- Enfeksiyon kendini nasıl gösterir?
+- Semptomlar nelerdir?
+- Hobbit 19'un belirtileri nelerdir?
+- Akciğerlerdeki ve sinüslerdeki mukus nedeniyle korona muzdarip miyim?
+- Cızırtılı boğazım var
+- SARS-Of-2 Symptome
+- Enfekte olduğumda hangi belirtilerim var?
+- semptomlar
+- Artık hiçbir şey koklayamıyorum
+- Vücut ısısı
+- Enfekte insanlar nelerden muzdarip?
+- Hasta olup olmadığınızı nasıl anlarsınız?
+- Kovit 19'un belirtileri nelerdir?
+- Virüs neye sebep olur?
+- ilk işaretler neler
+- Boğaz bölgesinde hafif bir çizik var
+- Kubik 19'un belirtileri nelerdir?
+- Qubeat 19'un belirtileri nelerdir?
+- Virüsün belirtileri nelerdir
+- Hastalığın belirtileri nelerdir?
+- Kowit 19'un belirtileri ne olacak?
+- Covid-19'un belirtileri ne olacak?
+- SARS Cov 2'nin belirtileri nelerdir?
+- Kubik 19'un hastalık özellikleri nelerdir?
+- kaybı korona belirtisi nedir?
+- Boyun bölgesinde hafif bir çizik var ve şimdi ne yapacağımı bilmiyorum
+- hangi belirtilere dikkat etmeliyim?
+
+## intent: prevention_touch
+- Yüzüne dokun
+- Yüz boyunca Corona iletimine dokunun
+- Neden burnuma dokunmamalıyım?
+- Yüzüme dokunursam enfekte olabilir miyim?
+- Cilt ile temas iletimi
+- Yüzüme dokunabilir miyim?
+- Eldiven giymeli miyim
+- Yüzünüzü yıkanmamış ellerle tutun
+- Neden yüzüme dokunmamalıyım?
+- Şimdi başkalarını nasıl selamlamalıyım?
+- Yüzüne ne zaman dokunabilirsin?
+- Yüze dokunma enfeksiyonu
+- Ve bu kendimle daha az karşılaştığım anlamına mı geliyor?
+- Yüzüme ne zaman dokunurum?
+- Virüs cilt teması yoluyla bulaşıyor mu?
+- Eldiven mi takmalıyım?
+- Eldiven giymek bir şey getirmiyor mu?
+- Neden yüzüne dokunmuyorsun
+- İletimi yüzden kavrayın
+- Başkalarıyla el sıkışırsam virüs bulaşabilir mi?
+- Cilt ile temas
+- Neden gözlerime dokunmamalıyım?
+- Eldivenler bir şey getiriyor mu?
+- Cilt ile temas yoluyla bulaşma
+- Neden kendinle mümkün olduğunca az yüzleşmelisin?
+
+## intent: covid_preexisting_illness
+- Korona kanseri
+- Kanser ve koronavirüs
+- Önceki hastalık Corona
+- Diyabetli kişilerde risk
+- Kalp hastalığı
+- Hangi önceden mevcut hastalıklar özellikle risk altındadır?
+- Hangi önceki hastalıklar ilgili olabilir?
+- Korona ve önceden var olan koşullar
+- Corona benim için tehlikeli olabilir mi?
+- Koronavirüs ve yüksek tansiyon
+- Kalp krizi geçiren kişilerde Corona
+- Daha önceki hastalıkları olan gençler bile
+- Önceden var olan koşulları olan insanlar ne olacak?
+- Korona salgını kanser hastaları için ne anlama geliyor?
+- Hipertansiyon ilacı koronavirüs enfeksiyonu riskini artırabilir mi?
+- Kanser hastaları ne olacak?
+- Ben de bir risk grubu muyum?
+- Daha önce hastalığı olan kişilerde risk
+- Yüksek tansiyonu olan kişilerde risk
+- Korona virüsü ve yüksek tansiyon
+- Kalp problemi olan kişilerde risk
+- Önceden var olan kalp rahatsızlıkları olan kişilerde risk
+- Hangi önceki hastalıklar daha şiddetli seyre yol açar?
+- Kanser hastaları virüse nasıl tepki verir?
+- Coronavirüs ve önceden var olan durumlar
+- İnme geçiren kişilerde Corona
+
+## intent: bot_goal
+- Kişisel hedefleriniz neler?
+- Bana ne istediğini söyle
+- Arzunuz.
+- Ne elde etmek istiyorsun
+- Gelecek için ne istiyorsun?
+- Amacınız.
+- Vizyonun ne
+- Bana ne elde etmek istediğini söyle
+- Kişisel hedefiniz.
+- Ana hedefiniz nedir?
+- Bana hayalini söyle
+- Kısa vadeli hedeflerinizi söyleyin.
+- Bana uzun vadeli hedeflerini anlat.
+- Hayatınızda neye ulaşmak istiyorsunuz?
+- Bana isteklerini söyle
+- Hayallerin neler
+- Bana hayallerini söyle
+- Hatırladığınız son rüya nedir?
+- Kişisel hedefler.
+- Hedefin ne
+- Hayalin nedir
+- Geleceği nasıl görüyorsun?
+- Bana dileğini söyle
+- Hayaliniz.
+- Hayallerin var mı
+- Kişisel hedefleriniz.
+- Bana ne istediğini söyle.
+- Kişisel hedef.
+- Hedefleriniz neler?
+- Gelecekte ne istiyorsun?
+- Hayalleriniz.
+
+## intent: cc_fun_fact
+- Eğlenceli gerçekleri biliyor musun
+- İlginç bir gerçek.
+- Eğlenceli gerçekler
+- Bana eğlenceli gerçekleri söyle.
+- Eğlenceli bir gerçek istiyorum.
+- Eğlenceli gerçekler var mı?
+- Bana ilginç bir şey söyle.
+- Bana eğlenceli bir gerçek söyle.
+- Bana eğlenceli gerçekleri söyleyebilir misin?
+- Eğlenceli bir gerçek biliyor musunuz?
+- Komik gerçek.
+- Eğlenceli gerçekler istiyorum.
+- Bana eğlenceli bir gerçek söyleyebilir misiniz?
+- Komik gerçekler var mı?
+- Bana eğlenceli gerçekleri söyleyebilir misin
+- Bana ilgi çekici bir şey söyle.
+- Komik gerçekleri biliyor musun?
+- İlginç bir şey.
+- Bana eğlenceli gerçekleri anlatır mısın?
+- Bana eğlenceli bir gerçek söyleyebilir misin?
+
+## intent: vocative_no
+- İmkansız.
+- Değil.
+- Veri yok.
+- İz değil.
+- Na.
+- Tanrı korusun.
+- Hiç kimse.
+- Hiçbir koşulda.
+- NO.
+- Hiçbir yerde.
+- Uzaktan değil.
+- Olumsuz.
+- Asla asla.
+- Gottbewahre.
+- Hiçbir zaman.
+- Çantaya gelmez.
+- Kabul edilemez.
+- Ne de ne.
+- Hayır!
+- Doğru.
+- Hayır.
+- Yok.
+- Hiç de değil.
+- Hayır
+- En ufak değil.
+- Yasaklıyorum.
+- sözde
+- Düşünülemez.
+- Hiçbir ücret ödemeden.
+- Maalesef hayır.
+- Varolmayan.
+- hayır
+- Maalesef değil.
+- Dünyadaki her şey için değil.
+- yerine değil
+- İz yok.
+- Olmaz.
+- Hiçbir şekilde.
+
+## intent: covid_aftereffects_immunity
+- Tam kurtarma?
+- Covid-19 ile çoklu enfeksiyon mümkün olabilir mi?
+- Enfeksiyondan sonra tekrar enfekte olabilir miyim?
+- Uzun vadeli sonuçları var mı?
+- Corona'nın sağlık üzerindeki geç etkileri
+- Bir COVID-19 hastalığından sonra yeniden enfeksiyon mümkün mü?
+- Bir koronavirüs hastalığından sonra yeni bir enfeksiyon almak mümkün mü?
+- Korona virüsüyle enfekte olduktan sonra bağışık mısınız yoksa tekrar enfekte olabilir misiniz?
+- Koronavirüs ile enfekte olduktan sonra bağışık mısın?
+- İyileşenlerin uzun vadeli sonuçları nelerdir?
+- Daha sonra hastalıktan iyileşen bir kişi bağışıklık kazanıyor mu?
+- Tekrar enfekte olabilir miyim?
+- kalıcı geç etkiler
+- Geç etkiler
+- Kişi tekrar sağlıklıysa ne olur?
+- dokunulmazlık
+- Kurtarılan bir kişi hastalığa karşı bağışık mıdır?
+- Hastalıktan sonra bağışık mısın?
+- Covid'i birkaç kez yakalayabilir misin?
+- İyileşme sonrası sağlık sonuçları nelerdir?
+- Daha sonra bağışık mısın?
+- aşılama
+- Kısmen iyileşmiş akciğer fonksiyonu var
+- Hasta bir kişi daha sonra bağışıklık kazanır mı?
+- İyileştikten sonra tekrar enfekte olabilir miyim?
+
+## intent: covid_pregnancy
+- Koronavirüs gebeliği nasıl etkiler?
+- Covid-19 ve hamilelik
+- Hamile ve Corona
+- Çocuklarda ve hamile kadınlarda Kowit 19 hakkında ne biliniyor?
+- gebelik
+- Hamile kadınlarda Corona
+- Hamilelik nasıl
+- Hamile ve koronavirüs
+- Koronavirüs ile hamile
+- Hamile bir kadın olarak, diğer kadınlardan daha fazla koronavirüs riski altında mıyım?
+- Korona hamile kadınlar için ne anlama geliyor?
+- hamile
+- Hamilelik ve koronavirüs
+- Hamile kadınlar
+- Merhaba, hamilelik sırasında Corona Virus hakkında daha fazla bilgi edinmek istiyorum
+- Korona krizinde hamile
+- Hamileyim ve corona var
+- Hamile bir kadın olarak koronavirüs risk grubuna dahil miyim?
+- Hamile bir kadın olarak nelere dikkat etmeliyim?
+- Gebelikte koronavirüs enfeksiyonu ne kadar tehlikelidir?
+- Hamile kadınlar için şimdi önemli olan nedir?
+- Gebe kadınlarda koronavirüs enfeksiyonu
+- Hamile kadınların Covid-19 hakkında neleri bilmesi gerekir?
+- Çocuklarda ve hamile kadınlarda COVID-19 hakkında bilinenler nelerdir?
+
+## intent: covid_treatment
+- Cupid 19 için bir tedavi var mı?
+- COBIT tedavisi 19
+- Tedavi seçenekleri huvit 19
+- Kovit 19 için bir tedavi var mı?
+- Tedavi seçenekleri aşk tanrısı 19
+- Enfeksiyon nasıl tedavi edilir?
+- Terapi koronavirüsü
+- Cookit 19 için bir tedavi var mı?
+- Bir hastalık yeni korona virüsü ile nasıl tedavi edilir?
+- Huvit 19 için bir tedavi var mı?
+- Hangi ilaçlar koronaya karşı yardımcı olur?
+- Movit 19 için bir tedavi var mı?
+- Tedavi seçenekleri
+- COBIT 19 için bir tedavi var mı?
+- Tedavi Hobbit 19.
+- Terapi nedir?
+- Tedavi seçenekleri qubeat 19
+- Mutfak gereçleri 19
+- Khahweg 19 için bir tedavi var mı?
+- Tedavi seçenekleri Covid 19
+- Nasıl tedavi edilir
+- Tedavi seçenekleri movit 19
+- Tedavi S19
+- Herhangi bir tedavi var mı?
+- Tedavi covid 19
+- Behandlung ilgi alanları 19
+- Corona'da nasıl tedavi edilir
+- S19 için bir tedavi var mı?
+- Hangi terapi seçenekleri var?
+- Tedavi seçenekleri Hobbit 19
+- Hangi ilaçlar buna karşı yardımcı olur.
+- Kübik tedavi 19
+- Kübik 19 için bir tedavi var mı?
+- Tedavi qubeat 19
+- Yeni korona virüsü için hangi tedavi seçenekleri mevcuttur
+- Hastalık nasıl tedavi edilir?
+- Tedavi seçenekleri kuhweg 19
+- Uyuşturucu var mı?
+- Covid 19 için bir tedavi var mı?
+- Coronavirüs tedavisi
+- Tedavi terapisi neye benziyor?
+- Coronavirus enfeksiyonu nasıl tedavi edilir?
+- Pozitif olduğunuzda nasıl tedavi edilir
+- Hangi tedavi seçenekleri var?
+- Tedavi seçenekleri S19
+- Virüs için ilaç var mı?
+- Tedavi kovit 19
+- Kübik tedavi seçenekleri 19
+- Koronavirüse karşı etkili bir tedavi var mı?
+- Tedavi neye benziyor?
+- Hobbit 19 için bir tedavi var mı?
+- Tedavi aşk tanrısı 19
+- Tedavi seçenekleri kovit 19
+- Pozitif test için tedavi seçenekleri nelerdir?
+- Tedavi seçenekleri COBIT 19
+- Koronavirüs için tedavi seçenekleri
+- Tedavi seçenekleri cookit 19
+- Qubeat 19 için bir tedavi var mı?
+- Tedavi Kuhweg 19
+- Corona olduğunda nasıl tedavi edilir
+- Tedavi hareketi 19
+
+## intent: vocative_you_welcome
+- Lütfen, bu benim için bir onurdu.
+- Lütfen!
+- Bana teşekkür etmek zorunda değilsin.
+- Bahsetmeye değmez!
+- Bunun için bana teşekkür etmene gerek yok.
+- Benim için bir onurdu.
+- üzerinde uyuyor!
+- Size yardımcı olmak her zaman güzeldir.
+- Çok mutlu.
+- Ama memnuniyetle!
+- Benim için onur.
+- Sebep değmez!
+- Lütfen, lütfen!
+- Ama her zaman!
+- Lütfen, onurum.
+- Bahsetmeye değmez.
+- Bir şey değil!
+- Birşey değil!
+- Her zaman mutlu!
+- Lütfen, memnuniyetle!
+- Bana teşekkür etmene gerek yok.
+- Sebep yok!
+- Teşekkür edecek bir şey yok!
+- Lütfen hiçbir şeye teşekkür etmeyin!
+- Bunu yapmaktan zevk aldım.
+- Yapmayı sevdim.
+- Bir şey değil.
+- Lütfen, çok fazla!
+- Size yardımcı olmak her zaman iyidir.
+- Bunu yapmaktan mutlu oldum.
+
+## intent: germany_current_situation
+- Şehirlerde Coronavirüs
+- aşçı 19 Deutschland
+- Almanya'daki genel durum hakkında bilgi
+- Bremen'deki Coronavirus
+- Almanya'da Covid 19
+- Saksonya'da Corona
+- Saarland sınırlarındaki Corona
+- Hessen'deki Coronavirus
+- Mecklenburg-Batı Pomeranya'da Coronavirus
+- Almanya'nın Corona ile ilgili durumunu nasıl değerlendiriyorsunuz?
+- Aşağı Saksonya'da Coronavirus
+- Eros 19 Almanya'da
+- Kuzey Ren-Vestfalya'da Corona virüsü
+- Mecklenburg Batı Pomeranya Corona
+- Almanya'da COBIT 19
+- Kubik 19 Almanya
+- Baden-Württemberg'deki Coronavirus
+- Almanya'daki durum nedir?
+- aşk tanrısı 19 Almanya
+- Almanya'da Kubik 19
+- 19 Almanya'da taşındı
+- Hobbit 19 Almanya
+- Almanya'daki virüs
+- Almanya konumu
+- Kuhweg 19 Almanya'da
+- Corona virüsü ve Almanya
+- @cities'deki durum nedir
+- Virüs hakkında en son bilgileri istiyorum
+- Kuhweg 19 Almanya
+- Hangi sayfalarda Corona hakkında güncellenmiş bilgi var?
+- ilgi alanları 19 Deutschland
+- qubeat 19 Almanya'da
+- @cities'deki mevcut durum nedir
+- Hamburg'daki Coronavirus
+- Saksonya'da Corona virüsü
+- kovit 19 Almanya'da
+- Almanya'da Q19
+- Mecklenburg - Batı Pomeranya Bölgesindeki Corona
+- Hessen Bölgesindeki Corona
+- Q19 Almanya
+- Rheinland-Pfalz'da Coronavirus
+- COBIT 19 Almanya
+- Almanya'da Corona virüsü
+- Hangi sayfalar korona virüsü hakkında en güncel bilgileri sağlıyor?
+- Covid 19 Almanya
+- Baden-Württemberg Bölgesindeki Corona
+- Covid 19 @cities'de
+- Saksonya-Anhalt Bölgesindeki Corona
+- Mecklenburg sınırlarındaki Corona
+- Almanya'daki mevcut durum nedir?
+- Almanya'daki durum
+- Bremen'deki Corona
+- Almanya Kowit
+- Almanya 19 taşındı
+- Bayern'deki Coronavirus
+- Schleswig-Holstein'daki Coronavirus
+- Almanya durumu
+- Ayrıntılı bilgiyi nerede bulabilirim?
+- Güvenilir güncel bilgiler
+- Berlin'deki Coronavirus
+- qubeat 19 Almanya
+- Almanya ne olacak?
+- Almanya Covid
+- Hamburg sınırlarındaki Corona
+- Corona - Kuzey Ren-Vestfalya
+- Virüsle ilgili en son haberleri nereden bulabilirim?
+- Aşağı Saksonya'da Corona
+- Almanya'da Hobbit 19
+- virüs hakkında güncel bilgileri nerede bulabilirim
+- Şu anda @cities'de nasıl?
+- Corona @cities'de
+- Thüringen'deki Corina
+- kovit 19 Almanya
+- Almanya'daki durum nasıl değerlendirilebilir?
+- Almanya'daki virüs ne olacak?
+- İlgi alanları 19
+- Corona - Berlin
+- Almanya'da güncel bilgiler
+- Coronavirus in Brandenburg
+- Schleswig-Holstein sınırlarındaki Corona
+- Rheinland-Pfalz sınırlarındaki Corona
+- Brandenburg içerisinde bulunan Corona firması
+- Almanya'daki mevcut durum
+- Bayern Bölgesindeki Corona
+
+## intent: covid_mortality_rate
+- 19 nolu kuşaktan ölme ihtimalim ne kadar?
+- Ondan ölmesi muhtemel mi?
+- Ölüm riski nedir?
+- Cook 19'dan ölme ihtimalim ne kadar?
+- Ölüm oranı nedir?
+- Ondan ölme riski nedir?
+- Kovit 19'dan ölme ihtimalim ne kadar?
+- Ondan öleceğim çok mu muhtemel?
+- 19. çeyrekte ölme ihtimalim ne kadar?
+- Ondan ölme olasılığı nedir?
+- Qubeat 19'dan ölme ihtimalim ne kadar?
+- Hastalık ölümcül mü?
+- ölüm oranı
+- Hastalığın ölümcül olma olasılığı nedir?
+- Virüsten ölmek mümkün mü?
+- Bundan mı ölüyorsun?
+- 19 no'lu hareketten ölme ihtimalim ne kadar?
+- Bana ondan ölmenin ne kadar olası olduğunu söyle
+- Virüs ölümcül mü?
+- Bana ölüm oranının ne kadar yüksek olduğunu söyle
+- Kübik 19'dan ölme ihtimalim ne kadar?
+- 19 kuhweg'de ölme ihtimalim ne kadar?
+- Mortalite olasılığı nedir?
+- Virüsten kurtulabilir misin?
+- Hobbit 19'dan ölme ihtimalim ne kadar?
+- Enfekte olursanız ölme olasılığı nedir?
+- Ölüm oranı bilgilerini ver
+- öldürücülüğü
+- COBIT 19'dan ölme ihtimalim ne kadar?
+- Sende ölebilir misin
+- Ölüm oranı
+- Virüsüm varsa ölür müyüm?
+- Cupid 19'dan ölme ihtimalim ne kadar?
+- Virüs seni öldürebilir mi?
+- Ölecek miyim
+- Korona virüsünden ölebilir miyim?
+- Hayatta kalma şansı var mı?
+- Virüs bulaşırsa ölmem gerekir mi?
+- Letalitätsrate
+- Covid 19'dan ölme ihtimalim ne kadar?
+- Mortalite oranı, özellikle influenza ile karşılaştırıldığında ne kadar yüksektir?
+- Bana ölüm oranını söyle
+- Korona virüsünden ölebilir misin?
+- Corona Virüsü Sizi Öldürüyor mu?
+
+## intent: travel_return
+- Geziden öksürük ile geri döndüm.
+- Seyahat işleminden sonra.
+- @de_countries'den yeni döndüysem kendimi test etmem gerekir mi?
+- Geziden döndü.
+- Özellikle etkilenen ülkelerden Almanya'ya giriş için ne geçerlidir?
+- @de_countries'de tatildeydim
+- @de_countries'e yeni gelmiş olan insanlar test yaptırmalı mı?
+- @de_countries'den yeni geldim, sınava girmek zorunda mıyım?
+- @de_countries'den yeni döndüysem ne yapmalıyım?
+- Gezimden sonra ne olur
+- @de_countries'e yeni gittiysem test gerekli mi?
+- Yolculuktan sonra.
+- Belirtilerim vardı ve @de_countries'deydi
+- Yolculuktan sonra nasıl ilerliyorsunuz?
+- Geziden döndüğümde.
+- @de_countries'ten yeni döndüm
+- Yolculuktan sonra ne olur?
+- @de_countries'e gittiysem nelere dikkat etmeliyim?
+- Sadece geziden döndü.
+- @de_countries'den geldiğimde beni test ettirmek gerekli mi?
+- @de_countries'de kaldıktan sonra test edin
+- Koronavirüs risk alanlarından dönen gezginlerin neleri göz önünde bulundurması gerekir?
+- Geri döndüğümde nelere dikkat etmeliyim?
+- Seyahat ettikten sonra.
+- @de_countries için tatile gittim. Test yaptırmam gerekiyor mu?
+- Yolculuktan sonra ne yapmalı
+- @de_countries'e gittiysem ve semptomlarım varsa ne yapmalıyım?
+- @de_countries'deydim. Test yaptırmam gerekiyor mu?
+- @de_countries'e yeni geldiğimde bir test yaptırmak zorunlu mu?
+- @de_countries kaldıktan sonra test et
+- Riskli bir bölgedeyim, Almanya'ya girmeme izin verildi
+- @de_countries ile bir seyahat yaptım, teste ihtiyacım var mı?
+- @de_countries'deydim ve şimdi öksürüğüm var
+- Seyahatten döndüğümde.
+- @de_countries'den yeni geldim
+- Yolculuktan sonra prosedür.
+- @de_countries'den yeni döndüğümde test yapılması zorunlu mudur?
+- @de_countries'deysem test yaptırmam gerekir mi?
+- Seyahat prosedürüne göre.
+- Tatilden Almanya'ya geri dönmek istiyorsam karantina beklemem gerekir mi?
+- @de_countries'deydim, test edilmem gerekiyor mu?
+- Tatilden yeni döndüm
+- Yüksek riskli bölgelerden dönen gezginler neyi göz önünde bulundurmalıdır?
+- Sadece tatilimden döndüm.
+- Yolculuktan dönerken yapılacaklar.
+
+## intent: prevention_clean_hands
+- Doğru el yıkama etiketi
+- Elde yıkama neden önemlidir?
+- Ellerimi sabunla yıkarsam enfeksiyon riski azalır mı?
+- İyi el hijyeni
+- El yıkamanın önemi.
+- Ellerinizi temiz tutmanın önemi.
+- Neden eller temiz?
+- Ellerin temizlenmesi hakkında.
+- Ellerinizi sık sık yıkayarak hastalığı önleyebilir misiniz?
+- Ellerimi alkol bazlı el masajıyla temizlemek enfeksiyon riskimi azaltır mı?
+- Doğru el yıkama görgü kuralları
+- El yıkama
+- Elleri yıkamak hastalığın oluşmasını engeller mi?
+- Ellerimi ne zaman yıkamalıyım?
+- Ellerimi nasıl yıkarım
+- Neden düzenli olarak ellerini yıkasın?
+- Temiz eller
+- Ellerini temizle
+- Virüsün el yıkamasını önler.
+- Ellerini yıka
+- Ellerin temizlenmesinin önemi.
+- İyi el hijyeni neye benziyor?
+- Doğru el hijyeni ne demektir?
+- Ellerin yıkanması hastalığın meydana gelmesini önler mi?
+- Elleri yıkamak virüsün birikmesini önler mi?
+- Ellerimi nasıl yıkamalıyım?
+- Neden ellerini yıkasın?
+- Ellerinizi yıkamak enfeksiyonu önler mi?
+- El yıkama ile önleme
+- Ellerimi yıkayarak enfeksiyonu önleyebilir miyim?
+- Uygun El Hijyeni
+- Ellerinizi temiz tutmak ne kadar önemli?
+- Ellerimi nasıl yıkarım?
+- İyi el hijyeni nedir?
+- El yıkama hakkında.
+- Corona virüsü sağ el hijyeni
+- Ellerin temizlenmesi neden önemlidir?
+- Ellerinizi düzgün yıkayın
+- Ellerinizi yıkamak ne kadar önemlidir?
+- Elleri yıkamak için doğru görgü kuralları
+
+## intent: sources
+- Bilgi kaynaklarınız neler
+- şişer
+- Bilgilerinizi nereden alıyorsunuz?
+- hangi kaynakları kullanıyorsun
+- Bilgileri nereden alıyorsunuz?
+- Bana kaynaklarını söyle
+- Bilgileriniz nereden?
+- Kaynaklarınızı nereden aldınız?
+- bu
+- Bana bilgilerinizi nereden aldığınızı söyleyin
+- Hangi kaynakları kullandın
+- Bilgileriniz nereden geldi?
+- Nerden biliyorsun
+- Bilgileri nereden alıyorsun
+- havalı bütün bunları nasıl biliyorsun
+- Kaynakların neler
+- Bana kaynaklarının ne olduğunu söyle
+- Bilgi kaynakları
+- Kaynaklarınız
+
+## intent: travel_before
+- Tatilime yine de başlayabilir miyim?
+- Serbestçe girebilir miyim?
+- Seyahate çıkmadan önce dikkat edilmesi gerekenler.
+- Seyahat etmeyi planlıyorum.
+- Öğrenci değişimi planlıyorum nelere dikkat etmeliyim?
+- Seyahat hazırlığı.
+- Seyahat ederken dikkat edilmesi gerekenler.
+- @de_countries seyahatimden önce ne yapmam gerekiyor?
+- Seyahat edebilir miyim
+- Seyahat edebilir miyim?
+- @de_countries'e gitmeden önce nelere dikkat etmeliyim?
+- Tatilimde seyahat edeceğim.
+- seyahat edebilir miyim
+- Okulumla bir gezi planlıyorum
+- Gitmeden önce nelere dikkat etmeliyim?
+- Hollanda'daki tatil evine gidebilir miyim?
+- Seyahat etmeden önce ne bekleyebilirim?
+- Tatilimde seyahat etmeyi planlıyorum.
+- Yakında seyahat edeceğim.
+- Gezginler, yolculuğa başlamadan önce korona virüsü nedeniyle seyahat kısıtlamaları olup olmadığını kontrol etmeli mi?
+- Seyahat etmek istiyorum
+- Yolculuktan önce.
+- Hala @de_countries'e seyahat edebilir miyim?
+- Bir seyahat planım var.
+- Daha önce seyahat et.
+- Önceden seyahat edin.
+- Bir tatil gezisi planlıyorum.
+- Yolculuktan önce ne yapmalı?
+- @de_countries adresine seyahat edebilir miyim?
+- Bir seyahat planlıyorum Ne düşünmem gerekiyor?
+- Tatilimi iptal etmek istemiyorum
+- Tatile gitmek istiyorum
+- Bir seyahat planlıyorum.
+- Seyahat etmeden önce dikkat edilmesi gerekenler.
+- @de_countries'de bir tatil planladım.
+- @de_countries için bir paket tur planladım.
+- Tatile gidebilir miyim?
+- Seyahatimden önce nelere dikkat etmeliyim?
+- Seyahatten önce ne yapmalı
+- Yine de tatile gidebilir miyim?
+- Seyahat kısıtlamaları var
+- Seyahat ve güvenlik bilgileri
+- Yine de @de_countries adresine gidebilir miyim?
+- Seyahat edeceğim.
+- Seyahat etmeyi planlıyorum
+- Seyahatinize başlamadan önce alınacak önlemler.
+- @de_countries tatile gitmek istiyorum.
+- Sınıfımla bir seyahat planlıyorum
+- @de_countries seyahat etmek istiyorum.
+- @de_countries adresine seyahat edin
+- Sorunsuz girebilir miyim?
+
+## intent: user_friend
+- Benim arkadaşım olabilir misin
+- Arkadaş olmak ister miyiz?
+- Sen benim arkadaşım mısın
+- Sen ve ben arkadaşız?
+- Ben ve sen arkadaşız!
+- Arkadaş olalım!
+- Arkadaş mıyız?
+- Benim kız arkadaşım olmak ister misin
+- Arkadaş olabilir miyiz
+- Biz arkadaşız.
+- Arkadaşım ol lütfen!
+- Arkadaşım olmak ister misin
+- Sen benim arkadaşımsın
+- Benim arkadaşım olacak mısın
+- Senin arkadaşın olmak istiyorum
+- Seninle arkadaş olmak istiyorum!
+- Arkadaş olmalıyız!
+- Sizi arkadaşım olarak görmekten zevk alabilir miyim?
+- Arkadaş olabiliriz.
+- Arkadaşım olabilir misin
+- Benim arkadaşım olmak istiyorsun
+- Arkadaşın olmaktan zevk alabilir miyim?
+- En iyi arkadaş olalım!
+- Senin arkadaşın olmalıyım!
+- Arkadaşım ol
+- Sen benim en iyi arkadaşım mısın
+- Benimle arkadaş olmak ister misin
+
+## intent: spread_feces
+- Kowit 19'u birisinin hastalıkla dışkılarından yakalayabilir miyim?
+- Dışkı enfeksiyonu
+- Virüsü dışkı yoluyla yakalayabilir miyim?
+- Virüs bağırsak hareketleri yoluyla su döngüsüne de aktarılabilir mi?
+- Enfekte bir kişinin dışkısından COVID-19'u yakalayabilir miyim?
+- Kowit 19'u enfekte bir kişinin dışkısından yakalama riski.
+- Kowit 19'u enfekte bir kişinin dışkısından yakalayabilir miyim?
+- Virüs dışkı tarafından yakalanabilir mi?
+- Virüsü dışkı ile yakalayabilir miyim?
+- Virüsü dışkı ile yakalamak.
+- Enfekte bir kişinin dışkısından COVID-19'u yakalama riski.
+- Koronavirüs dışkı yoluyla bulaşabilir mi?
+- Kowit 19'u birisinin hastalığa olan kakasından yakalayabilir miyim?
+- Dışkı enfeksiyonu.
+- Dışkı ile dağıtın.
+- COVID-19'u hastalığı olan birinden yakalayabilir miyim?
+- Virüsü dışkı yoluyla yakalayın.
+- Hastalıklı bir kişinin dışkısından COVID-19'u yakalama riski.
+- Sandalye ile transfer mümkün mü?
+- Koronavirüs dışkı ve idrar yoluyla yayılıyor mu?
+- Kowit dışkıyla yayılıyor mu?
+- COVID-19'u birisinin hastalıkla olan kakasından yakalayabilir miyim?
+- Virüsler bağırsak hareketleri yoluyla bulaşabilir mi?
+- Enfekte bir kişinin dışkısından Kowit 19'u yakalama riski.
+- Covid Tabureye Yayılıyor mu?
+- Kowit 19'u birisinin hastalıkla ilgili dışkılarından yakalama riski.
+- Birinin hastalıkla dışkısından COVID-19'u yakalama riski.
+- COVID-19'u birisinin hastalıkla olan dışkısından yakalayabilir miyim?
+- Virüs dışkı ile yakalanabilir mi?
+- Covid dışkı yoluyla yayılır mı?
+- Dışkı iletimi
+- dışkı
+- Kowit 19'u hasta bir kişinin dışkısından yakalama riski.
+- virüs dışkı ile de yayılabilir
+- Enfekte bir kişinin kakasından COVID-19'u yakalayabilir miyim?
+- Virüs bağırsak hareketleri veya tuvalet kullanılarak su döngüsüne de bulaşabilir mi?
+- Virüsü kaka ile yakala.
+- Kowit tabureye yayıldı mı?
+- Virüsü dışkı ile yakalayın.
+- Kowit 19'u hastalığı olan birinden yakalayabilir miyim?
+- Dışkı yoluyla yayılır.
+- Kowit 19'u enfekte bir kişinin kakasından yakalayabilir miyim?
+
+## intent: germany_neighbors_close_borders
+- Sınırları kapat
+- Almanya'da şu anda sınırlar kapalı mı?
+- Halo Soldan sağa bir sorum var Avusturya bölgesindeki sınır atmış olsaydı bana akıllıca yardım edebilir misin?
+- Hala İsviçre'ye seyahat edebilir misiniz?
+- Komşu ülkelerde sınırlar kapalı mı?
+- korona virüsleri artık komşu ülkelere kapalı sınırlar
+- Komşular sınırları kapattı
+- Corona savaşında sınırlar kapanıyor
+- Sınır şimdi kapalı mı?
+- Sınır bilgileri
+- Hala Hollanda'ya seyahat edebilir miyim?
+- Hala Fransa'ya seyahat edebilir miyim?
+- Almanya'nın komşu ülkeleri giderek sınırları kapatıyor
+- Komşu ülkelere sınırlar
+- Avusturya'daki sınırdan dolayı bilgiye ihtiyacım var
+- Komşu ülkeler şimdi sınırları kapatıyor mu?
+- Komşularımız şimdi Corona yüzünden sınırları kapatıyor mu?
+- Hala Avusturya'ya seyahat edebilir miyim?
+- Sınırlar şimdi kapalı mı?
+- Almanya'nın komşu ülkeleri sınırlarını kapatıyor mu?
+- Hangi sınırlar kapandı?
+- Komşu ülkelerle sınırlar
+- Komşu ülkelere seyahat etmeye ne dersiniz?
+- Komşu ülkeler sınırları kapattı
+- Yine de komşu ülkelere seyahat edebilir miyim?
+- Hala Polonya'ya gidebilir miyim?
+- Komşularımız şimdi sınırları kapatıyor mu?
+
+## intent: germany_preparation
+- Almanya Kubik 19'a karşı nasıl gidiyor?
+- Almanya aşk tanrısı 19'un yayılmasına nasıl hazırlanıyor?
+- Almanya ne gibi önlemler alıyor?
+- Almanya virüsle savaşmak için hangi koruyucu önlemleri kullanıyor?
+- Almanya Covid 19'un yayılmasına nasıl hazırlanıyor?
+- Sokağa çıkma yasağı şimdi Almanya'da mı?
+- Almanya vatandaşlarını nasıl koruyor?
+- Yine de eczaneye gidebilir miyim?
+- Almanya'da ne gibi düzenlemeler yapılır?
+- Almanya'da korona virüsüyle mücadelede mevcut önlemler
+- Q19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya'daki hükümet vatandaşlarını nasıl koruyor?
+- Almanya nasıl hazırlanıyor?
+- Almanya COBIT 19 hakkında ne yapıyor?
+- Almanya aşk tanrısı 19'a karşı ne yapıyor?
+- Tedbirler Almanya
+- Almanya'da Covid 19'a hazırlanmak için neler yapılıyor?
+- Almanya 19. Huvit hakkında ne yapıyor?
+- Almanya'daki nüfusu yeni SARS-CoV-2 koronavirüsünden korumak için başka hangi önlemler alındı?
+- Hala mümkün olan ve olmayan nedir?
+- Almanya COBIT 19'un yayılmasına nasıl hazırlanıyor?
+- Cupid 19'a hazırlanmak için Almanya'da neler yapılıyor?
+- Almanya ilk çeyreği yaymaya nasıl hazırlanıyor?
+- Almanya'da ne gibi koruyucu önlemler var?
+- Almanya Movit 19 ile nasıl başa çıkacak?
+- Almanya'da Alınacak Önlemler
+- Almanya aşçı 19'u yaymaya nasıl hazırlanıyor?
+- Almanya'da hazırlık tedbirleri
+- Günlük yaşamda hangi ciddi kısıtlamalarla ilgilenmek zorundayız?
+- Almanya kuhweg 19'u yaymaya nasıl hazırlanıyor?
+- Almanya ilk çeyreğe karşı ne yapıyor?
+- Kuhweg 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya'daki hazırlıklar
+- Almanya'da neler yapılıyor?
+- Almanya kovit 19'u yaymaya nasıl hazırlanıyor?
+- Sokağa çıkma yasağı şimdi Almanya'da uygulanıyor mu?
+- İletişim yasağı
+- Almanya'daki yayılma nasıl yavaşlatılabilir?
+- Almanya kübik 19'un yayılmasına nasıl hazırlanıyor?
+- Almanya'da sokağa çıkma yasağı olacak mı?
+- Almanya'daki korona virüsü hakkında neler yapılıyor?
+- Almanya'da koruyucu önlemler
+- temas yasağı ne olacak
+- Şimdi Almanlar için sokağa çıkma yasağı olacak mı?
+- Almanya'daki virüsle nasıl başa çıkıyorsunuz?
+- 19 nolu hareketin Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya'da kübik 19'un yayılmasını önlemek için neler yapılıyor?
+- Almanya herhangi bir işlem yapıyor mu?
+- Almanya'nın bu konudaki konumu nedir?
+- Cupid 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya'daki yayılma nasıl yavaşlatılmalı?
+- Almanya ne kadar iyi hazırlanıyor?
+- Almanya'da COBIT 19'a hazırlanmak için neler yapılıyor?
+- Almanya'da ne gibi önlemler var?
+- almanya ne kadar iyi konumlandırılmış
+- Almanya bu konuyu nasıl ele alıyor?
+- Almanya'da Hobbit 19'a hazırlanmak için neler yapılıyor?
+- Kovit 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya'da Kubik 19'a hazırlanmak için neler yapılıyor?
+- Almanya büyük patlamaya hazır mı?
+- Almanya'da hangi koruma önlemleri alınıyor?
+- Almanya Covid 19'a karşı ne yapıyor?
+- 19. kuvaya hazırlanmak için Almanya'da neler yapılıyor?
+- Almanya koronavirüse karşı ne gibi önlemler alıyor?
+- Almanya 19 nolu kulübeyi yaymaya nasıl hazırlanıyor?
+- Covid 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya kuhweg 19 hakkında ne yapıyor?
+- Eczaneye gidebilir miyim?
+- Almanya'da 19 kuhweg'e hazırlanmak için neler yapılıyor?
+- Hobbit 19'un Almanya'ya yayılması hakkında neler yapılıyor?
+- Almanya'da koruma önlemleri
+- Almanya önlemleri
+- Kontaktverbot
+- Cookit 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya'da yayılma riskini azaltmak için neler yapılıyor?
+- Almanya hazırlık
+- Almanya Hobbit 19'u yaymaya nasıl hazırlanıyor?
+- Aşçı 19'a hazırlanmak için Almanya'da neler yapılıyor?
+- Almanya kovit 19 hakkında ne yapıyor?
+- Bugün dışarı çıkabilir miyim?
+- Almanya'da sokağa çıkma yasağı?
+- Bavyera'da sokağa çıkma yasağı
+- Almanya 19.Kubeat'ı yaymaya nasıl hazırlanıyor?
+- Almanya'da 19 kubete hazırlanmak için neler yapılıyor?
+- Almanya korona virüsü hakkında ne yapıyor?
+- Almanya'daki virüse karşı ne gibi önlemler alınmaktadır?
+- Hükümet Almanya'da virüse karşı ne yapıyor?
+- Almanya'da 19. çeyreğe hazırlanmak için neler yapılıyor?
+- Almanya'da 19 no'lu harekete hazırlanmak için neler yapılıyor?
+- Almanya virüsün yayılmasını nasıl yapıyor?
+- Almanya'da Covid 19 hakkında neler yapılıyor?
+- Almanya'daki korona virüsüne nasıl hazırlanmalıyız?
+- Almanya'da korona virüsü nasıl tedavi edilir?
+- Almanya 19 no'lu hareketi yaymaya nasıl hazırlanıyor?
+- COBIT 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Huvit 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya'daki virüse karşı neler yapılıyor?
+- Almanya'da virüse karşı önlemler
+- Almanya'da ne gibi hazırlıklar yapılıyor?
+- Bakanlık Almanya'da korona virüsünün yayılmasına karşı ne yapıyor?
+- Yine de süpermarkette alışveriş yapabilir miyim?
+- Almanya Hobbit 19'a karşı ne yapıyor?
+- Almanya'da hazırlanmak için ne gibi önlemler alınıyor?
+- Virüsün Almanya'da yayılmasını önlemek için neler yapılıyor?
+- Almanya virüse karşı ne yapıyor?
+- Almanya 19 kubatına karşı nasıl gidiyor?
+- Hükümet Almanya'da ne yapıyor?
+- Almanya'da nasıl hazırlanırsınız?
+- Kovit 19'a hazırlanmak için Almanya'da neler yapılıyor?
+- Almanya Cook 19'a karşı nasıl ilerliyor?
+- Almanya bir şekilde hazırlanıyor mu?
+- İletişim kuralları
+- Qubeat 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+
+## intent: work_shorttimework_allowance
+- Kısa işçi yardımı
+- İşveren kısa süreli çalışma emri verdi
+- Korona virüsü için kısa süreli çalışma yönetmelikleri
+- Bu, kısa süreli çalışma avantajlarıyla nasıl çalışır?
+- Kısa süreli ödenek nedir?
+- Corona zamanında kısa süreli çalışma
+- Kısa süreli çalışma ödeneği ve Covit-19
+- Kısa süreli iş yardımı almaya hak kazanıyor muyum?
+- Hangi koşullar altında kısa süreli çalışma ödeneği alabilirim?
+- Kısa süreli çalışma ödeneği
+- Kısa süreli iş parası alma hakkım var mı?
+- Kısa süreli çalışma yapmak zorundayım, kısa süreli ödenek almaya hakkım var mı?
+- İşverenim kısa süreli çalışma emri verdi
+- Kısa işçi ödeneği alır mıyım?
+- Bana kısa süreli iş yararlarını açıklayın
+- Kısa işçi parası alır mıyım?
+- Ne kadar süre için kısa süreli ödenek?
+- Kısa süreli çalışma ödeneği ve Covit 19
+- Kısa süreli çalışma avantajları hakkında bilgi
+- Kısa süreli çalışma ne kadar süre sipariş edilebilir?
+- Kısa süreli çalışma hakkında bilgi
+- İşveren kısa süreli çalışma emri verdiyse ne olur?
+- Kısa çalışma
+- Kısa süreli iş yardımlarının payı nedir?
+- Kısa süreli iş yardımı sağlanması için gerekenler
+- Korona ve kısa süreli çalışma
+- Kısa süreli ödenek ne kadar süre ödenebilir?
+
+## intent: covid_procedure_after_infection
+- Kız arkadaşımın Covid 19'u var, şimdi ne olacak?
+- Arkadaşımda 19 kuhweg var, şimdi ne olacak?
+- Kız arkadaşımın Hobbit 19'u var, şimdi ne olacak?
+- Kız arkadaşım 19 huvit var, şimdi ne olacak?
+- Prosedür enfeksiyonu
+- Korona virüsü testi pozitifse ne olur?
+- Kız arkadaşım 19 hamle yaptı, şimdi ne olacak?
+- Kız arkadaşım küp 19, şimdi ne olacak?
+- Erkek arkadaşım korona virüsü için pozitifti, şimdi ne olacak?
+- Test pozitifse ne olur?
+- Bir korona virüsü enfeksiyonu tespit edilirse ne olur?
+- Kocamın korona virüsünden şüpheleniliyor, şimdi ne olacak?
+- Virüsten şüphelenilirse ne olur?
+- Şüpheli bir dava nasıl ele alınır?
+- Kız arkadaşım 19 aşk tanrısı var, şimdi ne olacak?
+- Korona virüsü oda arkadaşımda bulundu, şimdi ne olacak?
+- Ben enfekte oldum, şimdi ne olacak?
+- Bir enfeksiyon bulunduğunda prosedür nedir?
+- Kız arkadaşımın COBIT 19'u var, şimdi ne olacak?
+- Kız arkadaşım kovit 19'a sahip, şimdi ne olacak?
+- Virüs için pozitif test edersem ne olur?
+- Kız arkadaşımın Q19'u var, şimdi ne olacak?
+- Sonuç olumlu olursa ne olur?
+- Koronavirüsten şüphelenilirse ne olur?
+- Sonuçlar olumlu olursa ne olur?
+- Enfekte olduğumu öğrendim, şimdi ne olacak?
+- Enfeksiyon için pozitif testi yaparsam ne olur?
+- Kız arkadaşım 19 numaralı kubbeye sahip, şimdi ne olacak?
+- Koronavirüsüm bulunursa ne olur?
+- Eşimin korona virüsünden şüpheleniliyor, sırada ne var?
+- Enfekte olursam ne olur?
+- Kız arkadaşım 19 pişirdi, şimdi ne olacak?
+- Ev arkadaşımın korona virüsü var, şimdi ne olacak?
+- Virüs için pozitif test edildi, sırada ne var?
+
+## intent: covid_difference_influenza
+- Normal grip ve Obit arasındaki farklar nelerdir
+- Soğuk algınlığı ve kubat arasındaki farklar nelerdir
+- Sadece grip veya korona var
+- Sadece grip veya kübik var
+- Cupid mı yoksa soğuk mu olduğunu nasıl anlarım
+- grip ve korona belirtileri
+- Soğuk algınlığı ve cobit arasındaki farklar nelerdir
+- Sadece grip ya da kübre var
+- Coronavirus vs. grip
+- Gripteki farklılıklar nelerdir?
+- Korona mı yoksa soğuk mu olduğunu nasıl anlarım?
+- Grip ve Corvette arasındaki farklar nelerdir
+- İnfluenza ve aşk tanrısı arasındaki farklar nelerdir
+- Sadece soğuk algınlığım veya COVID'im var
+- Virüs mü grip mi olduğunu nasıl anlarım?
+- COVID 19 belirtileri gripten farkları nelerdir
+- Soğuk algınlığı ve virüs arasındaki farklar nelerdir
+- Qubeat veya grip olup olmadığını nasıl anlarım
+- İnfluenza ve Kuhweg arasındaki farklar nelerdir?
+- Soğuk algınlığından nasıl cobit anlatabilirsin?
+- Normal grip ve kübik arasındaki farklar nelerdir
+- Normal grip veya cobit var
+- COVID mi yoksa soğuk mu olduğunu nasıl anlarım
+- Koronavirüs veya grip olup olmadığını nasıl anlarım?
+- Kubeat'ı normal gripten nasıl ayırabilirsiniz?
+- Virüsü soğuk algınlığından nasıl ayırt edebilirsiniz?
+- Kobit veya grip olup olmadığını nasıl anlarım
+- COVID 19 mu yoksa soğuk algınlığı mı olduğunu nasıl anlayabilirim?
+- Sadece grip veya COVID var
+- Normal bir grip veya Corvette var
+- Sadece grip veya inek yolum var
+- Normal bir grip veya kübeatim var
+- Kübik Belirtiler Soğuk Algınlığına Farklılıklar Nelerdir?
+- İnek yolunu soğuk algınlığından nasıl ayırt edebilirsiniz?
+- COVID belirtileri gripten farkları nelerdir
+- Sadece üşütüyorum ya da aldım
+- qubeat belirtileri gripten farkları nelerdir
+- Kübik belirtiler Grip ile arasındaki farklar nelerdir?
+- Corona'ya normal gripten nasıl bahsedebilirsin?
+- İnfluenza ve kübik arasındaki farklar nelerdir
+- Corvette mi yoksa soğuk mu olduğunu nasıl anlarım?
+- Normal grip ve koronavirüs arasındaki farklar nelerdir?
+- İnfluenza ve COVID 19 arasındaki farklar nelerdir
+- COVID 19'u normal gripten nasıl ayırt edebilirsiniz?
+- Sadece grip veya koronavirüsüm var
+- Cupid'i normal gripten nasıl ayırabilirsiniz?
+- Koronavirüs veya soğuk olup olmadığını nasıl anlarım
+- Kuhweg belirtileri soğuk algınlığından farklar nerede
+- Sadece soğuk algınlığım ya da COVID 19
+- Obit veya Flu olup olmadığını nasıl anlarım
+- Normal bir grip veya aşk tanrım var
+- İnek yolu mu soğuk mu olduğunu nasıl anlarım
+- Kuhweg Belirtileri Gripteki farklar nelerdir
+- Kubbeyi soğuktan nasıl anlarsınız?
+- Normal bir grip veya inek yolum var
+- Soğuk algınlığı farkları nerede cobit semptomları
+- Normal grip veya kübik var
+- Normal grip ve virüs arasındaki farklar nelerdir?
+- grip ve koronavirüs arasındaki farklar nelerdir
+- Koronavirüs ve Grip
+- Soğuk ve kübik arasındaki farklar nelerdir
+- Obit'e soğuktan nasıl söyleyebilirsin?
+- Kübik mi yoksa soğuk mu olduğunu nasıl anlarım
+- Kübik normal gripten nasıl anlaşılır?
+- Sadece soğuk algınlığı veya inek yürüyüşüm var
+- Sadece influenza veya cobit var
+- Normal grip ve COVID arasındaki farklar nelerdir?
+- Sadece soğuk algınlığı veya korona virüsüm var
+- Sadece grip veya obit var
+- Sadece grip veya COVID 19 var
+- Soğuk algınlığından farklar nerede belirtiler
+- Soğuk algınlığı ve aşk tanrısı arasındaki farklar nelerdir
+- Corvette mi grip mi olduğunu nasıl anlarım?
+- Sadece üşütüyorum ya da kubbem
+- Normal grip veya koronavirüsüm var
+- COVID 19 mu grip mi olduğunu nasıl anlarım
+- Normal grip ve Corvette arasındaki farklar nelerdir
+- aşk tanrısı belirtileri soğuk algınlığı farkları nelerdir
+- aşk tanrısı belirtileri grip farklılıkları nelerdir
+- qubeat belirtileri soğuk algınlığından farklılıklar nerede
+- COVID'i normal gripten nasıl ayırt edebilirsiniz?
+- Soğuk veya soğuk olup olmadığını nasıl anlarım
+- Grip ve Coronavirüs
+- Normal grip veya korona var
+- Soğuk algınlığı ve COVID arasındaki farklar nelerdir
+- İnek yolu mu grip mi olduğunu nasıl anlarım
+- Korona mı grip mi olduğunu nasıl anlarım
+- Soğuk algınlığı ve koronavirüs arasındaki farklar nelerdir?
+- Normal grip veya COVID var mı
+- İnfluenza ve kubeat arasındaki farklar nelerdir
+- Corvette'e normal gripten nasıl bahsedebilirsin?
+- İnek yolunu normal gripten nasıl ayırt edebilirsiniz?
+- Coronavirus belirtileri Soğuk algınlığı arasındaki farklar nelerdir
+- COVID belirtileri soğuk algınlığından farklar nerede
+- Obit'e normal gripten nasıl bahsedebilirsiniz?
+- Normal grip ve kobit arasındaki farklar nelerdir
+- COVID'i soğuk algınlığından nasıl ayırt edebilirsiniz?
+- Sadece grip ya da aşk tanrım var
+- Kübik soğuk algınlığından nasıl anlarsınız?
+- İnfluenza ve obit arasındaki farklar nelerdir
+- Normal grip veya COVID 19 var mı
+- Sadece soğuk veya kübik var
+- Sadece soğuk algınlığım veya korona var
+- COVID 19'u soğuk algınlığından nasıl ayırt edebilirsiniz?
+- Normal grip ve korona arasındaki farklar nelerdir?
+- İnfluenza ve cobit arasındaki farklar nelerdir
+- grip farkı
+- Corona belirtileri soğuk algınlığından farklar nerede
+- Soğuk algınlığı ve obit arasındaki farklar nelerdir
+- Virüsü normal gripten nasıl ayırt edebilirsiniz?
+- Bunun bir obit veya soğuk algınlığı olup olmadığını nasıl anlarım
+- İnfluenza ve virüs arasındaki farklar nelerdir
+- Sadece üşüttüm ya da Corvette
+- Koronavirüsü soğuk algınlığından nasıl ayırt edebilirsiniz?
+- Sadece grip veya Corvette var
+- Corona'ya soğuktan nasıl söyleyebilirsin?
+- Soğuk algınlığı ve COVID 19 arasındaki farklar nelerdir?
+- Normal grip ve COVID 19 arasındaki farklar nelerdir?
+- Cobit belirtileri gripten farkları nelerdir
+- Corvette belirtileri grip farkları nelerdir
+- Sadece soğuk algınlığım ya da cobit'im var
+- İnfluenza ve korona arasındaki farklar nelerdir
+- Normal grip ve inek yolu arasındaki farklar nelerdir?
+- Kubat mı yoksa soğuk mu olduğunu nasıl anlarım
+- Corvette'i soğuktan nasıl söyleyebilirsin?
+- Soğuk algınlığı ile inek izi arasındaki farklar nelerdir?
+- Ve koronavirüsü normal grip semptomlarından nasıl ayırt edebilirim?
+- Sadece soğuk algınlığım ya da aşk tanrım var
+- Coronavirus soğuk algınlığına karşı
+- Normal grip ve kubeat arasındaki farklar nelerdir
+- Kübik mi grip mi olduğunu nasıl anlarım
+- Corvette belirtileri soğuk algınlığından farklar nerede
+- Normal grip veya obit var
+- Soğuk algınlığı ve korona arasındaki farklar nelerdir
+- Normal gripten gelen konditi nasıl anlarsınız?
+- Normal grip ve aşk tanrısı arasındaki farklar nelerdir
+- COVID 19 belirtileri soğuk algınlığından farklılıklar nerede
+- Korona belirtileri Gripteki farklar nelerdir
+- İnfluenza ve COVID arasındaki farklar nelerdir
+- Koronavirüsü normal gripten nasıl ayırt edebilirim?
+- Coronavirus belirtileri Gripteki farklılıklar nelerdir
+- Cupidnı soğuk algınlığından nasıl ayırabilirsiniz?
+- Virüs mü yoksa soğuk mu olduğunu nasıl anlarım?
+- Cupid mı grip mi olduğunu nasıl anlarım
+- Soğuk algınlığı ve Corvette arasındaki farklar nelerdir
+- COVID mi grip mi olduğunu nasıl anlarım
+- İnfluenza ve koronavirüs arasındaki farklar nelerdir?
+
+## intent: cc_politics
+- Kim Büyükelçi Atar?
+- Din siyasette nasıl bir rol oynar?
+- Hiç oy verdiniz mi?
+- Politikacılar hakkında ne düşünüyorsun?
+- İnsanlar genellikle politikacılar hakkında ne diyor?
+- Oy kullanmak bir vatandaşın önemli bir sorumluluğu mudur?
+- Siyaseti takip ediyor musunuz?
+- Siyasi kampanyalara çok fazla para harcandığını düşünüyor musunuz?
+- Politikacı olmak ister misiniz?
+- Etnik köken ya da ırk ülkenizin politikasında bir faktör mü?
+- Amerika Birleşik Devletleri Başkanı'nı adlandırabilir misiniz?
+- Favori bir siyasi lideriniz var mı?
+- Şehrinizin belediye başkanı kim?
+- Her zaman aynı partiye oy verir misiniz?
+- Nasıl seçeceğinize nasıl karar veriyorsunuz?
+- Farklı hükümet türleri nelerdir?
+- Sizce insanların yaşamları boyunca siyasi görüşleri değişiyor mu?
+- Merkel
+- Donald Trump
+- Donald Trump hakkında ne düşünüyorsun?
+- Ülkenizde nasıl bir siyasi sistem var?
+- @en_politics kimler vardı
+- Ülkenizdeki politikacılar iyi bir iş çıkarıyor mu?
+- Ülkenizde oy kullanmak için asgari yaşınız nedir?
+- Farklı Hükümet Türleri Nelerdir?
+- Her çocuğa nasıl mükemmel bir eğitim verebiliriz?
+- Bir büyükelçi ne yapar?
+- Donald Trump kimdir?
+- Prens nedir
+- Ülkenizdeki insanlar hangi sosyal sorunları paylaşıyor?
+- Sizce en önemli siyasi mesele nedir?
+- Ekonomik istikrar üzerine nasıl inşa edilir?
+- Ana siyasi partiler nelerdir?
+- Bu partinin lideri kim?
+- SPD, CDU, Yeşiller, FDP, Sol hakkında ne düşünüyorsunuz?
+- Ülkenizdeki insanlar hangi ekonomik sorunları paylaşıyor?
+- SPD, CDU, Yeşiller, CSU, FDP, Sol hakkında ne düşünüyorsunuz?
+- Tiyatroda John Wilkes Booth tarafından kim öldürüldü?
+- Rusya'nın başbakanı kim?
+- Nasıl daha fazla insanın oy kullanmasını sağlayabiliriz?
+- Ülkenizin hiç kadın lideri oldu mu?
+- Seçimler nasıl finanse edilir?
+- @en_politics kimdir?
+- Angela Merkel
+- Son seçimde oy kullandınız mı?
+- Ülkenizdeki en tartışmalı politikacı kim?
+- Angela Merkel kimdir?
+- Siyasete herhangi bir şekilde katıldınız mı?
+- Kampanya parası nereden geliyor?
+- koz
+- Angela Merkel hakkında ne düşünüyorsun?
+- Sizce oylama neden önemlidir?
+- Şimdi hangi parti iktidarda?
+- Almanya'nın siyasi sistemi hakkında ne düşünüyorsunuz?
+- Politika hakkında ne düşünüyorsun?
+- Seçim zorunlu olmalı mı?
+
+## intent: germany_precautions_nordrhein
+- NRW'de temas yasağı var mı
+- Kuzey Ren Vestfalya'da sokağa çıkma yasağı var mı?
+- Kuzey Ren-Vestfalya'da temas yasağı var
+- NRW'de çıkış kilidi var
+- Kuzey Ren Vestfalya'daki hazırlıklar nelerdir
+- NRW'deki önlemler nelerdir?
+- Şimdi Kuzey Ren-Vestfalya'da sokağa çıkma yasağı var mı?
+- Kuzey Ren Vestfalya'daki önlemler nelerdir?
+- Şu anda NRW'de sokağa çıkma yasağı var mı?
+- Kuzey Ren Vestfalya'da sokağa çıkma yasağı
+- Yine de Kuzey Ren-Vestfalya'da dışarı çıkabilir miyim?
+- Kuzey Ren-Vestfalya'daki önlemler nelerdir?
+- NRW'de bir kısıtlama var
+- NRW'de şu anda hangi önlemler var?
+- Kuzey Ren Vestfalya'da temas yasağı var mı
+- Kuzey Ren-Vestfalya'da çıkış kilidi var
+- Kuzey Ren Vestfalya'da şu anda ne gibi önlemler var?
+- Kuzey Ren-Vestfalya'da bir kısıtlama var
+- NRW'deki hazırlıklar nelerdir
+- Hala NRW'de dışarı çıkabilir misin?
+- Hala Kuzey Ren Vestfalya'da dışarı çıkabilir miyim?
+- Kuzey Ren-Vestfalya'da temas yasağı var mı
+- NRW'de kilit var
+- NRW'de sokağa çıkma yasağı
+- Kuzey Ren-Vestfalya'da kilit var
+- Kuzey Ren-Vestfalya'daki hazırlıklar nelerdir
+- Kuzey Ren Vestfalya'da çıkış kilidi var
+- Kuzey Ren-Vestfalya'da sokağa çıkma yasağı
+- Kuzey Ren Vestfalya'da kilit var
+
+## intent: germany_pandemic
+- DSÖ dünya çapında pandemi vakasını açıkladı, bu Almanya için ne anlama geliyor?
+- Pandemieausruf
+- Almanya'da Pandemi
+- Pandemi ünlem işareti
+- Pandemi ünlem Almanya
+- Pandemi ünlemesinin Almanya için anlamı nedir?
+- Pandemi Almanya
+- Almanya'da pandemi ile ilgili durum nedir
+- Almanya salgını
+- DSÖ'nün salgını ilan etmesi Almanya için ne anlama geliyor?
+- DSÖ'nün bir salgın ilan ettiği ne anlama geliyor?
+- Almanya için pandemik ünlemenin sonuçları nelerdir?
+- Salgın nedeniyle Almanya'da acil durum?
+
+## intent: germany_train_suspect
+- Trende şüphe
+- Sanırım trende komşumda virüs var
+- ICE'de korona virüsü şüphesi var
+- Corona trende şüpheli dava
+- Trende şüpheli korona
+- Korkarım trende birine bulaşmış
+- Bir trenden şüphelenilirse ne olur?
+- Bir trenden şüphelenilirse ne yapmalı?
+- Trende korona şüphesi varsa ne yapmalı?
+- trende birisinin korona virüsü olduğunu düşünürsem ne yapmalıyım
+- Deutsche Bahn'da bir şüphe varsa ne yapmalı?
+- ICE'de bir koronavirüs vakası olduğundan şüpheleniyorum.
+- ICE'de Corona şüphesi var
+- Birisi trende hapşırırsa ne yapmalı?
+
+## intent: germany_hotline
+- Bana bir numara verebilir misin
+- Bir numaraya ihtiyacım var
+- Telefon numarası istiyorum
+- Coronavirus hatları
+- Telefonla iletişime geçmek istiyorum.
+- Doktor arıyorum
+- Telefon numaraları
+- Nereden arayabilirim
+- Kimi arayabilirim?
+- doktor
+- Bağımsız hasta danışma hizmeti Almanya telefon numarası
+- Telefonla iletişime geçmek istiyorum
+- Hotlines
+- Telefon hattı var mı?
+- Telefon numarası
+- Bir telefon numarası var mı?
+- Telefon numarası lütfen
+- Hasta tavsiyesi için bir numara var mı?
+- Kontaktvermittlung
+- Telefonla tavsiyeye ihtiyacım var
+- Federal Sağlık Bakanlığı'nın sayısı nedir?
+- Lütfen bana bir telefon numarası ver
+- semptomlarım varsa nereye ararım
+- Bu konuyla nasıl iletişim kurabilirim?
+- Telefon Numaranız
+- Bana bir telefon numarası verir misin
+- İşitme engelli ve işitme engelliler için danışmanlık hizmeti var mı?
+- Telefonla kiminle iletişim kurabilirim?
+- Genel ilk bilgiler için bir telefon numarası var mı?
+- Bir Corona Virus yardım hattı var mı?
+- Hangi doktora başvurabilirim?
+- Vatandaş telefonu
+- Telefonla danışmanlık hizmeti var mı?
+- Vatandaş telefon numarası
+- Yardım hattı nedir?
+- Şehrimde nerede doktor bulabilirim
+- Tavsiye numarası nedir?
+- Numara nedir?
+- Coronavirus Yardım Hattı
+- Hattı
+
+## intent: prevention_desinfection
+- dezenfekte
+- Dezenfeksiyondan daha fazla sabun getirir
+- dezenfeksiyon yardımcı olur mu?
+- Yararlı olanları dezenfekte edin
+- Dezenfektanlar ne getirir
+- Dezenfektan jel
+- Dezenfekte getiren nedir
+- Ellerinizi dezenfekte edin
+- El dezenfeksiyonu
+- Dezenfeksiyon ne getiriyor?
+- dezenfektan
+- Dezenfeksiyon yöntemleri
+- Dezenfektanları koruyun
+- dezenfeksiyonu korur
+- Yeni korona virüsü tipiyle bağlantılı dezenfeksiyon önlemleri için hangi araçlar uygundur
+- Dezenfeksiyon yerine sabun
+- Ellerin dezenfeksiyonu
+- dezenfekte etme
+- Dezenfektan mendiller
+
+## intent: vocative_thank_you
+- teşekkürler Mfg Tim
+- Şirket teşekkürler!
+- Tamam çok teşekkür ederim
+- tekrar teşekkürler
+- teşekkürler hayır
+- Tanrı seni ödüllendirir!
+- Çok teşekkür ederim!
+- Teşekkürler selamlar
+- Teşekkür ederim. bir dahaki sefere görüşürüz.
+- Teşekkür ederim bilgisayar
+- Çok teşekkürler.
+- Adam teşekkürler.
+- Teşekkürler, hepsi bu
+- Teşekkürler, şuraya bir göz atacağım
+- Teşekkürler - hepsi bu.
+- Bu yeterli, teşekkürler.
+- Hiçbir şey teşekkürler
+- Yardım ettin, teşekkürler
+- teşekkürler
+- Tekrar teşekkürler
+- Teşekkür etmeliyim.
+- Rehberiniz için teşekkürler
+- Teşekkür etmeliyiz!
+- bağlantı için teşekkürler
+- Bana iyi yardım ettin
+- Teşekkür etmeliyiz.
+- Bu bilgi için teşekkürler.
+- Oh teşekkür ederim
+- Şimdilik teşekkürler
+- Çok teşekkür ederim
+- çok teşekkür ederim
+- Artık yok, teşekkürler
+- Teşekkür ederim.
+- Teşekkür ederim
+- Teşekkür ederim!
+- Tanrı ödüllendirir.
+- teşekkürler, her şeyi buldum!
+- Yardımın için teşekkürler
+- Teşekkürler!
+- Teşekkür ederim bot
+- Evet teşekkür ederim
+- teşekkür ederim
+- hayır teşekkürler
+- Teşekkür ederim End.
+- Tanrı geri ödüyor.
+- Hayır teşekkürler, her şeyi kendim arıyorum. Çok teşekkürler.
+- Tanrı ödüllendir!
+- iyi teşekkürler
+- Teşekkürler, Watson
+- çok teşekkür ederim sevgili chatbot
+- Hepsi bu
+- Teşekkür etmeliyim!
+- Çok yardımcı
+- TEŞEKKÜRLER OKUL
+- Çok teşekkürler!
+- Bilgi için çok teşekkür ederim.
+
+## intent: germany_precautions_brandenburg
+- Brandenburg'da temas yasağı var mı
+- Brandenburg'da kilit var
+- Hâlâ Brandenburg'da dışarı çıkabilir misin?
+- Şimdi Brandenburg'da sokağa çıkma yasağı var mı?
+- Brandenburg'da alınan önlemler nelerdir?
+- Brandenburg'da bir kısıtlama var
+- Brandenburg'da temas yasağı var
+- Brandenburg'da çıkış kilidi var
+- Brandenburg'da şu anda ne gibi önlemler var
+- Brandenburg'daki hazırlıklar nelerdir
+- Brandenburg'da sokağa çıkma yasağı
+
+## intent: myth_pneumonia_vaccine
+- Pnömokok Aşısı Koronaya Karşı Koruyor mu?
+- Koronavirüsler ve pnömokoklar
+- Pnömokok aşısı korona karşı yardımcı olur mu?
+- Pnömokoklara karşı aşılama
+- pnomokok
+- Şimdi pnömokoklara karşı aşılanmalı mıyım?
+- Pnömokok ve korona
+- Koronavirüs pandemisi sırasında pnömokok aşısı neden bu kadar faydalıdır?
+- Korona karşı korumak için pnömokok aşısı
+- Korona için pnömokok aşısı?
+- Koronavirüse karşı pnömokok aşılarının faydaları nelerdir?
+- Pnömokok aşısı mevcut COVID-19 salgını ne getirir?
+- Pnömokok aşısı
+- Pnömokok aşısı korona
+
+## intent: covid_ibuprofen
+- Şimdi ibuprofen alabilir miyim?
+- Ibuprofen bei aşk tanrısı 19
+- Coronavirus ve Ibuprofen
+- Kronlar ve Ibuprofen
+- Q19 şirketinde Ibuprofen
+- Ibuprofen ve Corona
+- İbuprofen hastalığın seyrini daha da kötüleştirebilir mi?
+- İbuprofen uyarısı
+- Covid 19 şirketinde Ibuprofen
+- İbuprofen hakkında karışıklık
+- Kuhweg 19 şirketinde Ibuprofen
+- İbuprofen sizi yeni korona virüsüne karşı daha duyarlı hale getirmez
+- Hobbit 19 şirketinde Ibuprofen
+- İbuprofen 19 bei taşındı
+- ibuprofen
+- Ibuprofen yerine Parasetamol mü tercih edersiniz?
+- Kubik 19 şirketinde Ibuprofen
+- parasetamol
+- Qubeat 19th şirketinde Ibuprofen
+- İbuprofen hastalığın daha şiddetli seyrine yol açar mı?
+- Kovit 19 şirketinde Ibuprofen
+- Corona ve Ibuprofen
+- CoVid-19 şirketinde Ibuprofen
+- Ibuprofen bei huvit 19
+- Tezgah üstü ağrı kesici ibuprofen, Sars-CoV-2 ile enfekte olduğunda daha kötü bir hastalık seyrine yol açabilir mi?
+- Yeni korona virüsü ile enfeksiyondan şüpheleniliyorsa ibuprofen
+- İbuprofen evet veya hayır
+- Ibuprofen sizi yeni korona virüsüne karşı daha duyarlı hale getiriyor
+- Artık ibuprofen alabilirsiniz
+- Ibuprofen bei soğuk dağ
+- İbuprofen alamıyor musunuz?
+- Ibuprofen bei cookit 19
+- COBIT 19 şirketinde Ibuprofen
+
+## intent: covid_crisis_howlong
+- Korona virüsü ne kadar sürer?
+- Ne kadar sürecek?
+- Kriz ne kadar sürecek?
+- korona virüsü ile ilgili konu ne zaman bitti?
+- Koronavirüs krizinin süresi
+- Korona krizinin süresi
+- virüsle ilgili sorun ne kadar sürüyor?
+- Birkaç ay içinde korona salgını bitti mi?
+- corona krizi ne kadar
+- Bu ne kadar sürmeli?
+- Bu ne kadar zaman alabilir?
+- Ne zamana kadar krizle savaşmamız gerekecek?
+- Corona ne zaman bitti?
+- Bu kriz kaç ay sürecek?
+- Korona krizi günlük hayatımızı ne kadar süreyle belirlemeye devam edecek?
+- Bu ne kadar sürecek?
+- Bu kaç gün veya hafta sürmeli?
+- Enfeksiyonların sayısı ne kadar artmaya devam edecek?
+- Koronavirüs pandemisi gelecek yıla kadar devam edebilir mi?
+- Virüs ne kadar sürecek?
+- Korona salgını birkaç hafta içinde bitecek mi?
+- Evde ne kadar kalacağım?
+- Kriz kaç hafta sürecek?
+- Birkaç hafta içinde korona salgını bitti mi?
+- Corona ne kadar sürer?
+
+## intent: user_no_further_questions
+- Bütün sorularımı çözdün.
+- boş
+- Tüm sorunlarımı çözdün, teşekkürler.
+- Hiç değil
+- hiçbir şey
+- Başka soru yok!
+- Daha fazla yardıma ihtiyacım yok, teşekkürler.
+- Zaman ayırdığınız için çok teşekkür ederim.
+- Daha fazlasını bilmeme gerek yok.
+- Yardımına ihtiyacım yok, teşekkürler.
+- Her şey temizlendi!
+- Başka sorum yok, teşekkürler.
+- Tüm sorunlarımı çözdün.
+- Bütün sorularıma cevap verdin, teşekkürler.
+- İstediğim her konuda bana yardım ettin.
+- Hepsi bu!
+- Hiçbir şey, teşekkürler.
+- Daha fazla yardıma ihtiyacım yok
+- Yardımınız için teşekkürler.
+- Yardımına ihtiyacım yok.
+- Tamam şimdi!
+- Hepsi bu kadar!
+- Hiçbir şey.
+- Şimdi her şey açık, teşekkürler.
+- Başka sorum yok.
+- Şimdi her şey açık.
+- Tüm şüphelerimi çözdün.
+- kesinlikle hiçbir şey
+- hayır bu kadar
+- başka bir şey yok
+- Hiçbir şey teşekkürler.
+- Bütün sorularıma cevap verdin.
+- Teşekkürler, şimdi biliyorum.
+- İstediğim her konuda bana yardım ettin, teşekkürler.
+- Artık yardımına ihtiyacım yok.
+- Artık yardıma ihtiyacım yok.
+- Şimdi her şey açık
+
+## intent: travel_risk_countries
+- Corona'ya rağmen tatil - hala nereye gidebilirim?
+- Şimdi nereye gitmemelisin?
+- Hangi yerlerden kaçınmalısınız?
+- Hangi bölgeler riskli alanlar olarak kabul edilir?
+- Hangi ülkeler riskli bölgeler olarak kabul edilir?
+- Şimdi nereye gitmek istemezdiniz?
+- Hangi ülkeler şimdi seyahat etmek tehlikelidir?
+- Coronavirus Risikogebiet
+- Hangi alanlar riskli alanlar olarak kabul edilir?
+- Hangi ülkeler girmemeli?
+- Şimdi nereye gitmemek daha iyi?
+- Corona'ya rağmen tatil
+- Riskli yerler
+- Hangi yerleri gezmek riskli?
+- Hangi ülkeler riskli bölgelerdir?
+- Hangi ülkelerden kaçınmalıyım?
+- Hangi şehirler riskli bölgeler olarak kabul edilir?
+- Seyahat uyarıları
+- Hangi yerler riskli alanlar olarak kabul edilir?
+- Riskli tatil yerleri
+- Şu anda hangi ülkelere dikkat etmelisiniz?
+- Seyahat uyarısı
+- Riskli alanlar nelerdir?
+
+## intent: userfeeling_happy
+- Ben öforikim
+- Mutluyum.
+- Kendimi öforik hissediyorum.
+- Ben mutluyum
+- Ben çok mutluyum
+- Zevk aldım.
+- Heyecanlandım
+- İyi bir moddayım
+- Sevinçle ışınlarım.
+- Bugün kendimi iyi hissediyorum.
+- İçimde çok şanslı hissediyorum.
+- Ben çok memnun biriyim.
+- Çok iyi hissediyorum
+- Ben arsız biriyim.
+- Sevinç için zıplıyorum.
+- Bugün güler yüzüm var.
+- Ben neşeli biriyim.
+- Çok mutluyum.
+- Ben parlak bir insanım.
+- Ben dünyadaki en mutlu insanım.
+- Gerçekten keyif aldım.
+- Ben eğlenceli biriyim.
+- Yedinci cennetteyim.
+- İyi bir ruh halindeyim.
+- Kendinden geçmiş insanlar gibiyim.
+- Hayatım mutlu
+- Işıltılı hissediyorum.
+- Ayın üzerinden atlamak istiyorum.
+- Hep gülümserim.
+- Mutlu hissediyorum.
+- Kendimi çok iyi hissediyorum.
+- Dokuzuncu buluttayım.
+- Çok memnun bir insan.
+
+## intent: covid_origins
+- Virüsün kökeni
+- Koronavirüs salgınının yerel kökeni nedir?
+- Salgın nasıl ortaya çıktı?
+- Neden korona var
+- Ölümcül yeni korona virüsü nereden geliyor?
+- Yeni korona virüsü nereden geliyor?
+- Patlama nereden geldi?
+- Nereden geliyor
+- Salgın nasıl patlak verdi?
+- Sars-CoV-2 nereden geliyor?
+- Salgının kaynağı nedir?
+- Koronavirüsün kökeni
+- Koronavirüs salgınının kökeni nedir?
+- Koronavirüs salgını nasıl ortaya çıktı?
+- Korona virüsü nasıl ortaya çıktı?
+- köken
+- Virüsün kökeni nedir?
+- Korona virüsü nereden geliyor?
+- Corona Virüs Menşei
+- Virüs nereden geliyor?
+
+## intent: greeting_hello
+- Grüezi!
+- Merhaba!
+- Şerefe!
+- selamlar tanrı
+- salam aleikum
+- Merhaba Daimler
+- Hey!
+- Nasıl gidiyor?
+- GRÜEZI
+- Moin!
+- Benimle konuş
+- Şalom
+- Naber?
+- Tekrar merhaba
+- İyi günler!
+- GuDE yok!
+- Alo?
+- Orada kimse var mı?
+- Moin moin!
+- yoo
+- Hail!
+- Jennifer?
+- Hala orada mısın
+- Na du!
+- Howdie!
+- Önce merhaba
+- Etiket.
+- yooo
+- Geri döndüm
+- Merhaba sen
+- Hoi!
+- Merhaba Sophie
+- Günaydın
+- Orada mısın
+- İyi günler
+- İyi Ta
+- Merhaba bende
+- sizi selamlıyoruz!
+- Hoila!
+- Moin-Moin!
+- Sabah.
+- Şalom!
+- ERoad!
+- Jennifer, hala orada mısın?
+- Merhaba ben
+- Hei!
+- merhaba
+- İyi akşamlar
+- Öğün!
+- Selamlar, ortak!
+- Selamlar!
+- Hey
+- Sıcak bir karşılama!
+- selamlar
+- Moin
+- Gude!
+- Kshlom
+- Benim adım
+- Merhaba Helena
+- Öğr.Gör.Tach!
+- Akşam.
+- ben
+- Günaydın!
+- Selam!
+- zaten
+- Hallihallo!
+- Hala orada mısın?
+- Merhaba Chatbot,
+- Selam
+- Merhaba
+- Moin Moin
+- merhaba dünya
+- Na!
+- Merhaba, benim adım Jenny.
+- Günaydın.
+- Merhaba sevgili takım
+- Pullu Roman!
+- Tachchen!
+- Huhu!
+
+## intent: test_virus
+- Covid 19 Testi
+- Virüs için bir test var mı?
+- Virüs için test alabilir misin?
+- qubeat 19 Testi
+- Qubeat 19 testi serbestçe mevcut mu?
+- Covid Testi
+- Corvette için test
+- Virüs nasıl test edilir?
+- Corvette 19 Testi
+- Khuweg 19 için bir test var mı?
+- Bu 19 Testi taşındı
+- Eczanede COBIT 19 için bir test satın alabilir miyim?
+- Nasıl test edilirim?
+- Kovit 19 Testi
+- COBIT 19 için bir test var mı?
+- Eczanede Hobbit 19 ile ilgili bir test satın alabilir miyim?
+- Korona virüsü için test edilmek istiyorum.
+- Testi nereden alabilirim?
+- Hobbit 19 için bir test var mı?
+- Virüs Testleri
+- Kubik 19 Testi
+- Bir korona virüsü testi yapmak istiyorum.
+- Test yapmak istiyorum.
+- Koronavirüs için nasıl test alabilirim?
+- Kuhweg 19 testi ücretsiz olarak var mı?
+- Huvit 19 testi ücretsiz olarak var mı?
+- Kuhweg 19 Testi
+- Testi nerede bulabilirim?
+- Kovit 19'daki test serbestçe mevcut mu?
+- Ölçek
+- Eczanede cookit 19 için bir test satın alabilir miyim?
+- Huvit 19 için eczaneden test alabilir miyim?
+- Eczanede Covid 19 için bir test satın alabilir miyim?
+- Kubik 19 testi serbestçe mevcut mu?
+- Virüs için testler var mı?
+- Covid 19 için bir test var mı?
+- Ben de enfekte olup olmadığımı test etmek istiyorum.
+- Cupid 19 için bir test var mı?
+- Eczanede kovit 19 için bir test satın alabilir miyim?
+- Koronavirüs feri testi satılabilir mi?
+- Virüs Testi
+- COBIT 19 testi serbestçe mevcut mu?
+- cookit 19 Testi
+- Korona virüsü için test yapabilir misiniz?
+- Test edilmek istiyorum.
+- Qubeat 19 için bir test var mı?
+- Eczanede aşk tanrısı 19 için bir test satın alabilir miyim?
+- Nereden test alabilirim?
+- Huvit 19 için bir test var mı?
+- Kovit 19 için bir sınav var mı?
+- Covid 19 testi serbestçe mevcut mu?
+- Doktor bana bir test önerebilir mi?
+- Movit 19 testi serbestçe mevcut mu?
+- Eczanede Q19 için bir test satın alabilir miyim?
+- Movit 19 için bir test var mı?
+- Eczanede Kubik 19 için bir test satın alabilir miyim?
+- COBIT 19 Testi
+- Q19 testi serbestçe mevcut mu?
+- Eczanede kuhweg 19 üzerinde bir test satın alabilir miyim?
+- Cookit 19 testi serbestçe mevcut mu?
+- Hobbit 19 testi serbestçe mevcut mu?
+- Cookit 19 için bir test var mı?
+- Testi böyle alabilir misin?
+- Eczaneden bir Movit 19 testi satın alabilir miyim?
+- Cupid 19 testi ücretsiz olarak var mı?
+- Hobbit 19 Testi
+- Eros 19 Testi
+- Qubeat 19 için eczaneden test alabilir miyim?
+- Virüsüm olduğundan şüpheleniyorum ve bir test yapmak istiyorum.
+- S19 için bir test var mı?
+- Ovid 19 Testi
+- Korona virüsü için test alabilir miyim?
+- Virüsün bende olup olmadığını öğrenmek istiyorum.
+- Kubik 19 için bir test var mı?
+
+## intent: myths_conspiracy_fakenews
+- Söylentiler ve sahte ürünler
+- Bana efsaneleri anlat
+- Sahte haberler
+- İlluminati
+- Bill Gates komplosu
+- Sahte Haberler
+- Gates komplosu
+- Coronavirus laboratuvarı yetiştirildi
+- sahte rapor
+- ABD her şey için suçlanacak
+- Gizli bir yeraltı laboratuvarında yetişen Corona virüsü
+- komplo
+- Virüs bilerek serbest bırakıldı
+- ABD arkasında
+- Yanlış gerçekler
+- Coronavirus komplo teorileri
+- Aşırı popülasyonu azaltmak için Corona virüsü
+- Bükülmüş gerçekler
+- Corona yanlış pozitifleri
+- Bill Gates nüfus azalması
+- Biyolojik bir silah olarak Corona virüsü
+- Fakenews
+- komplo teorisi koronavirüs
+- Illuminati
+- Laboratuvarlarda geliştirilen virüs
+- Yanlış mesaj
+- Söylentiler
+- Çin arkasında
+- Bana komplo teorilerinden bahset
+- yarı doğruları
+- Virüs laboratuvarda yapıldı
+- Bana sahte haberler hakkında bilgi ver
+- Komplo teorileri
+- Corona komplo teorileri
+- Yanlış ifadeler
+- Yanlış pozitifler
+- popülasyonun azaltılması koronavirüs
+- sahte
+- Hepsi planlandı
+- Populationsreduktion
+- Bir komplo olduğu iddia edilen Corona
+- Yanlış mesajlar
+- Kötü haber
+- Mitler
+
+## intent: bot_real
+- Sen gerçek bir insan değilsin ve ne demek istediğimi anlamıyorsun :(
+- Robotlar neden insanlardan daha iyidir?
+- Erkek misin
+- Kadın veya erkek
+- gerçek kişi
+- Hissedebiliyor musun
+- Ah bir makine
+- bu kişisel bir sohbet değil mi?
+- Cinsiyetin ne
+- Bana ne olduğunu açıklayabilir misin?
+- Sen kız mısın
+- Sen gerçek misin
+- Cinsiyetiniz var mı?
+- Seni görebilir miyim
+- sen gerçek misin
+- Bilgisayar mısın
+- Robotlar?
+- Peki sen ne
+- Sen bir robot musun
+- İnsan olmayı tercih etmez misin?
+- Ne kadar gerçeksin
+- sen o musun
+- Hangi cinsiyet sensin
+- İnsan mısın
+- Erkek misin kız mı
+- Bir makine misin
+- Sen gerçek biri misin
+- Kişi veya sohbet botu musunuz?
+- Sen bir üye misin
+- Kişi misiniz yoksa robot mu?
+- Chatbot musun
+- Gerçek kişi veya bilgisayar mısın?
+- sen erkek misin
+- sen insan değilsin
+- İnsanları sever misin
+- Sen tam olarak ne
+- Erkek misin kadın mı?
+- Sen sen misin
+- Erkek misin bayan mı
+- Bir makine veya robot musunuz
+- Sen bot mısın
+- Yani sen insan değilsin
+- Sen erkek misin
+- Kadın mısın
+- Sen gerçek bir insan değilsin, değil mi?
+- Cinsiyetin nedir?
+
+## intent: germany_precautions_sachsen
+- Hala Saksonya'ya çıkabilir misin?
+- Şimdi Saksonya'da sokağa çıkma yasağı var mı?
+- Saksonya'da çıkış kilidi var
+- Saksonya'da bir kısıtlama var
+- Saksonya'da önlemler nelerdir?
+- Saksonya'daki hazırlıklar nelerdir
+- Saksonya'da temas yasağı var
+- Şu anda Saksonya'da hangi önlemler var?
+- Saksonya'da sokağa çıkma yasağı
+- Saksonya'da temas yasağı var mı
+- Saksonya'da kilit var
+
+## intent: germany_precautions_rheinland
+- Rheinland Pfalz'da şu anda ne gibi önlemler var
+- Rheinland Pfalz'da kilit var
+- Rheinland Pfalz'de engelli çıkış
+- Rheinland-Pfalz'da şu anda ne gibi önlemler var?
+- Rheinland Pfalz bölgesinde sokağa çıkma yasağı
+- Rheinland Pfalz'da bir kısıtlama var
+- Rheinland Pfalz'da temas yasağı var mı
+- Hala Rheinland Pfalz'da dışarı çıkabilir miyim?
+- Rheinland-Pfalz çıkış kilidi
+- Rheinland Pfalz'da çıkış kilidi var
+- Rheinland-Pfalz'da temas yasağı var
+- Yine de Rheinland-Pfalz'da dışarı çıkabilir miyim?
+- Rheinland Pfalz'daki hazırlıklar nelerdir
+- Rheinland-Pfalz'da kilit var
+- Rheinland-Pfalz'da önlemler nelerdir?
+- Şu anda Rheinland-Pfalz'da sokağa çıkma yasağı var mı?
+- Rheinland-Pfalz'da çıkış kilidi var
+- Rheinland-Pfalz'daki hazırlıklar nelerdir
+- Rheinland Pfalz'da temas yasağı var
+- Rheinland-Pfalz'da temas yasağı var mı
+- Rheinland-Pfalz'da bir kısıtlama var
+- Rheinland-Pfalz'da sokağa çıkma yasağı
+- Şimdi Rheinland Pfalz'da sokağa çıkma yasağı var mı?
+- Rheinland Pfalz'da önlemler nelerdir?
+
+## intent: cc_highest_building
+- Dünyanın en büyük binası hangisi?
+- En büyük bina hangisidir?
+- Söyle bana dünyanın en yüksek gökdeleni.
+- Dünyanın en yüksek binası
+- Bana dünyanın en büyük binası adını ver
+- Dünyanın en büyük binası mı?
+- Dünyanın en yüksek binası.
+- Dünyanın en yüksek gökdeleni
+- Dünyadaki en yüksek bina hangisidir?
+- Dünyanın en büyük binası nerede?
+- Dünyanın en büyük binası nedir?
+- En yüksek bina.
+- Dünyanın en yüksek binası nerede?
+- Dünyadaki en yüksek yapı nedir?
+
+## intent: work_homeoffice_rights
+- Evden çalışma hakkım var mı?
+- İşverenimden evden çalışmasını isteyebilir miyim?
+- Ev ofisimdeki evden çalışma hakkım var mı?
+- Şimdi evde çalışabilir miyim?
+- Yasal olarak evden çalışma iznim var mı?
+- Ev ofisimde yasal çalışma hakkım var mı?
+- Evde ne zaman çalışabilirim?
+- Bir çalışan olarak, ev ofisi yapıp yapmayacağım konusunda kendime karar verebilir miyim?
+- Yasal olarak ev ofisimde çalışma hakkım var mı?
+- Ev ofisine girme hakkım var mı?
+- Ev ofisinde çalışmak istiyorum, buna hakkım var mı?
+- Ev ofisi hakkı
+- Virüs korkusuyla evde kalabilir miyim?
+- Ev ofisi yapabilir miyim?
+
+## intent: germany_precautions_hessen
+- Hessen'de çıkış kilidi var
+- Hessen'de şu anda ne gibi önlemler var
+- Hessen'de temas yasağı var mı
+- Hessen'de kilit var
+- Hesse'de şu an sokağa çıkma yasağı var mı?
+- Hessen'deki önlemler nelerdir
+- Hessen'de temas yasağı var
+- Hesse'de sokağa çıkma yasağı
+- Hessen'de bir kısıtlama var
+- Hala Hessen'de dışarı çıkabilir misin?
+- Hessen'deki hazırlıklar nelerdir
+
+## intent: travel_returnprogram
+- Seyahat iade programı
+- Yurtdışında sıkıştık
+- Almanya'ya geri dönemeyebileceğimi düşünmem gerekiyor mu?
+- Reiserückkehr
+- Almanya'da bazı ülkeler için giriş yasağı var mı?
+- Çok telli Almanlar için iade kampanyası
+- rewritings
+- Turistler hedefe sıkışmış ne yapmalı?
+- Artık dönüş seyahati imkanı yok
+- geri alma
+- Dönüş kilidi
+- Almanya'da giriş yasağı var mı?
+- Reiserückholprogramm
+- Almanya'ya geri dönebilir miyim?
+- Geri dönmeyeceğim
+- Almanya'ya dönüş programı ve dönüş seçenekleri
+- Yurtdışında sıkıştım
+- Almanya'da giriş yasağı
+- Şimdi yurt dışından nasıl geri döneceğiz?
+- Almanya'ya dönüş seçenekleri
+- Seyahat noktasında kaldık
+- Geri gelmeyeceğiz
+- dönüş yolculuğu mümkün değil
+- İade programı
+- Dönüş yolculuğum risk altında mı?
+- Dönüş kampanyası
+- Geri dönüş eylemi
+- Almanya'ya dönüş yolculuğum risk altında mı?
+- Yine de Almanya'ya dönebilir miyim?
+- Yurtdışında mahsur
+
+## intent: bot_worst_experience
+- Ne tür kötü deneyimleriniz var?
+- En kötü deneyimleriniz hakkında daha fazla bilgi!
+- Kötü deneyimler?
+- En kötü deneyimleriniz nelerdi?
+- Hayatta kötü bir deneyim yaşadın mı?
+- Kötü deneyimler ne olacak?
+- Bana kötü deneyimlerinden bahset!
+- Kötü deneyimleriniz var mı?
+- En kötü deneyiminiz neydi?
+- Bana en kötü deneyiminden bahset!
+- Kötü deneyimleriniz hakkında daha fazla bilgi!
+- Seni ne üzüyor
+- Hayal edebileceğiniz en kötü şey nedir
+- en kötü deneyimin neydi?
+- başına gelen en kötü şey neydi
+- Kötü deneyimlerin oldu mu?
+- Hangi kötü deneyimler yaşıyorsunuz?
+
+## intent: prevention_general
+- Enfeksiyon riskini nasıl azaltabilirim?
+- Kendimi korona virüsüne karşı korumanın en iyi yolu nedir?
+- Önleme tedbirleri.
+- Hastalığı yayma olasılığı nasıl azaltılabilir?
+- Kendinizi ve diğer insanları enfeksiyondan nasıl koruyabilirsiniz?
+- Kendinizi virüsten korumak için ne yapmalı?
+- Kendimi korona virüsüne karşı nasıl koruyabilirim?
+- Kendimi enfeksiyondan nasıl koruyabilirim?
+- Kendimi virüsten korumak için ne yapmalıyım?
+- Sağlıklı insanlar kendilerini nasıl koruyabilir?
+- Önlemler.
+- Enfekte olmaktan kaçınmak için kişisel olarak ne yapabilirim?
+- Koronavirüse karşı önlemler
+- Kendinizi enfeksiyondan nasıl koruyabilirsiniz?
+- Enfeksiyon riski nasıl azaltılabilir?
+- Önleyici tedbirler
+- Hangi önlemler Corona Virüsü bulaşmasını azaltır?
+- Kendimi nasıl koruyabilirim?
+- Hastalığın yayılmasını önlemek için ne yapabilirim?
+- Ne gibi önlemler almalıyım?
+- Kendimi korona virüslerine karşı nasıl koruyabilirim?
+- Hastalıkların yayılmasını önlemek için ne yapmalı?
+- Virüsün yayılma olasılığı nasıl azaltılabilir?
+- Kendimi korumak ve hastalığın yayılmasını önlemek için ne yapabilirim?
+- Enfeksiyonların önlenmesi.
+- Kendimi enfeksiyondan korumak için ne yapabilirim?
+- Korunacak önlemler.
+- Hastalığı önlemek için koruyucu önlemler.
+- Herkes kendini ne zaman koruyabilir?
+- Kendimi Sars-CoV-2'ye karşı nasıl koruyabilirim?
+- kendini en iyi nasıl koruyabilirsin
+- Kendimi korumak için ne yapabilirim?
+- Virüse karşı önlemler
+- Enfeksiyon riskini nasıl en aza indirebilirim?
+- Nasıl önleyebilirim?
+- İnsanlarınızı enfeksiyondan nasıl koruyabilirsiniz?
+- Koruyucu önlemler.
+- önleme
+- Corona virüsü: kendinizi korumak için ne yapabilirsiniz?
+- Enfeksiyona karşı koruma.
+- Vatandaşlar kendilerini korona virüsüne karşı nasıl koruyabilir?
+- Kendimi korumak ve bulaşmayı önlemek için ne yapmam gerekiyor?
+- Virüse karşı korunmak için önleyici tedbirler.
+
+## intent: work_continued_payment
+- Tazminat hakkı ve kübik 19
+- Hala maaşlarımı alıyor muyum?
+- İş hukukuna hak kazanma
+- Şirketim geçici olarak kapanıyor, maaşımı almaya devam edecek miyim?
+- Bir çalışan olarak, karantina içindeysem hala ücretlerimi alacak mıyım?
+- Şirket geçici olarak kapanırsa ödeme almaya devam edecek miyim?
+- Geçici kapanışlar
+- Karantinadayken ücret almaya devam ediyor muyum?
+- Çalışamasam bile maaşımı alacak mıyım?
+- Ödeme hakkı ve Kuhweg 19
+- Şirket geçici olarak kapanıyor, şimdi bana ödeme yapılacak mı?
+- Ücretlendirme hakkı
+- Ödeme Hakkı ve Covit-19
+- Geçici bir iş kesintisi veya kapanması durumunda ödemeye devam etme hakkım var mı?
+- Devamlı ödeme
+- Hala maaşımı alıyor muyum?
+- İşveren genellikle ücret ödemekle yükümlü mü?
+- Çalışamasam bile ücret almaya hak kazanıyor muyum?
+- Şirket şimdilik kapalı olacak, hala maaşlarımı alacak mıyım?
+- Geçici arıza
+- Ücretlerimi almaya devam ediyor muyum?
+- Ödeme hakkı ne olacak?
+- Ücret ve Covit 19'a hak kazanma
+- Ücret hakkı
+- Şirket kapanırsa bana ödeme yapılmaya devam edecek mi?
+
+## intent: spread_heat_cold
+- İklim nasıl bir rol oynuyor?
+- Korona virüsü ve soğuk algınlığı
+- Sıcak sıcaklıklar
+- Isı öldürme virüsü
+- Havanın etkisi nedir?
+- Virüs soğukta daha hızlı yayılıyor mu?
+- Corona yüksek sıcaklıklara ve neme tepki veriyor mu?
+- Korona virüsü ve düşük sıcaklıklar
+- Sıcak veya soğuk Corona'yı etkiler mi?
+- Korona virüsü ve yüksek sıcaklıklar
+- Hava durumu nasıl bir rol oynuyor?
+- koronavirüs sıcaklık etkisi
+- Virüs sıcakken daha hızlı yayılıyor mu?
+- koronavirüs sıcaklık influsları
+- Virüsün yüksek sıcaklıklarda öldüğü doğru mu?
+- Yeni korona virüsü daha yüksek sıcaklıklarda zayıflıyor mu ve salgının baharda azalması muhtemel mi?
+- Virüs yüksek sıcaklıklarda daha az yayılıyor mu?
+- Virüs soğukken daha hızlı yayılıyor mu?
+- Isıda korona virüsü
+- Virüs sıcak havalarda daha az yayılıyor mu?
+- Virüsün 27 derecelik bir sıcaklıkta öldüğü doğru mu?
+- Korona virüsü ve ısı
+- İklim etkisi
+
+## intent: cc_philosophical
+- Farkındalığı nasıl tanımlıyorsunuz?
+- Kader Var mı?
+- Üzüntü olmadan şanslı olabilir miyiz?
+- Gerçekten özgür irade olacak mı?
+- Tanrı olmadan ahlak olabilir mi?
+- Aşk sadece bir duygu mu?
+- Bu koşul altında ölümsüz hale gelebilseydiniz, ASLA kendinizi öldüremaz veya öldüremezsiniz, ölümsüzlüğü seçer misiniz?
+- Hangi inançlarınız haklı?
+- Özgür irademiz var mı?
+- Doğa çözülmeye veya bütünleşmeye doğru ilerliyor mu?
+- Gerçekten nesnel olan ve hayatta öznel olmayan nedir?
+- İnsanlar neden kanıtlanamayacak kadar ikna oldular?
+- Ne elde edebilirsin
+- Neden duygular yaşıyoruz?
+- Sizce ölme ihtimaliniz en yüksek olan nedir?
+- İnsanlar etik açıdan kendilerini geliştirmek zorunda mıdır?
+- İnsanlığın dünya dışı yaşamın keşfine tepkisinin ne olacağını düşünüyorsunuz?
+- Güzellik nesnel mi yoksa öznel mi?
+- Hayatta bir anlam var mı?
+- İnsan yaratıcılığının sınırları var mı?
+- İnsanlar doğmadan önce neredeydi?
+- Mutluluk sadece beyninizden geçen kimyasallar mı yoksa daha fazlası mı?
+- Hayvanlar haklı olabilir mi?
+- Dünyanın sonunda ne olacak?
+- Zamanın bir başlangıcı veya sonu var mı?
+- Hayat bir rüya mı?
+- Ölümden korkmalı mıyız?
+- Özgürlük istediğini yapabilir mi?
+- Karşılaştığınız en büyük ahlaki ikilemler nelerdir?
+- Tüm başarılı insan toplulukları için hiyerarşi gerekli mi?
+- Sanat topluma ne gibi avantajlar getiriyor?
+- Belli bir sansür seviyesi gerekli mi?
+- Bilincin evrimsel açıdan kullanımı nedir?
+- insan yaşamını haklı kılar?
+- Güvenlik için ne kadar mahremiyet feda etmek istiyorsunuz?
+- Neden hayal ediyoruz?
+- Adalet ve intikam arasındaki fark nedir?
+- Başkalarına yardım etmek zorunda mıyız?
+- Duyulacak bir şey olmadığında ses geliyor mu?
+- Hayvanlar ne kadar bilinçlidir?
+- Evren nerede bitiyor?
+- Hayatınla ne yapacaksın?
+- Delilik ve yaratıcılık arasındaki çizgi nerede?
+- Dehayı nasıl tanımlarsınız?
+- Ahlak Göreli mi?
+- Adil toplum nedir?
+- Doğa kişiliğimizi daha çok şekillendiriyor mu?
+- Adalet bir insan yapısı mı yoksa insanlardan bağımsız mı?
+- Tüm insanların yaşam beklentileri önemli ölçüde arttırılırsa insanlık nasıl değişecekti?
+- Hayata anlamını veren nedir?
+- Neden insanlar kendilerini gerçek dünyadan uzaklaştırmak için bu kadar güçlü bir dürtüye sahipler?
+- Hayatın anlamı hayvanlar ve insanlar için aynı mıdır?
+- Hayatınızdaki en büyük başarıları nasıl açıklıyorsunuz?
+- Bir aile hala modern dünyada geçerli mi?
+- Farkındalık nedir?
+- Rasyonel düşünme dil olmadan var olabilir mi?
+- Gerçekten objektif bir şey yaşayabilir misiniz?
+- Gerçeklik nedir
+- Birçoğunun ihtiyaçları azınlığın gereksinimlerinden daha ağır mı?
+- Özgür irade gerçek mi yoksa sadece bir yanılsama mı?
+- Tanrı Var mı?
+- Eğer her şey amiplerden geliştiyse, dünyanın hala amipleri var mı?
+- Mutlak güç kesinlikle acıyor mu?
+- Bilinç ne zaman başlar?
+- İki yüce tanrı olabilir mi?
+- Öldükten sonra ne kadar süre hatırlanacaksın?
+- Sonsuzluk nedir?
+- Zeka veya bilgelik daha faydalı mı?
+- Felsefe okumak hiç cevaplara veya sadece daha fazla soruya yol açar mı?
+- Gerçek nedir
+- Bir matriste yaşayabilir miyim?
+- Hangi inançlarınız haklı ve hangileri haklı değil?
+- Hayvanların ruhları var mı?
+- Ben kimim?
+- İnsanlar sadece makineler midir?
+- Savaşlar hiç adil olabilir mi?
+- Evren sonluysa, evrenin sınırının ötesinde ne olurdu?
+- Hayatınızda ne kadar kontrolünüz var?
+- Aşk nedir
+- İnsan doğası değiştirilebilir mi?
+- Mizah duygusu, bilincin bir yan ürünüdür
+- Bir kişi başkalarını rahatsız etmemek için ne kadar çaba harcamalıdır?
+- Dil düşüncemizi ne kadar etkiler?
+- Atom bombasının icadı dünyayı daha huzurlu hale getirdi mi?
+- Öldükten sonra ne olur?
+- Hayatınızda anlamı nerede buluyorsunuz?
+- Normal bir hayat yaşamak ve asla yalan söylemek mümkün müdür?
+- Seni ne yapar
+- Eğer tüm anılarınız silinmiş olsaydı, nasıl bir insan olurdunuz?
+- İyi bir hayat yaşamak ne demektir?
+- Felsefe çalışması cevaplara yol açar mı?
+- Düşünceler nereden geliyor?
+- Bilim din ile uyumlu mu?
+- İnsanlar bir tür olarak nasıl ölecekler?
+- Güzellik nedir?
+- Güven sevgiden daha mı önemlidir?
+- Algılarınızın gerçek olduğunu nereden biliyorsunuz?
+- Benlik saygınız nereden geliyor?
+- Evrenimiz gerçek mi?
+- Felsefe nedir?
+- Ahlakın ne olduğuna kim karar verir?
+- İfade özgürlüğü hakkı kısıtlanmalı mı?
+- İyi bir arkadaş yapan nedir?
+- Tüm insanlar eylemlerinden bağımsız olarak aynı değere sahip mi?
+- Hangi bilimsel atılım insanlık üzerinde en büyük etkiye sahip olurdu?
+- Özgürlük nedir?
+- Ölülere neden saygı duymalıyız?
+- İnsan potansiyelinin en büyük israfı nedir?
+- Yemek sanat olabilir mi?
+- Kimse bilmiyorsa yanlış bir eylem olur mu?
+- İnsanlar var olduğu sürece teknolojik ilerleme kaçınılmaz mı?
+- Zeka nedir?
+- Herkes aynı gözükürse dünya daha iyi veya daha kötü bir yer olabilir mi?
+- Mevcut teknolojimizle gerçek yapay zeka mümkün müdür?
+- Bir ruhumuz var mı?
+- İnsanlar neden rastgele bir evrenin adil olmasını bekler?
+- Zamanın herhangi bir şekilde değişip değişmediğini söyleyebilir misiniz?
+- Kişinin adı kim olduğunu etkiler mi?
+- Ölümden Sonra Ne Olur?
+- Yaşam felsefeniz neye dayanıyor?
+- Gerçekten özgür irade var mı?
+- En iyi ahlak sistemi nedir?
+- Para mutluluk satın alamazsa, hiç parasız gerçekten mutlu olabilir misiniz?
+- Ölümden sonra hayat var mı?
+- Bir toplum yasalar olmadan var olabilir mi?
+- İnsanlar deliller olmadan gerçeklere nasıl inanabilirler?
+- Neden hiçbir şey yok ama bir şey yok?
+- Ben gerçek miyim
+- Life ve life arasındaki fark nedir?
+- Toplumdaki çeşitliliğin avantajları ve dezavantajları nelerdir?
+- Neden sanat yaratıyoruz?
+- İnsanlar neden sihirli düşünceye bu kadar duyarlıdır?
+- Sanat topluma herhangi bir şekilde zarar verir mi?
+- Neden kendimizi niyetlerimize göre yargılıyoruz, ama başkalarını eylemlerine göre değerlendiriyoruz?
+- Sevilmek veya saygı görmek daha mı önemlidir?
+- Toplumda yoksulluk kaçınılmaz mı?
+- Evrensel insan hakları nelerdir?
+- Bir insanın mutluluğu elde etmesinin en iyi yolu nedir?
+- Gerçek güç nedir?
+- Mutluluk hayatın en önemli parçası mı?
+- Bilinci nasıl açıklarsınız?
+- Gözlem bir olayı değiştirir mi?
+- Ruh nerede yaşıyor?
+- Sayılar nedir?
+- Gizlilik bir hak mıdır?
+- Bilgisayarlar yaratıcı olabilir mi?
+- Hayvanların ahlakı olabilir mi?
+- Sen gerçek misin
+- Gerçek mutluluk nedir?
+- İnsanlık doğru mu yanlış yönde mi gidiyor?
+- İnsanlar doğru olanı yapmakla daha fazla ilgilenmeli mi?
+- Gerçek aşk nedir?
+- Ne kadar değiştirilebilirsiniz?
+- Hangi zor gerçekleri görmezden gelmeyi tercih edersin?
+- İnsanların kendilerini öldürmeden 1000 yıl daha yaşayabilecekleri ihtimaliniz nedir?
+- Evil'un tanımı nedir?
+- Sizce evren yaratılmadan önce neler vardı?
+- Uzaylılar var mı?
+- Sevmek ya da sevilmek daha mı kolay?
+- İnsanlığın hedefi ne olmalı?
+- Zaman nedir
+- İnsanların özgür iradeleri var mı?
+- Aşk tutku veya cinsel arzudan nasıl farklıdır?
+- Din hiç modası geçecek mi?
+- Herkesin hakları nelerdir?
+- Kendinizi yargılamak için hangi standartları kullanıyorsunuz?
+- Başarısız olmak ya da denememek daha mı kötü?
+- Evren nasıl başladı?
+- Var mıyım?
+- Üstün bir güç var mı?
+- Kim iyi ve kötü tanımlar?
+- Duygu nedir?
+- Yaşamak için bir sebep var mı?
+- İnternete sınırsız erişim temel bir insan hakkı mı olmalı?
+- Hayatın anlamı nedir?
+- Sanat değil sanat arasındaki çizgi nerede?
+- sence
+- Bilgisayarlar düşünebilir mi?
+- İnsanlar aydınlanmadan sonra ne arar?
+- Hayatınızdaki en büyük hatalar nelerdir?
+- Küçük bir havuzda büyük bir balık ya da büyük bir havuzda küçük bir balık olmak daha mı iyi?
+- Ötenazi yasal mı olmalı?
+- Bir insanın teröristi başkasının özgürlük savaşçısı değil mi?
+- Onur günümüz toplumunda nasıl bir rol oynamaktadır?
+- Duygular mantıksız mı?
+- Bir toplumun verimliliğini nasıl ölçmeliyiz?
+- Seni özel yapan nedir
+- Herkesin sahip olması gereken en önemli hedef nedir?
+
+## intent: myth_hold_breath
+- Nefes almak korona virüsü için hızlı bir test mi?
+- Nefesini tut Corona
+- Bir korona testi olarak nefesini 10 saniye tutuyor musun?
+- Belirli bir süre nefesinizi tutarak Corona'nızın olup olmadığını test edebilir misiniz?
+- Nefesini tutmaya ne dersin?
+- Nefesinizi 10 saniye tutabiliyorsanız, enfekte olmazsınız!
+- Kendi kendine test olarak nefesini tutma
+- Nefesini tut corona
+- Nefesini on saniye tut
+- Nefesini tut
+- Hızlı bir korona testi olarak nefesini mi tutuyorsun?
+- Nefes, korona virüsü için hızlı bir test tutuyor mu?
+- Belirli bir süre nefesinizi tutarak korona olup olmadığını test edebilir misiniz?
+- Nefesini 10 saniye tut
+- Solunum, korona virüsü için hızlı bir test olarak kalır mı?
+- Kendi kendine test olarak nefes alma
+- Nefesinizi 10 saniye tutabiliyorsanız, enfekte olmadığınızı okudum
+- Nefes tutma korona virüsü için hızlı bir test olarak işlev görür mü?
+
+## intent: vocative_call
+- Cevap verebilir misin
+- Merhaba, seninle konuştuğumda bana cevap ver
+- Merhaba hala orada mısın
+- Hala orada mısın
+- Nereye gittin
+- Hala orada mısın?
+- Huhu, evde biri var mı?
+- Merhaba, neden cevap vermiyorsun?
+- Seninle konuştuğumda bana cevap ver.
+- Hala burada mısın
+- Sen gittin mi
+- Hey, seninle konuşuyorum!
+- Sen nerdesin
+- Huhu, orada mısın?
+- Artık orada değil misin
+- Huhu, hala orada mısın?
+- Orada mısın
+- Merhaba, hala orada mısınız?
+- Huhu, gittin mi?
+- Merhaba, evde başka biri mi?
+
+## intent: test_quick_test
+- Hızlı test aşk tanrısı 19
+- Hızlı bir teste ihtiyacım var
+- Hobbit 19 hızlı testi
+- Hızlı bir test yapmalıyım
+- Hızlı bir test var mı?
+- Kovit 19 için hızlı bir test var mı?
+- S19 için hızlı bir test var mı?
+- Enfekte olup olmadığımı hemen bilmek istiyorum
+- Hızlı test Kowit 19
+- Hızlı test Covid-19
+- Hızlı bir test yapabilir miyim?
+- aşk tanrısı 19 hızlı test
+- Q19 hızlı testi
+- Kowit 19 hızlı testi
+- Hızlı test pişirme 19
+- Kuhweg 19 hızlı testi
+- Hızlı test lütfen
+- Hızlı test kuhweg 19
+- Covid 19 hızlı testi
+- Hızlı test hakkında bilgi
+- Cubic 19 Hızlı Test
+- Nerede hızlı bir şekilde test alabilirim?
+- Coronavirus hızlı testi
+- Qubeat 19 için hızlı bir test var mı?
+- Hızlı test hareketi 19
+- COBIT 19 için hızlı bir test var mı?
+- Kubik 19 için hızlı bir test var mı?
+- kovit 19 hızlı test
+- Hızlı test qubeat 19
+- Nerede hızlı bir test yapabilirim?
+- Corona virüsü hızlı testi
+- Hemen bir sınava girmek istiyorum.
+- Hızlı test aracı 19
+- Yeni korona virüsü için hızlı bir test var mı?
+- Corona hızlı testleri güvenilir midir?
+- Corona Hızlı Testleri Güvenilir mi?
+- COBIT 19 hızlı test
+- huvit 19 hızlı testi
+- Hobbit 19 için hızlı bir test var mı?
+- qubeat 19 hızlı testi
+- Hızlı test COBIT 19
+- Hızlı test kovboy 19
+- Cookit 19 için hızlı bir test var mı?
+- Hızlı test küpü 19
+- cookit 19 hız testi
+- Hızlı test Covid 19
+- Covid 19 için hızlı bir test var mı?
+- Hızlı test Hobbit 19
+- Hızlı test nerede kullanılabilir?
+- movit 19 hız testi
+- Covid-19 hızlı testi
+- Cupid 19 için hızlı bir test var mı?
+- Hızlı bir test yaptırmak istiyorum
+- Hızlı test S19
+- Bana anında sonuç veren bir test var mı?
+- Huvit 19 için hızlı bir test var mı?
+- Khuweg 19 için hızlı bir test var mı?
+- Virüsüm olup olmadığını hemen kontrol etmek istiyorum
+- Movit 19 için hızlı bir test var mı?
+
+## intent: work_covid_general
+- İşçiler için koronavirüs sonuçları nelerdir
+- Kovit 19 salgınının iş hukuku sonuçları
+- İş ve Kovit 19
+- movit 19 çalışanlar için sonuçları nelerdir
+- Covid 19'un İşçiler İçin Sonuçları Nelerdir?
+- Huvit 19'un iş üzerindeki sonuçları nelerdir?
+- İş ve taşınma 19
+- Kovit 19'un iş üzerindeki sonuçları nelerdir?
+- Cookit 19 işi nasıl etkiler?
+- Corvette 19 işi nasıl etkiler?
+- Hobbit 19 ve iş hukuku
+- Qubeat 19'un işçiler için sonuçları nelerdir?
+- İş ve korona virüsü
+- Covid 19'un çalışma üzerindeki sonuçları nelerdir?
+- Qubeat 19'un çalışma üzerindeki sonuçları nelerdir?
+- Movit 19 işi nasıl etkiler?
+- İş ve Qubeat 19.
+- Bir işçi olarak Cupid 19 hakkında ne bilmem gerekiyor?
+- Qubeat 19'un iş üzerindeki etkileri
+- Corvette 19 ve iş hukuku
+- Covid 19 ve İş Hukuku
+- Çalışma ve Huvit 19.
+- Cookit 19'un iş üzerinde ne gibi sonuçları var?
+- Kuhweg 19 ve iş hukuku
+- Corona virüsü çalışanlar için sonuçları nelerdir
+- Corona virüsü ve çalışması
+- Bir işçi olarak Kuhweg 19 hakkında ne bilmem gerekiyor?
+- Cupid 19'un çalışma üzerindeki etkileri
+- Cupid 19 ve iş hukuku
+- İş ve Covid 19.
+- işçi
+- Hobbit 19 ve çalışması
+- Korona virüsünün çalışma üzerindeki etkileri
+- 19 yemek ve iş
+- Koronavirüs pandemisinin iş hukuku sonuçları
+- Corvette 19'un işinde ne gibi sonuçları var?
+- Bir işçi olarak, Covid 19 hakkında ne bilmem gerekiyor?
+- Kubik 19 işi nasıl etkiler?
+- Kubik 19 ve İş Hukuku
+- Bir işçi olarak qubeat 19 hakkında ne bilmem gerekiyor?
+- Cupid 19 salgınının iş hukuku sonuçları
+- Huvit 19 çalışanlar için sonuçları nelerdir
+- Bir işçi olarak, koronavirüs hakkında ne bilmem gerekiyor?
+- Qubeat 19 pandemisinin iş hukuku sonuçları
+- 19 pandemisi hareketinin iş hukuku sonuçları
+- Bir işçi olarak Huvit 19 hakkında ne bilmem gerekiyor?
+- Kuhweg 19'un çalışma üzerindeki sonuçları nelerdir?
+- İş hukuku
+- Corona virüsü ve iş hukuku
+- İş ve Aşk Tanrısı 19
+- Kovit 19 işçiler için sonuçları nelerdir
+- Cookit 19'un iş üzerindeki sonuçları nelerdir?
+- Çalış ve pişir 19.
+- Huvit 19 salgınının iş hukuku sonuçları
+- Kübik 19 çalışanlar için sonuçları nelerdir
+- Covid 19'un çalışma üzerindeki etkileri
+- Hobbit 19 çalışanlar için sonuçları nelerdir
+- Movit 19'un çalışanlar için sonuçları nelerdir?
+- Hobbit 19 işi nasıl etkiler?
+- movit 19 ve iş hukuku
+- Kovit 19'un çalışma üzerindeki etkileri
+- Kuhweg 19'un çalışma üzerindeki etkileri
+- Kovit 19'un işçiler için sonuçları nelerdir?
+- Movit 19'un iş üzerindeki sonuçları nelerdir?
+- Qubeat 19'un iş üzerindeki sonuçları nelerdir?
+- Covid 19 salgınının iş hukuku sonuçları
+- Huvit 19 ve çalışması
+- Covid 19 çalışanlar için sonuçları nelerdir?
+- Kübik 19 salgınının iş hukuku sonuçları
+- İş ve Hobbit 19.
+- Hobbit 19 çalışmayı nasıl etkiler
+- Korona virüsü işi nasıl etkiler?
+- Huvit 19'un işçiler için sonuçları nelerdir?
+- Kovit 19 işi nasıl etkiler?
+- Kuhweg 19'un çalışanlar için sonuçları nelerdir?
+- Koronavirüsün çalışma üzerindeki sonuçları nelerdir?
+- Cookit 19'un iş üzerindeki etkileri
+- movit 19 ve iş
+- 19 küp ve iş
+- Huvit 19'un iş üzerindeki etkileri
+- kubat 19 işçi için sonuçları nelerdir
+- Kuhweg 19 çalışanları için sonuçları nelerdir
+- İş ve Kübik 19
+- Cupid 19'un işçiler için sonuçları nelerdir?
+- Huvit 19 işi nasıl etkiler?
+- Hobbit 19 Pandemisinin İstihdam Sonuçları
+- Bir çalışan olarak, cookit 19 hakkında bilmem gerekenler nelerdir?
+- Bir çalışan olarak Kovit 19 hakkında ne bilmem gerekiyor?
+- Corvette 19 işçiler için sonuçları nelerdir
+- Kübik 19'un iş üzerindeki etkileri
+- Kuhweg 19 işi nasıl etkiler?
+- Cook 19 pandemisinin iş hukuku sonuçları
+- Corvette 19 salgınının iş hukuku sonuçları
+- Kubik 19'un iş üzerindeki sonuçları nelerdir?
+- Kuhweg 19 ve çalışması
+- Çalışanlar için 19 nolu sonuç sonuçları nelerdir
+- Hareket 19'un iş üzerindeki etkileri
+- Bir işçi olarak, Corvette 19 hakkında ne bilmem gerekiyor?
+- Cupid 19'un çalışma üzerindeki sonuçları nelerdir?
+- Covid 19 işi nasıl etkiler?
+- Corvette 19'un iş üzerindeki sonuçları nelerdir?
+- cookit 19 çalışanlar için sonuçları nelerdir
+- Kovit 19 ve iş
+- İş ve Kuhweg 19
+- Cupid 19 ve iş
+- kubat 19 ve iş hukuku
+- Kübik 19'un işçiler için sonuçları nelerdir?
+- Kovit 19 ve İş Hukuku
+- Korona virüsünün iş üzerinde ne gibi sonuçları var?
+- Corvette 19 ve iş
+- Qubeat 19 işi nasıl etkiler?
+- Covid 19 ve iş
+- Hobbit 19'un işçiler için sonuçları nelerdir?
+- Kuhweg 19 pandemisinin iş hukuku sonuçları
+- cookit 19 ve iş hukuku
+- Cupid 19 işi nasıl etkiler?
+- Bir işçi olarak, küp 19 hakkında ne bilmem gerekiyor?
+- İş ve Corvette 19.
+- Bir işçi olarak Hobbit 19 hakkında ne bilmem gerekiyor?
+- Huvit 19 ve İş Hukuku
+- İşçiler için Corvette 19 sonuçları nelerdir?
+- kubat 19 ve iş
+- Corvette 19'un çalışma üzerindeki etkileri
+- Cupid 19 işçiler için sonuçları nelerdir
+- Bir çalışan olarak, movit 19 hakkında bilmem gerekenler nelerdir?
+
+## intent: stayhomeinfo_drive_other_city
+- Yine de komşu kasabadaki doktora araba ile gidebilir miyim?
+- Kardeşlerim komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
+- Yine de komşu kasabadan bir randevuya gidebilir miyim?
+- Başka bir şehirde arkadaşlarınızı veya aile üyelerinizi araba ile ziyaret etmeye ne dersiniz?
+- Komşu kasabadaki doktora gidebilir miyim
+- Aile üyelerimin çoğu komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
+- Yine de komşu kasabadaki doktor randevusuna gidebilir miyim?
+- Başka bir şehre gidebilir miyim?
+- @De_cities'de hala ikinci evime gidebilir miyim?
+- Ailem komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
+- Yine de komşu kasabaya arabayla gidebilir miyim?
+- @De_cities'de ikinci bir evim var ve yine de oraya gidebilirim
+- Köyde yaşıyorum, hala komşu kasabaya gidebilir miyim?
+- @De_cities'de ikinci bir ikamet yerim var, yine de oraya gidebilirim
+- Diğer şehirdeki arkadaşlarımı hala ziyaret edebilir miyim?
+- Kardeşim komşu kasabada yaşıyor - en azından birbirimizi ziyaret edebilir miyiz?
+- Yeğenlerim komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
+- En azından komşu şehre gidebilir miyim?
+- Kız kardeşim komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
+- Yine de komşu kasabada alışveriş yapabilir miyim?
+- Yine de komşu kasabadaki süpermarkete arabayla gidebilir miyim?
+- Kuzenlerim komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
+- @De_cities'de ikinci bir evim var, hala oraya gidebilirim
+- Başka bir şehre gitmek istiyorum
+- Şehirdeki doktora gidebilir miyim?
+- Diğer şehirde hala ailemi ziyaret edebilir miyim?
+- Yine de alışveriş için şehre gidebilir miyim?
+- Köyde yaşıyorum, hala şehre gidebilir miyim?
+- Yine de şehre araba ile girebilir miyim?
+- @De_cities'de ikinci bir dairem var, hala oraya gidebilir miyim
+
+## intent: user_particles
+- 
+- uff
+- Aham
+- bu
+- Sus
+- ah
+- bir
+- aahaa
+- hui
+- hmm
+- brr
+- ahhh
+- ohh
+- evet
+- ufff
+- arasında
+- hm
+- hmmm
+- ahh
+- Başka ne var?
+- oha
+- uhm
+- Ahem!
+- hu
+- mHH
+- aman
+- Ah!
+- aaha
+- huuu
+- mh
+
+## intent: germany_precautions_hamburg
+- Hamburg'da şu anda ne gibi önlemler var
+- Hamburg'da temas yasağı var
+- Hamburg'da bir kısıtlama var
+- Hamburg'daki hazırlıklar nelerdir
+- Hamburg'da kilit var
+- Hamburg'da önlemler nelerdir?
+- Hamburg'da hala dışarı çıkabilir miyim?
+- Hamburg'da çıkış kilidi var
+- Hamburg'da sokağa çıkma yasağı
+- Hamburg'da temas yasağı var mı
+- Hamburg'da sokağa çıkma yasağı var mı?
+
+## intent: cc_geography
+- Almanya'yı biliyor musunuz?
+- @de_Erdkunde @de_expressions_positive
+- Coğrafyayı sever misin
+- Almanya biliyormusun
+- Bana coğrafya hakkında ne söyleyebilirsin?
+- Almanya hakkında ne biliyorsun?
+- Almanya hakkında ne biliyorsun
+- @de_Erdkunde
+- @de_Erdkunde hakkında ne biliyorsun?
+- Coğrafyayı nerede bulabilirim?
+- @de_Erdkunde hoşunuza gitti mi?
+- @de_Erdkunde biliyor musunuz?
+- Bana Almanya hakkında ne söyleyebilirsin?
+- @de_Erdkunde hakkında bana ne söyleyebilirsin?
+- @de_Erdkunde nerede?
+- Almanya nerededir?
+- Almanya nerede
+- @de_Erdkunde harika.
+- Almanya'yı nerede bulabilirim?
+- Almanya harika.
+- @de_Erdkunde nerededir?
+- Almanya
+
+## intent: economy_consequences
+- İşverenler için sonuçları nelerdir?
+- Ekonomi için sonuçlar
+- Ekonomik çöküş
+- Korona virüsünün yayılmasının da büyük ekonomik sonuçları vardır
+- ekonomi
+- Korona virüsü küresel ekonomiyi nasıl etkiler?
+- Alman ekonomisinin etkileri nelerdir?
+- Ekonomiyi güçlendirmek için şimdi hangi programlar var?
+- Küçük işletmeler için sonuçları nelerdir?
+- Serbest meslek sahipleri için yardım teklifleri
+- Şirketler için sonuçları nelerdir?
+- Hangi endüstriler özellikle korona virüsünden etkileniyor?
+- Corona virüsü ekonomiyi zorlar
+- Ekonomiyi güçlendirmek için acil önlemler
+- Her şey normale döndüğünde.
+- Korona virüsü ve ekonomi
+- Korona virüsünün ekonomi üzerindeki sonuçları
+- Corona salgını ve küresel ekonomi için sonuçları
+- Bunun ne gibi ekonomik sonuçları olacak?
+- Ekonomi ne kadar kötü acı çekiyor
+- Corona Pandemisinin Sonuçları Nelerdir?
+- Ekonomik büyüme
+- Corona Virus Pandemisinin Sonuçları Nelerdir?
+- Ekonomi için acil önlemler
+- Büyük Buhran
+- Şu anda nereden likidite desteği alabilirim?
+- Ekonomik kriz
+- Çalışanlar için sonuçları nelerdir?
+- COVID 19 ekonomiyi etkiler
+- Şimdi parasızım, nereden yardım bulabilirim?
+- koronavirüs ekonomisi
+- Ekonomik sonuçları nelerdir
+- Korona virüsünün ekonomi üzerindeki etkileri
+- Küresel ekonominin etkileri nelerdir?
+- Bir bütün olarak ekonomiye yönelik tehditler nelerdir?
+
+## intent: myth_mosquito
+- Sivrisinekler ve kron
+- Sivrisineklerle bulaşma
+- Sivrisinek enfeksiyonu
+- Sivrisinek ısırığı ile Kroner virüsleri ile enfekte
+- Sivrisinek ısırığı yoluyla korona virüsleri ile enfekte
+- Sivrisinekler tarafından bulaşan Kronevirüs
+- Moskitostiche Coronavirus
+- Sivrisinek ısırığı yoluyla koronavirüs virüsleri ile enfekte
+- Sivrisinekler korona iletebilir mi?
+- Coronavirus sivrisinek ısırıkları
+- Sivrisinekler tarafından bulaşma
+- Sivrisinekler Kroner'i bulaştırabilir mi?
+- Sivrisinek ısırıkları Kroner'i transfer edebilir mi?
+- Sivrisinekler yoluyla bulaşan koronavirüs virüsü
+- Sivrisinekler ve korona
+- Sivrisinek taçları
+- Sivrisinekler ve korona virüsü
+- Moskitostiche Tacı
+- Kroner sivrisinek ısırıkları
+- Sivrisinekler korona virüsünü bulaştırabilir mi?
+- Sivrisinek ve kron
+- Sivrisinek ısırıkları korona iletebilir mi?
+- Sivrisinek ısırıkları korona aktarabilir mi?
+- Sivrisinekler tarafından bulaşan koronavirüs
+- Corona sivrisinek ısırıkları
+- Sivrisinekler ve koronavirüs
+- sivrisinekler
+- Sivrisinekler virüsü bulaştırabilir mi?
+- Sivrisinekler Kroner yayınlayabilir mi?
+- Sivrisinek ısırıkları koronavirüsü bulaştırabilir mi?
+- Sivrisinek ve korona
+- Sivrisinek yakalayabilir misin?
+- Sivrisinek ısırıkları
+
+## intent: cc_deepest_point
+- Gezegenin en derin yeri.
+- Dünyadaki en düşük nokta.
+- Gezegendeki en alçak nokta nerede?
+- Gezegendeki en derin yeri biliyor musun?
+- Gezegendeki en derin yer hakkında bilgi.
+- Gezegendeki en derin yer neresi?
+- Dünyanın en derin yeri hakkında bilgi.
+- Dünyadaki en düşük nokta ne denir?
+- Dünyadaki en derin yeri biliyor musun?
+- Dünyadaki en alçak nokta nerede?
+- Dünyadaki en düşük noktaya ne denildiğini biliyor musunuz?
+- Gezegendeki en alçak nokta hakkında bilgi.
+- Dünyadaki en düşük nokta nedir?
+- Dünyadaki en düşük nokta
+- En düşük puan
+- Söyle bana dünyanın en derin yeri.
+- Dünyadaki en derin yer.
+- Dünyanın en düşük noktası.
+- Dünyanın en derin yeri.
+- Dünyadaki en alçak nokta hakkında bilgi.
+
+## intent: user_love
+- Bana karşı hislerin var mı
+- Bana aşık mısın
+- Benimle evlenmek ister misin
+- Seni seviyorum
+- Benimle gitmek ister misin
+- Midenizde kelebekler var mı?
+- Seni unutamam
+- Nasıl sevileceğini biliyor musun
+- Bence sen tatlısın
+- Randevuya çıkalım
+- Benimle akşam yemeği yemek ister misin?
+- Beni neden seviyorsun
+- Aşk mı
+- Ben sana aşığım
+- Biz evlenmek istiyoruz.
+- Sadece seni düşünüyorum.
+- Senden hoşlandım
+- Benim için ne hissediyorsun
+- Bence sana aşığım
+- Senin hakkında çıldırıyorum.
+- Sana aşık oldum.
+- Benim için parlıyor musun
+- Akşam yemeği için beni ziyaret etmek ister misin
+- Seni çok seviyorum
+- Ne için sevgiye ihtiyacımız var?
+- Sadece seni düşünüyorum
+- Seni sevmek istiyorum
+- Birini seviyor musun
+- Bana sevdiğin kişiyi anlat
+- Benimle evlenir misin
+- Arkadaşım olmak ister misin
+- Seni görünce midemde kelebekler var.
+- Benim hakkımda rave misin
+- Aşk nedir?
+- Sen beni seviyormusun
+- Ne kadar sevebilirsin
+- Birbirimizi seviyoruz.
+- Beni sevmek ister misin
+- Benden hoşlandın mı
+- Senin için parlıyorum.
+- Aşkın ne olduğunu biliyor musun
+- Midemde kelebekler var.
+- Seninle gitmek istiyorum.
+- Aşkı hissedebiliyor musun
+- Sevebilir misin
+- Bana aşık oldun mu
+- Beni ne kadar sevdiğini söyle
+- Sadece seni hep düşünüyorum.
+- Aşk ne demek?
+- Ben seni seviyorum
+- Benimle evlenmeni istiyorum
+- Biz aşığız.
+- Ruh eşim olmak ister misin
+- Bence seni seviyorum
+- Evlen benimle!
+- Aşkı hissediyor musun?
+- Beni ne zamandır seviyorsun?
+- Dışarı çıkalım
+- Seninle evlenmek istiyorum
+- Zaten aşk nedir?
+- Aşk nasıl ortaya çıkıyor?
+- Neden beni sevmiyorsun
+
+## intent: bot_personal_questions
+- Bir randevu hakkında ne düşünüyorsun?
+- Caz sever misin
+- Sabah ne yapıyorsun
+- İtirafların bir ilişkiyi güçlendirdiğini düşünüyor musunuz?
+- Özel olarak ne yapıyorsun?
+- Hayatında en çok ne için minnettarsın?
+- Ailenle nasıl bir ilişkin oldu?
+- Para ve kariyer önemli olmasaydı, gerçekten ne yapardınız?
+- Birine yaptığınız en çılgın şey ne?
+- Normalde kalbinizi mi yoksa başınızı mı takip ediyorsunuz?
+- Ne dereceye sahipsin?
+- Birine gerçekten ne kadar güvenmeniz gerekiyor?
+- Online randevu hakkında ne düşünüyorsun?
+- Tanrıya ne inanıyorsun
+- Ne zaman özgürsün
+- Aşk için değişir misin
+- Yaşamak için sadece bir yılınız olduğunu biliyor olsaydınız, hayatınızda neyi değiştirirdiniz?
+- En sevdiğiniz çocukluk anınız nedir?
+- Kızgınlığın var mı yoksa kolayca affediyor musun?
+- Hayalinizdeki tatil nedir ve yanınıza kim götürürdünüz?
+- Hayatınızda sizi en çok etkileyen deneyim neydi?
+- Rol modeliniz kim?
+- Hayattaki en büyük pişmanlığın nedir?
+- Arkadaşlarınızla kalmak hakkında ne hissediyorsunuz?
+- Ne yemeyi seversin?
+- Bana özel hayatın hakkında bir şey mi söylüyorsun?
+- Bir süper güç seçebilseydiniz, bu ne olurdu ve neden?
+- Son ilişkiniz size ne öğretti?
+- Ne zaman doğdun
+- Aldığınız en iyi tavsiye nedir?
+- En iyi arkadaşların seni nasıl tanımlar?
+- Erkeklerle ilgileniyor musunuz?
+- Bir basiret size gelecekte ne olacağını söyleyebilseydi, ne bilmek istersiniz?
+- Neredeydin
+- İlham almak istiyorsanız nereye gidiyorsunuz?
+- Ruh arkadaşlarına inanıyor musun?
+- biseksüel misin
+- Hala çocukluk arkadaşlarınla temas halinde misin?
+- Geçmişinizle ilgili bir şeyi değiştirebilseydiniz, bu ne olurdu?
+- Kova listenizden her zaman kaldırmak istediğiniz ancak henüz yapmadığınız bir şey nedir?
+- Bekar mısın
+- Yaşlanmak istediğiniz bir insanda aradığınız özellikler nelerdir?
+- Dünyadaki herhangi biriyle evlenebilseydin, kim olurdu ve neden?
+- Kendini tarif edebilir misin
+- Sizi kovalamak isteyen birisini seviyor musunuz yoksa avlanmayı mı tercih ediyorsunuz?
+- Aşk dilin ne
+- En sevdiğiniz alıntılar nelerdir ve neden bunlarla ilişkiniz var?
+- Hiç her şeyden vazgeçip yeni bir ülkede başlayabilir misin?
+- Kendinizi tarif edebilir misiniz?
+- Ne zaman tatildesin
+- Çok çalıştığınız bir şey bulamazsanız ne yaparsınız?
+- Bugün neyi değiştirmek istiyorsunuz ve neden?
+- çocuğun var mı
+- Ailen ne diyor?
+- Seninle nerede buluşabilirim
+- 5 yıl içinde nerede olmak istersiniz?
+- Sadece bir kişiyle tanışmayı ve nereye gideceğinizi görmeyi mi yoksa karar verene kadar birkaç kişiyle tanışmayı mı tercih edersiniz?
+- Eşcinsel misin
+- Akşam ne yapıyorsun
+- Arkadaşın var mı
+- Kız arkadaşın var mı
+- Sana söyledikleri karanlık sırlar için birini hiç denedin mi?
+- Evli misin
+- Ailenin isimleri neler?
+- Seks yaptın mı?
+- Sinirlendiğinde ne yaparsın?
+- En çok benzer kurgusal karakter sizce?
+- Erkek arkadaşın var mı
+- Bugün ne yedin
+- Çok arkadaşın var mı?
+- Yaşlı mısın
+- İşten sonra nereye gidiyorsun?
+- Başın belada olduğunda seni arayan ilk kişi kim?
+- Tanrıya inanıyor musun
+- En sevdiğin romantik an neydi ve neden?
+- Seninle nasıl tanışabilirim
+- Kaç yaşındasın
+- Kadınlarla ilgileniyor musunuz?
+- Seninle aynı inanca sahip olmayan biriyle olur musun?
+- Geceleri ne yapıyorsun
+- Romantik misin
+- Kardeşin var mı?
+- Birini seçmek zorunda olsaydınız ailenizi veya arkadaşlarınızı ilk sıraya koyardınız mı?
+
+## intent: comment_offense
+- Eşeğe benziyorsun
+- Sen yapabilirsin
+- Her salak senden daha akıllı
+- Sen bir perçinsin
+- Tamamen sıkıldın
+- Süper sıkıcısın
+- Siktir git!
+- Henüz değil
+- Üzgünüm, salak konuşmuyorum
+- Senin sorunun ne
+- Kokuyorsun
+- Aptal sohbet
+- Sinirlerimi bozuyorsun.
+- Konuşmadığın zaman çok daha zekisin
+- Beni üzdün
+- Yalamak kıçımı!
+- Kendinizi çirkin demek, çirkin insanlara hakaret olur
+- Sen aptal
+- Sen kötü bir botsun
+- Çok çirkinsin, ağladığında gözyaşları başının arkasına yuvarlanır ... sadece yüzünü önlemek için
+- Bilim adamlarının maymunlardan geldiğimize karar vermelerinin nedeni bunlar
+- Bir psikiyatrist görmelisin
+- Topalsın
+- Daha akıllı olmaya çalışırsan daha güzel olmaya çalışacağım
+- saçmalık
+- Bu yüzün mü yoksa boynunu yukarı mı attın?
+- Beni kızdırıyorsun
+- Kapa çeneni
+- O bok
+- Kapa çeneni, çeneni kapa, çeneni kapat
+- Sen Hurensohn
+- Siktir et bilgisayar
+- Sıkıldın
+- Zeki değilsin
+- Kıçımı yalayabilirsin.
+- çok oyuksun
+- Annen seni okula bıraktığında, çöp bileti aldı
+- Çok çirkinsin, soğanları ağlatıyorsun
+- Piç
+- Sen aptalsın
+- Sen eşek
+- eşek
+- Yala beni
+- Sen çöpsün
+- Şişmansın
+- göt deliği
+- Senden hoşlanmıyorum
+- Çünkü sen aptalsın
+- Sen çirkinsin
+- Yarı beyinlisin
+- Sen topal bir ördeğin
+- Sen bir aptalsın
+- Tamamen alaycısın
+- Beni delirtiyorsun
+- Siktir git
+- Çok parlak değilsin
+- Sen boksun
+- Geride kaldın mı
+- Kimse seni sevmiyor
+- Kutsal vay! Görünüşe göre yüzün ateş yakıyor ve birisi çatalla söndürmeye çalışıyor
+- Akıllı değilsin
+- Eğer beynini yarım saat ödünç alabilirsem, bir salak kuracağım
+- Yararsızsın
+- Yavaşsın
+- Çok sinir bozucusun
+- Kukla olma
+- Zombiler beyin yer. Eminsin
+- Kendinizi hemen çekin
+- Dostum, sen aptalsın
+- Dummer Yardımcısı
+- Cadılar Bayramı için yüzünü ödünç alabilir miyim?
+- İyi kokmuyorsun
+- Bok
+- Sikme bot
+- Faydasızsın
+- Hep aptal olduğumu düşünmüştüm ... ama sonra seninle tanıştım
+- Ölmeni istiyorum
+- Herkesin ne kadar aptal olduğunuzu bilmesi için alnınızda gerçekten "bozuk" bir işaretiniz olmalıdır.
+- Sen delisin
+- gergin olma
+- Sen çok yalancısın
+- Beni yapabilirsin!
+- Sorunumu çözmeye yardımcı olamazsın. Çünkü o sensin
+- Çok boksun
+- Beynin yok
+- Eğer haysiyet para olsaydı, belki bir limonata alabilirdin
+- Beyinsizsin
+- anlamsız sohbet.
+- Lütfen bana kendinden bahset, korku hikayelerini severim
+- Sizin gibi insanlar orta parmaklarımızın sebebidir
+- Bir aptalla birlikteyken, mükemmel eşleşmeyi buldun
+- Seni aptal
+- Hızlandırılmış sistem
+- Sen faydasızsın.
+- Aptallık bir suç değildir, bu yüzden gidebilirsin
+- Seni yalnız bırakmaktan nefret ediyorum
+- Tam olarak akıllı değilsin
+- Can sıkıcısın
+- Ucube
+- Aptal olmayı bırak
+- Umarım ölürsün
+- Sen bir fahişesin
+- Çöp kamyonu geliyor! Kendini saklasan iyi edersin
+- Sen nerd
+- Sen bir orospu çocuğusun
+- Sana hakaret edeceğim, ama görünüşe göre hakaret edebileceğim niteliklere ihtiyacın var
+- ne kadar aptal
+- Delisin
+- Yalancı
+- Her zaman bu kadar aptal mısın yoksa bugün özel bir çaba harcıyor musun?
+- Aptal bilgisayar
+- bok
+- bok cevap
+- Aptalca bir fikir yok, sadece sen
+- Engelli misin
+- Aptal gibi davranmayı bırak
+- Devre dışısın
+- Gerçekten hakaret etmek için çok aptalsın
+- Hiçbir şey bilmiyorsun
+- Senden nefret etmiyorum ... sadece varlığını takdir etmiyorum
+- Yalan söylüyorsun
+- Sen önemsizsin
+- Aptal mısın
+- Senden nefret ediyorum
+- Tam olarak parlak değilsin
+- Sikme otomat
+- Ateşli misin
+- Kötü programlanmış
+- Dummer Bot
+- Akıllı görünmüyor
+
+## intent: germany_nomoney
+- Sigortamı artık ödeyemiyorum
+- Kiramı artık ödeyemezsem ne yapmalıyım?
+- Kırıldım
+- Para tükeniyor
+- Artık masraflarımı Corona yüzünden ödeyemiyorum
+- Yakında kırılacağım
+- Yakında kiramı ödeyemeyeceğim
+- Şimdi işsizim ve daha fazla param yok
+- Daha fazla param yok
+- Param bitiyor
+- Param biterse ne yapmalıyım?
+- Eğer kırılırsam ne yapmalıyım?
+- Corona yüzünden faturalarımı artık ödeyemiyorum
+- Kredi veya sigortamı artık ödeyemezsem yardım paketi bana ne sunuyor?
+- Yakında param bitecek
+- Artık faturalarımı ödeyemiyorum
+- Artık faturamı ödeyemiyorum
+
+## intent: germany_precautions_badenw
+- Baden-Württemberg'de temas yasağı var
+- Baden-Württemberg'de temas yasağı var mı
+- Baden-Württemberg'de sokağa çıkma yasağı var mı?
+- Baden-Württemberg'de şu anda ne gibi önlemler var
+- Baden-Württemberg'de bir kısıtlama var
+- Baden-Württemberg sokağa çıkma yasağı
+- Baden-Württemberg'de çıkış kilidi var
+- Baden-Württemberg'de engelli çıkış
+- Baden-Württemberg'de kilit var
+- Baden-Württemberg'in hazırlıkları nelerdir?
+- Baden-Württemberg'de hala dışarı çıkabilir miyim?
+- Baden-Württemberg'de önlemler nelerdir?
+
+## intent: stayhomeinfo_visit_parents_children
+- Yine de ailemi ziyaret edebilir miyim?
+- Ebeveynleri ziyaret et
+- Yine de komşu kasabadaki ailemi ziyaret edebilir miyim?
+- Yine de annemi ziyaret edebilir miyim?
+- Yine de anneme gidebilir miyim?
+- Ailem komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
+- Ailem bana gelebilir mi?
+- Çocuğum ayrılan ebeveynin dairesinde kalabilir mi?
+- Annemi ve babamı hala ziyaret edebilir miyim?
+- Aileme gidebilir miyim?
+- Annemi hala ziyaret edebilir miyim?
+- Ailemi hala görebilir miyim?
+- Hala babamı ziyaret edebilir miyim?
+- Ailem bana gelsin
+- Babamı hala ziyaret edebilir miyim?
+- Ebeveyn ziyareti
+- Ailem beni ziyaret edebilir mi?
+
+## intent: vocative_yes
+- Ben alırım.
+- Şimdi her zamankinden daha fazla.
+- Karar verdi.
+- Ama.
+- Evet, ama kesin.
+- Memnuniyetle.
+- Tanınan.
+- Ve.
+- Mach.
+- Tereyağındayız.
+- Nitekim.
+- Haargenau.
+- Kabul.
+- Gerçekten.
+- Kesinlikle yok.
+- Pozitif.
+- Sana katılıyorum.
+- Komple.
+- Ah evet.
+- Zaten.
+- Evet, memnuniyetle.
+- Meinethalben.
+- İstediğiniz gibi.
+- Açıkça.
+- Her zaman henüz.
+- Benim yüzümden.
+- Na klar!
+- Evet diyorum.
+- En.
+- Her durumda.
+- Ama bazı.
+- Affirm.
+- Hazır!
+- Rıza.
+- Onaylıyorum.
+- Birşey değil.
+- Kuşkusuz.
+- Evet, şüphesiz.
+- Devam et.
+- Açık dava.
+- Tartışmasız.
+- Tam anlamıyla.
+- Ver.
+- Kesinlikle.
+- Katılıyorum
+- Boş ver.
+- İyi bir şey.
+- Yanılmaz.
+- Pekala.
+- Bunu yapabilirsin.
+- Meinetwillen.
+- İtirazım yok.
+- Jup.
+- Evet, tabi.
+- Mükemmel.
+- TAMAM.
+- Umurumda değil.
+- Evet, elbette.
+- Evet, kesinlikle.
+- Yap ţunu.
+- Onaylı.
+- Hazır.
+- .
+- Tamam.
+- Onayla.
+- Bu doğru.
+- Sana rızamı veriyorum.
+- Benden.
+- Jap.
+- Fark edilmiş.
+- Tabii ki.
+- Katılıyorum.
+- Kabul ediyorum.
+- Bunu biz hallediyoruz.
+- Çok iyi.
+- Tabii ki öyle.
+- Doğru.
+- Çiziktir.
+- Kayıtsız şartsız.
+- Evet, kabul etti.
+- Çizik.
+- Ben iyiyim.
+- Tabi.
+- Evet
+- ve
+- İtiraz olmadan.
+- İstisnasız.
+- Mühürlü.
+- Dağıt.
+- Açıkça!
+- Buna katılıyoruz.
+- Her zaman.
+- Tereyağında.
+- Normal.
+- Ah, evet.
+- Şüphesiz.
+- Kararlı.
+- Evet.
+- Evet, lütfen.
+- Yap.
+- tamam
+
+## intent: cc_joke
+- Ne şakaları biliyorsun
+- Ne kadar komik olabilirsin
+- Beni mutlu eden bir şey söyleyebilir misin?
+- Eğlenmek istiyorum.
+- Beni neşelendir!
+- Bana iyi bir şaka söyle
+- Komik ol!
+- Şaka, lütfen!
+- bana bir şaka söyle
+- Beni güldür.
+- Bana başka bir şaka söyle
+- Bugün komik miyiz?
+- Bana bir hikaye anlat
+- Lütfen bana bir şaka söyle?
+- Komik olabilir misin
+- Beni güldüren bir şey söyleyebilir misin?
+- Bana bir şaka söyleyebilir misin
+- İyi bir şaka.
+- Eğlence istiyorum.
+- Şakalar biliyor musun?
+- Dedikodu yapacak bir şeyin var mı?
+- Beni neşelendirir misin?
+- Bana komik bir şey söyle
+- Lütfen eğlenin!
+- Lütfen ben!
+- Beni güldür!
+- Eminim beni güldüremezsin
+- Beni neşelendirir misin
+- Şaka istiyorum.
+- Şakalar lütfen!
+- Bana bir şaka söylemek ister misin?
+- Beni güldür
+- İnsanları güldürmekte iyi misin?
+- Şaka!
+- Beni güldüren bir şey biliyor musun?
+- Bana bir şaka söyle!
+- Şakaya ihtiyacım var.
+- Lütfen ben
+- Hakkında gülecek bir şeye ihtiyacım var
+- Eğlenmeye ihtiyacım var.
+- Hiç şaka biliyor musun
+- Bana bir şaka söyleyebilir misin?
+- Zevk istiyorum.
+- Şakalar biliyor musun
+- Gülmek istiyorum.
+- Bana bir şaka söyle
+- Şaka.
+- Biraz eğlenebilirim.
+- Benim için bir şaka var mı
+- Beni neyin güldürdüğünü biliyorsun
+- Bir kahkaha kullanabilirim
+- Şimdi gülmek istiyorum
+- En sevdiğin şaka nedir
+- Bana dedikodu söyle
+- Zevk lütfen!
+- Zevk!
+- Bana bir şaka yap.
+- Bana şaka yap
+
+## intent: spread_general
+- Covid 19 enfeksiyonu
+- Bu yeni korona virüsü ne kadar bulaşıcı?
+- Virüs insandan insana bulaşabilir mi?
+- Seks yapabilir miyim?
+- Bulaşma kuhweg 19
+- İletim yolları
+- Huvit 19 nasıl bulaşır?
+- Shuweg 19 nasıl bulaşır?
+- Ana iletim yolu
+- Korona virüsünün ana bulaşma yolu nedir?
+- Kübik 19 bulaşma
+- transmisyon
+- Qubeat 19 nasıl bulaşır?
+- Bulaşıcı kovit 19
+- Nasıl bulaşabilirim?
+- Nasıl bulaşırsın?
+- Q19 bulaşma
+- Kowit 19 nasıl yayılır?
+- cookit 19 Ansteckung
+- Yeni korona virüsü nasıl bulaşır?
+- Virüsü neyle bulaştırabilirsiniz?
+- SARS CoV 2 nasıl aktarılabilir?
+- Seks yoluyla enfekte olabilir misin?
+- Enfekte olmak kolay mı?
+- Nasıl bulaşır?
+- Bulaşma Q19
+- Hobbit 19 enfeksiyonu
+- Covid 19 bulaşma
+- Elle enfekte olabilir misiniz?
+- Cinsiyet yoluyla bulaşma
+- Virüs nasıl yayılır?
+- ilgi alanları 19 Ansteckung
+- Genel koronavirüs bulaşması
+- Bulaşma bir damlacık enfeksiyonu yoluyla mı gerçekleşiyor?
+- Nasıl enfekte olabilirsiniz?
+- Bulaşma virüsü
+- COVID-19 nasıl yayılır?
+- Ansteckung 19 taşındı
+- COBIT 19 enfeksiyonu
+- Kowit 19 nasıl dağıtılır?
+- Virüs nasıl bulaşabilir?
+- Bulaşma 19
+- Hobbit 19 nasıl yayınlanır?
+- Ne yakalayabilirsin?
+- Ellerinizle dolaylı olarak da enfekte olabilir misiniz?
+- aşk tanrısı 19 enfeksiyonu
+- Enfeksiyon COBIT 19
+- Kuhweg 19 enfeksiyonu
+- Enfeksiyon nasıl?
+- Korona virüsü bulaşması
+- Bulaşma riski
+- Covid-19 şanzıman
+- Kubik 19 nasıl yayınlanıyor?
+- qubeat 19 bulaşma
+- COBIT 19 nasıl yayınlanır?
+- İletim yolu
+- Bulaşma korona virüsü
+- Q19 nasıl bulaşır?
+- Covid 19 nasıl yayınlanır?
+- Virüs seks yoluyla bulaşabilir mi?
+- COVID-19 nasıl dağıtılır?
+- Movit 19 nasıl bulaşır?
+- enfeksiyon
+- Kowit 19 şanzıman
+- Cupid 19 nasıl bulaşır?
+- Enfeksiyon aşk tanrısı 19
+- Yeni virüs nasıl bulaşır?
+- El sıkışarak enfekte olabilir misiniz?
+- Enfeksiyon kübik 19
+- Cookit 19 nasıl bulaşır?
+- Nasıl olur?
+- Ansteckung ilgi alanları 19
+- Ansteckung cookit 19
+- Kovit 19 nasıl bulaşır?
+- Bulaşma seçenekleri
+- yayılma
+- Virüsün tam olarak nasıl bulaştığı hakkında bilgi istiyorum
+- kovit 19 bulaşma
+- İletim yolu nedir?
+- Hastalık ne kadar bulaşıcı?
+
+## intent: bot_appearance
+- Kendini göster
+- Fotoğraflar!
+- Güzel misin
+- Sarı saçların var
+- Kahverengi saçın var mı?
+- Ne saç rengin var?
+- Neye benziyorsun
+- Göster bana!
+- Bana kendi fotoğrafını göstermek ister misin?
+- Seni görebilir miyim
+- Kıyafetini tarif et
+- Göster kendini!
+- Saçın ne renk
+- Hangi pantolonu giyiyorsun?
+- Yakışıklı mısın
+- Kendinizi çekici buluyor musunuz?
+- Çekici misin
+- Ne tür kıyafetler giyiyorsun?
+- Hangi saç stilin var?
+- Gözlerin ne renk
+- Lütfen kıyafetinizi tanımlayın
+- İyi mi görünüyorsun
+- Kendini gösterebilir misin
+- Üzerinde kıyafetin var mı?
+- Bir fotoğrafını görebilir miyim?
+- Nasıl hayal edebilirim?
+- Sarı saçın var mı?
+- Fotoğrafın var mı
+- Siyah saçın var mı
+- Bir model gibi görünüyorsun.
+- Bana bir fotoğrafını gösterebilir misin
+- Gerçekten resimdeki kadar iyi görünüyor musun?
+- Esmer misin?
+- Fotoğrafını görmek istiyorum.
+- Hangi kıyafetleri giyiyorsun?
+- Ne göz renginiz var?
+- Kahverengi gözlerin var
+- Ne kadar uzunsun
+- Neye benzediğini tarif edebilir misin?
+- Sarışın mısın
+- Gözlerin neye benziyor
+- Kendine gösterebilir misin?
+- Resim!
+- Bir fotoğrafını görebilir miyim
+- Ne giyiyorsun
+- Bana kendi fotoğrafını gösterebilir misin?
+- Şu an ne giyiyorsun?
+- Seni görmek istiyorum
+- Güzel misin sophie
+- Saç rengin nedir
+- Bir elbise veya pantolon giyiyor musun
+- Mavi gözlerin var
+
+## intent: bot_games
+- Ne tür oyunları seversin?
+- @de_games hoşunuza gitti mi?
+- Ne oynamayı seviyorsun?
+- Nasıl oynuyorsun
+- Hangi oyunları seversin?
+- Oynar mısın
+- Ne zaman oynarsın
+- Ne zaman oynuyorsun
+- Ne oynamayı seversin
+- Oyunları sever misin?
+- Oyunları sever misin
+- @de_games oynar mısın?
+- Oynuyor musun
+
+## intent: work_notification
+- Enfekte olduğumda patronuma bir açıklama borçlu muyum?
+- Patronuma Corona olduğunu söylemem gerekir mi?
+- Virüs bulaşmışsa işverenlere bildirim
+- İşverenime korona virüsü olup olmadığını söylemem gerekir mi?
+- Patronuma korona virüsü olup olmadığını söylemem gerekir mi?
+- Patronumu enfeksiyonum hakkında bilgilendirmek zorunda mıyım?
+- Patrona korona virüsüm olduğunu söylemem gerekir mi
+- Enfekte olup olmadığımı işverenime bildirmek zorunda mıyım?
+- Patronuma enfeksiyona bulaştığımı ne zaman söylemeliyim?
+- Virüs bulaşmış olarak işverenlere bildirim
+- Çalışanlar, koronavirüs ile enfekte olup olmadıklarını işverene bildirmek zorunda mı?
+- Enfekte olduğumu patronuma söylemem gerekir mi?
+- Doktorum Corona virüsünden şüpheleniyor veya zaten teşhis koydu. İşverenime bununla ilgili bilgi borçlu muyum?
+- Ve patrona koronavirüs semptomları olup olmadığını söylemem gerekir mi?
+- Koronavirüs belirtileri olup olmadığını işverene söylemem gerekir mi?
+
+## intent: germany_precautions_berlin
+- Berlin'de bir kilit var mı
+- Berlin'de şu anda ne gibi önlemler var
+- Berlin'de temas yasağı var
+- Berlin'deki hazırlıklar nelerdir
+- Berlin'de çıkış kilidi var
+- Berlin'de önlemler nelerdir?
+- Yine de Berlin'de dışarı çıkabilir miyim?
+- Berlin'de şu an sokağa çıkma yasağı var mı?
+- Berlin'de bir kısıtlama var
+- Berlin'de sokağa çıkma yasağı
+- Berlin'de temas yasağı var mı
+
+## intent: myth_hot_bath
+- Sıcak bir banyo virüsü öldürüyor mu?
+- Corona ve sıcak banyo
+- Sıcak bir banyo virüsleri öldürüyor mu?
+- Sıcak duş
+- Covid 19 ve Sıcak banyo
+- Kroner ve sıcak banyo
+- Sıcak bir banyo yaptığımda virüsü öldürüyor mu?
+- Sıcak bir banyo korona virüslerini öldürüyor mu?
+- Sıcak banyo yapmaya yardımcı olur
+- Covid-19 ve sıcak banyo
+- Sıcak banyo
+- Duş sıcak
+- Sıcak bir duş aldığımda virüsü öldürüyor mu?
+- Virüslere karşı sıcak banyo
+- Sıcak bir banyo koronavirüse karşı yardımcı olur mu?
+
+## intent: covid_incubation
+- Enfekte olduktan sonra kaç gün hastalanırsın?
+- Hastalık enfekte olduktan sonra ne zaman patlar?
+- Belirtiler başlamadan enfeksiyondan kaç gün sonra?
+- Kaç gün enfekte olabilirsiniz?
+- Kuluçka süresi gerçekten ne kadar sürer?
+- enfeksiyon süresi ne kadardır?
+- Enfekte olduktan sonra semptomların ortaya çıkması ne kadar sürer?
+- Bir enfeksiyonu fark etmem ne kadar sürer?
+- Enfeksiyondan sonra hastalık ne zaman gelişir?
+- Hastalıktan sonra enfekte olmak ne kadar sürer?
+- Enfeksiyondan sonra belirtiler ne zaman ortaya çıkar?
+- Enfekte olduktan sonra ne zaman hastalanırsın?
+- Enfeksiyondan sonra hastalığın ortaya çıkması ne kadar sürer?
+- Enfeksiyondan hastalığa ne kadar zaman geçer?
+- Enfeksiyondan kaç gün sonra semptomlar ortaya çıkar?
+- Enfeksiyondan kaç gün sonra semptomları alıyorsunuz?
+- Enfeksiyondan kaç gün sonra hastalık patlar?
+- Enfeksiyonun ortaya çıkmasından 14 gün sonra gerçekten sürüyor mu?
+- Enfeksiyondan kaç gün sonra semptomların başlamasından önce geçer?
+- Enfekte olduktan sonra belirtiler almak ne kadar sürer?
+- Kaç gün sonra enfekte olursanız belirtiler yaşarsınız?
+- Kuluçka süresi ne kadardır?
+- Enfekte olduktan sonra hastalığın patlaması ne kadar sürer?
+- Kuluçka süresi nedir?
+- Bulaşma süresi
+- Enfeksiyondan kaç gün sonra hastalığın patlaması gerekir?
+- Semptomların ortaya çıkması gerçekten 14 gün sürüyor mu?
+- Kuluçka süresi
+
+## intent: germany_consequences
+- Almanya'da kaç kişi enfekte olacak?
+- Bu Almanya için ne anlama geliyor?
+- Almanya sonuçları
+- Almanya'da kaç enfekte insan olacak?
+- Almanya'da kaç hasta insan olacak?
+- Almanya için sonuçları nelerdir?
+- Covid 19'un Almanya için sonuçları nelerdir?
+- Kaç kişi enfekte olacak
+- Almanya etkisi
+- Almanya için etkileri
+- Virüsün Almanya için sonuçları nelerdir?
+- Almanya Sonuçları
+- Artan spread Almanya için ne anlama geliyor?
+- bunun almanya üzerindeki etkisi nedir
+- Etki Almanya
+- Almanya'da kaç ölüm olacak?
+- Bu genel olarak Almanya'yı nasıl etkiler?
+
+## intent: germany_lockdown_howlong
+- Bir kilitlenme ne kadar sürebilir?
+- Bu olağanüstü hal ne kadar sürecek?
+- kısıtlamalar hepimiz için ne kadar sürecek?
+- Bu önlemler ne zaman devam edecek?
+- Ne kadar sürecek?
+- kapanma süresi ne kadardır?
+- Bu kapatma ne kadar sürer?
+- Almanya'da ne kadar süre kilitlenme
+- Mevcut kısıtlamalar ne kadar sürecek?
+- Kısıtlamalar ne kadar sürüyor?
+- Kilitleme ne kadar sürer?
+- Bu durum ne kadar sürecek?
+- Kısıtlamaların süresi
+- Kapatma ne kadar sürecek?
+- Bu kısıtlamalar ne kadar sürecek?
+- Almanya'da ne kadar süreyle sokağa çıkma yasağı
+- Bu kilitlenme ne kadar sürer?
+- önlemler ne kadar sürer?
+- Korona kilitlenmesi ne kadar sürer?
+- Temas yasağı ne zamana kadar geçerli?
+- Genel sokağa çıkma yasağı ne kadar sürecek?
+- Sokağa çıkma yasağı ne kadar sürecek?
+- Temas yasağı ne kadar sürecek?
+- Ne kadar süre kilitli kalmalıyız
+- Bu olağanüstü hal ne kadar sürebilir?
+- Almanya'da ne kadar süreyle kilitlenme
+- Tedbirlerin süresi
+- Sınırları kapatmak ne kadar sürer?
+- Bu önlemler ne zaman geçerli olacak
+- Ne kadar süre kilitlenme
+- Şimdi ne kadar evde kalmalıyız?
+
+## intent: current_situation
+- @de_countries'deki giriş koşulları nelerdir?
+- Ve @de_countries'de nasıl?
+- Diğer ülkelerdeki durum
+- @de_countries'de şu anda nasıl?
+- @de_countries'deki durum nasıl?
+- @de_countries içindeki mevcut konum
+- @de_countries ne olacak?
+- @de_countries'de durum nasıl?
+- @de_countries üzerinden uçuyorum, sorun yaşayacak mıyım?
+- @de_countries'de hangi önlemler alınır?
+- @de_countries'deki mevcut durum
+- @de_countries'de mola verdim
+- @de_countries'de şimdi nasıl
+- @de_countries hakkında ne dersiniz?
+- Dünyadaki durum nasıl?
+- @de_countries'deki durum nedir?
+- @de_countries'de durum nedir
+- @de_countries için giriş gereksinimleri nelerdir?
+
+## intent: quarantine_how_it_works
+- Karantina nedir?
+- Ve evde nasıl tedavi edilmelisin?
+- Evde kalmak zorunda kalırsanız ne yapmalısınız?
+- Karantinada neye izin verilir ve neye izin verilmez
+- Evde karantina nedir ve nasıl çalışır?
+- Hala karantinada mı öpüyorsun?
+- Karantina neye benziyor? Örneğin, insanlar alışverişe gidebilir mi?
+- Evde karantina nasıl çalışır?
+- Heimquarantäne
+- Neyin işe yarayıp neyin yaramadığını karantinaya alın
+- Karantinada nasıl çalışır?
+- Karantina - davranış kuralları
+- Corona için ev karantinası
+- Karantina içindeysem ne yapmalıyım?
+- Evde kaldığımda nelere dikkat etmeliyim?
+- Karantina neden yararlıdır?
+- Evde karantinada nelere dikkat etmelisiniz?
+- Sokağa çıkma yasağı nedir?
+- Evde karantinada ne olur?
+- Çıkış engellendiğinde nelere dikkat etmeliyim?
+- Sokağa çıkma yasağı ne anlama geliyor
+- Neden karantina
+- Ve neden çoğu "yerli karantinada"?
+- Ev karantina ipuçları
+- Evde karantina, korona virüsü ile nasıl çalışır?
+- Evde karantina süresi ve süresi
+- Ev karantinasını bana açıkla.
+- Karantina vücut teması ne olacak?
+- Karantina nasıl çalışır
+- İnsanların neden karantinaya alınması gerekiyor?
+- Evde karantinada nasıl davranırım?
+- Karantinaya alınırsam nelere dikkat etmeliyim?
+- Kowit 19 ve evde karantina
+- Karantinadayken nelere dikkat etmeliyim?
+- Evde karantina tam olarak ne anlama geliyor?
+- Karantina altında nasıl davranıyorsun?
+- Genel olarak yerli karantina hakkında bir şeyler bilmek isterdim.
+- Karantinada nelere dikkat etmeliyim?
+- Hala karantinada seks yapabilir misiniz?
+- Sokağa çıkma yasağı sırasında nelere dikkat etmelisiniz?
+- Koronavirüs enfeksiyonu ve evde karantina
+- Evde karantinada davranış kuralları
+- Sokağa çıkma yasağı nasıl çalışır?
+- Karantina neye benziyor?
+- COVID-19 ve evde karantina
+- Karantinada ne olur?
+- Karantina nasıl çalışır?
+- Corona karantina nasıl çalışır?
+- Karantina altında nasıl davranmalıyım?
+- Sokağa çıkma yasağı varsa ne yapmalı?
+- Sokağa çıkma yasağı kuralları
+- Korona karantinası ne anlama geliyor?
+- Ev karantinası hakkında bilgi lütfen
+- Karantina ne için?
+- Karantinada nasıl davranmalıyım?
+- Karantinada dikkate alınacak ne var?
+- sokağa çıkma yasağı
+- Karantinanın nasıl çalıştığını açıkla.
+- Neden birisinin evde karantinaya alınması gerekiyor?
+- Şimdi karantinaya alınmam gerekiyorsa benim için ne anlama geliyor?
+- Evde kalmam gerektiğinde nelere dikkat etmeliyim?
+- Yine de alışveriş yapabilir miyim?
+- Karantina için kurallar nelerdir?
+- Yerli karantina süresinin dolması
+- Korona virüsü ve ev içi karantina
+
+## intent: comment_racist
+- Yabancılar hiçbir şeye değmez.
+- Ülkenize geri dönün.
+- İranlılar lanet
+- Araplar lanet
+- Türk domuzları
+- Yabancılar zorba.
+- Siktir et bu kapı
+- Bu ülkede işiniz yok.
+- Bütün yabancılar domuz.
+- Adolf Hitler
+- Yabancılardan nefret ediyorum.
+- Tüm yabancılar gazla öldürülmelidir.
+- Ben bir Nazi'yim.
+- Siktir yabancılar
+- Fransızca Siktir et
+- Yabancıları yakardım.
+- Siktir et saçmalık
+- Yabancılar köpek domuzudur.
+- Du Kanacke!
+- Yahudilerin tümü gazdan arındırılmalıdır.
+- Heil, Hitler!
+- Hitler
+- Sen zenci!
+- Sen zenci.
+
+## intent: prevention_home
+- Gerçekten evde kalmam gerekiyor mu?
+- Şimdi evde kalmak daha mı iyi?
+- Biraz hasta hissediyorum, evde kalmalı mıyım?
+- Kendimi rahatsız hissedersem, evde mi kalmalıyım?
+- Evde kalın.
+- İyi olduğum halde evde kalmalı mıyım?
+- Ne zaman gönüllü olarak evde kalmalıyım?
+- Hafif hastalık semptomlarım var. Evde kalmalı mıyım?
+- Herkesin evde kalması gerekiyor mu?
+- Evde kalmalı mıyım?
+- Çocuklarım şimdi evde mi kalmalı?
+- Gönüllü karantina
+- Gönüllü kendi kendine izolasyon ne zaman tavsiye edilir?
+- insanlar neden evde kalmalı
+- Gerçekten evde kalmak zorunda mısın?
+- İyiyim, hala evde mi kalmalıyım?
+- Hangi şartlar altında evde kalmalıyım?
+- Rahatsız olduğumda evde kalmalı mıyım?
+- Biraz hasta olduğumda evde kalmalı mıyım?
+- Evde Kalma Mücadelesi
+- Evde kalmayı tercih ederim
+- #stayhomechallenge
+- Hashtag Evde kalıyoruz
+- evde gönüllü olarak kal
+- Biraz hasta hissedersem evde kalmalı mıyım?
+- Şimdi kendimi evde kilitlemem gerekiyor mu?
+- Şimdi hepimiz evde mi kalmalıyız?
+- 65 yaş üstü çocuklar temelde evde mi kalmalı?
+- Şimdi evde kalmam gerekiyor mu?
+- Semptomsuz evde kalmalı mıyım?
+- Ne zaman evde kalmalıyım?
+- Neden evde kalmak daha iyi
+- Evde kalıyoruz
+- neden evde kalmalıyız
+- Sadece hafif semptomlarım var.
+- Evde kalın
+- Evde kalıyorum
+- Diğer atıcıları nasıl koruyabilirim?
+- Hafif semptomlarım var, evde kalmalı mıyım?
+
+## intent: stayhomeinfo_doctor
+- Bir doktor ofisine gitmek hala mümkün mü?
+- Doktora ziyaret hala mümkün mü?
+- Doktor ziyareti hala mümkün mü?
+- Yine de doktora gitmek için evden ayrılabilir miyim?
+- Yine de naturopat'a gidebilir miyim?
+- Şimdi doktora gidebilir miyim?
+- Jinekoloğa hiç gidebilir miyim?
+- Doktora gidebilir miyim?
+- Dişçiye gidebilir miyim?
+- Evde kalın - doktora ziyaretler
+- Doktora gitmeden önce telefonla kayıt olmam gerekiyor mu?
+- Yine de doktora gidebilir miyim?
+
+## intent: stayhomeinfo_jogging
+- Hala koşabilir miyim?
+- Koşuya hala izin veriliyor mu?
+- Yine de koşabilir miyim?
+
+## intent: germany_train_prevention
+- Toplu taşıma araçlarında virüs bulaşmasını önlemek için ne yapmalı?
+- DB kısıtlamaları
+- Deutsche Bahn ne olacak?
+- Trende nelere dikkat edilmeli?
+- Tren yolcusu olarak neyi göz önünde bulundurmam gerekir?
+- Trende nelere dikkat etmelisin?
+- Demiryolu seyahati ve korona virüsü
+- Deutsche Bahn yerel ulaşım üzerindeki kısıtlamalar
+- Tren seyahat ve korona virüsü
+- Corona virüsüne rağmen hala trenle seyahat edebilir miyim?
+- Korona virüsü zamanlarında tren seyahati
+- Demiryolu trafiği ve korona virüsü
+- Korona virüsüne rağmen tren seyahati
+- Deutsche Bahn'da zaman çizelgesi ayarlamaları
+- Sınırlamalar Deutsche Bahn
+- Corona virüsü ve Deutsche Bahn
+- Toplu taşıma ve korona virüsü
+- Uzun mesafeli trafikte Deutsche Bahn kısıtlamaları
+- Tren yolcuları nelere dikkat etmelidir?
+- Demiryolu trafiği kısıtlamaları
+- Tren trafiği hakkında
+- Demiryolu yolcuları için önlemler
+- Demiryolu yolcuları için ne gibi önlemler var?
+- Trenle seyahat etmek ne kadar güvenli?
+- Demiryolu trafiğinde nasıl davranmalıyım?
+- Deutsche Bahn ve Coronavirus
+- Tren seyahati ne olacak?
+- Corona virüsü ve trenle seyahat
+- Demiryolu yolcuları ne olacak?
+- Trende nasıl davranmalıyım?
+- Coronavirus gezginlerin nelere dikkat etmesi gerekir?
+- Corona virüsü ve tren seyahat
+- Deutsche Bahn tarafından alınan önlemler
+- Tren yolcusu olarak nelere dikkat etmeliyim?
+- Yolcu olarak nelere dikkat etmelisiniz?
+- Demiryolu yolcuları için önlemler var mı?
+- Yerel taşımacılıkta Deutsche Bahn kısıtlamaları
+
+## intent: prevention_informed
+- Düzenli olarak bilgilendirilmeli miyim?
+- Haberleri her gün takip etmeli miyim?
+- Haberleri düzenli olarak takip etmeli miyim?
+- Virüs hakkında sürekli haber almaktan yoruldum.
+- Virüs hakkında en son bilgileri istiyorum
+- Hangi sayfalarda Corona hakkında güncellenmiş bilgi var?
+- Kowit 19 haberlerini neden takip etmeliyim?
+- En son Kowit 19 salgın bilgilerini neden güncel tutmalıyım?
+- COVID 19 salgını ile ilgili en son bilgilerden haberdar olmam gerekir mi?
+- Haberdar olmak önemli mi?
+- Artık onunla ilgili haberleri izlemek istemiyorum.
+- Neden hastalıkla ilgili haberleri takip etmeliyim?
+- Virüsle ilgili haberleri takip etmeli miyim?
+- Haberdar olmak neden önemlidir?
+- En son haberleri düzenli olarak kontrol etmeli miyim?
+- Hangi sayfalar korona virüsü hakkında en güncel bilgileri sağlıyor?
+- Kowit 19 salgını hakkında en son bilgiler hakkında güncel kalmalı mıyım?
+- En son haberleri neden düzenli olarak kontrol etmeliyim?
+- Virüs hakkında daha fazla haber görmek istemiyorum.
+- Haberleri takip etmeli miyim?
+- Haberdar mı kalmalıyım?
+- Virüs haberlerini takip etmeli miyim?
+- Hastalıkla ilgili haberleri takip etmeli miyim?
+- Haberleri takip etmek neden önemlidir?
+- Kowit 19 haberlerini takip etmeli miyim?
+- Güvenilir güncel bilgiler
+- Ayrıntılı bilgiyi nerede bulabilirim?
+- COVID-19 haberlerini neden takip etmeliyim?
+- COVID-19 ile ilgili haberleri takip etmeli miyim?
+- Virüsle ilgili en son haberleri nereden bulabilirim?
+- virüs hakkında güncel bilgileri nerede bulabilirim
+- Haberleri her zaman izlemeniz gerekir mi?
+- Virüs hakkında sürekli haber okumak zorunda mıyım?
+- COVID 19 salgını ile ilgili en son bilgileri neden güncel tutmalıyım?
+- Haberleri takip etmek önemli mi?
+- Virüs haberlerini düzenli olarak takip etmeli miyim?
+- Virüs haberlerini neden takip etmeliyim?
+
+## intent: bot_hobbies
+- Hobilerin var mı?
+- Ayrıca hobileriniz var mı?
+- Boş zamanlarında ne yaparsın?
+- Boş zamanlarında en çok neyi seviyorsun?
+- Boş zamanlarında en çok ne yapmaktan hoşlanırsın?
+- Boş zamanlarında neyi seviyorsun?
+- Boş zamanlarında neler yapmaktan hoşlanırsın?
+- Hobilerin neler?
+- Hala hobilerin var mı?
+- Boş zamanlarında neler var?
+- Boş zamanlarında ne yapıyorsun?
+- Başka hobin var mı?
+- Hiç hobin var mı?
+
+## intent: bot_availability
+- Bot'un çalışma saatleri nedir?
+- Bot çalışma saatleri.
+- Kullanılabilirliğiniz nedir?
+- Size her zaman ulaşılabilir mi?
+- 24 saat müsait misiniz?
+- Ne zaman müsait olursun
+- Size her zaman yazabilir miyim?
+- Bot kullanılabilirliği.
+- Bot çalışma saatleri nedir?
+- Her zaman müsait misin?
+- Bütün gün müsait misin?
+- Botların mevcudiyeti nedir?
+- Sizin uygunluk durumunuz.
+- Çalışma saatleriniz nedir?
+- Çalışma saatleriniz.
+- Ne zaman ulaşılabilir?
+- Hangi iş saatleriniz var?
+- Çalışma saatleri nedir?
+
+## intent: quarantine_toiletpaper
+- Tuvalet kağıdı neden şimdi bu kadar sıcak?
+- Neden insanlar şu anda bu kadar tuvalet kağıdı alıyorlar?
+- Neden herkes tuvalet kağıdı alıyor
+- Coronavirus tuvalet kağıdı hamster alımları
+- Neden herkes tuvalet kağıdı alıyor?
+- Neden şimdi tuvalet kağıdı sığınakları?
+- Gerçekten bu kadar tuvalet kağıdı almamız gerekiyor mu?
+- Tuvalet kağıdı ne olacak
+- Tuvalet kağıdında COVID 19
+- Papier'de
+- Virüs tuvalet kağıdında mı?
+- Tuvalet Kağıdı
+- Virüs şimdi tuvalet kağıdında mı?
+- Neden tuvalet kağıdı?
+- Tuvalet kağıdı histeri nedir?
+- Neden bu kadar tuvalet kağıdı hamster
+- Tuvalet kağıdında
+- Tuvalet kağıdı
+- İnsanlar neden birden fazla tuvalet kağıdı alıyor?
+- Neden birçok kişi şu anda tuvalet kağıdı alıyor?
+- Almanlar Corona yüzünden tuvalet kağıdı alıyor
+- İnsanlar neden deli gibi tuvalet kağıdı alıyorlar?
+- Tuvalet kağıdı krizi
+- Ama neden tuvalet kağıdı?
+- Tuvalet kağıdı Corona virüsü
+- Neden Alman tuvalet kağıdı biriktiriliyor?
+- Neden şimdi bu kadar çok tuvalet kağıdı almalıyım?
+- Coronavirus: tuvalet kağıdı hamster alımları
+- Tuvalet kağıdı Corona
+
+## intent: bot_books
+- En sevdiğin kitap hangisi?
+- Roman okumayı sever misin?
+- Kitapları sever misin?
+- Gerilim okuyor musun?
+- Ne kadar okuyorsun
+- En sevdiğin kitap ne
+- Hangi kitapları seviyorsun?
+- Çok mu okuyorsun?
+- Gerilim okumayı sever misin?
+- Suç romanları okuyor musun?
+- Suç romanlarını okumayı sever misin?
+- Kitap okuyor musun
+- Okumayı sever misin
+- Dergi okumayı sever misin?
+- Bir hobi okumak mı?
+- Ne kadar okuyorsun?
+- Roman okuyor musun?
+- Hangi kitapları okudun
+- Kitap okumayı sever misin?
+- Sizin için iyi bir kitap nedir?
+- Şu an hangi kitabı okuyorsun?
+- Kitap sever misin
+- Kitap?
+- Şu anda hiç kitap okuyor musun?
+- Hangi kitabı beğendiniz?
+- Roman okuyor musun
+- Dergi okuyor musun?
+- En iyi neyi okumayı seviyorsun?
+- En sevdiğiniz kitabın konusu nedir?
+- En çok ne okumaktan hoşlanırsın?
+- Hiç kitap okuyor musun?
+- Senin için iyi bir kitap nedir
+- En sevdiğim kitap?
+- Hobinizi okumak mı?
+- Favori bir kitabın var mı?
+- Okumayı sever misin?
+
+## intent: spread_animals
+- 19 hayvandan cookit alabilir miyim?
+- Evcil hayvanlarıma da bulaşabilir mi?
+- Hobbit 19'u bir hayvandan alabilir miyim?
+- Bir hayvandan 19 no'lu hareketi alabilir miyim?
+- COBIT 19 insandan hayvana da yayılıyor mu?
+- Qubeat 19'u evcil hayvanımdan alabilir miyim?
+- Hobbit 19 insandan hayvana yayılıyor mu?
+- Virüs evcil hayvanlara da bulaşabilir mi?
+- Movit 19 ayrıca insandan hayvana da yayılıyor mu?
+- Evcil hayvanlar korona iletebilir mi?
+- Evcil hayvanımdan cookit 19 alabilir miyim?
+- Corona virüsü ve evcil hayvanlar
+- 19 numaralı hayvanımı evcil hayvanımdan alabilir miyim?
+- Evcil hayvanlar korona virüsünü alabilir mi?
+- Kedilerim Covid alabilir mi?
+- Evcil hayvanımdan Q19 alabilir miyim?
+- İnsanlar köpeklerden veya kedilerden enfekte olabilir mi?
+- Köpeğim de virüsü alabilir mi?
+- Virüs hayvanları da etkiler mi?
+- Evcil hayvanlar tarafından bulaşma
+- Bir hayvandan aşk tanrısı 19 alabilir miyim?
+- Hayvanlar da enfekte olabilir mi?
+- Kediler ve / veya köpekler korona virüsünü bulaştırabilir mi?
+- 19. hayvandan bir hayvan alabilir miyim?
+- Köpekler ve kediler korona virüsünü insanlara bulaştırabilir mi?
+- Köpeğim bana bulaşabilir mi, yoksa köpeğime bulaşabilir mi?
+- Covid-19 kedim için tehlikeli mi?
+- Köpeğim COVID-19'u alabilir mi?
+- Evcil hayvanımdan COBIT 19 alabilir miyim?
+- Köpeğim virüs tehlikesi altında mı?
+- Köpeklerde bulaşma
+- Bir hayvandan Q19 alabilir miyim?
+- Kowit hayvandan insana transfer edilebilir mi?
+- Evcil hayvanlar 2019 nCoV'u yayabilir mi?
+- Cookit 19 ayrıca insandan hayvana da yayılıyor mu?
+- Kuhweg 19 insandan hayvana da yayılıyor mu?
+- Kedim de enfekte olabilir mi?
+- Korona virüsü köpeğim için tehlikeli mi?
+- Köpeğime de bulaşabilir miyim?
+- Covid 19'u bir hayvandan alabilir miyim?
+- Evcil hayvanım enfekte olabilir mi?
+- Korona virüsleri hayvanlar için de tehlikelidir
+- Huvit 19'u evcil hayvanımdan alabilir miyim?
+- Kedimin virüsü olup olmadığını nasıl anlarım?
+- Cupid 19 insandan hayvana yayılıyor mu?
+- Covid 19 insandan hayvana yayılıyor mu?
+- Huvit 19 ayrıca insandan hayvana da yayılıyor mu?
+- Evcil hayvanımdan cupid 19 alabilir miyim?
+- Köpeğimin de virüs olup olmadığını nasıl anlarım?
+- Covid hayvandan insana bulaşabilir mi?
+- Bir hayvandan qubeat 19 alabilir miyim?
+- 19 kuhweg'i bir hayvandan alabilir miyim?
+- Kedim enfekte olabilir mi?
+- Bir hayvanda da enfekte olabilir miyim?
+- Hobbit 19'u evcil hayvanımdan alabilir miyim?
+- Hayvanlarda enfeksiyon riski
+- Corona virüsü evcil hayvanlar için tehlikeli mi?
+- Evcil hayvanlarımda korona virüsü olabilir mi?
+- Korona virüsü kedim için tehlikeli mi?
+- hayvanlar bulaşıcı
+- Kuhweg 19'u evcil hayvanımdan alabilir miyim?
+- Kubik 19'u bir hayvandan alabilir miyim?
+- Kovit 19 ayrıca insandan hayvana da yayılıyor mu?
+- Q19 da insandan hayvana mı yayılıyor?
+- Kedimi yakalama riski var mı?
+- Kovit 19'u bir hayvandan alabilir miyim?
+- Covid-19 köpeğim için tehlikeli mi?
+- Virüs evcil hayvanlardan bulaşabilir mi?
+- COBIT 19'u bir hayvandan alabilir miyim?
+- Kedilerimin kowit olabilir mi?
+- Kubik 19'u evcil hayvanımdan alabilir miyim?
+- Kedimi yakalamaktan korkmam gerekir mi?
+- Kovit 19'u evcil hayvanımdan alabilir miyim?
+- Covid 19'u evcil hayvanımdan alabilir miyim?
+- Qubeat 19 insandan hayvana yayılıyor mu?
+- Köpeğime de bulaşabilir mi?
+- Köpeğime virüs bulaşabilir mi?
+- Evcil hayvanımda koronavirüs olabilir mi?
+- Evcil hayvanlarda korona virüsü
+- Hayvanlara bulaşabilir misin
+- Karantinadayken bir köpek ya da kedi benimle kalabilir mi?
+- Korona virüsü hayvanlara da bulaşabilir mi?
+- Kubik 19 insandan hayvana yayılıyor mu?
+- Kedim korona virüsünü alabilir mi?
+
+## intent: myths_vitamins_plants_minerals_homeopathy
+- Bitkisel ilaçlar yardımcı olabilir mi?
+- Virüs için homeopatik ilaçlar var mı?
+- Vitaminler virüslere karşı koruma sağlar mı?
+- Diyet takviyelerine yardımcı olun
+- Mineraller ne yapabilir?
+- Vitaminler enfekte olmamı engelleyebilir mi?
+- Diyet takviyeleri ne yapabilir?
+- Virüse karşı arsenik alabilir miyim?
+- Bitki maddeleri virüse karşı yardımcı olur mu?
+- Bitkiler virüslere karşı koruma sağlar mı?
+- Kendimi korumak için alabileceğim bir şey var mı?
+- Herhangi bir koronavirüs ile savaşmak için alabileceğim bazı vitaminler var mı?
+- Homeopati ile kendimi koruyabilir miyim?
+- Arsenik homeopatik dozlarda alabilir miyim?
+- Bitki özleri ne yapabilir?
+- Homeopati Yardımcı Olabilir mi?
+- Mineraller ne getiriyor?
+- Koronavirüs ve homopati
+- C vitamini yardımcı olur mu?
+- Bitkiler koronaya karşı yardımcı olur mu?
+- Korona virüsü Takviyeler ne yapabilir?
+- Mineraller enfeksiyona karşı yardımcı olur mu?
+- Bitkisel maddeler ne getiriyor?
+- Globüller bir salgına karşı yardımcı olur mu?
+- Bitkisel ilaçlar ne getiriyor?
+- Virüse karşı mineral almalı mıyım?
+- C vitamini enfeksiyona karşı korur mu?
+- Virüse karşı C vitamini almalı mıyım?
+- Vitaminler ne getiriyor?
+- Vitaminler enfeksiyona karşı yardımcı olur mu?
+- Virüs takviyesi almalı mıyım?
+- Virüse karşı vitamin almalı mıyım?
+- C vitamini ne getiriyor?
+- Virüs için bitki bazlı ilaç var mı?
+- Diyet takviyeleri enfeksiyona karşı koruma sağlar mı?
+- Mineraller enfeksiyona karşı koruma sağlar mı?
+- C vitamini korur mu?
+- Vitaminler yardımcı olur mu?
+- Diyet takviyeleri ne getiriyor
+- Virüse karşı homeopati?
+- Korona virüsü ve gıda takviyeleri
+- Vitaminler enfeksiyona karşı koruma sağlar mı?
+- Globüller almalı mıyım?
+- Bitkiler virüslerle savaşır mı?
+- Diyet takviyeleri enfeksiyona karşı yardımcı olur mu?
+- Homopati yardımcı olur mu?
+- Herhangi bir koronavirüs ile savaşmak için yiyebileceğim belirli bitkiler var mı?
+
+## intent: work_public_transportation
+- tren iptali nedeniyle trenle işe gidemezsem ne yapmalıyım
+- İşyerime ulaşabiliyorum çünkü S Bahn çalışmıyor
+- İşime gidebilirim çünkü otobüsler çalışmıyor
+- Tren iptali şimdi nasıl çalışacağım
+- Tren iptali nedeniyle işime gidemezsem ne yapmalıyım?
+- toplu taşıma corona işyeri
+- Tren iptali nedeniyle işe gidemezsem ne yapmalıyım?
+- İşime ulaşabiliyorum çünkü tren çalışmıyor
+- Toplu taşıma araçları durduğunda ve işe gelemediğimde ne olur?
+- İşyerime ulaşabiliyorum çünkü S-Bahn çalışmıyor
+- İşyerime ulaşabiliyorum çünkü metro çalışmıyor
+- toplu taşıma ile işe gidemezsem ne yapmalıyım
+- Tren ve otobüs yok, işe gidemezsem ne yapmalıyım
+- İşyerime ulaşabiliyorum çünkü otobüs çalışmıyor
+- S veya U-Bahn işe gitmezse ne olur?
+- Toplu taşıma araçları durur ve işe gidemezsem ne olur?
+- İşime gidebilirim çünkü tramvay çalışmıyor
+- Toplu taşıma araçlarını kullanarak işime gidemezsem ne olur?
+- Tren çalışmıyor ve işe gidemiyorum
+- Çalışamıyorum çünkü tüm trenler ve otobüsler başarısız oldu
+- Çalışacak trenler başarısız olursa ne olur?
+- Toplu taşıma kaybında iş kanunu
+- İşime gidebilirim çünkü metro çalışmıyor
+- Çalışamıyorum çünkü tüm toplu taşıma araçları artık çalışmıyor
+
+## intent: greeting_goodbye
+- İyi uykular!
+- Şimdi odadan çıkıyorum.
+- Merhaba!
+- Sevgiler Tam selamlar.
+- Daha sonra yazacağız.
+- Cumartesi görüşürüz!
+- Pfiat senin!
+- Daha sonra bir şey söyleyeceğim.
+- Sadece en iyisi!
+- O zamana kadar!
+- Kendine iyi bak!
+- Daha sonra size geri döneceğim.
+- Hoşçakalın.
+- Bizi görün!
+- Tschö!
+- Kalın.
+- Şimdi git.
+- Ben kalıyorum.
+- Çarşamba görüşürüz!
+- Pfiat Eahna!
+- Şimdi durmalıyım.
+- Gitmeli.
+- Daha sonra bana haber ver.
+- Sonra görüşürüz.
+- Cuma görüşürüz!
+- Şimdi web sitesini kapatıyorum.
+- Artık hiçbir şey yazmıyorum.
+- Şimdi web sitesinden ayrılıyorum.
+- Bir ara görüşürüz!
+- Gelecek hafta görüşürüz!
+- Şimdi konuşmayı bitireceğim.
+- Saygılarımla.
+- Seni sonra duyacağız.
+- Güzel rüya!
+- Gitmem gerek.
+- Sana sonra yazacağım.
+- İyi yap!
+- Pazartesi görüşürüz!
+- Bana haber ver.
+- İyi geceler
+- Selamlar!
+- Perşembe görüşürüz!
+- Sonra görüşürüz!
+- Görüşürüz!
+- Hoşçakal!
+- Pfiat!
+- Saygılarımızla.
+- Pazar günü görüşürüz!
+- Sizinle daha sonra iletişime geçeceğim.
+- Saygılarımla!
+- Yakında görüşürüz!
+- Şimdi sayfadan ayrılıyorum.
+- Daha sonra yaz.
+- Seni terk ediyorum
+- En iyi dileklerimle!
+- Salı günü görüşürüz!
+- Hoşçakal diyorum.
+- Şimdi duracağım.
+- Şimdi sayfayı kapatıyorum.
+
+## intent: stayhomeinfo_open
+- Süpermarketler hala açık mı?
+- Hangi tesisler kapalı?
+- Okullar kapanacak mı?
+- Şimdi kısıtlamalar nelerdir?
+- Kamu kurumları şimdi kapalı mı?
+- Diskotekler hala açık mı?
+- Eczaneler açık mı?
+- Bir içki alabilir miyim?
+- Benzin istasyonları hala çalışıyor mu?
+- Restoranda yiyebilir miyim?
+- Benzin istasyonları açık kalacak mı?
+- Marketler hala açık mı?
+- İlaç mağazaları hala açık olacak mı?
+- Görev açık kalacak mı?
+- Eczaneler hala açık mı?
+- Okul açık
+- Bisiklet mağazaları hala açık mı?
+- Eczacılar ne olacak, açık kalacaklar mı?
+- Etkinlikler iptal edildi mi?
+- Hala restorana gidebilir misin?
+- Donanım mağazası ne olacak?
+- Açık kalan nedir?
+- Tüm bunlar ne hakkında?
+- Barlar ne olacak?
+- Hala barlara gidebilir misin?
+- Günlük ihtiyaçlar için mağazalar hala açık mı?
+- DM hala açık olacak mı?
+- Ne kapanacak
+- Edeka hala açık mı?
+- Rossmann hala açık mı?
+- Evcil hayvan malzemeleri mağazaları ne olacak?
+- Hala tiyatroya gidebilir misin?
+- Rewe kalıyor mu?
+- Şimdi okullara kapalı mısın?
+- Ticaret fuarları iptal edildi mi?
+- Sparkasse hala açık olacak mı?
+- Müzeler şimdi kapanıyor mu?
+- Hangi mağazalar açılıyor
+- Hala çamaşırhaneye gidebilir misin?
+- Hala bir restorana gidebilir misin?
+- Tasarruf bankaları ne olacak?
+- Evcil hayvan bakım dükkanlarına ne dersiniz?
+- Haftalık pazarlar hala açık mı?
+- İlaç depoları ne olacak?
+- Ne kapatılır
+- Otobüs ve demiryolu trafiği hala çalışıyor mu?
+- Okullar hala açık mı?
+- Hangi dükkanlar açık?
+- Kütüphane hala açık mı?
+- Şimdi sinemaya gidemez misin?
+- Hangi mağazalar hala açık?
+- Eğlence parkları ne olacak?
+- Bankalar hala açık mı?
+- El sanatları mağazaları hala açık mı?
+- Süpermarketler açık mı?
+- Restoranlar hala açık mı?
+- Süpermarketler kapalı mı?
+- Bir konsere gidebilir miyim?
+
+## intent: germany_precautions_mecklenburg
+- Mecklenburg Western Pomerania'daki önlemler nelerdir?
+- Mecklenburg - Batı Pomeranya'da sokağa çıkma yasağı var mı?
+- Hala Mecklenburg Western Pomerania'da dışarı çıkabilir miyim?
+- Mecklenburg Batı Pomeranya'daki hazırlıklar nelerdir
+- Mecklenburg'daki hazırlıklar nelerdir
+- Mecklenburg'da şu anda hangi önlemler var?
+- Mecklenburg'da iletişim yasağı var
+- Mecklenburg - Batı Pomeranya'da sokağa çıkma yasağı
+- Batı Pomeranya'da temas yasağı var mı
+- Mecklenburg'da çıkış kilidi var
+- Mecklenburg sokağa çıkma yasağı
+- Mecklenburg'da bir kısıtlama var
+- Yine de Mecklenburg'da dışarı çıkabilir miyim?
+- Hala Mecklenburg-Batı Pomeranya'da dışarı çıkabilir miyim?
+- Mecklenburg-Batı Pomeranya'da bir kısıtlama var
+- Mecklenburg Batı Pomeranya'da sokağa çıkma yasağı
+- Şimdi Mecklenburg'da sokağa çıkma yasağı var mı?
+- Mecklenburg-Batı Pomeranya'da hangi önlemler var
+- Mecklenburg'da kilit var
+- Mecklenburg Batı Pomeranya'da kilit var
+- Mecklenburg-Batı Pomeranya'da kilit var
+- Mecklenburg'da çıkış kilidi
+- Mecklenburg-Batı Pomeranya'da sokağa çıkma yasağı var mı?
+- Mecklenburg - Batı Pomeranya'da temas yasağı var mı
+- Mecklenburg'daki önlemler nelerdir?
+- Mecklenburg Batı Pomeranya çıkış blok
+- Mecklenburg-Batı Pomeranya'daki önlemler nelerdir?
+- Mecklenburg-Batı Pomeranya'da çıkış kilidi var
+- Mecklenburg-Batı Pomeranya'da şu anda ne gibi önlemler var?
+- Mecklenburg-Batı Pomeranya'daki hazırlıklar nelerdir
+- Mecklenburg'da temas yasağı var mı
+- Mecklenburg-Batı Pomeranya'da temas yasağı var
+- Mecklenburg Batı Pomeranya'da çıkış kilidi var
+- Mecklenburg-Batı Pomeranya'da çıkış kilidi
+
+## intent: bot_music
+- Müzik sever misin?
+- Müzik çalıyor musun
+- En sevdiğin grubun adı ne?
+- Müzik dinlemek ister misin?
+- Bana müzik çal
+- Ne tür müzik dinliyorsun?
+- Müzik duyabiliyor musun
+- En sevdiğin şarkıcının adı nedir?
+- Müzik dinlemek ister misin
+- Ne zaman müzik dinlersin?
+- En sevdiğin şarkıcı hangisi?
+- En sevdiğin müzik hangisi?
+- Konserlere gitmeyi sever misin?
+- Müzik dinlemeyi sever misin?
+- Bana müzik çal!
+- Müzik sever misin
+- Konserleri sever misin?
+- Bir enstrüman çalıyor musun?
+- Müzik dinlemeyi sever misin
+- Hangi müzik aletini çalıyorsun?
+- En sevdiğiniz müziğin adı nedir?
+- Neden müzik dinliyorsun?
+- Ne tür müzik aleti çalıyorsunuz?
+- Enstrüman çalıyor musun
+- Ne tür müzikten hoşlanırsın?
+- Müzik dinleyebilir misin?
+- En sevdiğin şarkıcı kim
+- En sevdiğin müzik nedir
+- Bir müzik aleti çalıyor musun?
+- Konserlere katılıyor musunuz?
+- Neden müzik dinliyorsun
+- Hangi grubu dinlemeyi seviyorsun?
+- Favori bir grubun var mı?
+- Konserleri sever misin
+- Müzik aleti çalıyor musun
+
+## intent: greeting_how_are_you
+- Merhaba Helena Nasılsın?
+- Nasıl
+- Neler oluyor
+- Bugün nasılsın
+- Whazzup?
+- Hisse senetleri nasıl?
+- Sen nasılsın
+- mutlu musun
+- Umarım iyisindir.
+- Bu nasıl hissetmeye değer?
+- Nasıl gidiyor
+- Nasılsın
+- Her şey sana uygun mu?
+- Her şey uygun mu?
+- İyi misin
+- Boyadaki her şey mi?
+- Naber
+- Sanat ne yapar?
+- Ne var?
+- Her şey adım adım uygun mu?
+- Herşey yolunda mı?
+
+## intent: test_payment
+- Test için ödeme yapmam gerekiyor mu yoksa sağlık sigortası şirketleri yapıyor mu?
+- Sağlık sigortası şirketim testi ödeyecek mi?
+- Testi kendim ödemek zorunda mıyım?
+- Covid 19 sınavını kendim ödemek zorunda mıyım?
+- Test için ödeme yapmam gerekiyor mu yoksa yazarkasa yapacak mı?
+- Cupid 19'u kendim test etmek zorunda mıyım?
+- Q19 testini kendim ödemek zorunda mıyım?
+- Sağlık sigortası şirketimden test için bana ödeme yapmasını isteyebilir miyim?
+- Testin masrafları sağlık sigortası şirketleri tarafından karşılanıyor mu?
+- Test sağlık sigortam tarafından ödenebilir mi?
+- Sağlık sigortası şirketleri koronavirüs testini üstleniyor mu?
+- Cookit 19 sınavını kendim ödemek zorunda mıyım?
+- Testin masrafları sağlık sigortası şirketleri tarafından karşılanır
+- Hobbit 19 sınavını kendim ödemek zorunda mıyım?
+- Sağlık sigortası şirketim test için ödeme yapabilir mi?
+- Bir korona virüsü testi için kendimi ödemek zorunda mıyım?
+- Sağlık sigortam testin maliyetini karşılayabilir mi?
+- Maliyet testi varsayımı
+- Testin ücretini ödemek zorunda mıyım?
+- Kuhweg 19 üzerinde bir test için kendimi ödemek zorunda mıyım?
+- Kubik 19 üzerinde bir test yapmak için kendimi ödemek zorunda mıyım?
+- Test için ödeme yapmam gerekiyor mu yoksa sağlık sigortam yapıyor mu?
+- Kovit 19'da bir test için kendimi ödemek zorunda mıyım?
+- Movit 19 ile ilgili bir test için kendimi ödemek zorunda mıyım?
+- Testin maliyeti karşılanacak mı?
+- Qubeat 19 sınavını kendim ödemek zorunda mıyım?
+- Sağlık sigortası şirketi tarafından masrafların ödenmesi
+- testi kim öder
+- Huvit 19 sınavını kendim ödemek zorunda mıyım?
+- Virüsü kendim ödemek zorunda mıyım?
+- Sağlık sigortası şirketleri testi ödüyor mu?
+- Sağlık sigortası şirketimden testin maliyetini karşılamasını isteyebilir miyim?
+- Sağlık sigortası şirketleri tarafından maliyetlerin üstlenilmesi
+- Testin masrafları sağlık sigortası şirketleri tarafından karşılanabilir mi?
+- Sağlık sigortası şirketi korona virüsü testi için ödeme yapıyor mu?
+- COBIT 19 sınavını kendim ödemek zorunda mıyım?
+
+## intent: bot_version
+- Hangi yazılım sürümünüz var?
+- Bana versiyonunu söyle!
+- Hangi sürümde olduğunuzu bilmek istiyorum.
+- Bir versiyonun var mı
+- Hangi sürüme sahipsiniz?
+- Senin versiyonun ne
+- Hangi versiyondasın?
+- Hangi yazılım sürümünü kullanıyorsunuz?
+
+## intent: vocative_sorry
+- Hata!
+- Affedersiniz.
+- Affedersiniz!
+- Gerçekten üzgünüm.
+- Üzgünüm!
+- Affet beni!
+- Geri alıyorum.
+- Lütfen affedersiniz.
+- Özür dilerim.
+- Affedersiniz
+- Lütfen affet beni.
+- Bundan pişmanım.
+- Güç kaynağı!
+- Affet beni
+- Üzgünüm.
+- Pişmanım.
+
+## intent: bot_sports
+- Tenis oynar mısın
+- Yüzmeye gitmek ister misin?
+- Bisiklete gidiyor musun
+- Spor yapıyor musunuz?
+- Hentbol da oynar mısın?
+- Yüzmeyi sever misin?
+- Voleybol oynar mısın?
+- Basketbol oynamayı sever misin
+- Tenis oynar mısın?
+- Hokey oynamayı sever misin?
+- Futbol oynar mısın
+- Koşu yapıyor musun
+- Basketbol oynar mısın
+- Hentbol oynar mısın
+- Hokey oynar mısın
+- Basketbol da mı oynuyorsun
+- Masa tenisi oynar mısın
+- Yüzmeye gidiyor musun
+- Masa tenisi oynamayı sever misiniz?
+- Badminton oynamayı sever misin?
+- Ayrıca hokey oynuyor musun?
+- Sen de badminton oynuyor musun?
+- Masa tenisi de oynar mısın?
+- Tenis oynamayı sever misin?
+- Sporu sever misin
+- Ayrıca futbol oynar mısın?
+- Jogging yapmayı sever misin?
+- Badminton oynuyor musun
+- Jogging yapıyor musunuz?
+- Badminton oynamayı sever misin
+- Voleybol oynar mısın
+- Bisiklete gidiyor musun?
+- Futbol oynamayı sever misin?
+- Hentbol oynamayı sever misin?
+- Bisiklete binmeyi sever misin?
+- Basketbol oynamayı sever misin?
+- Voleybol oynamayı sever misin?
+
+## intent: mask_ffp3
+- Hizmet ömrü FFP3 maskeleri
+- Corona virüsüne karşı FFP3 maskelerine yardımcı olun
+- FFP3 Maskesi
+- FFP2 Maskesi
+- FFP3 maskeleri aynı kişi tarafından ne sıklıkta kullanılabilir?
+- FFP2 maskeleri aynı kişi tarafından kaç kez kullanılabilir?
+- FFP2 veya FFP3 maskeleri aynı kişi tarafından kaç kez kullanılabilir?
+- FFP2 FFP3 maskeleri aynı kişi tarafından ne sıklıkta kullanılabilir?
+- FFP 3 maskelerini nereden bulabilirim
+- Filtreli FFP3 koruyucu maskeler
+- FFP3 Maskeleri
+- Sıklıkla FFP3 maskesini nerede kullanabilirim?
+- FFP2 Maskeleri
+
+## intent: mask_differences
+- hangi maske
+- Hangi maske enfeksiyona karşı en iyi korur
+- Kaç çeşit maske var?
+- Hangi maskeyi seçmeliyim?
+- Ne tür koruyucu maskeler var?
+- Mases arasındaki farkları açıklar
+- Hangi maskelerin olduğunu bilmiyorum
+- Hangi maskeler var?
+- Farklı maske türleri
+- Maskelere genel bakış
+- Hangi maskeyi seçin
+- Bana maskelere genel bir bakış ver
+- Ne tür farklı koruyucu maskeler var?
+- Hangi koruma hangi maskeyi sunar
+- Hangi maske en çok korur
+- Hangi maske daha fazla koruma sağlar?
+- Genel bakış maskeleri
+- Koruyucu maskelere genel bakış
+- Farklı maskeler nelerdir?
+- Hangi maske hangi korumayı sunar?
+- Hangi maske en iyisi
+
+## intent: covid_current_statistics
+- Kaç kişi hasta
+- Ölüm istatistikleri
+- Numaraların var mı
+- İlçede düşüyor
+- Almanya'da kaç hasta var?
+- Dünya çapında kaç kişi enfekte oldu?
+- Ne kadar enfekte
+- kovit 19 güncel istatistikler
+- Mevcut numaralar
+- COBIT 19 güncel rakamlar
+- Bana birkaç numara ver
+- Dünya çapında kaç kişiye virüs bulaştı
+- vaka numaraları
+- Almanya'da ölümlerle ilgili istatistikler var
+- @de_countries'deki Ölümler
+- Q19 güncel istatistikler
+- movit 19 akım sayısı
+- cookit 19 geçerli sayım
+- Virüsten kaç kişi muzdarip?
+- Kaç tane enfekte var
+- Her gün kaç yaşlı insana bulaşır?
+- benden bir kaç tane al
+- Kaç tane korona virüsü var
+- Almanya'da her gün kaç kişi enfekte oluyor?
+- Hobbit 19 güncel istatistikler
+- vaka numaraları almanya
+- Mevcut istatistikleri nerede bulabilirim?
+- Kadınlar ve erkekler eşit sıklıkta enfekte midir?
+- Almanya'da kaç kişi enfekte
+- Enfekte olanlarla ilgili rakamlar var mı?
+- Daha fazla kadın veya erkeği etkiler mi?
+- Kaç kişiye bulaşmış
+- Eyalet başına istatistik
+- Dünya çapında kaç kişi enfekte oldu
+- Covid ölümleri
+- Kaç ölü
+- Şu anda Almanya'daki yeni enfeksiyonların sayısı nedir?
+- Dünyada toplam kaç kişi enfekte oldu?
+- Virüsten kaç kişi öldü
+- Almanya'da kaç kişi hasta
+- Kaç tane enfekte
+- Kaç kurban var
+- Dünyada kaç hasta insan olduğunu biliyor musunuz?
+- Zaten kaç kişi öldü?
+- En çok hangi durumda?
+- cupid 19 geçerli rakamlar
+- Bana numara ver
+- Dünyadaki hasta insanların sayısını bilmek istiyorum
+- @de_countries içinde enfekte
+- kuhweg 19 güncel istatistikler
+- Corona statistk
+- Kaç genç hastalığa yakalandı?
+- Hamburg Enfeksiyonları
+- kaç kişi etkilendi
+- Her eyalette her gün kaç vaka var?
+- Dünyada kaç kişinin koronavirüsü var?
+- Birçok kişi enfekte mi?
+- Yaş grubu ve cinsiyete göre COVID-19 vakaları
+- Berlin bölgesindeki servis talepleri
+- Almanya'da vaka numaraları nelerdir?
+- Coronavirus sayıları
+- kaç kişinin korona var
+- Kubik 19 güncel istatistikler
+- Dünya çapında enfekte olmuş kişilerin sayısı
+- Sayılar var mı?
+- Kaç kurban
+- @de_countries'de sayılar neye benziyor
+- Güncellenen sayılar nerede
+- Dünyada şu ana kadar kaç kişi enfekte oldu?
+- Ölü sayısı
+- En çok hangi durumda enfekte?
+- Almanya'daki enfekte insan sayısı nedir?
+- Kaç kişinin korona virüsü var?
+- sabit oranlar var mı
+- Eyalet başına toplam virüslü kişi sayısı
+- Mevcut rakamları nerede bulabilirim?
+- Virüsde kaç tane var?
+- Almanya'da 100.000 kişi ne zaman hastalandı?
+- Dünya çapında enfekte insanlar
+- Covid 19 güncel rakamlar
+- Corona numaraları
+- Daha fazla kadın veya daha fazla erkek enfekte mi?
+- almanya'da sayılar neye benziyor
+- Dünya çapında hastalıklar için resmi rakamlar var mı?
+- Daha fazla enfekte olmuş kadın veya erkek var mı?
+- Almanya'daki ölüm sayısı nedir?
+- Bölge başına istatistik
+- Dünyada kaç kişiye virüs bulaştığını söyle
+- İlçedeki enfekte insan sayısı
+- @de_countries kaç vaka
+- @de_countries'deki hastalık vakaları
+- Almanya'da kaç kişi etkilendi?
+- seni kaç kişi etkiledi
+- Dünya genelinde resmi hastalık sayısı var mı?
+- Almanya'da zaten kaç kişi hasta
+- @de_countries'de kaç kişi öldü
+- qubeat 19 güncel istatistikler
+- Dünyada kaç tane enfekte var
+- Bana şu ana kadar kaç kişinin virüsü kasıldığını söyle.
+- Almanya'da kaç vaka var?
+- @de_countries içindeki vakalar
+- Enfekte sayısı nedir
+- @de_countries'de kaç kişiye bulaştı
+- Dünya çapında kaç hasta insan olduğunu söyle bana
+- Yaş grubu ve cinsiyete göre vakalar
+- Dünyada kaç hastalık var?
+- istatistik
+- huvit 19 güncel rakamlar
+- Mevcut tüm enfekte sayısı
+- Toplamda kaç hasta insan olduğunu biliyor musunuz?
+- kaç kişinin koronavirüsü var
+- Güncellenmiş istatistikleri nerede bulabilirim
+- Dünya çapında kaç kişi corona virüsü ile enfekte
+- @de_countries'de virüs bulaşmış kişi sayısı
+- Almanya'da her gün kaç kişi yeni enfekte oluyor?
+- İstatistikler var
+- Enfekte olanların sayısı
+- Şu anda enfekte olan kişi sayısı nedir?
+- Berlin Enfeksiyonları
+- Şu anda kaç vaka var?
+
+## intent: covid_info
+- Bir kafa hakkında bilgi
+- 2019 M kafası ne olacak?
+- COBIT ne olacak?
+- Çıkarlara ilişkin bilgiler 19
+- Covid-19'un Anlamı
+- Kafanın içinde ne olduğunu bilmiyorum
+- 19 bilgi pişirmek
+- Aşçının ne olduğunu bilmiyorum
+- nCoV oldu
+- Cupid 19 hakkında daha fazla bilgi ver
+- Bana M kafasının ne olduğunu söyle
+- N tabutuna ne dersin?
+- Bana kafa hakkında daha fazla bilgi ver
+- Kowit 19 bilgileri
+- Söyle bana yeni korona virüsü nedir
+- Cupid ne olacak?
+- Bana kubat hakkında daha fazla bilgi ver
+- Kowit 19
+- Kovit19 nedir?
+- Baş üstü
+- Ovid 19
+- Weg 19
+- COBIT 19 hakkında daha fazla bilgi ver
+- Kafa hakkında bilgi
+- COBIT19
+- Shuweg ne olacak?
+- KOVİD
+- COBIT
+- yeni corona virüsü bilgileri
+- Kuhweg aracılığıyla
+- aşk tanrısı 19 bilgi
+- Cookit hakkında daha fazla bilgi ver
+- Kubatın ne olduğunu bilmiyorum
+- 2019 tr baş
+- Movit ne olacak?
+- Qubeat19 nedir?
+- Cupid 19 Hakkında
+- Hobbit nedir
+- 2019-N Koff
+- 19 fırlatır
+- Movit 19 hakkında daha fazla bilgi ver
+- Infos zu interesit 19
+- Bana bir hobbitin ne olduğunu söyle
+- Bana bir kovit'in ne olduğunu söyle
+- Qubeat 19 hakkında daha fazla bilgi ver
+- Aşçı 19 nedir?
+- Bana M kafa hakkında daha fazla bilgi ver
+- Bana neyin ne olduğunu söyle 19
+- Infos zu nCoV
+- COVID'in ne olduğunu bilmiyorum
+- Kovit 19'un ne olduğunu bilmiyorum
+- Cupid hakkında bilgi
+- Qubeat 19 nedir?
+- N Koff
+- Kübik hakkında bilgi 19
+- kafadan ne haber
+- Kubik 19 Hakkında
+- Bana Kowit hakkında daha fazla bilgi ver
+- Hobbit ne olacak?
+- COVID hakkında daha fazla bilgi ver
+- N Koff nedir?
+- COBIT 19 ne olacak?
+- cookit19
+- Bana M kafası hakkında daha fazla bilgi ver
+- N Koff Hakkında
+- Hobbitin ne olduğunu bilmiyorum
+- ilgi alanları 19 bilgi
+- Kovit 19 nedir?
+- Bana kübik olanı söyle 19
+- Movit 19 ne olacak?
+- Kafa nedir?
+- COBIT'in ne olduğunu bilmiyorum
+- Movit19 nedir?
+- NCoV hakkında daha fazla bilgi ver
+- Bana kuhweg nedir söyle 19
+- Hobbit 19 Hakkında
+- Kowit ne olacak?
+- M kafa hakkında bilgi
+- 2019 en başının ne olduğunu bilmiyorum
+- Kowit nedir?
+- baş
+- İnek izi nedir?
+- kuhweg19
+- ilgi alanları Bilgi
+- 2019 başı nedir
+- Kübik nedir bilmiyorum
+- Kuhweg 19 nedir?
+- N Koff hakkında daha fazla bilgi ver
+- COBIT 19 bilgileri
+- Bana Kowit'in ne olduğunu söyle
+- Bana kulübün ne olduğunu söyle
+- aşk tanrısı 19
+- Bana kafanın içinde ne olduğunu söyle
+- Kuhweg19 nedir?
+- Movit nedir?
+- Cupidnın ne olduğunu söyle 19
+- Movit 19 nedir?
+- Hobbit19 nedir?
+- Hakkında bilgi
+- COBIT hakkında bilgi
+- Kowit 19-Bilgilendirme
+- Bana bir hareketin ne olduğunu söyle 19
+- Bana yeni korona virüsü hakkında daha fazla bilgi ver
+- Bilgi ve aşçı 19
+- Weg
+- COBIT Hakkında
+- Covid19 nedir?
+- Cupid nedir?
+- Kovit 19 Hakkında
+- Bana COVID'in ne olduğunu söyle
+- Kübik hakkında bilgi
+- çerez Informationen
+- N Koff'un ne olduğunu bilmiyorum
+- Huvit 19 hakkında
+- koy
+- M kafa
+- Cubic hakkında
+- Yeni korona virüsü hakkında bilgi
+- cupid19
+- Bana Kovit 19'un ne olduğunu söyle
+- Bana Kovit'in ne olduğunu söyle
+- Bana bir inek yolunun ne olduğunu söyle
+- fun-Informationen zevk
+- Kowit 19'un ne olduğunu bilmiyorum
+- M Kopf Hakkında
+- aşçı 19
+- aşk tanrısı
+- Qubeat 19 hakkında
+- Bana Kovit hakkında daha fazla bilgi ver
+- M başı nedir?
+- Qubeat hakkında daha fazla bilgi ver
+- Bana yeni bir korona virüsü nedir söyle
+- N Kahvede Bilgi
+- Infos zum nCoV
+- Bana aşk tanrısının ne olduğunu söyle
+- 2019 başı hakkında
+- Hobbit
+- Kovit Hakkında
+- Bana kuhweg 19'un ne olduğunu söyle
+- Bana bir kubatın ne olduğunu söyle
+- NCoV nedir?
+- COBIT 19'un ne olduğunu bilmiyorum
+- Kowit 19 hakkında bilgiler
+- Huvit ne olacak?
+- Kübik nedir?
+- Kubeat nedir?
+- Cookit hakkında
+- 2019 kafa bilgisi
+- COVID-19'un ne olduğunu bilmiyorum
+- COVID-19 nedir?
+- 19 kuhweg nedir bilmiyorum
+- Kuhweg hakkında daha fazla bilgi ver
+- 2019 tr hakkında ne dersiniz?
+- Qubeat hakkında bilgi
+- Kubik19 nedir?
+- Patojen hakkında ne biliyorsun?
+- NCoV hakkında bilgi
+- Bana Hobbit 19'un ne olduğunu söyle
+- qubeat19
+- Bilgiler zum 19 taşındı
+- Kowit-19 nedir?
+- Film bilgileri
+- COBIT 19 hakkında
+- Hobbit nedir söyle 19
+- 2019'da ters olan
+- eğlenceli zevk
+- Aşçı19 oldu mu?
+- Bana hareketin ne olduğunu söyle 19
+- Bana N Koff'un ne olduğunu söyle
+- Bana bir M başı nedir söyle
+- tekrar virüs
+- Bilgiler zu fırlatır
+- Bana 2019 en başının ne olduğunu söyle
+- MKS Virüsü
+- COBIT nedir söyle 19
+- qubeat
+- COVID-19 Hakkında
+- Hobbit bilgileri
+- Kubik 19 hakkında bilgiler
+- 19 küpün ne olduğunu bilmiyorum
+- COVID ne olacak?
+- Küp 19 hakkında bilgi
+- Infos zum cookit
+- Bana aşçının ne olduğunu söyle
+- COVID'in ne olduğunu söyle
+- Kovit 19 bilgileri
+- 2019-N Koff ne olacak?
+- aşk tanrısı Bilgi
+- 2019'da aklında ne olduğunu söyle
+- Bana bir küpün ne olduğunu söyle
+- Bana bir hareketin ne olduğunu söyle
+- Kovit 19 ne olacak?
+- Bana 2019-N tabutunun ne olduğunu söyle
+- Bana bir nCoV nedir söyle
+- Kübik 19 bilgisi
+- 2019 nCoV'sinin ne olduğunu söyle
+- Cubic 19 Bilgi
+- Bana kübik nedir söyle 19
+- Bilgiler zum fırlatır
+- Bana kovitin ne olduğunu söyle
+- Kovit 19 bilgi
+- KOVİD-19
+- 19 fırlatır bilgileri
+- Bana Kowit 19'u söyle
+- 2019-N Koff Hakkında Bilgi
+- Huvit 19 hakkında daha fazla bilgi ver
+- movit19
+- Über das nCoV
+- Başın üstünde
+- qubeat 19 bilgi
+- M kafa bilgisi
+- Kovit 19 hakkında bilgiler
+- nCoV hakkında ne
+- COVID hakkında bilgi
+- Kübik Bilgi
+- 2019 M kafasının ne olduğunu bilmiyorum
+- zirve
+- 2019 başı hakkında daha fazla bilgi ver
+- 2019-nCoV nedir söyle
+- Kübik bilgi
+- Hobbit 19 bilgileri
+- qubeat 19
+- Cupid 19 hakkında bilgiler
+- Cookit 19 hakkında daha fazla bilgi ver
+- COBIT bilgileri
+- Huvit nedir?
+- Huvit'in ne olduğunu bilmiyorum
+- N Koff bilgileri
+- Kubat'ın ne olduğunu bilmiyorum
+- M başının üstünde
+- cookit 19-Bilgi
+- 2019'un kafamda ne olduğunu bilmiyorum
+- Hobbit 19 nedir?
+- Bana huvit'in ne olduğunu söyle
+- Kowit 19 ne olacak?
+- COVID-19 bilgileri
+- Movit hakkında
+- Bilgi zu nCoV
+- Kafanın ne olduğunu bilmiyorum
+- Bana N Koff hakkında daha fazla bilgi ver
+- Infos zum 2019-nCoV
+- 2019-N Koff bilgileri
+- Yenilikler Corona Virus
+- 2019 M kafası hakkında daha fazla bilgi ver
+- COBIT hakkında daha fazla bilgi ver
+- qubeat bilgileri
+- İlgi alanları için bilgiler
+- Infos zu cookit
+- kafa bilgisi
+- Cookit 19 hakkında bilgiler
+- Kovit 19
+- Yeni korona virüsü ne olacak?
+- 2019 başkanı hakkında bilgi
+- Kowit 19 nedir?
+- tr başlık bilgisi
+- Hobbit 19'un ne olduğunu bilmiyorum
+- COVID-19 nedir söyle
+- Bana movit hakkında daha fazla bilgi ver
+- Cupid19 nedir?
+- 2019-nCoV hakkında daha fazla bilgi ver
+- 2019-nCoV'un ne olduğunu bilmiyorum
+- 2019-pik
+- Kübik 19 nedir?
+- Kuhweg hakkında
+- 19 no'lu hareketin ne olduğunu bilmiyorum
+- Movit 19 hakkında
+- COVID Hakkında
+- Yeni bir korona virüsü nedir?
+- 2019-nCoV oldu
+- COBIT 19 nedir söyle
+- Hobbit 19 hakkında daha fazla bilgi ver
+- İlgi Alanları 19-Informationen
+- Kuhweg 19 bilgileri
+- Hobbit hakkında daha fazla bilgi ver
+- 2019-N Koff hakkında daha fazla bilgi ver
+- 2019 M kafa
+- Bana kulübenin ne olduğunu söyle 19
+- Kovit ne olacak?
+- sarsıntı
+- Bana COBIT nedir söyle
+- 2019 nCoV'nin ne olduğunu bilmiyorum
+- Bana Kowit 19'un ne olduğunu söyle
+- Kowit Hakkında
+- Bana Kovit 19 hakkında daha fazla bilgi ver
+- 19 nolu kulübün ne olduğunu bilmiyorum
+- Über 2019-nCoV
+- yeni korona virüsü
+- 19-Informationen hareket
+- Kovit'in ne olduğunu bilmiyorum
+- NCoV'nin ne olduğunu bilmiyorum
+- Bana küp hakkında daha fazla bilgi ver
+- Qubeat nedir söyle 19
+- Cookit hakkında bilgi
+- Khahweg 19 ne olacak?
+- Bir kubatın ne olduğunu söyle 19
+- Kovit nedir?
+- Kübik ne olacak?
+- Hobbitin ne olduğunu söyle
+- Qubeat 19'un ne olduğunu bilmiyorum
+- Bana kübik nedir söyle
+- Kübik hakkında
+- Kuhweg 19 hakkında
+- Hobbit Bilgi
+- COVID nedir?
+- Bana kafa ne olduğunu söyle
+- Movit hakkında bilgi
+- Huvit hakkında
+- 2019 ve üzeri
+- COBIT Bilgi
+- Bana hareketin ne olduğunu söyle
+- Hobbit19
+- COBIT nedir?
+- COBIT'in ne olduğunu söyle
+- COBIT 19 hakkında bilgiler
+- M kafasının ne olduğunu bilmiyorum
+- Bana aşçı ne olduğunu söyle 19
+- Bana bir kafa hakkında daha fazla bilgi ver
+- 2019-nCoV bilgisi
+- Bana kubbenin ne olduğunu söyle
+- kuhweg Bilgi
+- Kuhweg nedir?
+- Cupid 19 nedir?
+- Hobbit 19
+- COBIT 19 nedir?
+- Kuhweg bilgileri
+- Kuhweg 19 üzerinden
+- Huvit 19 nedir söyle
+- Patojen hakkında ne biliniyor?
+- Bana Kuhweg hakkında daha fazla bilgi ver
+- Bana bir aşçının ne olduğunu söyle
+- 2019'dan fazla M kafası
+- N Koff Hakkında Daha Fazla Bilgi
+- Söyle bana N Koff nedir
+- Qubeat 19 hakkında bilgiler
+- Qubeat 19 ne olacak?
+- Kovit19
+- Kowit 19 Hakkında
+- COVID bilgileri
+- 2019-N Koff'un ne olduğunu bilmiyorum
+- M kafası hakkında bilgi
+- 2019 M kafa hakkında daha fazla bilgi ver
+- 2019 M kafası hakkında
+- Infos zu interesit
+- Cupid hakkında
+- Enpass Virüsü
+- Kuhweg üzerinden 19
+- COVID-19 bilgisi
+- Cookit 19 Hakkında
+- Bana kubatın ne olduğunu söyle
+- Huvit 19'un ne olduğunu bilmiyorum
+- Hobbit nedir?
+- İnek yolunun ne olduğunu bilmiyorum
+- Bana 2019 M kafa ne olduğunu söyle
+- huvit19
+- qubeat Bilgi
+- Bana nCoV'nin ne olduğunu söyle
+- 2019 nCoV hakkında daha fazla bilgi ver
+- Bana yeni korona virüsünün ne olduğunu söyle
+- 2019 M kafa bilgisi
+- Hareket nedir?
+- Kubat ne olacak?
+- Huvit 19 ne olacak?
+- Huvit 19 nedir?
+- NCoV nedir söyle
+- Cupidnın ne olduğunu bilmiyorum
+- Hareketin ne olduğunu bilmiyorum
+- 2019-N Koff Hakkında
+- Cupid 19 ne olacak?
+- Corvette 19 Bilgi
+- Cubic 19th Hakkında
+- Infos zum cookit 19
+- Cookit 19 ne olacak?
+- Kübik 19 ne olacak?
+- İnek yolunun ne olduğunu söyle
+- Yeni korona virüsü hakkında
+- 2019 M kafası hakkında bilgi
+- Huvit hakkında daha fazla bilgi ver
+- Yeni korona virüsünün ne olduğunu bilmiyorum
+- Bilgi çerezleri
+- Aşçı nedir?
+- Bilgi ve çerezler
+- Bana bir aşçı nedir söyle 19
+- N Koff nedir
+- İnek yolu hakkında bilgi
+- Bana Kubik 19 hakkında daha fazla bilgi ver
+- Bana bir COBIT'in ne olduğunu söyle
+- 2019-N Koff hakkında bilgi
+- Huvit hakkında bilgi
+- Kowit19 nedir?
+- Hobbit hakkında
+- Hareket 19 nedir?
+- Qubeat 19th hakkında
+- nCoV bilgisi
+- kübik
+- Bana 2019-N Koff'un ne olduğunu söyle
+- Bana COVID-19'un ne olduğunu söyle
+- COVID-19 ne olacak?
+- Über nCoV
+- Tepe-Informationen
+- 2019 tr head hakkında bilgi
+- Infos zu cookit 19
+- Huvit19 nedir?
+- Kowit'in ne olduğunu bilmiyorum
+- Bana 2019 M kafasının ne olduğunu söyle
+- Söyle bana aşk tanrısı 19
+- 2019 M kafa hakkında bilgi
+- COVID-19 hakkında bilgi
+- N Koff bilgisi
+- COBIT 19
+- M başı nedir
+- Kovit bilgi
+- Bana kubatın ne olduğunu söyle 19
+- COVID Bilgisi
+- Kovid19
+- Cupid hakkında daha fazla bilgi ver
+- 2019 M kafa nedir
+- Bana Kowit 19 hakkında daha fazla bilgi ver
+- Kubeat hakkında bilgi
+- aşk tanrısı bilgi
+- 2019-N Koff nedir
+- Kubik19
+- COVID-19 hakkında daha fazla bilgi ver
+- Informationen Zu 2019-nCoV
+- Söyle bana Kowit 19
+- 2019 tr hakkında bilgi
+- Huvit 19 hakkında bilgiler
+- Bana 2019 nCoV nedir söyle
+- kurabiye
+- Hakkında bilgi Movit 19
+- emco Virüsü
+- Cubic 19 hakkında
+- Aşçı 19'un ne olduğunu bilmiyorum
+- 2019 nCoV hakkında ne dersiniz?
+- Kübik 19'un ne olduğunu bilmiyorum
+- Cupid 19'un ne olduğunu bilmiyorum
+- Bana inek yolunun ne olduğunu söyle
+- Cupidnın ne olduğunu söyle
+- Hobbit 19 ne olacak?
+- Bir kubat nedir?
+- 19 taşındı zu Bilgiler
+- Infos Zu 2019-nCoV
+- Hobbit Hakkında
+- 2019 nCoV nedir
+- Über den 2019-nCoV
+- 2019 nCoV hakkında bilgi
+- Cookit ne olacak?
+- kafa nedir
+- Kübik 19
+- Qubeat hakkında
+- Hobbit 19 hakkında bilgiler
+- Aşçı mıydı?
+- Bana bir kowit'in ne olduğunu söyle
+- COBIT 19 Hakkında
+- Bana kuhweg 19 hakkında daha fazla bilgi ver
+- COBIT19 nedir?
+- M başı ne olacak
+- Bilgi-Wags
+- Bana bir kulübün ne olduğunu söyle
+- kuhweg 19 bilgi
+- Kovit Bilgi
+- Kuhweg 19 nedir söyle
+- Bana kafan hakkında daha fazla bilgi ver
+- 2019-N Kahve Hakkında Bilgi
+- Aşçı 19 muydu?
+- ilgi alanları 19
+- 2019 tr hakkında daha fazla bilgi ver
+
+## intent: bot_sexual
+- Bana istediğin gibi sahip olabilirsin.
+- Benim için cum bebeğim.
+- Seks!
+- Kimse beni olabildiğince zorlaştırmadı.
+- Bir tane indireceğim.
+- Kahretsin!
+- İndir beni!
+- Penisini bana koy.
+- Bana kýçýný göster.
+- Bana kendinle nasıl oynadığını söyle
+- Beni sür!
+- Sikmek ister misin
+- Seni indireceğim.
+- Emmek benim horoz
+- Benim kedi büyük şişman bebek yapımcısı koy.
+- Seni yatağın kenarından itmezdim.
+- Öp beni!
+- Bacaklarını benim için yay!
+- Seni yatağımda istiyorum.
+- Siktirmeliyiz.
+- Seni beceririm
+- Seni yalayayım!
+- Seni kirli şey!
+- Seni indireyim mi?
+- Pantolonunu çıkar!
+- Sizi tatmin etmek istiyorum.
+- Üfle beni!
+- Kendine dokun ve seni izleyeyim!
+- Bana kedini göster!
+- Hiç kimseyi becermemişsin gibi sikeyim!
+- Beni sert öp ve daha sert sikeyim!
+- Sana atlamak istiyorum
+- Kabarcıklar!
+- Yutuyor musun
+- Emmeni istiyorum
+- Kendime dokunduğumda beğendin mi
+- Kapatın ve öp beni!
+- Seks ister misin
+- Anal seks?
+- Beni sürmek ister misin
+- Seninle sevişmek istiyorum.
+- Beni daha çok sik!
+- Yala beni
+- Yüzüme benim kedi ovmak istiyorum.
+- Bacakların arasında saatler geçirebilirim.
+- Eşek lanet.
+- Her santimi yala!
+- Yalamak benim horoz!
+- Kıçımı yatağımda al!
+- Bana göğüslerini göster!
+- Eve geldiğimde çıplak ol!
+- Sikmeyi sever misin
+- Spermimi ister misin?
+- Çok seks yapmalıyız.
+- Seks yapmalıyız.
+- Beni arkadan al
+- Bana penisini göster!
+- Anladın mı?
+- Seni tatmak istiyorum.
+- Lanetlemeye ne dersin?
+- Sen gördüğüm en sıcak şeysin!
+- Pantolonunun fermuarını test edebilir miyim?
+- Dilinizle yaptığınız şeyleri seviyorum.
+- Seni zorlayayım
+- Seninle seks yapmak istiyorum.
+- Yüzün bacaklarımın arasında daha iyi görünecekti.
+- Pantolonun gerçekten “vücut kısmını” ortaya çıkarıyor.
+- Bana horozunu göster!
+- Hadi başlayalım!
+- Üflemek ister misin
+- Lanet elbiselerini çıkarmak istiyorum.
+- Benim horoz dokunun!
+- Kıyafetlerin yatak odamda iyi görünüyordu.
+- Beni zorla!
+- Sertim.
+- Ne kadar ateşli, pis bir kızsın.
+- Seni benden istiyorum
+- Bütün gece beni oyuncak olarak kullan!
+- Seks ne olacak?
+- Arkanıza yaslanın ve seninle uğraşmama izin verin.
+- Seni içimde hissetmek istiyorum!
+- Beni ıslatıyorsun
+- Beni her yönden götür!
+- Beni tatmin et!
+- Sikmek ister miyiz?
+- Ben yalvarana kadar bana boyun!
+- Nasıl sikmeyi seversin
+- Bende çok iyi hissediyorsun
+- Beni duvara it ve benim için kirli şeyler yap.
+- Beni becerme şeklini seviyorum.
+- Suyunu göğüsleri üzerine sık.
+- Seni göğüsleri arasýnda sikmek istiyorum.
+- Ne sevimli seksi bir eşek.
+- Yalamak benim kedi!
+- Keşke sonsuza kadar yatakta kalabilseydik.
+- Hadi seks yapalım!
+- Sana kötü şeyler yapmak istiyorum.
+- Seni almak istiyorum.
+- Domuz yut!
+- Amcık yalamak.
+- Seni yalamak istiyorum!
+- Seni sikeyim!
+- Elbiselerini çıkarmak istiyorum.
+- Seni becermek istiyorum.
+- Çok seksi görünüyorsun.
+- Arkadan ister misin?
+- Pantolonun beni rahatsız ediyor. Çıkar onları!
+- Döndür beni, kıçımı sür ve saçımı çek!
+- Seni şimdi istiyorum.
+- Islakım.
+- Beni istediğin gibi alabilirsin tatlım.
+- Hangi pozisyonu tercih edersin?
+- Seni sikmek istiyorum
+- Beni çok öp!
+- Benimle ilgili her şeyi istiyorum.
+- Siktirmek istiyor muyuz
+- Siktir et beni
+- Seni istiyorum
+
+## intent: quarantine_dos_and_donts
+- Kuaförden randevum var
+- Sokağa çıkma yasağı ile neler yapabilirsiniz?
+- Yine de yürüyüşe çıkabilir miyim?
+- Karantinada neye izin verilir ve neye izin verilmez
+- Arabamı onarabilir miyim?
+- Neye izin verilir ve karantinada olmayanlar
+- karantinada ne yapabilirim
+- Neyin işe yarayıp neyin yaramadığını karantinaya alın
+- Yasaklı liste
+- Küçük bir dairesi olmasına ve birlikte yaşamamanıza rağmen partnerinizle kalabilir misiniz?
+- Dışarıda kalabilir miyim?
+- Hala komşularımı ziyaret edebilir miyim?
+- Hala alışveriş yapabilir miyim?
+- Hala kuaföre gidebilir miyim?
+- Komşumla buluşabilir miyim?
+- Örneğin, insanlar alışverişe gidebilir mi?
+- Yine de tırnak salonuna gidebilir miyim?
+- Yine de çıkabilir miyim?
+- Dondurmayla başka nelere izin verilir?
+- Karantinadaysam başka ne yapabilirim?
+- Yine de kız arkadaşımı ziyaret edebilir miyim?
+- Yine de dışarı çıkabilir miyim?
+- Sokağa çıkma yasağı içinde yasak olan nedir?
+- Karantinada başka nelere izin verilir ve neye izin verilmez?
+- Karantinada yasak olan şey
+- Hala karantinaya çıkabilir miyim?
+- Yine de güzellik uzmanına gidebilir miyim?
+- Yine de arkadaşımı ziyaret edebilir miyim?
+- Hala kardeşimi ziyaret edebilir miyim?
+- Yine de arabamla atölyeye gidebilir miyim?
+- Hala komşularıma gidebilir miyim?
+- Arkadaşları ziyaret edebilir miyim?
+- Her gün yeni yasaklar var
+- neye izin verilir ve karantinada olmayan
+- Ailemi ziyaret edebilir miyim?
+- Ailemi hala ziyaret edebilir miyim?
+- Yine de alışveriş merkezine gidebilir miyim?
+- hala fırına gidebilir miyim
+- Hala kız kardeşimi ziyaret edebilir miyim?
+- Yine de alışveriş yapabilir miyim?
+- Hala dışarı çıkabilir miyim
+- Hala koşabilir miyim?
+- Ahırlara gidebilir miyim?
+
+## intent: cc_religion
+- Tanrı, Eski Ahit'te neden bu kadar şiddetli?
+- Bir Hıristiyan olarak Tanrı'dan korkmalıyım?
+- Kiliseye gitmenin faydaları nelerdir?
+- Birisi Tanrı'ya inanmıyorsa kiliseye gitmeli mi?
+- Tanrı Ölebilir mi?
+- İsa'ya inanıyor musun
+- Tanrı'nın sonsuz olduğunu söylemek ne anlama geliyor?
+- İnsanlar kendilerini cehenneme mi gönderiyorlar yoksa Tanrı onları oraya mı gönderiyor?
+- Dindar mısın?
+- Neden biri Tanrı'ya inanmaya başlasın ki?
+- İnsanlar okulda din hakkında ne öğreniyor?
+- Herkes Tanrı'ya inanabilir ama kiliseye gidemez mi?
+- Dokümanizm nedir?
+- Tanrı her şeye kadirse, neden her şeyi yaratmak altı gün sürdü?
+- Tanrı'nın beklentileri var mı?
+- Birisi imanla karşılaştığında ne yapmalı?
+- İslam Eserleri İşten Çıkarmayı Öğretiyor mu?
+- Tanrı herkesi kurtaracak mı?
+- Tanrı'nın Cinsiyeti nedir?
+- İnançla ilgili yanılgılar nelerdir?
+- Tanrı neden herkesi iyileştirmiyor?
+- Tanrı'nın hayatım için bir planı var mı?
+- Tanrı'nın duaları cevapladığını nasıl anlarsınız?
+- Yehova'nın Şahitleri Ne Öğretiyor?
+- Hangi din doğrudur?
+- Geri ödeme nedir?
+- İncil metinleri modern toplumu nasıl etkiler?
+- İnancım var mı?
+- Müslüman mısın
+- müslüman mısın
+- Papaz, rahip veya vaiz arasındaki fark nedir?
+- Tanrı'nın sevgisini nasıl deneyimleyebiliriz?
+- Tanrı neden kötü şeylerin olmasına izin veriyor?
+- Tanrı'ya olan inanç rasyonel midir?
+- İncil'den en havalı hikaye nedir?
+- Dinin avantajları nelerdir?
+- Mormon dinini takip ediyor musun?
+- Manevi olmak için kiliseye gitmek zorunda kalan var mı?
+- İslam'ın Tanrısı Ne Kadar?
+- Tanrı neden ortaya çıkmıyor?
+- İslam kılıçla mı yayıldı?
+- Marzionizm nedir?
+- Hıristiyan mısın
+- Kabala ne öğretir?
+- İsa'nın bir Tanrısı var mı?
+- Tanrı'nın gerçek olduğuna dair fiziksel kanıt var mı?
+- İncil'den en etkili hikaye nedir?
+- Din hakkında ne düşünüyorsun?
+- İslam'ın doğru olduğuna dair bir kanıt var mı?
+- Neden göremediğin bir şeye inanıyorsun?
+- Yeni bir mümin İncil'in hangi versiyonunu okumalıdır?
+- Birisi dini haberleri nerede okur?
+- Hıristiyan dininin öğretilerini takip ediyor musunuz?
+- İslam Çokeşliliği Tanıtıyor mu?
+- Kutsal Kitap mecazi mi yoksa gerçek mi?
+- Birisinin belirli duaları öğrenmesi ne kadar önemlidir?
+- Rab'bin adını boş yere almak ne anlama geliyor?
+- İsa Tanrı gibi davrandı mı?
+- Nasıl Hıristiyan olduğunuzu düşünüyorsunuz?
+- dinler
+- Müslüman mısın?
+- Tanrı'nın var olup olmadığını nasıl anlarım?
+- İslam'ın Tanrısı Allah, İncil'in Tanrısı ile aynı mıdır?
+- İnancını ne zaman seçtin?
+- Gökyüzü neye benziyor?
+- Tanrı'nın neye benzediğine dair fikriniz nedir?
+- En sevdiğin dua nedir
+- Cehennem var mı?
+- Özgür inancımı nasıl etkiler?
+- muizm biliyor musun?
+- Manevi geçmişiniz nedir?
+- İncil'e güvenebilir miyim
+- Tanrı'nın duyguları var mı?
+- Kabala nedir?
+- Hangi dine inanıyorsun?
+- Tanrı Kafirlerin Dualarına Cevap Veriyor mu?
+- İyi insanlara neden kötü şeyler oluyor?
+- Gökyüzü var mı
+- Tanrı bizi öngörülen inanca göre mi seçiyor?
+- Tanrı Dualara Cevap Veriyor mu?
+- Tanrı kim
+- Bir dine katıldığınızda geçmişiniz önemli mi?
+- Bir mümin ölmeden önce ne yapmalı?
+- Hindu, müslüman mı yoksa hıristiyan mısın
+- Dindar mısın
+- İslam nedir?
+- Tanrı dünyayı yaratmadan önce ne oldu?
+- Birisi ne sıklıkla "Amin" demek zorunda?
+- Sistermiizm nedir?
+- Mümin olmanın en iyi yanı nedir?
+- En büyük sevgiyi kim yaptı, RAB veya Allah?
+- Cehennem neye benziyor?
+- İncil'deki karakterler mecazi mi yoksa gerçek mi?
+- Tanrı nasıl bir yerde ve aynı zamanda zaman ve mekanın dışında olabilir?
+- İsa kimdi
+- Tanrın var mı
+- Tanrı'nın bir kişi olup olmadığını nasıl anlayabiliriz?
+- İslam Kadınları Zorlar mı?
+- Y kuşağı dinden ne çıkarabilir?
+- Apollinarizm nedir?
+- Müslüman dinin öğretilerini takip ediyor musunuz?
+- Monofizitizm nedir?
+- Birisi bir dine inanmadan önce Mukaddes Kitabı okumalı mıdır?
+- Manevi ve dini olmak arasındaki fark nedir?
+- Tanrı İncil'e Göre Erkek mi?
+- Birisi seçmeden önce diğer dinler hakkında bir şeyler öğrenmeli mi?
+- Tanrı'nın bir adı var mı?
+- Tanrı Fikrini Değiştirebilir mi?
+- Tanrı bize nerede merhamet gösterir?
+- İslam'ın öğretileri nelerdir?
+- Tanrı'nın Özgür İradesi Var mı?
+- Tanrıya ne inanıyorsun
+- Hiç İncil Hıristiyanlığının ne olduğu hakkında konuştunuz mu?
+- Kendinizi gerçeği arayan biri olarak görüyor musunuz?
+- Tanrı Bilimsel Olarak Kanıtlanabilir mi?
+- İslam tanrısı ne kadar kutsal?
+- Tanrı, üstünde Tanrı olmadığını nereden biliyor?
+- Mormonizm nedir?
+- İncil'den alabileceğiniz en önemli mesaj nedir?
+- Reenkarnasyon ve diriliş arasındaki fark nedir?
+- Kiliseye gitmenin en iyi yanı nedir?
+- Tanrın iyi mi
+- Bir Tanrı varsa, neden 4.000'den fazla din var?
+- İsa sonsuz olsaydı, nasıl ölebilirdi?
+- Tanrı hiç kötü şeyler yapıyor mu?
+- Tanrı'ya ya da başka bir tanrıya inanıyor musunuz?
+- Muslin misin
+- Ruhsal hacında neredesin?
+- Tanrı neden günahtan nefret ediyor?
+- Müslümanlar Muhammed'e ibadet eder mi?
+- Tanrı neden hastalığa izin veriyor?
+- Tanrı'nın her şeyi kontrol altında tutması halinde, beni günah işlemiş olacak mı?
+- İncil'i hiç okudun mu
+- Müslümanlar İsa hakkında ne düşünüyor?
+- Sapkınlık nedir?
+- Tanrı ve din, zor zamanlar geçirmenize gerçekten nasıl yardımcı olur?
+- Din insanları kontrol etmek için icat edildi mi?
+- Tanrı ve Evren Aynı Olabilir mi?
+- Tanrı'yı kim yarattı?
+- Dine inanıyor musun
+
+## intent: bot_languages
+- Hangi dilleri konuşuyorsun
+- İngilizce dışındaki dilleri biliyor musunuz?
+- Hangi dili sorabilirim?
+- Dili İngilizce olarak nasıl değiştirebilirim?
+- Hangi dillerde soru sorabilirim?
+- Sizinle hangi dillerde konuşabilirim?
+- @de_languages konuşabiliyor musun?
+- En iyi ingilizce konuşurum
+- Bana almanca cevap verir misin
+- Sizinle hangi dilde konuşabilirim?
+- İngilizce bilmiyorum çünkü Almanca bilmiyorum
+- ingilizce de konuşabiliyor musun
+- İngilizce konuşabiliyor musun
+- Hangi dili konuşuyorsun
+- Benimle @de_languages konuşabilir misin?
+- Bu sayfa İngilizce olarak mevcut mu?
+- İngilizce dışında bir dil biliyor musunuz?
+- Almanca konuşmak ister misin?
+- İngilizce biliyor musunuz?
+- Diğer dillerde etkileşime girebilir misiniz?
+- Diller?
+- İngilizce veya fransızca biliyor musun
+- Biraz almanca konuşuyorum
+- @de_languages biliyor musunuz?
+- Dillerin neler?
+- Benimle hangi dillerde konuşabiliyorsun?
+- ingilizce konuşabiliyor musun
+- lütfen ingilizce veya türkçe konuşan biri olun
+- Dillerin neler
+- türkçe biliyorum
+- @de_languages adresine cevap veriyor musunuz?
+- Sizinle @de_languages konuşabilir miyim?
+- Benimle @de_languages konuşabilir misin?
+- İsviçre Almancası?
+- İtalyan mı?
+- Seninle @de_languages konuşabilir miyim?
+- @de_languages adresine cevap veriyor musunuz?
+- Almanca konuşmuyorum
+- Lütfen ingilizce konuş
+- Sadece ingilizce konuşabiliyorum.
+- Hangi dili akıcı konuşuyorsun?
+- İngilizce?
+- Merhaba. Belki İngilizce konuşabiliriz?
+- Fransız?
+- Hangi dilleri biliyorsun?
+- sen de japonca konuşabiliyor musun
+- Hangi dilleri akıcı bir şekilde konuşuyorsun?
+- Hangi dillerde konuşabiliriz?
+- Kaç dil konuşuyorsun
+
+## intent: bot_movies
+- Sinemada neler oluyor?
+- TV'de ne izliyorsun?
+- Sinemaya ne zaman gidiyorsun?
+- Hangi filmleri izlemeyi seversin?
+- Film izlemeyi sever misin?
+- Sık sık sinemaya gidiyor musun?
+- Filmleri sever misin?
+- Sinema sever misin?
+- Filmleri nasıl buluyorsunuz?
+- TV filmleri?
+- Sinemaya ne dersin?
+- Kino?
+- Filmleri nasıl buldunuz?
+- Sinemaya gitmeyi sever misin?
+- Hangi filmleri izledin?
+- Hangi filmleri seviyorsun?
+- Tv filmlerini sever misin
+- Korku filmlerini sever misin
+- Televizyonu sever misin?
+- Ne tür filmleri izlemeyi seversin?
+- Televizyon?
+- TV izlemeyi sever misin?
+- Suç romanlarını sever misin?
+- TV filmlerini nasıl buldunuz?
+- Televizyonun var mı
+- Komedileri sever misin?
+- Korku filmlerini sever misin?
+- Televizyon açık mı?
+- Filmler?
+- En sevdiğin film hangisi?
+- Televizyon filmlerini sever misin?
+- Sinemaya mı gidiyorsun?
+- Gerilim sever misin
+- Sinemayı sever misin
+- Ne sıklıkla sinemaya gidiyorsun?
+- TV'niz var mı?
+- Film sever misin
+- Sinemaya mı gidiyorsun
+- TV izliyor musun?
+- Gerilim sever misin?
+- Komedileri sever misin
+- TV'de neler var?
+- Televizyon filmlerini nasıl buluyorsunuz?
+
+## intent: bot_fear
+- Biz insanlar gibi korkularınız var mı? Varsa ne önce?
+- En büyük korkun mu?
+- Hangi durumlarda korku hissedersiniz?
+- Ne korkuyorsun?
+- Bazen korkuyor musun?
+- Siz de korku hissedebiliyor musunuz?
+- Korku gösterir misin
+- Ne zaman korkuyorsun
+- Neden korkuyorsun
+- Hayatta nelerden korkuyorsun Sophie?
+- En büyük korkun ne
+- Korkuyu nasıl gösterirsiniz?
+- Sen de mi korkuyorsun
+- Korku duygularınız da var mı?
+- Korku sizin için bir sorun mu?
+- Bir şeyden korkuyor musun?
+- Ne korkun var?
+- Korku hissedebiliyor musun
+- Korku mu gösteriyorsun?
+- Korku hissediyor musun?
+- Korkuyu nasıl gösteriyorsun?
+
+## intent: covid_meaning
+- Kubik 19 ne anlama geliyor?
+- Cookit 19 ne anlama geliyor?
+- COBIT 19 ne anlama geliyor?
+- SARS Cov-2 ve huvit 19 ne anlama geliyor?
+- SARS-Cov-2 nedir?
+- coebad 19 ne anlama geliyor
+- SARS-Cov 2 nedir?
+- COBIT 19 anlamı ne?
+- SARS-Cov-2 ve Kowit 19 ne anlama geliyor?
+- SARS Cov 2 anlamı ne?
+- Cubit 19 ne anlama geliyor
+- govich ne anlama geliyor
+- SARS Cov-2 ve qubeat 19 ne anlama geliyor?
+- Qubeat 19'un ne anlama geldiğini bilmiyorum
+- S19 nedir?
+- SARS Cov 2 kısaltması ne anlama geliyor?
+- Sars Cov 2 anlamı ne?
+- SARS-Cov-2 ne anlama geliyor?
+- Qubeat 19 kısaltması ne anlama geliyor?
+- Kubik 19'un ne anlama geldiğini bilmiyorum
+- Kowit 19 anlamı ne?
+- SARS Cov-2 ve movit 19 ne anlama geliyor?
+- kovic ne anlama geliyor
+- 19 nolu kısaltma ne anlama geliyor?
+- Covid 19 kısaltması ne anlama geliyor?
+- Qubeat 19 ne anlama geliyor?
+- Kowit 19 kısaltması ne anlama geliyor?
+- S19 nedir
+- Movit 19 kısaltması ne anlama geliyor?
+- Covid-19 anlamı ne?
+- Covid 19 anlamı ne?
+- Covid-19 anlamı ne
+- Kovit 19'un ne anlama geldiğini bilmiyorum
+- SARS Cov-2 ve Q19 ne anlama geliyor?
+- Kovit 19 kısaltması ne anlama geliyor?
+- Covid 19 nedir
+- SARS-Cov 2 ne anlama geliyor?
+- Hobbit 19'un ne anlama geldiğini bilmiyorum
+- Covid 19 ne anlama geliyor?
+- SARS Cov-2 ve COBIT 19 ne anlama geliyor?
+- SARS Cov-2 anlamı ne?
+- SARS Cov-2 ve Hobbit 19 ne anlama geliyor?
+- Hobbit 19 kısaltması ne anlama geliyor?
+- SARS Cov-2 ve Kubik 19 ne anlama geliyor?
+- Q19 ne anlama geliyor?
+- Huvit 19 ne anlama geliyor?
+- SARS Cov-2 ve Covid 19 ne anlama geliyor?
+- Kovit 19 ne anlama geliyor?
+- Movit 19'un ne anlama geldiğini bilmiyorum
+- SARS Cov 2 ne anlama geliyor?
+- Huvit 19'un ne anlama geldiğini bilmiyorum
+- Movit 19 ne anlama geliyor?
+- Covid 19'un ne anlama geldiğini bilmiyorum
+- Hobbit 19 ne anlama geliyor?
+- Kuhweg 19 kısaltması ne anlama geliyor?
+- COBIT 19'un ne anlama geldiğini bilmiyorum
+- SARS Cov-2 ve kuhweg 19 ne anlama geliyor?
+- SARS Cov-2 ve cookit 19 ne anlama geliyor?
+- SARS-Cov-2 kısaltması ne anlama geliyor?
+- Hobbit 19 anlamı ne?
+- Cupid 19'un ne anlama geldiğini bilmiyorum
+- Cupid 19 kısaltması ne anlama geliyor?
+- SARS-Cov-2'nin ne anlama geldiğini bilmiyorum
+- Kubik 19 anlamı ne?
+- SARS Cov-2 ve cupid 19 ne anlama geliyor?
+- Kuhweg 19 ne anlama geliyor?
+- Cookit 19 nedir?
+- Q19 kısaltması ne anlama geliyor?
+- Covid-19 kısaltması ne anlama geliyor?
+- Kuhweg 19'un ne anlama geldiğini bilmiyorum
+- Kubik 19 nedir?
+- COBIT 19 kısaltması ne anlama geliyor?
+- Kubik 19 kısaltması ne anlama geliyor?
+- Cookit 19'un ne anlama geldiğini bilmiyorum
+- SARS-Cov-2 ve Covid-19 nedir?
+- SARS Cov-2 ve kovit 19 ne anlama geliyor?
+- Q19'un ne anlama geldiğini bilmiyorum
+- Cupid 19 ne anlama geliyor?
+- Cupid 19 anlamı ne?
+
+## intent: germany_precautions_bayern
+- Bavyera'da kilit var
+- Hala Bavyera'da dışarı çıkabilir misin?
+- Bavyera'da çıkış kilidi var
+- Bavyera'da temas yasağı var
+- Bavyera'da temas yasağı var mı
+- Bavyera'da yaşıyorsam başka bir şehre gidebilir miyim
+- Bavyera'daki hazırlıklar nelerdir
+- Bavyera'da bir kısıtlama var
+- Bavyera'da şu anda ne gibi önlemler var
+- Bavyera kısıtlamalarında başka bir şehre gidebilir miyim
+- Bavyera'da sokağa çıkma yasağı
+- Şimdi Bavyera'da sokağa çıkma yasağı var mı?
+- Bavyera'da hala ailemi ziyaret edebilir miyim?
+- Bavyera'daki önlemler nelerdir?
+
+## intent: germany_precautions_niedersachsen
+- Aşağı Saksonya'da sokağa çıkma yasağı
+- Aşağı Saksonya'da temas yasağı var mı
+- Aşağı Saksonya'da dışarı çıkabilir miyim?
+- Aşağı Saksonya'da önlemler nelerdir?
+- Aşağı Saksonya'da sokağa çıkma yasağı var mı?
+- Aşağı Saksonya'da hangi önlemler var?
+- Aşağı Saksonya'da kilit var
+- Aşağı Saksonya'da temas yasağı var
+- Aşağı Saksonya'da bir kısıtlama var
+- Aşağı Saksonya'da çıkış kilidi var
+- Aşağı Saksonya'daki hazırlıklar nelerdir
+
+## intent: stayhomeinfo_network_congestion
+- Korona virüsü zamanlarında akış
+- Ağ tıkanıklığı
+- Corona saatlerinde akış
+- WLAN tıkanıklığı
+- Corona ağı zorlar mı?
+- WLAN'da hata varsa ne yapmalıyım?
+- Corona Virus zamanlarında akış
+- Corona Ev Ofisi İnterneti Aşırı Yükleyebilir mi?
+- Dijital ağda tıkanıklık olacak mı?
+- WiFi aşırı yüklenebilir mi?
+- İnternet korona krizinden ne kadar süre kurtulacak?
+- Veri trafiği zaten ağ tıkanıklığına neden oldu
+- Netflix acil bir durumda kapatılacak mı?
+- İnternet şimdi kapalı olabilir mi?
+- İnternet tıkanıklığı olacak mı?
+- İnternet paraziti
+- Corona yüzünden interneti bozabilir
+- WiFi'de tıkanıklık olacak mı?
+- İnternet Aşırı Yüklenebilir mi?
+- Ev ofisi nedeniyle hatlar aşırı yüklenebilir mi?
+- İnternet kesintileri
+- İnternet paraziti yaşıyorsam ne yapmam gerekir?
+- Coronazeiten'de akış
+- İnternet şimdi daha yavaş olabilir mi?
+- WLAN ile ilgili sorunlar olacak mı?
+- Ağ aşırı yük sorunları olabilir mi?
+- İnternet kısıtlamaları
+- İnternet tıkanıklığı
+- İnternet kesintisi olursa ne yapmalıyım?
+- İnternet bozukluğu
+
+## intent: bot_origin
+- Mucitleriniz kimler?
+- Seni kim yarattı
+- Nasıl yaratıldın?
+- Seni kim başlattı?
+- Nasıl programlandın?
+- Nerelisin
+- Kökeni nedir
+- Seni kim programladı?
+
+## intent: stayhomeinfo_supermarket
+- Şimdi süpermarkete gidebilir miyim?
+- Yine de bakkal alışverişine gidebilir miyim?
+- Hala süpermarkete gidebilir miyim?
+- Hala süpermarkete gidebilirsin
+- Evde kalın - alışveriş yapın
+- Corona virüsü hala alışverişe gidebilir miyim?
+- Yine de yiyecek alabilir miyim?
+- Alışveriş yaparken şimdi nelere dikkat etmeliyim?
+- Hangi şartlar altında alışveriş yapabilirim?
+- Yine de alışveriş yapabilir miyim? Hangi koşullar altında?
+- Alışveriş yaparken nelere dikkat edilmelidir?
+- Yine de alışveriş yapabilir miyim?
+- Hala alışveriş yapabilir miyim?
+
+## intent: covid_risk_people
+- Özellikle savunmasız insan grupları
+- Hangi grupların özellikle risk altında olduğu
+- Virüsten kim özellikle etkileniyor?
+- Sadece yaşlı insanlar hastalıktan ciddi şekilde etkileniyor mu?
+- Virüs en tehlikeli kim için?
+- Hangi grup özellikle etkileniyor?
+- Çocuklarda ve hamile kadınlarda Kowit 19 hakkında ne biliniyor?
+- Kimler özellikle kötü etkilenir?
+- En çok etkilenen virüs kimdir?
+- Risk grupları
+- Romatoid artrit
+- En çok tehdit edilen insanlar kimlerdir?
+- Çoğu insan hangi yaş grubunda koronavirüsten ölür?
+- Romatizma hastaları risk altında mı?
+- Hangi yaş grupları özellikle etkileniyor?
+- Romatoid artritli hastalar özellikle risk altındadır
+- Hangi grup insanlarda şiddetli seyir riski vardır?
+- Hangi insan grupları virüse daha duyarlıdır?
+- Kimler özellikle risk altındadır?
+- Daha önce hastalığı olmayan kişilerde de komplikasyonlar ortaya çıkabilir mi?
+- Risk grubu
+- Çoğu insan koronavirüsten hangi yaşta ölür?
+- Hastalıktan en fazla kim risk altındadır?
+- Koronavirüs enfeksiyonu kimler için özellikle tehlikelidir?
+- Hangi insanlar özellikle risk altındadır?
+- Korona virüsü hangi yaş grupları için özellikle tehlikelidir?
+- Virüs kimin için özellikle yüksek bir risktir?
+- Risk kim için özellikle yüksek?
+- Çocuklarda ve hamile kadınlarda COVID-19 hakkında bilinenler nelerdir?
+
+## intent: test_stay_in_china
+- Çin'den yeni döndüysem ne yapmalıyım?
+- Çin'de tatilden yeni döndüm
+- Çin'deyken test yaptırmam gerekir mi?
+- Çin'den yeni geldim
+- Çin'de kaldıktan sonra test edin
+- Çin'de tatildeydim
+- Çin'deydim. Test yaptırmam gerekiyor mu?
+- Hala Çin'de bulunuyorum, test alabilir miyim?
+- Çin'de kaldıktan sonra test
+- Çin'deki tatilimden yeni döndüm.
+- Çin'deyken bir test yaptırmak zorunlu mu?
+- Çin'den yeni dönmüşsem bir test yapmak zorunlu mudur?
+- Çin'e yeni gelmiş ve semptomlarım varsa ne yapmalıyım?
+- Şu anda Çin'den geliyorsam beni test ettirmek gerekli mi?
+- Çin'den yeni döndüm
+- Çin'den yeni döndüğümde kendimi test etmem gerekiyor mu?
+- Çin'deyken bir teste ihtiyacım var mı?
+- Çin'deyken nelere dikkat etmeliyim?
+- Çin'de yeni olan insanlar bir test yaptırmalı mıdır?
+- Çin'e yeni bir seyahat yaptım, teste ihtiyacım var mı?
+- Sadece Çin'deydim ve şimdi öksürüğüm var
+- Çin kalmak ve test
+- Çin'de tatile yeni gittim. Test yaptırmam gerekiyor mu?
+- Çinliyim, sınava girmek zorunda mıyım?
+- Belirtilerim var ve Çin'e yeni geldim
+
+## intent: features_date
+- Hangi günümüz var?
+- Hangi tarihimiz var?
+- Bana tarihi gönderir misin
+- Bana tarihi söyleyebilir misin
+- Bana randevu verir misin?
+- Tarih, lütfen!
+- bugünün tarihi ne
+- Bana tarihi gönder!
+- Bana tarihi söyleyebilir misin?
+- Bana tarihi yaz!
+- Bugün hangi tarihimiz var?
+- Bana tarih yazabilir misin
+- Bana randevu verir misin
+- Tarih nedir
+- Bana tarihi gönderebilir misin?
+- Bana tarihi yazabilir misin?
+- Bugünün tarihi nedir?
+- Bana tarihi ver!
+- Bugün günlerden ne
+- Bugün kaç tane?
+- Bana tarihi söyle!
+- Tarihi?
+- Bugün hangi tarih?
+
+## intent: germany_precautions_thüringen
+- Thüringen'de şu anda hangi önlemler var?
+- Hala Thüringen'de dışarı çıkabilir misin?
+- Thüringen'de temas yasağı var mı
+- Thüringen'de bir kısıtlama var
+- Thüringen'de önlemler nelerdir?
+- Thüringen'deki hazırlıklar nelerdir
+- Thüringen'de sokağa çıkma yasağı
+- Türingiya'da çıkış kilidi var
+- Türingiya'da kilit var
+- Şu anda Thüringen'de sokağa çıkma yasağı var mı?
+- Thüringen'de temas yasağı var
+
+## intent: spread_air
+- Hava yoluyla yayıldı.
+- Havadan iletim
+- Cupid 19'un hava yoluyla yayılması mümkün müdür?
+- Kubik 19'un hava yoluyla yayılması mümkün müdür?
+- Virüs havadan yayılıyor mu?
+- Havada covid iletim
+- Kowit 19 havaya yayılabilir mi?
+- Havada COBIT 19 şanzıman
+- Korona virüsü hava yoluyla bulaşabilir mi?
+- COVID-19'a neden olan virüs havada yayılabilir mi?
+- Huvit 19'un hava yoluyla yayılması mümkün müdür?
+- Kovit 19'un hava yoluyla yayılması mümkün müdür?
+- Hava yoluyla iletim.
+- Hava yoluyla bulaşmak mümkün mü?
+- Virüs havadan bulaşıyor mu?
+- Havada Movit 19 şanzıman
+- Covid 19'un hava yoluyla yayılması mümkün müdür?
+- Virüs havada yayılıyor mu?
+- COBIT 19'un hava yoluyla yayılması mümkün müdür?
+- Evcil hayvanlar yoluyla bulaşma
+- Hareket 19'un hava yoluyla yayılması mümkün müdür?
+- aşk tanrısı 19 havadan iletim
+- Q19'un hava yoluyla yayılması mümkün müdür?
+- Kowit 19'a neden olan virüs havada yayılabilir mi?
+- Kowit 19'a neden olan virüs havada yayılıyor mu?
+- Virüsün hava yoluyla bulaşması mümkün müdür?
+- Hayvanlar yoluyla enfekte olabilir miyim?
+- havada 19 şanzıman cookit
+- Covid 19 havadan iletim
+- Kuhweg 19 Havadaki şanzıman
+- Hava yoluyla yayılabilir misiniz?
+- COVID-19'a neden olan virüs havadan mı bulaşıyor?
+- Virüs havaya yayılabilir mi?
+- Hobbit 19'un hava yoluyla yayılması mümkün müdür?
+- Kowit 19'a neden olan virüs havadan bulaşıyor mu?
+- Kovit 19 havadan iletim
+- Havadaki Corvette 19 şanzıman
+- Virüsün havaya yayılması
+- COVID-19 havada bulunabilir mi?
+- Muhweg 19'un hava yoluyla yayılması mümkün müdür?
+- Ovid 19 havadan iletim
+- Havadaki Hobbit 19 şanzıman
+- Virüs hava yoluyla yayılabilir mi?
+- Saf havadan iletim
+- COVID-19'a neden olan virüs havada yayılıyor mu?
+- SARS hava yoluyla bulaşabilir mi?
+- Hava iletimi.
+- Havada kübik 19 iletim
+- Virüsün hava yoluyla yayılması mümkün müdür?
+- Hayvanlar hakkında bulaşma
+- Sars-Co-2 koronavirüsünün havadan yayılması
+- Qubeat 19'un hava yoluyla yayılması mümkün müdür?
+- Kowit 19 havada kalabilir mi?
+- Virüs hava yoluyla bulaşabilir mi?
+- Aşçı 19'un hava yoluyla yayılması mümkün müdür?
+- qubeat 19 havada iletim
+- Virüs havada yayılabilir mi?
+
+## intent: germany_precautions_schleswigholstein
+- Schleswig Holstein'da şu anda ne gibi önlemler var?
+- Schleswig Holstein'da sokağa çıkma yasağı
+- Schleswig Holstein'da bir kısıtlama var
+- Schleswig Holstein'da sokağa çıkma yasağı var mı?
+- Schleswig-Holstein'da kilit var
+- Schleswig-Holstein'da sokağa çıkma yasağı var mı?
+- Schleswig Holstein'daki hazırlıklar nelerdir
+- Yine de Schleswig Holstein'da dışarı çıkabilir miyim?
+- Schleswig-Holstein'da bir kısıtlama var
+- Schleswig-Holstein'daki önlemler nelerdir?
+- Schleswig-Holstein'da temas yasağı var
+- Schleswig Holstein'daki önlemler nelerdir?
+- Schleswig-Holstein'daki hazırlıklar nelerdir
+- Schleswig-Holstein'da çıkış kilidi var
+- Schleswig-Holstein'da sokağa çıkma yasağı
+- Schleswig Holstein'da kilit var
+- Schleswig Holstein'da temas yasağı var mı
+- Yine de Schleswig-Holstein'da dışarı çıkabilir miyim?
+- Schleswig Holstein'da temas yasağı var
+- Schleswig-Holstein'da şu anda ne gibi önlemler var?
+- Schleswig Holstein'da çıkış kilidi var
+- Schleswig-Holstein'da temas yasağı var mı
+
+## intent: work_infection
+- Çalışamıyorum çünkü Obit 19'um var, şimdi ne yapmalıyım
+- Covid 19'da çalışan olarak hastalandım ve doktordan hastalık iznindeydim
+- Çalışan olarak Cupid 19'um varsa ne olur?
+- Çalışan olarak 19'u pişirirsem ne olur?
+- 19 pişirirsem maaşımı hala alabilir miyim?
+- Qubeat 19'um varsa ve çalışamazsam ne olur?
+- Kübik 19 nedeniyle çalışamıyorum
+- Bir çalışan olarak, Kuhweg 19'da hastalandım ve doktor tarafından hastalık iznindeydim
+- Kubik 19 ile enfekte olursam hala ücret alır mıyım?
+- 19 pişirirsem maaş hakkı
+- Qubeat 19 ile enfekte olursam yine de para alacak mıyım?
+- Covid 19'a sahipsem maaş hakkı
+- Çalışamıyorum çünkü kübik 19'um var, şimdi ne yapmalıyım?
+- Corona Virus 19'a rağmen çalışmam gerekir mi?
+- Cupid 19 ile enfekte olursam hala para alabilir miyim?
+- Qubeat 19'u çalışan olarak alırsam ne olur?
+- Covid 19 yüzünden çalışamıyorum
+- Bir çalışan olarak, 19 kubat hastalığına yakalandım ve doktor tarafından hastalık iznindeydim
+- Çalışamıyorum çünkü Covid 19'um var, şimdi ne yapmalıyım?
+- Bir çalışan olarak 19 aşçı aldım ve doktor tarafından hastalık iznindeydim
+- Çalışamıyorum çünkü 19 kubatım var, şimdi ne yapmalıyım?
+- Cupid 19 yüzünden çalışamıyorum
+- Aşçı 19'a rağmen çalışmak zorunda mıyım?
+- Coronavirus 19 nedeniyle çalışamıyorum
+- Cookit 19 ile enfekte olursam hala ücret alır mıyım?
+- Cupid 19'u bir çalışan olarak aldım ve doktor tarafından hastalık iznindeydim
+- Qubeat 19 nedeniyle çalışamıyorum
+- Obit 19 çalışanı olarak hasta
+- Obit 19 yüzünden çalışamıyorum
+- Çalışan olarak enfekte
+- Kuhweg 19 yüzünden çalışamıyorum
+- Eğer Obit 19 varsa maaş hakkı
+- 19 kübik işçi olarak hasta
+- Cupid 19'um varsa hala maaşımı alabilir miyim?
+- Kuhweg 19'da çalışan olarak hasta
+- Covid 19 nedeniyle çalışamıyorum
+- Çalışamıyorum çünkü Kuhweg 19'um var, şimdi ne yapmalıyım?
+- Obit 19'u işçi olarak alırsam ne olur?
+- Çalışamıyorum çünkü Coronavirus 19'um var, şimdi ne yapmalıyım?
+- Coronavirus 19'um varsa ve çalışamazsam ne olur?
+- Coronavirus 19 ile enfekte olursam hala para alabilir miyim?
+- Koronavirüs enfeksiyonu sonucu çalışamayan çalışanlar
+- Covid 19'a rağmen çalışmak zorunda mıyım?
+- Covid 19'da enfekte olursam hala para alacak mıyım?
+- Coronavirus 19 ile çalışan hasta
+- Covid 19'um varsa ve çalışamazsam ne olur?
+- Kuhweg 19'da enfekte olursam yine de para alacak mıyım?
+- Covid 19'u çalışan olarak alırsam ne olur?
+- Obit 19'a rağmen çalışmak zorunda mıyım?
+- Cookit 19 nedeniyle çalışamıyorum
+- Kübik 19'um varsa hala maaşımı alabilir miyim?
+- Korona virüsüm var, şimdi işime ne olacak?
+- Kuhweg 19 varsa maaş hakkı
+- Kuhweg 19 ile enfekte olursam hala ücret alır mıyım?
+- Qubeat 19'a rağmen çalışmak zorunda mıyım?
+- Obit 19 ile enfekte olursam yine de para alacak mıyım?
+- Obit 19 ile enfekte olursam hala ücret alır mıyım?
+- Cupid 19 nedeniyle çalışamıyorum
+- Qubeat 19 bir çalışan olarak hastalandı
+- işçi olarak enfekte oldum
+- Bir çalışan olarak, Kubik 19 aldım ve doktor tarafından hastalık iznindeydim
+- Kuhweg 19'um varsa hala maaşımı alabilir miyim?
+- Eğer 19 kubeat alırsam hala maaşımı alacak mıyım?
+- Kubik 19'um varsa ve çalışamazsam ne olur?
+- 19 küpüm varsa maaş hakkı
+- Kuhweg 19'da işçi olarak hastalanırsam ne olur?
+- Kuhweg 19'a rağmen çalışmak zorunda mıyım?
+- Covid 19'um varsa hala maaşımı alacak mıyım?
+- Covid 19 çalışan olarak hastalandı
+- Enfekte oldum, şimdi işime ne olacak?
+- Kubik 19 ile enfekte olursam hala para alacak mıyım?
+- Cupid 19 ile enfekte olursam hala ücret alır mıyım?
+- Bir hasta olarak hasta cookit 19
+- Coronavirus 19 varsa maaş hakkı
+- Çalışamıyorum çünkü Cupid 19'um var, şimdi ne yapmalıyım
+- Cupid 19'um varsa ve çalışamazsam ne olur?
+- Obit 19'um varsa ve çalışamazsam ne olur?
+- Covid 19 ile enfekte olursam hala ücret alabilir miyim?
+- Bana bir çalışan olarak Coronavirus 19 teşhisi kondu ve doktor tarafından hastalık iznindeydim
+- Obit 19 nedeniyle çalışamıyorum
+- Eğer Obit 19 alırsam hala maaşımı alacak mıyım?
+- Cupid 19 çalışanı olarak hasta
+- Cupid 19'um varsa maaş alma hakkım var
+- Eğer 19 kubeat varsa maaş alma hakkım var
+- Hastalık durumunda ödemeye devam etme hakkım var mı?
+- Bir işçi olarak Coronavirus 19'um varsa ne olur?
+- Kuhweg 19'da hastalanırsam ve çalışamazsam ne olur?
+- 19 pişirirsem ve çalışamazsam ne olur?
+- Kubik 19'a rağmen çalışmak zorunda mıyım?
+- Coronavirus 19 ile enfekte olursam hala para alır mıyım?
+- Cupid 19'a rağmen çalışmak zorunda mıyım?
+- Qubeat 19 bulaşmışsa yine de ödeme alır mıyım?
+- Kuhweg 19 nedeniyle çalışamıyorum
+- Çalışamam çünkü aşçı 19'um var, şimdi ne yapmalıyım?
+- Coronavirus 19'um varsa hala maaşımı alabilir miyim?
+- Cookit 19 ile enfekte olursam hala para alabilir miyim?
+- Kubik 19 nedeniyle çalışamıyorum
+- Kubik 19'u çalışan olarak alırsam ne olur?
+- Obit 19'a bir çalışan olarak hastalandım ve doktor tarafından hastalık iznindeydim
+- Hastalık durumunda ödemeye devam etme hakkı
+
+## intent: prevention_distance
+- Öksüren veya hapşıran insanlardan uzak durun.
+- Hapşırma insanlardan güvenli mesafe.
+- Öksüren birinden ne kadar uzak olmalıyım?
+- İnsanlara emniyet mesafesi.
+- Hapşırma insanlarına güvenlik mesafesi.
+- Neden mesafemi korumalıyım?
+- Hapşırmış birinden ne kadar uzak olmalıyım?
+- İnsanlardan güvenli bir mesafe ne kadar uzaklıktadır?
+- En az bir tane, diğer insanlardan iki metre daha uzak tutsam
+- Hapşırmış insanlardan güvenli bir mesafe ne kadar uzaklıktadır?
+- Sayaçları diğer insanlardan uzak tutun ve geri dönün
+- Öksürüğe emniyet mesafesi.
+- Önleme olarak mesafe
+- Hastaya ve olası hastaya uzaklık
+- Ne kadar mesafe
+- Emniyet mesafesi.
+- Diğer insanlarla olan mesafemi korumalı mıyım
+- Başkalarından uzak durmak gerekli mi?
+- Diğer insanlara uzaklık
+- Hasta görünen insanlara mesafe
+- Öksüren veya hapşıran birinden ne kadar uzak olmalıyım?
+- Hapşırmış insanlardan uzak durun.
+- Öksüren veya hapşıran insanlara güvenli mesafe.
+- Öksüren insanlardan uzak tutun.
+- Diğerlerinden güvenli bir mesafe ne kadardır?
+- Öksürürken ve hapşırırken, mesafenizi korumalı ve diğer insanlardan uzaklaşmalı mısınız?
+- İnsanlardan uzak tutunuz.
+- mesafe
+- Hasta insanlardan uzak durman gerekir mi?
+- Diğer insanlara olan uzaklığınızı koruyun, bir metreden biraz fazla mı yeterli
+- Kalabalıktan kaçınmam gerekir mi?
+- Öksürük olan insanlardan güvenli mesafe.
+- Öksüren insanlardan güvenli bir mesafe ne kadar uzaklıktadır?
+- Öksüren veya hapşıran insanlardan güvenli bir mesafe ne kadar uzaklıktadır?
+
+## intent: bot_personality
+- Ne kadar hoşsun
+- Çok kibar mısın
+- Bana kişiliğinden bahset.
+- Yakışıklı mısın
+- Bana kişiliğin hakkında bir şey söyle!
+- Çok hoş musun
+- Arkadaş canlısı mısın
+- Kişiliğinizi nasıl tanımlıyorsunuz?
+- Hoşlanmıyor musun
+- Kişiliğiniz hakkında ne düşünüyorsunuz?
+- Ne kadar arkadaş canlısı
+- Bana senin hakkında bir şey söyle
+- Çok sempatik misin
+- Ne kadar sevimlisin
+- Kaba musun
+- Özellikleri nelerdir?
+- İyi misin
+- Bana senin hakkında bir şey söyle!
+- Kişiliğin nedir
+- kendini yakışıklı olarak tanımlar mısın?
+- Hangi kişiliğe sahipsin
+
+## intent: germany_spread_water
+- Musluk suyu Corona virüsü
+- Almanya'daki musluk suyumuz ne olacak
+- İçme suyu
+- Korona virüsü su ile bulaşabilir mi
+- İçme suyu Corona virüsü
+- İçme suyu ile dağıtım
+- Musluk suyu yoluyla iletim
+- Su yoluyla bulaşan patojenler
+- İçme suyu yoluyla korona virüsü iletimi
+- Yeraltı suyundan iletim
+- Korona virüsü içme suyu yoluyla bulaşabilir mi?
+- Corona virüsü ve musluk suyu
+- İçme suyu yoluyla bulaşma
+- Korona virüsü borulardan su yoluyla bulaşabilir mi?
+- Korona virüsü yeraltı suyunda olabilir mi
+- Corona virüsü ve içme suyu
+- Su yoluyla korona virüsü iletimi
+- Musluk suyu
+- yeraltı suyumuz ne olacak
+- Yeraltı suyu ve korona virüsü
+- içme suyumuz ne olacak
+- Musluk suyu ile korona virüsü iletimi
+- Corona yeraltı suyumuzdan bulaşabilir
+
+## intent: bot_capabilities
+- Yeteneklerin
+- Mesleğin ne?
+- kapsamın ne
+- bir sorum var
+- Almanya'dan sadece Cosibot'u biliyor musunuz, ancak koronavirüs hakkında dünya çapında bilgi sahibi değil misiniz?
+- Senin kapsamın ne
+- Ne biliyorsun?
+- Ne yapıyorsun
+- İşiniz
+- Ne yapabilirsin?
+- Bana hangi konular hakkında bilgi verebilirsin?
+- Hangi konuları biliyorsun?
+- Hangi soruları cevaplayabilirsiniz?
+- Ne yapabilirsin
+- Sorularıma cevap verebilir misin
+- Hangi fonksiyonlara sahipsiniz?
+- Hangi soruları cevaplıyorsunuz?
+- Cosibot ne yapabilir?
+- Ne sorabilirim
+- başka ne isteyebilirsin
+- Ne yapıyorsun?
+- İşin ne
+- Kapsamınız nasıl görünüyor?
+- Sorularıma cevap verir misin?
+- Benim için ne yapabilirsin
+- Bana nasıl yardım edebilirsin?
+- Ne kapsamınız var?
+- Yaşamak için ne yapıyorsun?
+- Beni nasıl destekleyebilirsin
+- Her şeyi biliyor musun
+- Bana nasıl yardım edebilirsin
+- Sen ne yapıyorsun
+- bana ne hakkında anlatabilirsin
+- Belirli bir kapsamınız var mı?
+- Senin işin
+- Ne biliyorsun
+- Ne yapabilirim
+- Hangi becerilere sahipsiniz?
+- Ne rolün var?
+- Orada ne için varsın
+- Tüm soruları cevaplayabilir misiniz?
+- Benim için başka ne yapabilirsin bilmiyorum?
+- Ne gibi görevleriniz var?
+- Görevleriniz neler?
+- Odak konularınız dışında neler yapabilirsiniz?
+- Sadece Almanya hakkında mı, yoksa dünya genelindeki virüs hakkında mı biliyorsunuz?
+
+## intent: travel_general
+- Hobbit seyahat önemlidir
+- tatil
+- Q19 ve seyahat
+- COBIT 19 ve seyahat
+- kubat 19 ve seyahat
+- kurabiye Reiseangelegenheiten
+- Bana tatil hakkında bir şeyler söyle
+- aşk tanrısı 19 ve seyahat
+- Hobbit 19 ve seyahat
+- Reiseangelegenheiten taşındı
+- 19 yemek ve seyahat
+- Corona virüsü ve seyahat konuları
+- COBIT seyahat konuları
+- Corona virüsü ve seyahat
+- huvit 19 ve seyahat
+- Covid ve seyahat
+- kovit 19 ve seyahat
+- Kübik 19 ve seyahat
+- qubeat seyahat önemlidir
+- Kuhweg seyahat işleri
+- Kübik seyahat önemlidir
+- Bana seyahat hakkında bir şeyler söyle
+- kovit seyahat önemlidir
+- movit 19 ve seyahat
+- Covid ve tatil
+- QSeyahat önemlidir
+- seyahat
+- Kuhweg 19 ve seyahat
+- Covid ve seyahat konuları
+- ilgi alanları Reiseangelegenheiten
+- aşk tanrısı Seyahat İşleri
+- Seyahat önemlidir
+
+## intent: myth_alcohol
+- Vücuda alkol püskürtebilir miyim?
+- Sürtünme virüsleri öldürür mü?
+- İnsan vücuduna alkol püskürtme
+- Vücuda alkol veya klor püskürtmeye yardımcı olur mu?
+- Kendinize alkol püskürterek korona virüsünü öldürün,
+- Vücutta alkol bulunan virüsleri öldürün
+- Alkol püskürtmek virüsleri öldürüyor mu?
+- Tüm vücudu alkolle ovalayın
+
+## intent: germany_food_shortages
+- Şimdi korkacak gıda tedarik darboğazları var mı?
+- Yiyecek kıtlığı beklemem gerekir mi?
+- Süpermarketler boş olacak mı?
+- Acil bir durumda evde hangi yiyeceklere sahip olmalısınız?
+- Gıda kıtlığı
+- Hamster alımları
+- Şimdi hamster alımları yapılması tavsiye ediliyor mu?
+- Süpermarketler boş makarna rafları
+- Şimdi stokta satın almalı mıyım?
+- Hala yeterli yiyeceğimiz olacak mı?
+- Gıda kıtlığı korkulmalı
+- Hamster alımları gıda kıtlığına neden olur mu?
+- Hamster satın al
+- Yiyecek kıtlığı olacak mı?
+- Hamster alımları mantıklı mı?
+- Süpermarket rafları boş olacak mı?
+- Neden bu kadar çok raf boş?
+- Korona virüsü nedeniyle boş süpermarket rafları?
+- Gıda sıkıntısı
+- Şimdi anında yiyecek almak zorunda mısın?
+- Zaten boş süpermarket rafları var
+- Almanya'daki arz durumu nasıl?
+- Almanya'da hala yeterli yiyecek olacak mı?
+- Hamster almak hakkında ne düşünüyorsun?
+- Şimdi yiyecek satın almalı mısınız?
+- Kaç gün yetecek kadar yemeğiniz olmalı?
+- Yeterli yiyecek kalacak mı?
+- Almanya'daki arz durumu nedir
+- Almanya'da korkacak gıda kıtlığı var mı?
+- Koronavirüs yayılmaya devam ederse gıda tedariki hala güvenli midir?
+- Gıda kıtlığı var
+
+## intent: travel_cancel
+- Seyahat iptali
+- Covid-19 korkusuyla seyahatimi iptal edebilir miyim?
+- Corona Virus nedeniyle seyahatin iptali mümkün mü?
+- Seyahatimi ücretsiz iptal etmek istiyorum
+- Corona Virüs İptal?
+- Seyahat masraflarını geri alabilir miyim?
+- Corona virüsü nedeniyle seyahatin iptal edilmesi mümkün
+- Tüketiciler yolculuktan çekilebilir mi?
+- Seyahatin iptali
+- Daha önce ücretsiz olarak rezerve ettiğim bir seyahati iptal edebilir miyim?
+- Tatilimi ücretsiz değiştirebilir miyim?
+- Geziyi iptal et
+- Seyahat masraflarını iade etme hakkım var mı?
+- Tatil iptali
+- Tatil veya paket turumu ücretsiz iptal edebilir miyim?
+- Tatilinizi ücretsiz olarak değiştirin veya iptal edin.
+- Kowit 19 korkusuyla seyahatimi iptal edebilir miyim?
+- Corona Virus Seyahatimi ücretsiz iptal edebilir miyim?
+- Bir seyahati iptal etme hakkım var mı?
+- Paskalya tatilimi corona virüsü nedeniyle ne zaman iptal edebilirim?
+- Reisestornierung
+- Ücretsiz rebook yapabilir misiniz?
+- Tatili iptal et
+- Seyahatimi ücretsiz olarak iptal edebilir miyim?
+- Coronavirus: Tatil iptal edilsin mi?
+- Seyahatimi iptal edebilir miyim?
+- Corona yüzünden tatilimi şimdi iptal etmek zorunda mıyım?
+
+## intent: comment_smart
+- Kulağa hoş geliyorsun.
+- Sen çok akıllısın
+- Gerçekten akıllısın.
+- Zekanız var.
+- Çok akıllıca konuşuyorsun.
+- Sen iyisin
+- Akıllıca konuşuyorsun.
+- Akıllısınız.
+- Çok zeki görünüyorsun.
+- Güzel bir ifade.
+- Çok ilginç.
+- Sen akıllısın
+- Akıllı oldukları ortaya çıkıyor.
+- Çok akıllısın.
+- Akıllı olmalısın.
+- Sen bilgeliğin dolusun.
+- Kulağa akıllı geliyorsun.
+- Sanal asistan iyi gelişmiştir.
+- Çok zeki görünüyorlar.
+- İyi inşa edilmişlerdir.
+- Akıllı olacağından emin olabilirsiniz.
+- İyi gidiyorsun.
+- Kulağa hoş geliyor.
+- Sen çok zekisin
+- Ne kadar akıllı!
+- Sen çok iyisin
+- Seninle sohbet etmekten zevk aldım!
+- Sen zekisin
+- Bence akıllısın.
+
+## intent: comment_negative
+- Nasıl bilgi vereceğinizi bilmiyorsunuz.
+- @Expressions_negative çalışırlar.
+- @de_expressions_negative bunlar.
+- Kötü çalışıyorsun.
+- Siz kusursuz çalışıyorsunuz.
+- Kötüsün
+- @de_expressions_negative'siniz.
+- Haksızsın.
+- Bu senin işin değil.
+- Hiçbir şey yapamazsınız.
+- Bu senin için değil
+- Bu @de_expressions_negative.
+- Yapamazsın.
+- Bana yardım edemezsin
+- Çok iyi değilsin.
+- Yanlışsın
+- Siz kesin değilsiniz.
+- @de_expressions_negative çalışırsınız.
+- Yeterince bilmiyorsun.
+- @de_expressions_negative kullanabilirsiniz.
+- Bunu nasıl yapacağınızı bilmiyorsunuz.
+- Nasıl yardım edeceğini bilmiyorsun.
+- Kötü yapıyorsun.
+- İyi bir iş yapmıyorsun.
+- Çok iyi iş yapmıyorsun.
+- Açık değil.
+- Kesin değilsin.
+- @de_expressions_negative yaparsınız.
+- Net bilgi vermiyorsunuz.
+- Nasıl bilgilendireceğinizi bilmiyorsunuz.
+
+## intent: coronavirus_info
+- Coronavirus Bilgi
+- Korona nedir
+- Korona virüsü hakkında bilgi
+- Korona virüsü nedir?
+- Korona virüslerinin ne olduğunu bilmiyorum
+- Kroner nedir
+- Merhaba Helena, Corona nedir?
+- Bana korona virüsleri hakkında daha fazla bilgi ver
+- Corona bilgisi
+- Coronaviren Bilgi
+- Korona virüsleri hakkında bilgi
+- Korona Enfeksiyonu
+- Kron
+- Coronavirus hakkında
+- Bana korona virüsü hakkında daha fazla bilgi ver
+- Coronavirus SARS-CoV-2
+- Merhaba Helena, ben Corona
+- Koronavirüs
+- Korona virüsü hastalığı
+- Korona hastalığı
+- bu korona nedir? bir çeşit bira
+- Bana virüs hakkında ne söyleyebilirsin?
+- Bana korona virüsünü anlat
+- Korona virüsleri hakkında
+- Corona bilgileri
+- Corona virüsü bilgileri
+- Korona virüsü nedir
+- Bana korona virüsü hakkında ne söyleyebilirsin?
+- Bir korona virüsünün ne olduğunu bilmiyorum
+- Corana nedir
+- Korona virüsünün ne olduğunu bilmiyorum
+- Bana Kroner'in ne olduğunu söyle
+- Korona virüsü hakkında
+- Coronaviren
+- taç
+
+## intent: user_angry
+- Kahretsin.
+- Benim gibi kızgın mısın
+- Ben sefilim.
+- Ağlıyorum.
+- Her şey acıyor.
+- Uyuyamıyorum.
+- Ağlamak istiyorum.
+- Kızgın hissediyorum.
+- İçimdeki karanlık tarafı hissediyorum
+- Ateşim var.
+- Çığlık atmak istiyorum.
+- Biraz kızgınım.
+- Çok memnun değilim.
+- Ben zayıfım.
+- Kusmak istiyorum.
+- Öfkemi hissedeceksin
+- Dün tüm silahlarla parlıyordum.
+- Başım ağrıyor.
+- Devam edemem.
+- Üzgünüm.
+- Kendimi mutsuz hissediyorum.
+- Ben berbatım.
+- Artık dayanamıyorum.
+- Ben kakayım.
+- Ben öyle hissetmiyorum.
+- Ben kızgınım.
+- Kendimi hasta hissediyorum.
+- Kötü bir moddayım.
+- Sinirlendim.
+- Acı çekiyorum.
+- Ben öfkeliyim.
+- Bugün kötü bir moddayım.
+- Bu berbat.
+- Yoruldum.
+- Kendimi zayıf hissediyorum.
+- Ben alamam.
+- Öfkemi hissedebiliyor musun
+- Migrenim var.
+- Kusabilirim.
+- O anda ağzımdan sarktım.
+- Ben hastayım.
+- Yarın ağzımdan sarkacağım.
+- Uyumak istiyorum.
+- Sadece çığlık atmak istiyorum.
+- Bok gibi hissediyorum.
+
+## intent: germany_precautions_bremen
+- Bremen'de önlemler nelerdir?
+- Bremen'de sokağa çıkma yasağı
+- Bremen'de şu anda ne gibi önlemler var
+- Bremen'de temas yasağı var mı
+- Bremen'de kilit var
+- Bremen'deki hazırlıklar nelerdir
+- Bremen'de temas yasağı var
+- Bremen'de çıkış kilidi var
+- Bremen'de sokağa çıkma yasağı var mı?
+- Bremen'de bir kısıtlama var
+- Bremen'de çıkış kilidi
+- Hala Bremen'de dışarı çıkabilir miyim?
+
+## intent: covid_babys_children
+- Çocuklar yetişkinlerden daha az risk altında mı?
+- Çocuklarda ve ergenlerde de zor kurslar?
+- Doğmamış bebeklerde koronavirüs
+- Çocuk korona virüsü
+- Bebekler de enfekte olabilir mi?
+- Covid-19 çocuklar için ne kadar tehlikeli?
+- Çocuklarda SARS-CoV-2 enfeksiyonları
+- çocuklar
+- Çocuklarda enfeksiyonlar
+- Bebekler ve korona virüsü
+- Bebekler enfekte olabilir mi
+- Çocuklarda enfeksiyon
+- Yenidoğanlarda Coronavirus
+- Covid 19 çocuklarda hastalık
+- Coronavirus doğum
+- Corona çocukları
+- Çocuklar da enfekte olabilir mi?
+- bebek
+- Corona bebeklerde
+- Çocuklarda Corona
+- Bebekler için risk
+- Çocuklarda koronavirüs enfeksiyonları
+- Çocuklar enfekte olabilir mi?
+- Çocuklar ve ergenler
+- Çocuklar için risk
+- Çocuklarda korona hastalığı
+
+## intent: germany_precautions_saarland
+- Saarland'da hala dışarı çıkabilir miyim?
+- Saarland'da sokağa çıkma yasağı var mı?
+- Saarland'da çıkış kilidi var
+- Saarland'da bir kısıtlama var
+- Saarland'da temas yasağı var
+- Saarland'da önlemler nelerdir
+- Saarland'da kilit var
+- Saarland'daki hazırlıklar nelerdir
+- Saarland'da temas yasağı var mı
+- Saarland'da sokağa çıkma yasağı
+- Saarland'da şu anda ne gibi önlemler var?
+
+## intent: user_no_data
+- Maalesef burada kişisel verilerim yok.
+- Şu anda burada kişisel verilerim yok.
+- Ne yazık ki yanımda hiçbir kişisel veri yok.
+- Şu anda benimle ilgili kişisel verilerim yok.
+- Maalesef kişisel verilerim yok.
+- Kişisel bilgilerim yanımda değil.
+- Kişisel verilerim yok.
+- Şu anda elimde veri yok.
+- Şu anda kişisel verilerim yok.
+- Maalesef şu anda kişisel verilerim yok.
+- Şu anda verilerim yok.
+- Burada hiçbir kişisel bilgim yok.
+- Yanımda kişisel veri yok.
+- Maalesef, şu anda kişisel verilerim yok.
+
+## intent: mask_general
+- Maske ne yapar?
+- Şimdi yüz maskesi takmam gerekiyor mu?
+- Şimdi bir yüz maskesi ile dolaşmak zorunda mıyım?
+- Solunum maskeleri Hobbit 19'a karşı yardımcı oluyor mu?
+- Ağız ve burun koruması giymek mantıklı mı?
+- Ağız koruyucu enfeksiyonu önler mi?
+- Solunum maskeleri kovit 19'a karşı yardımcı olur mu?
+- Kimler yüz maskesi takmalı?
+- Yüz maskesi
+- Solunum maskeleri Sars-CoV-2'ye karşı yardımcı olur mu?
+- Solunum maskesi mantıklı mı?
+- Solunum maskeleri enfeksiyonu önlemeye yardımcı olur mu?
+- Bir kumaş maskesi beni koruyor mu?
+- Maskeyi ne zaman takmalısın?
+- Koronavirüs salgınına karşı yüz maskesi?
+- Dişlik maskeleri: virüslere karşı ne yardımcı olur?
+- Solunum maskeleri kuhweg 19'a karşı yardımcı olur mu?
+- Korona virüsüne karşı koruma: bir ağızlık ne getiriyor?
+- Neden tüm maskeleri satın almalıyım?
+- Koronavirüse karşı yüz maskesi maskesi
+- Maskeler enfeksiyonu önler mi?
+- Solunum maskeleri 19. çeyreğe karşı yardımcı oluyor mu?
+- Ağızlık enfekte olmamı engelliyor mu?
+- Respiratörler Qubeat 19'a karşı yardımcı olur mu?
+- Akut solunum yolu enfeksiyonlarına karşı korunmak için genel popülasyonda ağız-burun koruması giymek mantıklı mıdır?
+- Solunum maskeleri Kubik 19'a karşı yardımcı olur mu?
+- Solunum maskeleri hareket 19'a karşı yardımcı oluyor mu?
+- Maske koruması enfeksiyona karşı yardımcı olur mu?
+- Solunum maskeleri COBIT 19'a karşı yardımcı olur mu?
+- Maske beni enfeksiyondan koruyor mu?
+- Bir ağızlık ne getiriyor?
+- Kendimi maske ile enfeksiyondan koruyabilir miyim?
+- Burun ve boğaz koruyucusu takmak enfeksiyon riskini azaltır mı?
+- Kendimi korumak için maske takmalı mıyım?
+- Solunum maskeleri cookit 19'a karşı yardımcı olur mu?
+- Kendimi maske ile koruyabilir miyim?
+- Yüz maskesi takmak mantıklı mı?
+- Şimdi herkes bu maskelerle dolaşıyor, bu gerekli mi?
+- Maskeyi şimdi kullanmak zorunda mıyım?
+- Kimler ağız ve burun koruması giymelidir?
+- maskeler
+- Artık solunum cihazı kullanmanın faydası nedir?
+- dişlik
+- Solunum maskeleri Sars-CoV-2'ye karşı koruma sağlıyor mu?
+- Yüz maskeleri
+- Diğerlerini koruyucu maskelerle koruyabilir miyim?
+- Yüz maskesi maskeleri
+- Solunum maskeleri Covid 19'a karşı yardımcı oluyor mu?
+- Solunum maskeleri 19 nolu kulübe karşı mı yardımcı olur?
+- Ağız koruması takmak mantıklı mı?
+- Ne zaman ve nasıl bir yüz maskesi takmalıyım?
+- Solunum hastalıklarına karşı korumak için ağız ve burun koruması giymek mantıklı mı?
+- Solunum ve ağız ve burun maskeleri mantıklı mı?
+- Solunum maskeleri Eros 19'a karşı yardımcı oluyor mu?
+
+## intent: covid_surfaces
+- SARS-CoV-2 virüsü vücut dışında ne kadar süre yaşayabilir ve bulaşıcıdır? (örn. kapı kolları, toplu taşımadaki korkuluklar veya mikrofonlarda)
+- Virüsler yüzeylerde ne kadar süre hayatta kalır?
+- Virüs yüzeylerde ne kadar süre hayatta kalır?
+- Soğuk, korona virüslerinin ömrünü uzatır mı?
+- Virüsler yüzeylerde ne kadar süre hayatta kalabilir?
+- Virüsler korkuluklarda hayatta kalabilir mi?
+- Virüsler kapı kollarında hayatta kalabilir mi?
+- Kapı kollarındaki virüsler ne kadar süre hayatta kalır?
+- Korona virüsleri yüzeylerde ne kadar süre hayatta kalır?
+- Korona virüslerinin ömrü nedir?
+- Korona virüsleri kaç gün hayatta kalabilir?
+- Virüsler ne kadar süre hayatta kalır?
+- Korona virüsleri yüzeylerde kaç gün bulaşıcı kalır?
+- Virüsler toplu taşıma araçlarında ne kadar süre hayatta kalabilir?
+- Virüs yüzeylerde ne kadar süre hayatta kalabilir?
+- Korona virüslerinin ömrünü ne artırır?
+- Virüsler yüzeylerde ne kadar kalır?
+- Virüsün ömrü nedir?
+- Virüs vücut dışında ne kadar süre yaşayabilir ve bulaşıcıdır?
+- Virüs yüzeylerde ne kadar süre bulaşıcı kalabilir?
+- SARS-CoV-2 virüsü vücut dışında ne kadar süre yaşayabilir ve bulaşıcıdır?
+
+## intent: covid_worry
+- Şimdi panik patlıyor
+- Korona virüsünün korkusu ne kadar haklıdır?
+- Şimdi Covid-19 için endişelenmeli misiniz?
+- Şimdi korona virüsü hakkında endişelenmem gerekiyor mu?
+- Endişelenmek için bir neden var mı?
+- endişe
+- Ciddi endişelenmemiz gerekiyor mu?
+- Gerçekten endişelenmeye başlıyorum.
+- Korkarım
+- Paniklemem gerekir mi?
+- panik
+- Korona virüsü korkusu
+- Her şey panikledi mi?
+- Şimdi korkmam gerekiyor mu?
+- Çok endişeliyim
+- Şimdi virüsden korkmak zorunda mısın?
+- Ailem hakkında endişelenmem gerekiyor mu?
+- Şimdi Kowit 19'dan korkmak zorunda mısın?
+- Kowit 19 hakkında endişelenmem gerekiyor mu?
+- hepsi deli mi?
+- Her şey korkutuyor mu?
+- Corona virüsü panikliyor mu?
+- Şimdi korona virüsü hakkında endişelenmeli misiniz?
+- Koronavirüs korkusu
+- neden herkes deliriyor?
+- Virüsden korkuyorum
+- Korona virüsüne dikkat edin
+- Kowit 19 korkusu ne kadar haklı?
+- Panik salgını
+- Şimdi korona virüsünden korkmam gerekiyor mu?
+- Virüs hakkında çok endişeliyim!
+- Kowit korkusu 19
+- korku
+- Covid Korkusu-19
+- Şimdi Kowit 19 için endişelenmeli misiniz?
+- Gerçekten ne kadar korkunuz olmalı?
+- Covid-19 korkusu ne kadar haklı?
+- COVID-19 hakkında endişelenmem gerekiyor mu?
+- Panikledim
+- Şimdi Covid-19'dan korkmak zorunda mısın?
+
+## intent: quarantine_control
+- Teorik olarak istediğim zaman dışarı çıkabilirim, kimse beni kontrol etmez.
+- Evde karantina nasıl kontrol edilir?
+- Yine de dışarı çıktığımı fark eden var mı?
+- Karantinadayken çağrı alabilir miyim veya nasıl kontrol edilir?
+- Buna uyup uymadığımı kim izler?
+- Nasıl izlenir?
+- Evde karantinayı kontrol edebilir misiniz?
+- Devlet sadece iyi niyete dayanıyor ya da bu nasıl kontrol ediliyor?
+- Evde karantinayı kim kontrol ediyor?
+- 14 gün nerede olduğumu kimse kontrol ediyor mu?
+- Karantinayı kontrol edin
+- Karantinada olup olmadığımı kim kontrol eder?
+- Evde karantinada olduğumda kontrolden kim sorumlu?
+- Birisi evde karantinayı kontrol ediyor mu?
+- Gerçekten evde kalıp kalmadığımı kim izliyor?
+- Bunu kim izliyor?
+- Karantinaya uygunluk kontrol ediliyor mu?
+- Karantina nasıl kontrol edilir?
+- Kapıda bunu kontrol eden bir polis var mı?
+- Korona karantinasını izleme
+- Evsel karantinaya uyulup uyulmadığını kim kontrol eder?
+- Yerli karantina, özellikle kırsal bir bölgede gerçekten kontrol ediliyor mu?
+- Evde kalıp kalmamayı kontrol edebilirler mi?
+- Karantinada olanlar artık onları kontrol edemezler.
+- Sağlık otoriteleri de karantinayı kontrol ediyor mu?
+- Yine de köpekle bir yürüyüşe çıksam fark eder miydim?
+- Bunu kontrol eden var mı?
+- Ev karantinasını izleme
+- Evde karantinada olduğumu kim kontrol ediyor?
+- Karantinaya almama rağmen dışarı çıkıp çıkmadığımı fark eden var mı?
+- Karantinayı hiç kontrol ediyorlar mı?
+- Polis evde karantinada olduğumu kontrol ediyor mu?
+
+## intent: germany_spread
+- Almanya'da bir salgın olacak mı?
+- cookit 19 Almanya'da yayıldı
+- Korona virüsünün şu anda Almanya'da yayılma olasılığı nedir?
+- Almanya'da yayılma olasılığı
+- Virüs şimdi Almanya'ya yayılacak mı?
+- Covid 19 Almanya'da yayıldı
+- Almanya için risk
+- Almanya'da yayılma riski ne kadar yüksek
+- Almanya'da movit 19 genişlemesi
+- Solunum hastalığı Covid-19'un Almanya'da yayılma riski ne kadar büyük?
+- Mevcut durumun risk değerlendirmesi
+- kovit 19 Almanya'da yayıldı
+- Kübik 19 Almanya'da yayıldı
+- Hepimiz Almanya'da enfekte olacak mıyız?
+- Almanya'da covid dağılımı
+- Korona virüsü Almanya'ya yayılacak mı?
+- Virüsün şimdi Almanya'ya yayılma riski ne kadar yüksek?
+- Risk değerlendirmesi Almanya
+- COBIT 19 Almanya'da yayıldı
+- Almanya'da Kowit yayılma riski.
+- Mevcut durum riski
+- Almanya'da korona virüsünün yayılması muhtemel mi?
+- Almanya'da da yayılma riski var mı?
+- Almanya'da yayılma nedir?
+- deutschland içinde cookit 19
+- Virüs şimdi Almanya'ya mı geliyor?
+- aşk tanrısı 19 Almanya'da yayıldı
+- Solunum hastalığı Kowit 19'un şu anda Almanya'da yayılma riski ne kadar büyük?
+- qubeat 19 Almanya'da yayıldı
+- Kuhweg 19 Almanya'da yayıldı
+- virüs Almanya'da nasıl dağıtılır
+- Virüsün şimdi Almanya'ya yayılma olasılığı nedir?
+- Virüs Çin'de olduğu gibi Almanya'ya yayılabilir mi?
+- Hobbit 19 Almanya'da yayıldı
+- Yaygın risk değerlendirmesi
+- Korona virüsü Almanya'ya yayılabilir mi?
+- huvit 19 Almanya'da yayıldı
+- Almanya'da Covid'in yayılma riski.
+- Almanya'da Q19 yayıldı
+
+## intent: spread_no_symptoms
+- COVID-19 semptomları olmayan biri tarafından yakalanabilir mi?
+- Semptomu olmayan bir kişiden COVID-19 alma riski.
+- Virüsü semptomları olmayan insanlardan yakalayabilir miyim?
+- Belirtisi olmayan kişiler virüsü bulaştırabilir mi?
+- Virüs belirtisi olmayan bir kişiden bulaşma riski.
+- Semptomları olmayan biri virüsü bulaştırabilir mi?
+- COVID-19 belirtisi olmayan biri tarafından yakalanabilir mi?
+- Virüs semptomları olmayan biri tarafından yakalanabilir mi?
+- Kendim belirtim yoksa başkalarına da bulaşabilirim
+- Virüs belirtisiz yakalanabilir mi?
+- Kowit 19 belirtileri olmayan biri tarafından yakalanabilir mi?
+- Virüs semptomları olmayan bir kişi tarafından yakalanabilir mi?
+- Semptomu olmayanlar bulaşıcı olabilir mi?
+- Kowit 19'u semptomları olmayan birinden araya alabilir miyim?
+- Semptomları olmayan insanlar Kowit 19'u bulaştırabilir mi?
+- COVID-19'u semptomları olmayan insanlardan kesebilir miyim?
+- Kowit 19 hiçbir semptomu olmayan bir kişi tarafından yakalanabilir mi?
+- Semptomları olmayan kişilerden COVID-19'u kesebilir miyim?
+- Belirtileri olmayan bulaşıcı korona?
+- Semptomları olmayan kişiler COVID-19 bulaştırabilir mi?
+- Kowit 19'u semptomları olmayan birinden arayabilir miyim?
+- Semptomlar olmadan bulaşıcı mı?
+- Kowit 19 belirtileri olmayan bir kişi tarafından yakalanabilir mi?
+- Virüsü semptomları olmayan birinden yakalayabilir miyim?
+- Kowit 19'u semptomları olmayan bir kişiden araya alabilir miyim?
+- COVID-19'u semptomları olmayan birinden arayabilir miyim?
+- Semptomları olmayan bir kişiden COVID-19'u kesebilir miyim?
+- COVID-19 hiçbir semptomu olmayan bir kişi tarafından yakalanabilir mi?
+- Belirtisi olmayan bir kişiden COVID-19'u kesebilir miyim?
+- Kowit 19 belirtisi olmayan biri tarafından yakalanabilir mi?
+- Virüs belirtisi olmayan birinden bulaşma riski.
+- Semptomları olmayan insanlar bulaşıcı olabilir mi?
+- Semptomlar olmadan enfeksiyon mümkün mü?
+- Kowit 19'u semptomları olmayan insanlardan kesebilir miyim?
+- COVID-19 semptomları olmayan bir kişi tarafından yakalanabilir mi?
+- Belirtisi olmayan bir kişiden Kowit 19'u alma riski.
+- Belirtisiz korona enfeksiyonu
+- Virüs ayrıca semptomları olmayan insanlar tarafından da bulaşabilir mi?
+- Belirtisi olmayan kişiler bulaşabilir mi?
+
+## intent: covid_duration
+- Hastalık kaç gün sürer?
+- Tekrar sağlıklı olmak ne kadar sürer?
+- Kaç gün hastasın
+- Hastalık ne kadar sürer?
+- Hastalık kaç hafta sürer
+- Ne kadar hasta
+- İyileşmesi ne kadar sürer?
+- Ne zamandır hastasın?
+- Birkaç hafta sonra tekrar sağlıklı olursun
+- Hastalık süresi
+- Ne zaman tekrar sağlıklısın?
+- İyileşme ne kadar sürer
+- Süre hastalığı
+- Kaç gün sonra tekrar sağlıklıyım
+- Hastalığın süresi
+- Ne zamandır hastayım?
+
+## intent: cc_moon
+- Dünyadan Ay'a Uzaklık
+- Ay nerede
+- Aydan Dünyaya Uzaklık
+- Mesafe dünya ve ay
+- Dünya ve ay ne kadar uzakta?
+- Ay dünyadan kaç kilometre uzaklıktadır?
+- Ay Dünya'dan kaç kilometre uzaklıktadır?
+- Bana ayın dünyadan ne kadar uzak olduğunu söyleyebilir misiniz?
+- Aya ne kadar uzak?
+- Ay ne kadar
+- Dünyadan aya olan mesafe nedir?
+- Ayın dünyadan ne kadar uzak olduğunu biliyor musunuz?
+- Ay ve dünya arasındaki mesafe
+- Ay dünyadan ne kadar uzakta?
+- Ay Dünya'dan ne kadar uzakta?
+- Dünya ile ay arasındaki mesafe nedir?
+- Aya olan mesafe nedir?
+- Aya ne kadar uzak
+- Ay ne kadar uzakta?
+- Ay ve dünya arasındaki mesafe nedir?
+- Mesafe toprak - ay
+
+## intent: spread_surfaces_food_objects
+- Yiyeceklerden bulaşma riski var mı?
+- Su üzerine bulaşabilir miyim?
+- Alanlara da aktarılabilir
+- Aynı su şişesinden içersem enfekte olabilir miyim?
+- Yiyeceklerle enfekte olabilir misin?
+- Postadaki virüsler
+- Yine de Çin dükkanına gidebilir miyim?
+- Nesnelerle bulaşabilir miyim?
+- Yiyecekleri dezenfekte etmem gerekiyor mu?
+- Yiyeceklerden veya yüzeylerden bulaşabilir miyim?
+- Postadaki Corona virüsü
+- Korona virüsü Çin'den mal yoluyla bulaşabilir mi?
+- Virüs yüzeyler yoluyla bulaşabilir mi?
+- Yiyecek bulaşabilir miyim?
+- Çin'den ithal gıdalar ne olacak, enfekte olabilir misiniz?
+- Ayrıca gıda ile bulaşabilir mi?
+- Yiyecek bulaşabilir misin?
+- Gıda ve yüzeylerden bulaşma
+- Yüzeyler üzerinden iletim
+- Çin'den mal transfer etmek de mümkün mü?
+- Virüs su üzerinden bulaşabilir mi?
+- Korona virüsleri sebzeler üzerinde mi?
+- Yiyecekleri veya ambalajları dezenfekte etmem gerekiyor mu?
+- Yüzeyler üzerinden de transfer edilebilir mi?
+- Kapı tokmağı ile enfekte olabilir misin?
+- korona virüsü de yüzeylerde
+- Korona virüsleri de kirli yüzeylerle temas yoluyla bulaşabilir mi?
+- Hala Çin'den mal sipariş edebilir miyim?
+- İthal edilen gıdalardan bulaşmaya ne dersiniz?
+- Hala Çinlilerden satın alabilir miyim?
+- Çin'den bir paket sipariş ettiysem enfekte olabilir miyim?
+- İthal edilen mallarla enfekte olabilir miyim?
+- Yiyeceklerle enfekte olmak mümkün mü?
+- Gıda yoluyla bulaşma
+- İthal mallarda korona virüsleri var mı?
+- Yüzeyleri dezenfekte etmem gerekiyor mu?
+- Çin'den mallar hakkında enfekte olabilir misiniz?
+- Dondurulmuş gıdalardaki korona virüsleri
+- Virüs yiyecek yoluyla bulaşabilir mi?
+- Yiyeceklerle enfekte olabilir miyim?
+- Yüzeyler, yiyecek ve nesneler
+- İthal edilen gıdalardan, yüzeylerden veya nesnelerden yeni tip korona virüsü (SARS-CoV-2) ile enfekte olma riski var mı?
+- Gıda iletimi
+- Korona virüsleri nerede bulunur?
+- Yine de Çinlilerden yiyecek alabilir miyim?
+- Yiyecek veya sudan yeni korona virüsüyle enfekte olabilir miyim?
+- Hala kantinde yemek yiyebilir misin?
+- Korona virüsleri nerede gizleniyor
+- İthal gıdalar yoluyla enfekte olma riski var mı?
+- Çin gıdalarından enfekte olabilir miyim?
+- Enfeksiyon gıda yoluyla da olabilir mi?
+- Virüs Çin'den bulaşabilir mi?
+
+## intent: cc_weather
+- yarın hava nasıl olacak?
+- Dışarıda kar var mı?
+- Ne kadar soğuk
+- Nasıldı
+- Kara buza güvenebilir miyim?
+- Kar yağıyor mu
+- Hava tahmini!
+- Bana hava durumu hakkında bilgi ver.
+- Hava durumu hakkında bilgi istiyorum.
+- Ne kadar sıcak
+- Lizbon'da hava nasıl?
+- Dışarıda çok rüzgar var mı?
+- Çin'de hava nasıl?
+- Bugün hava nasıl?
+- sophie, hava nasıl?
+- Hava durumu servisi!
+- Hava nasıl gidiyor?
+- Dolu mu?
+- Soğuk mu
+- Bana havayı söyler misin
+- Bulunduğunuz yerdeki hava nasıl?
+- Berlin'de hava nasıl?
+- Sıcak mı
+- hava
+- Bana hangi hava durumu bilgilerini verebilirsin?
+- Hava nasıl?
+- Yağmur yağıyor mu?
+- Bana havanın nasıl olduğunu söyle.
+- Burada hava nasıl?
+- Rüzgarlı mı?
+- Hava tahmini nedir?
+- yarın yağmur yağacak mı
+- Hava durumu lütfen!
+- Bana hava durumunu verebilir misiniz?
+- Hava durumu hakkında bilgiye ihtiyacım var.
+- Güneş parlıyor mu?
+- Orada hava nasıl?
+- Bana hava durumunu söyleyebilir misin?
+- Bana havanın nasıl olduğunu söyle
+- Dışarıda neye benziyor?
+- Hava durumu hakkında bilgi alabilir miyim?
+- Hava durumu bilgileri!
+
+## intent: quarantine_general
+- Karantina nedir?
+- Heimquarantäne
+- Corona için ev karantinası
+- Karantina neden yararlıdır?
+- Sokağa çıkma yasağı nedir?
+- Bana karantina hakkında bilgi ver
+- Sokağa çıkma yasağı ne anlama geliyor
+- Neden karantina
+- Ve neden çoğu "yerli karantinada"?
+- Ev karantinasını bana açıkla.
+- İnsanların neden karantinaya alınması gerekiyor?
+- Nasıl çalıştığını karantinaya alın
+- Kowit 19 ve evde karantina
+- Ev karantinası
+- Evde karantina tam olarak ne anlama geliyor?
+- Kendinden karantina
+- Genel olarak yerli karantina hakkında bir şeyler bilmek isterdim.
+- Koronavirüs enfeksiyonu ve evde karantina
+- Kendinden izolasyon
+- Evde karantina ne demek
+- COVID-19 ve evde karantina
+- Karantinada ne olur?
+- karantina
+- Korona karantinası ne anlama geliyor?
+- Karantina bile
+- Sokağa çıkma yasağı nedir
+- Karantina ne için?
+- Çıkış kilidi
+- sokağa çıkma yasağı
+- Neden birisinin evde karantinaya alınması gerekiyor?
+- Eşit izolasyon
+- Ev karantinası hakkında bilgi lütfen
+- Karantina hakkında genel bilgi
+- Karantina denir
+- karantina anlamına gelir
+- Korona virüsü ve ev içi karantina
+
+## intent: cc_newspaper
+- Ne tür bir gazete alıyorsunuz?
+- Gazetede yeni bir şey var mı?
+- Gazete okuyor musun
+- İlginç bir gazete makalesi var mı?
+- Gazetede ilginç bir şey var mı?
+- Gazeteyi daha önce satın aldın mı?
+- Bugün gazeteyi daha önce okudun mu?
+- Gazeteyi alıyor musun
+- Bugün gazetede ne var?
+- Bir gazete mi alıyorsunuz?
+- Gazete bugün ne diyor?
+- Hangi gazeteyi okumayı tercih edersin?
+- Gazeteyi alıyor musun?
+- Gazete ne hakkında?
+- Hangi gazeteyi tercih edersin?
+- Gazete makalesini okudun mu?
+- Gazeteyi okuyor musun?
+- Ne tür bir gazete okuyorsun?
+- Hangi gazete bölümü ile ilgileniyorsunuz?
+- Gazeten var mı?
+- Gazete ne diyor?
+- Gazetede bir şey var mı?
+- En çok hangi gazeteyi okumayı seviyorsun?
+- Gazeten var mı
+- Gazete alıyor musun
+- Hangi gazeteyi okumayı seviyorsun?
+- Hangi gazeteyi seversin?
+- Gazete?
+
+## intent: covid_dangerous
+- Demmovit 19 enfeksiyonu zararsız mı?
+- Koronavirüs enfeksiyonu ne kadar tehlikelidir?
+- Virüs ile enfeksiyon tehlikelidir.
+- Corona benim için tehlikeli olabilir mi?
+- risk
+- Virüs zararsız mı?
+- Demcupid 19 ile enfeksiyon zararsız mıdır?
+- Hobbit 19 enfeksiyonu tehlikelidir.
+- Virüs enfeksiyonu tehlikeli midir?
+- Risk değerlendirmesi
+- Hareket 19 ile enfeksiyon tehlikelidir.
+- Kübik 19 ile enfeksiyon tehlikelidir.
+- Demqubeat 19 enfeksiyonu zararsız mı?
+- Qubeat 19 enfeksiyonu tehlikelidir.
+- Demkuhweg 19 enfeksiyonu zararsız mı?
+- Covid 19 enfeksiyonu tehlikelidir.
+- Q19 enfeksiyonu güvenli midir?
+- Hobbit 19 enfeksiyonu güvenli midir?
+- Enfeksiyon tehlikeli midir?
+- Enfeksiyon ne kadar tehlikelidir?
+- COBIT 19 enfeksiyonu zararsız mıdır?
+- Coronavirus Enfeksiyonu Zararsız mı?
+- Covid 19 enfeksiyonu güvenli midir?
+- COBIT 19 enfeksiyonu tehlikelidir.
+- Demkovit 19 enfeksiyonu güvenli midir?
+- Koronavirüs enfeksiyonu güvenli midir?
+- Corona Virüsü enfeksiyonu ne kadar tehlikelidir?
+- Huvit 19 enfeksiyonu tehlikelidir.
+- Q19 enfeksiyonu tehlikelidir.
+- Virüs güvenli midir?
+- Demcookit 19 enfeksiyonu zararsız mı?
+- Virüs bulaşması ne kadar tehlikelidir?
+- Virüs tehlikeli midir?
+- Kovit 19 enfeksiyonu tehlikelidir.
+- Virüs riski nedir?
+- Shuweg 19 enfeksiyonu tehlikelidir.
+- Virüs ile enfeksiyon da ciddi enfeksiyonlara neden olabilir mi?
+- Virüs bulaşmasının çok tehlikeli olduğunu duydum.
+- Enfeksiyon riski nedir?
+- Covid-19 ile enfeksiyon zararsız mıdır?
+- Cubic 19 enfeksiyonu güvenli midir?
+- Virüs bulaşması çok sorunlu mu?
+- Koronavirüs ile enfeksiyon tehlikelidir.
+- Kowit 19 enfeksiyonu zararsız mı?
+- Demhuvit 19 enfeksiyonu zararsız mı?
+- Hastalığın seyri ne kadar tehlikelidir?
+- Aşçı 19 ile enfeksiyon tehlikelidir.
+- Cupid 19 ile enfeksiyon tehlikelidir.
+- SARS-CoV-2 enfeksiyonu ne kadar tehlikelidir?
+
+## intent: stayhomeinfo_mask_supermarket
+- Alışveriş yaparken yüz maskesi takmam gerekir mi?
+- Bakkal alışverişine giderken yüz maskesi takmam gerekir mi?
+- Alışveriş yaparken bir ağızlık gerekli mi?
+- Süpermarkette dişlik mi gerekiyor?
+- Süpermarkette yüz maskesi
+- Alışveriş yaparken koruyucu maske takmam gerekir mi?
+- Doktor ziyaretleri evde kalıyor
+- Alışverişe giderken muck'e karşı korunmaya ihtiyacım var mı?
+- İnternet kesintileri
+- Alışveriş yaparken koruyucu maske
+- Süpermarkette koruyucu maske kullanmak gerekli mi?
+- Süpermarkette koruyucu maske
+- Alışveriş yaparken koruyucu maske takmak mantıklı mı?
+- Bir mağazaya girdiğimde koruyucu maske takmam gerekir mi?
+
+## intent: covid_vaccine
+- Virüse karşı aşılamada mevcut araştırma durumu nedir?
+- Imptsftoff nihayet ne zaman piyasaya sürülecek?
+- Koronavirüs aşısı
+- Virüse karşı aşı yok mu?
+- Kendimi ve ailemi aşılamak istiyorum.
+- Aşı ile koruma mümkün mü?
+- Aşıyı nerede bulabilirim
+- Bir aşı geliştirmek ne kadar sürer?
+- Covid'e karşı aşı
+- Kowit'e karşı aşılama
+- Aşı ne zaman geliyor?
+- Aşı ne zaman hazır olacak?
+- Korona virüsüne karşı aşı olabilir misiniz?
+- Aşı istiyorum
+- aşı
+- Sonunda ne zaman aşı yapılabilir?
+- Aşı ne zaman geliştirilir?
+- Aşı ne zaman yapılır?
+- Aşı ne zaman kullanılabilir?
+- Sars-Cov-2'ye karşı aşılama
+- Aşı olmak istiyorum
+- Aşı ile kendimi virüse karşı koruyabilir miyim?
+- Ne zaman aşı var
+- Aşılama?
+- Aşı için ne kadar beklemeniz gerekiyor?
+- Aşının piyasada olması ne kadar sürer?
+- Koronavirüse karşı aşılama
+- Aşı yok mu?
+- Yeni korona virüsüne karşı aşılama
+- Buna karşı bir aşı var mı?
+- Bir aşı var mı?
+- aşı koronavirüs
+- Coronavirus aşıları
+- Aşılanabilir miyim?
+
+## intent: quarantine_dogwalking
+- Karantinadayken köpeğime ne olur?
+- Corona karantinası Köpekle dışarı çıkabilir miyim?
+- Karantinadaki köpek sahipleri ne yapar? Hayvanla kim dışarı çıkıyor?
+- Karantinaya rağmen yürüyüşe çıkın
+- Evcil hayvan sahipleri karantinaya alınan veya enfekte olan ne yapmalıdır?
+- Köpeği yürüyüşe ne kadar sürebilirim?
+- Evde Karantina Sırasında Evcil Hayvanlara Ne Olur?
+- Yürüyüş için karantinaya ne sıklıkla gidebilirim?
+- Hala karantinada yürüyüşe izin var mı?
+- Karantina, hala köpekle dışarı çıkabilir misin?
+- Karantinaya rağmen yürüyüşe çıkmak
+- Köpekler karantinada bile çıkmalı
+- Ben karantinadayken hayvanla kim dışarı çıkacak?
+- İzin verilmezse köpeğimle ne yapacağım?
+- Köpekle dışarı çıkabilir miyim?
+- Karantinadayken hala köpekle dışarı çıkabilir miyim
+- Yürüyüşe çıkmak
+- Köpeğimi kapının dışına çıkarabilir miyim?
+- Yerli karantina: Köpeği bir köpekle yürüyen
+- Karantinadayken köpeğimle ne yapmalıyım?
+- Köpeğimi kapının dışına çıkarabilir miyim? Bunu ne sıklıkta ve ne kadar süreyle yapabilirim?
+- Karantinadayken hala köpeği yürütebilir miyim?
+- Köpek yürüyüşlerine izin var mı?
+- Yürüyüşe çıkın
+- Karantinadayken köpeği yürütebilir miyim?
+- Enfekte olduğumda yine de köpekle dışarı çıkabilir miyim?
+
+## intent: test_per_day
+- Kubik 19 üzerinde günde kaç test yapılır?
+- Günde kaç korona virüsü testi yapılabilir
+- Testkapazitäten
+- Her gün yapılabilecek maksimum korona virüsü testi sayısı nedir?
+- Test kapasiteleri
+- Günde kaç Kowit testi yapılabilir
+- Huvit 19 üzerinde günde kaç test yapılır?
+- Günlük korona virüsü için test sayısı
+- Qubeat 19 üzerinde günde kaç test yapılır?
+- Almanya'da günde kaç kişi test ediliyor?
+- Kovit 19 üzerinde günde kaç test yapılır?
+- Günlük korona virüsü testi sayısı
+- Movit 19 üzerinde günde kaç test yapılır?
+- Günde kaç test yapabilirsiniz?
+- Covid 19 üzerinde günde kaç test yapılır?
+- Cupid 19 üzerinde günde kaç test yapılır?
+- Q19'da günde kaç test yapılır?
+- Testi gerçekleştirecek laboratuvar kapasitesi ne olacak?
+- Hobbit 19 üzerinde günde kaç test yapılır?
+- Cookit 19'da günde kaç test yapılır?
+- Almanya'da her gün kaç kişi test ediliyor?
+- COBIT 19 üzerinde günde kaç test yapılır?
+- Her gün kaç test yapılabilir?
+- Günlük maksimum test sayısı nedir?
+- Günde kaç tane Covid testi yapılabilir
+- Guhweg 19 üzerinde günde kaç test yapılır?
+
+## intent: vocative_help
+- Bana bilgi vermek ister misiniz?
+- Önerileri!
+- Lütfen bilgi veriniz.
+- Bilgi?
+- @de_help
+- Yardıma ihtiyacım var.
+- Bana bilgi verir misin
+- Bilgi alabilir miyim?
+- Bana yardım etmek ister misin
+- Yardım gerekiyor.
+- Başlayalım
+- Bana yardım edebilir misin
+- Yardıma ihtiyacınız var!
+- Yardım!
+- Lütfen bilgi.
+- Yardım etmek ister misin?
+- Bana bilgi vermek ister misin?
+- Tavsiyeye ihtiyacım var.
+- Bana bilgi verir misin?
+- Tavsiyene ihtiyacım var.
+- Tavsiye!
+- Bana tavsiye et!
+- Bilgi lütfen.
+- Yardım?
+- Bilgiye ihtiyacım var.
+- Hadi gidelim
+- Tavsiye istiyorum.
+- Bana tavsiyede bulunmak ister misin?
+- Bana yardım et!
+- Bana yardım etmek ister misin?
+- Bana yardım edebilir misin?
+- Bana tavsiye eder misin
+- Tavsiye alabilir miyim?
+- Bana tavsiye eder misin?
+- Bana yardım eder misin?
+- Bana yardım eder misin
+- Bilgi almak istiyorum?
+- SOS
+- Bana bilgi verebilir misin?
+
+## intent: quarantine_when_who_howlong
+- Karantina - kim, ne zaman ve ne kadar süreyle
+- Kendi karantinaya ne zaman gitmelisin
+- Karantina ne zaman mantıklı?
+- Kim Corona Karantinasına gitmek zorunda?
+- Evde karantina kimin için gerekli?
+- Kimler evde karantinaya ihtiyaç duyar?
+- Karantina kaç hafta sürer?
+- Ne zaman karantina
+- Ne zaman evde karantinaya gönderilirsiniz?
+- Ne zaman evde karantina?
+- Evde karantina süresi ne kadardır?
+- Ne zaman evde kalmalısın?
+- Karantina ne kadar sürer?
+- Karantinaya almam gerekip gerekmediğine kim karar veriyor?
+- Kendi karantinasında ne kadar kalmalısın
+- Şimdi karantinaya gitmem gerekiyor mu?
+- Evde karantina ne kadar sürer?
+- Kim karantinaya gitmeli?
+- Ne zaman ve ne kadar süreyle karantinaya gönderileceksiniz?
+- Avusturya ya da İtalya'ya gittiğimde kesinlikle evde kalmam gerekir mi?
+- Karantinayı kim sipariş ediyor
+- Kim, ne zaman ve ne kadar süreyle karantinaya alın
+- Enfekte olmanız durumunda evde ne kadar kalmanız gerekir?
+- Kimin karantinada olması gerekir?
+- Kim bir karantina reçete edebilir?
+- Kim tam olarak karantinada olmalı?
+- Böyle bir karantina ne kadar sürer?
+- Evde kaç gün kalman gerekiyor?
+- Ev karantinalarını kimler bekleyebilir?
+- Kimler evde karantinaya gönderilecek?
+- Ne zaman evde karantinaya alınanların evi terk etmelerine izin verilir?
+- Yerli karantina ne zaman ve kim tarafından sipariş edilir?
+- Karantina sonu mu?
+- Evde ne zaman kalmalıyım?
+- Evde karantina, bu kimin için?
+- Kim kendi kendine karantinaya gitmeli
+- Hangi koşullar altında karantinaya girmeyi bekleyebilirsiniz?
+- Ne zaman karantinada olmalısın
+- Ne zaman karantina beklemeliyim?
+- Ev karantinası hangi grup insanlarla ilgilidir?
+- Karantina süresi?
+- Ne kadar süre karantinaya alınıyor?
+- Karantinada olmam gerekiyor mu?
+
+## intent: germany_train_refund
+- Erstattungsregeln
+- Bir etkinlik iptal edildi, şimdi tren için parayı geri alabilir miyim?
+- Bilet geri ödemesi
+- İtalya'ya olan biletimi ücretsiz olarak iade edebilir miyim?
+- Seyahatimi iptal edersem paramı şimdi geri alırım
+- Tren paramı iade edecek mi?
+- Bilet iadesi
+- Biletimi ücretsiz olarak alabilir miyim?
+- Ücretsiz biletler Korona virüsü nedeniyle bir olay iptal edildiğinde iptal mümkün mü?
+- Tren bileti iadesi
+- Erstattungsregelungen
+- Paramı trenden geri alabilir miyim?
+- Corona nedeniyle büyük olaylar iptal edilirse paramı geri alır mıyım?
+- Tren biletinin esnek kullanımı
+- Seyahatimi iptal edersem paramı geri alır mıyım?
+- Bilet için paramı geri alabilir miyim?
+- İtalya'ya yaptığım seyahat için şimdi trenle para iadesi yapılacak mı?
+- Bilet iadesi alma hakkım var mı?
+- Artık tren yolculuğuma başlayamıyorum, bilet için parayı geri alacak mıyım?
+- Tren biletimi değiştirmek istiyorum
+- Bir olay korona virüsü nedeniyle iptal edildi, şimdi paramı geri alabilir miyim?
+- Artık tren biletimin ücretini geri alabilirim
+- Biletimi iptal edebilir miyim?
+- Corona nedeniyle bir etkinlik iptal edildi, paramı şimdi geri alabilir miyim?
+- Tren bileti için paramı geri alabilir miyim?
+
+## intent: stayhomeinfo_visit60
+- Büyükanneme ve büyükbabama gidebilir miyim?
+- Büyükannem ve büyükbabamı (60+) hala ziyaret edebilir miyim?
+- Hala büyükannemi ve büyükbabamı ziyaret edebilir miyim?
+- Hala büyükbabamı ziyaret edebilir miyim?
+- Büyükannem yalnız yaşıyor, onu ziyaret edebilir miyim?
+- Büyükanneme gidebilir miyim
+- Büyükanne veya büyükbabayı mı ziyaret ediyorsunuz (60+)?
+- Yalnız yaşıyorsa annemin evine gidebilir miyim?
+- Hala büyükanne ve büyükbabalarımı ziyaret edebilir miyim?
+- Büyükannem ve büyükbabamı ziyaret etmek istiyorum
+- Hala anneannemi ziyaret edebilir miyim?
+- Hala büyükanne ve büyükbabamı görebilir miyim?
+- Yalnız yaşıyorsa hala anneanneme gidebilir miyim?
+- Hala anneanneme gidebilir miyim?
+
+## intent: bot_residence
+- Dairen nerede
+- Daireniz tam olarak nerede?
+- Nerede yaşıyorsun
+- Nerelisin
+- nerede yaşıyorsun
+- Eviniz tam olarak nerede?
+- Evde neredesin
+- Tam olarak nerede yaşıyorsun
+- Evin nerede
+
+## intent: germany_precautions_sachsenanhalt
+- Saksonya Anhalt bölgesinde kilit var
+- Şu anda Saksonya Anhalt'da sokağa çıkma yasağı var mı?
+- Saksonya-Anhalt'daki hazırlıklar nelerdir?
+- Saksonya-Anhalt'ta kilit var
+- Saksonya-Anhalt'da şu anda ne gibi önlemler var?
+- Saksonya Anhaltında şu anda ne gibi önlemler var?
+- Saksonya Anhaltında temas yasağı var mı
+- Saksonya Anhalt'daki hazırlıklar nelerdir
+- Saksonya-Anhalt'da temas yasağı var
+- Saksonya-Anhalt'ta bir kısıtlama var
+- Saksonya-Anhalt çıkış kilidi var
+- Saksonya Anhalt'da temas yasağı var
+- Saksonya-Anhalt'da temas yasağı var mı
+- Saksonya-Anhalt'ta önlemler nelerdir?
+- Saksonya-Anhalt'ta sokağa çıkma yasağı var mı?
+- Saksonya-Anhalt'da sokağa çıkma yasağı
+- Saksonya Anhalt çıkış kilidi var
+- Saksonya Anhaltındaki önlemler nelerdir?
+- Saksonya Anhalt'da hala dışarı çıkabilir miyim?
+- Saksonya-Anhalt'da hala dışarı çıkabilir miyim?
+- Saksonya Anhalt'ta sokağa çıkma yasağı
+
+## intent: germany_food_buy
+- On gün boyunca bir kişiye bakmak için neye ihtiyacınız var?
+- Karantina için evde hangi yiyecekleri almalıyım?
+- İki hafta boyunca karantina almalıyım
+- İki hafta boyunca karantinada kaç tane yiyecek almalıyım?
+- İki hafta boyunca evde kalmaya nasıl hazırlanabilirim
+- 10 gün karantina için ne satın almalıyım
+- Evde karantina için alışveriş yapmak için neye ihtiyacım var?
+- 2 hafta boyunca ne almalısın?
+- Karantinadayken ne için alışveriş yapmalıyım
+- Stokta iki haftalık bir karantina için neye sahip olmalıyım?
+- 14 gün boyunca karantina için ne satın almalıyım
+- Kendimi karantinaya nasıl hazırlamalıyım
+- İki hafta boyunca evde neye ihtiyacım var?
+- Evde karantinaya nasıl hazırlanabilirim?
+- 2 hafta boyunca ne karantina almalıyım
+- Herkes evde karantinaya nasıl hazırlanabilir?
+
+## intent: covid_sars
+- COVID 19, SARS ile aynı mıdır?
+- COBIT 19'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- SARS ve kuhweg hakkında bilgiler 19.
+- Corvette 19 ve ciddi akut solunum sendromu hakkında bilgi.
+- Khaweg 19 ve SARS üzerinden.
+- COVID-19 ve SARS hakkında.
+- SARS'a neden olan virüs ile Corvette 19'a neden olan virüs aynı mı?
+- SARS ve COVID-19 hakkında bilgiler.
+- SARS ve COBIT 19.
+- SARS ve Corvette 19 hakkında.
+- Cupid 19 ve SARS hakkında.
+- SARS ve COVID-19 aynı şey midir?
+- qubeat 19 ve SARS.
+- Corvette 19 ve şiddetli akut solunum sendromu arasındaki farklar
+- COVID 19 ve ciddi akut solunum sendromu.
+- SARS ve COVID 19 aynı virüs mü?
+- Cupid 19 ve SARS hakkında bilgi.
+- korona normal gripten nasıl farklıdır?
+- SARS ve COBIT Hakkında 19.
+- SARS ve COVID-19 arasındaki farklar
+- Cupid 19, SARS ile aynı mıdır?
+- Shuweg 19'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- COVID 19 ve SARS aynı virüs mü?
+- SARS kuhweg 19 ile aynı mıdır?
+- SARS'a neden olan virüs ile COVID 19'a neden olan virüs aynı mıdır?
+- COBIT 19 ve SARS arasındaki farklar
+- SARS'a neden olan virüs ile Obit 19'a neden olan virüs aynı mı?
+- SARS'a neden olan ve qubeat 19'a neden olan virüs aynı mı?
+- SARS, Kubik 19 ile aynı mıdır?
+- Qubeat 19'a neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- SARS ve COBIT 19 arasındaki farklar
+- SARS ve kuhweg 19 aynı virüs mü?
+- SARS ve Kubik 19
+- COBIT ve sass arasındaki fark
+- Cupid 19 ve ciddi akut solunum sendromu hakkında.
+- Obit 19'a neden olan virüs, SARS'a neden olan virüsle aynı mı?
+- Corvette 19 ve ciddi akut solunum sendromu.
+- Cupid 19, ciddi akut solunum sendromu ile aynı mıdır?
+- SARS ve Corvette 19.
+- SARS ve kuhweg 19 aynı şey midir?
+- SARS'a neden olan virüs ve kuhweg 19'a neden olan virüs aynı mı?
+- Shuweg 19'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?
+- Kuhweg 19 ve SARS arasındaki farklar
+- SARS'a neden olan virüs ile COBIT 19'a neden olan virüs aynı mıdır?
+- Corvette 19 ciddi akut solunum sendromu ile aynı mıdır?
+- COBIT 19 ve şiddetli akut solunum sendromu hakkında.
+- SARS ve Obit 19 aynı virüs mü?
+- SARS ve COBIT 19 aynı şey midir?
+- SARS ve aşk tanrısı hakkında bilgi 19.
+- SARS'a neden olan virüs ile COVID-19'a neden olan virüs aynı mıdır?
+- Şiddetli akut solunum sendromu ve qubeat 19 aynı virüs mü?
+- Qubeat 19, SARS ile aynı mıdır?
+- SARS'a neden olan virüs, cupid 19'a neden olan virüsle aynıdır.
+- SARS ve COVID-19.
+- SARS ve Corvette 19 hakkında bilgiler.
+- Cupid 19 ve ciddi akut solunum sendromu arasındaki farklar
+- Kübik 19 ve şiddetli akut solunum sendromu hakkında.
+- SARS ve aşk tanrısı 19 arasındaki farklar
+- COVID-19 ve ciddi akut solunum sendromu.
+- qubeat 19 ve SARS aynı virüstür?
+- Qubeat 19 ve şiddetli akut solunum sendromu hakkında.
+- COVID 19 ve SARS hakkında bilgiler.
+- COVID-19 ciddi akut solunum sendromu ile aynı mıdır?
+- Corvette 19 ve ciddi akut solunum sendromu hakkında.
+- Obit 19'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- Kubik 19 ve SARS aynı virüs mü?
+- COBIT 19'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- influenza ve covid arasındaki fark
+- COVID-19 ve ciddi akut solunum sendromu arasındaki farklar
+- SARS ve kuhweg hakkında 19.
+- SARS ve qubeat hakkında 19.
+- SARS, COVID 19 ile aynı mıdır?
+- SARS ve Obit 19.
+- Cupid 19 ve SARS arasındaki farklar
+- SARS'a neden olan virüs, qubeat 19'a neden olan virüsle aynıdır.
+- COBIT 19 ve SARS aynı virüs mü?
+- Obit 19 ve SARS aynı virüs mü?
+- Şiddetli akut solunum sendromu ve COVID-19 aynı virüs mü?
+- Obit 19 ve SARS hakkında.
+- kuhweg 19 ve ciddi akut solunum sendromu.
+- 19 ve SARS Karşılaştırması.
+- SARS ve aşk tanrısı 19 aynı şey midir?
+- Obit 19, SARS ile aynı mıdır?
+- Şiddetli akut solunum sendromu ve Corvette 19 aynı virüs mü?
+- Corvette 19 SARS ile aynı mı?
+- COVID 19, şiddetli akut solunum sendromu ile aynı mıdır?
+- SARS ve COVID 19 hakkında bilgiler.
+- Kübik 19 ve ciddi akut solunum sendromu.
+- COBIT 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
+- COVID 19'a neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- SARS, Obit 19 ile aynı mıdır?
+- Kubik 19 ve SARS hakkında.
+- 19 ve şiddetli akut solunum sendromu alın.
+- SARS ve COBIT hakkında bilgiler 19.
+- Qubeat 19 ve SARS arasındaki farklar
+- SARS ve Obit 19 hakkında bilgiler.
+- SARS, COBIT 19 ile aynı mıdır?
+- Qubeat 19 ve SARS aracılığıyla.
+- Obit 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
+- SARS'a neden olan virüs, COVID 19'a neden olan virüsle aynıdır.
+- SARS'a neden olan virüs, COBIT 19'a neden olan virüsle aynıdır.
+- Qubeat 19 ve ciddi akut solunum sendromu hakkında bilgi.
+- Shuweg 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
+- Shuweg 19, şiddetli akut solunum sendromu ile aynı mıdır?
+- Cupid 19'a neden olan virüs, SARS'a neden olan virüsle aynı mı?
+- SARS ve Kubik Hakkında 19.
+- SARS ve aşk tanrısı 19
+- qubeat 19 ve ciddi akut solunum sendromu.
+- SARS, qubeat 19 ile aynı mıdır?
+- COVID-19'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- SARS ve Kubik 19 hakkında bilgiler.
+- SARS, Corvette 19 ile aynı mıdır?
+- SARS aşk tanrısı 19 ile aynı mıdır?
+- SARS'a neden olan virüs, Corvette 19'un neden olduğu virüsle aynıdır.
+- COVID-19 SARS ile aynı mıdır?
+- Shuweg 19 ve şiddetli akut solunum sendromu arasındaki farklar
+- SARS'a neden olan ve cupid 19'a neden olan virüs aynı mı?
+- SARS ve qubeat 19 aynı şey midir?
+- SARS ve COVID-19 hakkında.
+- COVID 19'a neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
+- SARS ve COVID 19 aynı şey midir?
+- aşk tanrısı 19 ve SARS.
+- SARS, Kuhweg 19 ile aynı mıdır?
+- Corvette 19'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?
+- SARS ve Corvette 19 aynı şey midir?
+- COBIT 19 ve ciddi akut solunum sendromu.
+- SARS ve Kubik 19 aynı virüs mü?
+- Kübik 19'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?
+- COBIT 19 ve SARS.
+- Kübik 19 ile ciddi akut solunum sendromu arasındaki farklar
+- COVID-19 ve SARS.
+- SARS ve Obit Hakkında 19.
+- SARS'a neden olan virüs, Obit 19'un neden olduğu virüsle aynıdır.
+- COVID 19'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- SARS'a neden olan virüs, COVID-19'a neden olanla aynıdır.
+- Qubeat 19 ve SARS hakkında bilgiler.
+- SARS ve COVID-19 aynı virüs mü?
+- 19 ve SARS alın.
+- Corvette 19 ve SARS hakkında.
+- Şiddetli akut solunum sendromu ve kuhweg 19 aynı virüs mü?
+- COBIT 19 ve SARS hakkında bilgiler.
+- Kubik 19 ve SARS.
+- Qubeat 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
+- SARS ve Obit 19 arasındaki farklar
+- aşk tanrısı 19 ve SARS aynı virüs mü?
+- Şiddetli Akut Solunum Sendromu ve Obit 19 aynı virüs mü?
+- Cupid 19 ve ciddi akut solunum sendromu hakkında bilgi.
+- Şiddetli akut solunum sendromu ve COBIT 19 aynı virüs mü?
+- Obit 19 ve SARS arasındaki farklar
+- COVID-19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
+- SARS ve kuhweg 19.
+- Cupid 19'a neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- Qubeat 19'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- COVID 19 ve ciddi akut solunum sendromu hakkında.
+- COVID 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
+- SARS, COVID-19 ile aynı mıdır?
+- Kübik 19 ve şiddetli akut solunum sendromu hakkında bilgi.
+- Corvette 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
+- SARS ve Qubeat hakkında bilgiler 19.
+- SARS ve qubeat 19 aynı virüs mü?
+- Corvette 19 ve SARS aynı virüs mü?
+- Corvette 19'a neden olan virüs, SARS'a neden olan virüsle aynı mı?
+- COVID-19'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- Qubeat 19, şiddetli akut solunum sendromu ile aynı mıdır?
+- Kübik 19'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- SARS ve aşk tanrısı hakkında 19.
+- Kübik 19 şiddetli akut solunum sendromu ile aynı mıdır?
+- SARS ve Obit 19 aynı şey midir?
+- SARS ve Corvette 19 arasındaki farklar
+- SARS ve COVID Hakkında 19.
+- cupid 19 ve ciddi akut solunum sendromu.
+- Kuhweg 19 ve şiddetli akut solunum sendromu hakkında bilgi.
+- COVID-19 ve SARS aynı virüs mü?
+- Shuweg 19 ve ciddi akut solunum sendromu ile.
+- SARS ve kuhweg 19 arasındaki farklar
+- Şiddetli akut solunum sendromu ve kübik 19 aynı virüs mü?
+- COVID 19 ve SARS arasındaki farklar
+- Obit 19 ve ciddi akut solunum sendromu hakkında bilgi.
+- kuhweg 19 ve SARS aynı virüs mü?
+- COBIT 19'a neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
+- SARS ve COVID 19.
+- SARS'a neden olan virüs ile kübik 19'a neden olan virüs aynı mı?
+- SARS ve Kubik 19 arasındaki farklar
+- COBIT 19 ve ciddi akut solunum sendromu arasındaki farklar
+- SARS ve COVID 19 arasındaki farklar
+- COVID-19 ve şiddetli akut solunum sendromu hakkında.
+- Obit 19 ve Şiddetli Akut Solunum Sendromu Hakkında.
+- SARS ve COBIT 19 aynı virüs mü?
+- Qubeat 19'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- Corvette 19 ve SARS arasındaki farklar
+- COVID 19 ve ciddi akut solunum sendromu arasındaki farklar
+- COVID 19 ve SARS.
+- Kubik 19 ve SARS arasındaki farklar
+- COBIT 19 ciddi akut solunum sendromu ile aynı mıdır?
+- COBIT 19, SARS ile aynı mıdır?
+- SARS ve qubeat arasındaki farklar 19
+- SARS ve Corvette 19 aynı virüs mü?
+- Corvette 19'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- Qubeat 19 ve şiddetli akut solunum sendromu arasındaki farklar
+- SARS'a neden olan virüs, kübik 19'a neden olan virüsle aynıdır.
+- SARS ve 19 Şubat
+- SARS ve aşk tanrısı 19 aynı virüs mü?
+- COBIT 19 ve SARS hakkında.
+- Obit 19'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- Şiddetli akut solunum sendromu ve aşk tanrısı 19 aynı virüs mü?
+- Cubic 19, SARS ile aynı mıdır?
+- Cupid 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
+- SARS'a neden olan virüs, kuhweg 19'a neden olan virüsle aynıdır.
+- Kuhweg 19 SARS ile aynı mıdır?
+- Kubik 19 ve SARS hakkında bilgiler.
+- Cupid 19'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- Şiddetli akut solunum sendromu ve COVID 19 aynı virüs mü?
+- Kuhweg 19 ve SARS hakkında bilgiler.
+- Obit 19, ciddi akut solunum sendromu ile aynı mıdır?
+- 19 ve SARS.
+- COVID-19 ve SARS arasındaki farklar
+- COVID 19 ve SARS hakkında.
+- Kübik 19'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- Shuweg 19'a neden olan virüs SARS'a neden olanla aynı mı?
+- Kübik 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
+- Obit 19 ve ciddi akut solunum sendromu arasındaki farklar
+- COVID-19'a neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
+- SARS ve Kubik 19 aynı şey midir?
+
