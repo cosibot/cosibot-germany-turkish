@@ -22,7 +22,7 @@ with open(path + f) as json_file:
 
 utter_answers={}
 for intent, val in answers.items():
-    utter_answers['utter_' + intent] = {'custom': val}
+    utter_answers['utter_' + intent] = [{'custom': val}]
 
 final_dict = {'responses': utter_answers}
 
