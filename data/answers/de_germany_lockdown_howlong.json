@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die aktuell beschlossenen Beschränkungen sozialer Kontakte und des öffentlichen Lebens sind zunächst bis zum 18. April angelegt. Mit den Fachleuten beobachtet die Bundesregierung sehr aufmerksam die Einhaltung der Regeln und die Entwicklung der Infektionsrate. Vor diesem Hintergrund werden die getroffenen Maßnahmen zu gegebener Zeit überprüft. Seriöse Einschätzungen, wann die Zahl der Infizierten in Deutschland ihren Höhepunkt erreicht haben wird, lassen sich derzeit nicht treffen. Weiterhin sind alle Maßnahmen an der tatsächlichen Entwicklung des Pandemieverlaufs auszurichten. Es wird getan, was zu tun ist.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Die aktuell beschlossenen Beschränkungen sozialer Kontakte und des öffentlichen Lebens sind zunächst bis zum 18. April angelegt. Mit den Fachleuten beobachtet die Bundesregierung sehr aufmerksam die Einhaltung der Regeln und die Entwicklung der Infektionsrate. Vor diesem Hintergrund werden die getroffenen Maßnahmen zu gegebener Zeit überprüft. Seriöse Einschätzungen, wann die Zahl der Infizierten in Deutschland ihren Höhepunkt erreicht haben wird, lassen sich derzeit nicht treffen. Weiterhin sind alle Maßnahmen an der tatsächlichen Entwicklung des Pandemieverlaufs auszurichten. Es wird getan, was zu tun ist. <a href='https://www.bundesregierung.de/breg-de/themen/coronavirus/ausbreitung-coronavirus-1716188' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Maßnahmen Deutschland",
+          "value": "Maßnahmen Deutschland"
+        },
+        {
+          "label": "Quarantäne",
+          "value": "Quarantäne"
+        },
+        {
+          "label": "Hotlines",
+          "value": "Hotlines"
+        }
+      ]
+    }
+  ]
+}

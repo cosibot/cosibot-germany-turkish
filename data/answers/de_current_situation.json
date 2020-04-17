@@ -1,0 +1,25 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Es gab ein Problem beim Versenden der Anfrage an die Website des Deutsche Welle und das Tagesschau. Für weitere Informationen empfehle ich Ihnen, direkt auf den Websites nachzulesen.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Es gab ein Problem beim Versenden der Anfrage an die Website des Deutsche Welle und das Tagesschau. Für weitere Informationen empfehle ich Ihnen, direkt auf den Websites nachzulesen."
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Deutsche Welle",
+          "url": "https://www.dw.com/de"
+        },
+        {
+          "title": "Tagesschau",
+          "url": "https://www.tagesschau.de/"
+        }
+      ]
+    }
+  ]
+}

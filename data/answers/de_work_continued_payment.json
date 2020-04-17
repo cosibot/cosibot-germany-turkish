@@ -1,0 +1,38 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Sowohl bei der Quarantäne einer Einzelperson als auch bei der Abriegelung einer ganzen Stadt ist der Lohn für Arbeitnehmer weiterhin gesichert. Das Infektionsschutzgesetz sorgt in Deutschland dafür, dass für sechs Wochen nach Beginn des Verdienstausfalls das Entgelt weitergezahlt wird. Wenn die Quarantäne nach den sechs Wochen noch andauert, wird Krankengeld gezahlt. Wenn der Arbeitgeber hingegen freiwillig sagt, er schließt den Betrieb, ist er verpflichtet, weiterhin den Lohn zu zahlen. Dies gilt auch dann, wenn die Schließung nicht freiwillig erfolgt ist. Situationen wie diese gehören zu seinem Betriebsrisiko. Auf der Seite des Bundesministeriums für Arbeit und Soziales finden Sie weitere relevante Fragestellungen zum Thema Arbeitsrecht und Kowitt 19.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Sowohl bei der Quarantäne einer Einzelperson als auch bei der Abriegelung einer ganzen Stadt ist der Lohn für Arbeitnehmer weiterhin gesichert. Das Infektionsschutzgesetz sorgt in Deutschland dafür, dass für sechs Wochen nach Beginn des Verdienstausfalls das Entgelt weitergezahlt wird. Wenn die Quarantäne nach den sechs Wochen noch andauert, wird Krankengeld gezahlt. Wenn der Arbeitgeber hingegen freiwillig sagt, er schließt den Betrieb, ist er verpflichtet, weiterhin den Lohn zu zahlen. Dies gilt auch dann, wenn die Schließung nicht freiwillig erfolgt ist. Situationen wie diese gehören zu seinem Betriebsrisiko. Auf der Seite des Bundesministeriums für Arbeit und Soziales finden Sie weitere relevante Fragestellungen zum Thema Arbeitsrecht und Kowitt 19. <a href='https://www.zdf.de/nachrichten/panorama/coronavirus-covid-19-ausbreitung-symptome-faq-100.html' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Bundesministerium für Arbeit und Soziales",
+          "url": "https://www.bmas.de/DE/Presse/Meldungen/2020/corona-virus-arbeitsrechtliche-auswirkungen.html"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Anspruch auf Homeoffice",
+          "value": "Anspruch auf Homeoffice"
+        },
+        {
+          "label": "Kurzarbeitergeld und Covit-19",
+          "value": "Kurzarbeitergeld und Covit-19"
+        },
+        {
+          "label": "Zuhause bleiben",
+          "value": "Zuhause bleiben"
+        }
+      ]
+    }
+  ]
+}

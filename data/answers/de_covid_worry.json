@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Alles was fremd ist, ist geneigt, uns zu sorgen oder sogar Angst zu machen. Die Sorge davor zu erkranken, ist eine ganz natürliche Reaktion auf einen Virus, den wir noch nicht kennen und der sich schnell verbreitet. Jedoch sollten Sie die Fakten checken: Gehöre ich zu einer Risikogruppe? Was wird von offizieller Seite konkret empfohlen? Was kann jemandem wie mir nach aktuellem Wissensstand schlimmstenfalls passieren? Was kann ich konkret tun, um mich zu schützen? Die meisten Menschen sind nach so einem Faktencheck orientiert und somit beruhigt. Sie wissen, was in ihrem individuellen Fall zu tun ist, was Sicherheit gibt. Wer sich bezüglich einer bestehenden Vorerkrankung Sorgen macht, sollte auch auf den offiziellen Internetseiten Informationen suchen oder seinen behandelnden Arzt ansprechen. Wichtig ist, auf Informationen von Fachleuten zu hören. Manche Menschen verbringen viel Zeit damit, auf die neuesten Nachrichten zu lauern und ständig zu recherchieren. Es ist wichtig, sich auch Auszeiten von diesem Thema zu nehmen und mit Familie und Freunden bewusst über andere Themen zu sprechen, da es auch auch Zeiten braucht, in denen man von möglichen Sorgen oder Ängsten abgelenkt wird, um sich zu beruhigen.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Alles was fremd ist, ist geneigt, uns zu sorgen oder sogar Angst zu machen. Die Sorge davor zu erkranken, ist eine ganz natürliche Reaktion auf einen Virus, den wir noch nicht kennen und der sich schnell verbreitet. Jedoch sollten Sie die Fakten checken: Gehöre ich zu einer Risikogruppe? Was wird von offizieller Seite konkret empfohlen? Was kann jemandem wie mir nach aktuellem Wissensstand schlimmstenfalls passieren? Was kann ich konkret tun, um mich zu schützen? Die meisten Menschen sind nach so einem Faktencheck orientiert und somit beruhigt. Sie wissen, was in ihrem individuellen Fall zu tun ist, was Sicherheit gibt.<br><br>Wer sich bezüglich einer bestehenden Vorerkrankung Sorgen macht, sollte auch auf den offiziellen Internetseiten Informationen suchen oder seinen behandelnden Arzt ansprechen. Wichtig ist, auf Informationen von Fachleuten zu hören.<br><br>Manche Menschen verbringen viel Zeit damit, auf die neuesten Nachrichten zu lauern und ständig zu recherchieren. Es ist wichtig, sich auch Auszeiten von diesem Thema zu nehmen und mit Familie und Freunden bewusst über andere Themen zu sprechen, da es auch auch Zeiten braucht, in denen man von möglichen Sorgen oder Ängsten abgelenkt wird, um sich zu beruhigen. <a href='https://www.br.de/br-fernsehen/sendungen/wir-in-bayern/service/angst-coronavirus-tipps-therapie-birgit-salewski-100.html' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Schutzmaßnahmen",
+          "value": "Schutzmaßnahmen"
+        },
+        {
+          "label": "Ich habe Symptome",
+          "value": "Ich habe Symptome"
+        },
+        {
+          "label": "Risikogruppen",
+          "value": "Risikogruppen"
+        }
+      ]
+    }
+  ]
+}

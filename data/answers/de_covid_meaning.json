@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Seit dem 11. Februar hat das neuartige Coronavirus, das bislang vorläufig mit 2019 N Koff bezeichnet wurde, einen neuen Namen: SARS Koff 2. Das Akronym SARS steht dabei für Schweres Akutes Atemwegssyndrom. Auch die Lungenkrankheit, die durch SARS Koff 2 ausgelöst werden kann, hat einen neuen Namen erhalten. Sie wird nun Covid 19 (Corona Virus Disease 2019) genannt.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Seit dem 11. Februar hat das neuartige Coronavirus, das bislang vorläufig mit 2019-nCoV bezeichnet wurde, einen neuen Namen: SARS-CoV-2. Das Akronym SARS steht dabei für Schweres Akutes Atemwegssyndrom. Auch die Lungenkrankheit, die durch SARS-CoV-2 ausgelöst werden kann, hat einen neuen Namen erhalten. Sie wird nun Covid-19 (Corona Virus Disease 2019) genannt. <a href='https://www.bundesgesundheitsministerium.de/coronavirus.html' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Risikogruppen",
+          "value": "Risikogruppen"
+        },
+        {
+          "label": "Covid-19 und Haustiere",
+          "value": "Covid-19 und Haustiere"
+        },
+        {
+          "label": "Ansteckungsgefahr",
+          "value": "Ansteckungsgefahr"
+        }
+      ]
+    }
+  ]
+}

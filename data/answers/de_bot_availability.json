@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich bin vierundzwanzig sieben online, um Sie bei Ihren Fragen rund um das Thema Kowit 19 zu unterstützen.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich bin 24/7 online, um Sie bei Ihren Fragen rund um das Thema Covid-19 zu unterstützen."
+    }
+  ]
+}

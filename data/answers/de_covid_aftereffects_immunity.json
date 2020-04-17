@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Es gibt bislang nur vergleichsweise wenige Informationen, wie es den Menschen nach überstandener Krankheit geht. Untersuchungen werden in den nächsten Monaten zeigen, ob es bei genesenen Kowitt 19-Patienten möglicherweise vereinzelt bleibende Spätfolgen gibt. Im Fokus steht dabei vor allem die Lunge. Ärzte in Hongkong hatten etwa bei einigen genesenen Coronavirus-Patienten eine verminderte Lungenfunktion und eine anhaltende Kurzatmigkeit festgestellt. Die meisten Experten sind überzeugt, dass genesene Kowitt 19 Patienten nach überstandener Krankheit immun gegen das neue SARS Koff 2 Virus sind. Allerdings hält die Immunität sehr wahrscheinlich nur vorübergehend an. Das sei ähnlich wie bei der Influenza, wo der Impfschutz mindestens einmal im Jahr aufgefrischt werden müsse. Längerfristig ist eine erneute Ansteckung also möglich. Wer jetzt aufgrund des Coronavirus erkrankt, wird allerdings die nächsten zwei, drei Monate wahrscheinlich nicht erneut krank.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Es gibt bislang nur vergleichsweise wenige Informationen, wie es den Menschen nach überstandener Krankheit geht. Untersuchungen werden in den nächsten Monaten zeigen, ob es bei genesenen Covid-19-Patienten möglicherweise vereinzelt bleibende Spätfolgen gibt. Im Fokus steht dabei vor allem die Lunge. Ärzte in Hongkong hatten etwa bei einigen genesenen Coronavirus-Patienten eine verminderte Lungenfunktion und eine anhaltende Kurzatmigkeit festgestellt. Die meisten Experten sind überzeugt, dass genesene Covid-19 Patienten nach überstandener Krankheit immun gegen das neue SARS-Cov-2 Virus sind. Allerdings hält die Immunität sehr wahrscheinlich nur vorübergehend an. Das sei ähnlich wie bei der Influenza, wo der Impfschutz mindestens einmal im Jahr aufgefrischt werden müsse. Längerfristig ist eine erneute Ansteckung also möglich. Wer jetzt aufgrund des Coronavirus erkrankt, wird allerdings die nächsten zwei, drei Monate wahrscheinlich nicht erneut krank. <a href='https://www.dw.com/de/corona-spätfolgen-genesene-haben-teilweise-reduzierte-lungenfunktion/a-52838231' target='_blank'>(1)</a> <a href='https://www.mdr.de/nachrichten/ratgeber/gesundheit/coronavirus-fragen-antworten-100.html#sprung8' target='_blank'>(2)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Behandlung",
+          "value": "Behandlung"
+        },
+        {
+          "label": "Statistiken",
+          "value": "Statistiken"
+        },
+        {
+          "label": "Risikogruppen",
+          "value": "Risikogruppen"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Schwangere scheinen der W H O und deren Daten aus China zufolge kein erhöhtes Risiko für einen schweren Krankheitsverlauf zu haben. Basierend auf den bisher vorliegenden wenigen Untersuchungen und Fallberichten aus China zu Immunreaktionen bei Neugeborenen kann eine Übertragung im Mutterleib nicht ausgeschlossen werden. In den meisten Fällen zeigen die Kinder Kowitt positiver Mütter nach der Geburt keine Krankheitszeichen. Bislang sind nur einzelne Fälle von Erkrankungen bei Neugeborenen beschrieben, die möglicherweise Folge einer Infektion im Mutterleib sind. Eine Übertragung auf das neugeborene Kind ist über den engen Kontakt und eine Tröpfcheninfektion möglich. Bisher gibt es keine Nachweise von SARS Koff 2 in der Muttermilch. Die Datenlage ist derzeit aber noch nicht ausreichend, um diese und andere Fragen zu Kowitt 19 in der Schwangerschaft sicher zu beantworten.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Schwangere scheinen der WHO und deren Daten aus China zufolge kein erhöhtes Risiko für einen schweren Krankheitsverlauf zu haben. Basierend auf den bisher vorliegenden wenigen Untersuchungen und Fallberichten aus China zu Immunreaktionen bei Neugeborenen kann eine Übertragung im Mutterleib nicht ausgeschlossen werden. In den meisten Fällen zeigen die Kinder COVID-positiver Mütter nach der Geburt keine Krankheitszeichen. Bislang sind nur einzelne Fälle von Erkrankungen bei Neugeborenen beschrieben, die möglicherweise Folge einer Infektion im Mutterleib sind. Eine Übertragung auf das neugeborene Kind ist über den engen Kontakt und eine Tröpfcheninfektion möglich. Bisher gibt es keine Nachweise von SARS-CoV-2 in der Muttermilch. Die Datenlage ist derzeit aber noch nicht ausreichend, um diese und andere Fragen zu COVID-19 in der Schwangerschaft sicher zu beantworten. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Behandlung",
+          "value": "Behandlung"
+        },
+        {
+          "label": "Dauer der Krankheit",
+          "value": "Dauer der Krankheit"
+        },
+        {
+          "label": "Krankheitsverlauf",
+          "value": "Krankheitsverlauf"
+        }
+      ]
+    }
+  ]
+}

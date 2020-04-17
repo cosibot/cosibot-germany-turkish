@@ -1,0 +1,105 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich bin Ihre Online-Assistentin und helfe Ihnen bei Fragen rund um das Thema Kowit neunzehn . Im Einzelnen unterstütze ich Sie, wenn Sie Fragen zum Virus allgemein, zu Schutzmaßnahmen, Reiseangelegenheiten, Mythen, zur Situation in Deutschland und weltweit, Statistiken, Quarantäne, Ausbreitung des Virus, Arbeitsrechtliche Fragen, oder zum Test haben. Unten finden Sie einige Vorschläge eingeblendet, falls Ihnen gerade keine Frage einfällt.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich bin Ihre Online-Assistentin und helfe Ihnen bei Fragen rund um das Thema Covid-19. Im Einzelnen unterstütze ich Sie, wenn Sie Fragen zum Virus allgemein, zu Schutzmaßnahmen, Reiseangelegenheiten, Mythen, zur Situation in Deutschland und weltweit, Quarantäne, Ausbreitung des Virus, oder zum Test haben. Unten finden Sie einige Vorschläge eingeblendet, falls Ihnen gerade keine Frage einfällt."
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Statistiken",
+          "value": "Statistiken"
+        },
+        {
+          "label": "Maßnahmen in Deutschland",
+          "value": "Maßnahmen in Deutschland"
+        },
+        {
+          "label": "Risikogruppe",
+          "value": "Risikogruppe"
+        },
+        {
+          "label": "Sterblichkeitsrate",
+          "value": "Sterblichkeitsrate"
+        },
+        {
+          "label": "Symptome",
+          "value": "Symptome"
+        },
+        {
+          "label": "Toilettenpapier",
+          "value": "Toilettenpapier"
+        },
+        {
+          "label": "Überlebenszeit der Viren auf Oberflächen",
+          "value": "Überlebenszeit der Viren auf Oberflächen"
+        },
+        {
+          "label": "Zu Hause bleiben",
+          "value": "Zu Hause bleiben"
+        },
+        {
+          "label": "Hotlines",
+          "value": "Hotlines"
+        },
+        {
+          "label": "Behandlung",
+          "value": "Behandlung"
+        },
+        {
+          "label": "Impfung",
+          "value": "Impfung"
+        },
+        {
+          "label": "Unterschied zur Influenza",
+          "value": "Unterschied zur Influenza"
+        },
+        {
+          "label": "Krankheitsverlauf",
+          "value": "Krankheitsverlauf"
+        },
+        {
+          "label": "Immunität",
+          "value": "Immunität"
+        },
+        {
+          "label": "Covid-19 bei Kindern und Babys",
+          "value": "Covid-19 bei Kindern und Babys"
+        },
+        {
+          "label": "Fake-News und Mythen",
+          "value": "Fake-News und Mythen"
+        },
+        {
+          "label": "Covid-19 und Ibuprofen",
+          "value": "Covid-19 und Ibuprofen"
+        },
+        {
+          "label": "Mundschutzmasken",
+          "value": "Mundschutzmasken"
+        },
+        {
+          "label": "Quarantäne",
+          "value": "Quarantäne"
+        },
+        {
+          "label": "Internetstörungen",
+          "value": "Internetstörungen"
+        },
+        {
+          "label": "Reiseangelegenheiten",
+          "value": "Reiseangelegenheiten"
+        },
+        {
+          "label": "Arbeitsrechtliches",
+          "value": "Arbeitsrechtliches"
+        }
+      ]
+    }
+  ]
+}

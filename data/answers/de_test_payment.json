@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Seit dem 28. Februar 2020 übernehmen die Krankenkassen die Testung auf das Coronavirus in einem weiten Umfang. Voraussetzung hierfür ist die Entscheidung des Arztes, ob eine Patientin, ein Patient getestet werden soll oder nicht.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Seit dem 28. Februar 2020 übernehmen die Krankenkassen die Testung auf das Coronavirus in einem weiten Umfang. Voraussetzung hierfür ist die Entscheidung des Arztes, ob eine Patientin, ein Patient getestet werden soll oder nicht. <a href='https://www.zusammengegencorona.de/informieren/informationen-zum-test/' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Coronavirus in Deutschland",
+          "value": "Coronavirus in Deutschland"
+        },
+        {
+          "label": "Dunkelziffern",
+          "value": "Dunkelziffern"
+        },
+        {
+          "label": "Covid-19 bei Kindern",
+          "value": "Covid-19 bei Kindern"
+        }
+      ]
+    }
+  ]
+}

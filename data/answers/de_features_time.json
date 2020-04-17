@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Es ist  13:28.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Es ist  13:28."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Laut des Handelsverbandes Deutschlands verhalten sich Kundinnen und Kunden irrational, weil sie aus Angst vor Warenknappheit Hamsterkäufe tätigen, die nicht erforderlich seien. Dies beinhaltet auch Toilettenpapier. Die Warenversorgung sei aber absolut sichergestellt. Oftmals kämen die Mitarbeiter einfach nicht hinterher, wieder schnell genug die Regale aufzufüllen. Da Toilettenpapier auch in Deutschland hergestellt wird, gäbe es ohenhin keine Versorgungsschwierigkeiten. Und nein: Der Coronavirus steckt nicht im Toilettenpapier.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Laut des Handelsverbandes Deutschlands verhalten sich Kundinnen und Kunden irrational, weil sie aus Angst vor Warenknappheit Hamsterkäufe tätigen, die nicht erforderlich seien. Dies beinhaltet auch Toilettenpapier. Die Warenversorgung sei aber absolut sichergestellt. Oftmals kämen die Mitarbeiter einfach nicht hinterher, wieder schnell genug die Regale aufzufüllen. Da Toilettenpapier auch in Deutschland hergestellt wird, gäbe es ohenhin keine Versorgungsschwierigkeiten. Und nein: Der Coronavirus steckt nicht im Toilettenpapier. <a href='https://www.deutschlandfunk.de/supermaerkte-die-warenversorgung-ist-absolut-sichergestellt.694.de.html?dram:article_id=472710' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Reiseangelegenheiten",
+          "value": "Reiseangelegenheiten"
+        },
+        {
+          "label": "Internetstörungen",
+          "value": "Internetstörungen"
+        },
+        {
+          "label": "Covid-19 und Alkohol",
+          "value": "Covid-19 und Alkohol"
+        }
+      ]
+    }
+  ]
+}

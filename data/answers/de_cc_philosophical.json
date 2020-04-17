@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich würde liebend gerne mit Ihnen über dieses Thema besprechen, aber ich muss noch viel in diesem Bereich lernen.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich würde liebend gerne mit Ihnen über dieses Thema besprechen, aber ich muss noch viel in diesem Bereich lernen."
+    }
+  ]
+}

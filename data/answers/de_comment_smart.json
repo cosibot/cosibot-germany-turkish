@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Danke! Es freut mich, dass Sie zufrieden sind.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Danke! Es freut mich, dass Sie zufrieden sind."
+    }
+  ]
+}

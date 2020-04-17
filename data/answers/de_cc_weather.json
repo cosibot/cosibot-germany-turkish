@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Das ist für mich schwierig zu sagen, denn ich lebe irgendwo in Ihrem Smartphone oder Computer.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Das ist für mich schwierig zu sagen, denn ich lebe irgendwo in Ihrem Smartphone oder Computer."
+    }
+  ]
+}

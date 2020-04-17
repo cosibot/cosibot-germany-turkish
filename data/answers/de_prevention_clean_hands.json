@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Richtiges Händewaschen erfordert sorgfältiges Vorgehen. Häufig werden die Hände beispielsweise nicht ausreichend lange eingeseift und insbesondere Handrücken, Daumen und Fingerspitzen vernachlässigt. Halten Sie die Hände zunächst unter fließendes Wasser. Seifen Sie dann die Hände gründlich ein – sowohl Handinnenflächen als auch Handrücken, Fingerspitzen, Fingerzwischenräume und Daumen. Denken Sie auch an die Fingernägel. Hygienischer als Seifenstücke sind Flüssigseifen. Gründliches Händewaschen dauert 20 bis 30 Sekunden. Danach die Hände unter fließendem Wasser abspülen. Trocknen Sie anschließend die Hände sorgfältig ab, auch in den Fingerzwischenräumen. In öffentlichen Toiletten eignen sich hierfür am besten Einmalhandtücher. Zu Hause sollte jeder sein persönliches Handtuch benutzen.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Richtiges Händewaschen erfordert sorgfältiges Vorgehen. Häufig werden die Hände beispielsweise nicht ausreichend lange eingeseift und insbesondere Handrücken, Daumen und Fingerspitzen vernachlässigt. Halten Sie die Hände zunächst unter fließendes Wasser. Seifen Sie dann die Hände gründlich ein – sowohl Handinnenflächen als auch Handrücken, Fingerspitzen, Fingerzwischenräume und Daumen. Denken Sie auch an die Fingernägel. Hygienischer als Seifenstücke sind Flüssigseifen. Gründliches Händewaschen dauert 20 bis 30 Sekunden. Danach die Hände unter fließendem Wasser abspülen. Trocknen Sie anschließend die Hände sorgfältig ab, auch in den Fingerzwischenräumen. In öffentlichen Toiletten eignen sich hierfür am besten Einmalhandtücher. Zu Hause sollte jeder sein persönliches Handtuch benutzen. <a href='https://www.infektionsschutz.de/haendewaschen/' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Ansteckungsgefahr",
+          "value": "Ansteckungsgefahr"
+        },
+        {
+          "label": "Desinfektionsmittel",
+          "value": "Desinfektionsmittel"
+        },
+        {
+          "label": "Behandlung",
+          "value": "Behandlung"
+        }
+      ]
+    }
+  ]
+}

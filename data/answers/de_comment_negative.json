@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Es tut mir leid, ich bin noch dabei, zu lernen.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Es tut mir leid, ich bin noch dabei, zu lernen."
+    }
+  ]
+}

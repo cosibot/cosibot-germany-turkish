@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich ziehe Gehirnsport vor!</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich ziehe Gehirnsport vor!"
+    }
+  ]
+}

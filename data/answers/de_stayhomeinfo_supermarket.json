@@ -1,0 +1,25 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Um Ihnen eine genaue Antwort darüber geben zu können, teilen Sie mir bitte mit, ob bei Ihnen Heimquarantäne angeordnet wurde, weil Sie infiziert sind oder bei Ihnen Verdacht auf eine Infektion besteht.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Um Ihnen eine genaue Antwort darüber geben zu können, teilen Sie mir bitte mit, ob bei Ihnen Heimquarantäne angeordnet wurde, weil Sie infiziert sind oder bei Ihnen Verdacht auf eine Infektion besteht.</p>"
+    },
+    {
+      "type": "multichoice",
+      "options": [
+        {
+          "label": "Ja",
+          "value": "Ja"
+        },
+        {
+          "label": "Nein",
+          "value": "Nein"
+        }
+      ]
+    }
+  ]
+}

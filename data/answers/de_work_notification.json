@@ -1,0 +1,38 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Es gibt grundsätzlich keine Pflicht, dem Arbeitgeber oder den Arbeitskollegen die ärztliche Diagnose offenzulegen. Der oder die Beschäftigte ist lediglich verpflichtet, dem Arbeitgeber die eigene Arbeitsunfähigkeit anzuzeigen und ihre voraussichtliche Dauer mittels Attest nachzuweisen.  Auf der Seite des Bundesministeriums für Arbeit und Soziales finden Sie weitere relevante Fragestellungen zum Thema Arbeitsrecht und Kowitt 19.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Es gibt grundsätzlich keine Pflicht, dem Arbeitgeber oder den Arbeitskollegen die ärztliche Diagnose offenzulegen. Der oder die Beschäftigte ist lediglich verpflichtet, dem Arbeitgeber die eigene Arbeitsunfähigkeit anzuzeigen und ihre voraussichtliche Dauer mittels Attest nachzuweisen.  Auf der Seite des Bundesministeriums für Arbeit und Soziales finden Sie weitere relevante Fragestellungen zum Thema Arbeitsrecht und Covid-19. <a href='https://www.bmas.de/DE/Presse/Meldungen/2020/corona-virus-arbeitsrechtliche-auswirkungen.html' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Bundesministerium für Arbeit und Soziales",
+          "url": "https://www.bmas.de/DE/Presse/Meldungen/2020/corona-virus-arbeitsrechtliche-auswirkungen.html"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Anspruch auf Homeoffice",
+          "value": "Anspruch auf Homeoffice"
+        },
+        {
+          "label": "Kurzarbeitergeld und Covit-19",
+          "value": "Kurzarbeitergeld und Covit-19"
+        },
+        {
+          "label": "Arbeitsrecht bei Ausfall öffentlicher Verkehrsmittel",
+          "value": "Arbeitsrecht bei Ausfall öffentlicher Verkehrsmittel"
+        }
+      ]
+    }
+  ]
+}

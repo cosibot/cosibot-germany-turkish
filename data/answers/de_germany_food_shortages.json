@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die Versorgungslage in Deutschland ist gut und es gibt keine Lieferengpässe. Regale werden permanent aufgefüllt. Sollten bestimmte Waren wie Toilettenpapier oder Mehl vorübergehend nicht verfügbar sein, so liegt das daran, dass andere vor Ihnen mehr gekauft haben, als sie tatsächlich benötigen. Auch bei diesen Artikeln gibt es keine Lieferengpässe und sie werden stetig nachgeliefert. Hamsterkäufe führen auch dazu, dass dringend benötigte Dinge des Alltags in einigen Geschäften schwerer verfügbar sind.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Die Versorgungslage in Deutschland ist gut und es gibt keine Lieferengpässe. Regale werden permanent aufgefüllt. Sollten bestimmte Waren wie Toilettenpapier oder Mehl vorübergehend nicht verfügbar sein, so liegt das daran, dass andere vor Ihnen mehr gekauft haben, als sie tatsächlich benötigen. Auch bei diesen Artikeln gibt es keine Lieferengpässe und sie werden stetig nachgeliefert. Hamsterkäufe führen auch dazu, dass dringend benötigte Dinge des Alltags in einigen Geschäften schwerer verfügbar sind. <a href='https://www.zusammengegencorona.de/informieren/zuhause-bleiben/' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Grenzen zu Nachbarländern",
+          "value": "Grenzen zu Nachbarländern"
+        },
+        {
+          "label": "Quarantäne",
+          "value": "Quarantäne"
+        },
+        {
+          "label": "Hotlines",
+          "value": "Hotlines"
+        }
+      ]
+    }
+  ]
+}

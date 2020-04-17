@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Basierend auf bundeseinheitlichen Kriterien wird nach einem mehrtägigem Auslandsaufenthalt grundsätzlich eine verbindliche 14-tägige Quarantäne angeordnet. Das gilt auch für Deutsche. Bisher wurden Rückkehrer aus Risikogebieten lediglich gebeten, sich 14 Tage zu Hause aufzuhalten und unnötige Kontakte zu vermeiden - unabhängig davon, ob ein konkreter Corona-Verdachtsfall vorliegt. Aufgrund der pandemischen Ausbreitung von Kowitt 19 ist weltweit von einem Infektionsrisiko auszugehen. Das R K I weist daher keine besonders betroffenen Risikogebiete mehr aus. Fluggäste und Schiffspassagiere sind verpflichtet, Identität, Reiseroute und Kontaktdaten weiterzugeben. Die jeweiligen Beförderer müssen diese sammeln und an die zuständigen Behörden übermitteln. Dies erfolgt per Aussteigekarte und dient der Nachverfolgung von Kontaktpersonen.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Basierend auf bundeseinheitlichen Kriterien wird nach einem mehrtägigem Auslandsaufenthalt grundsätzlich eine verbindliche 14-tägige Quarantäne angeordnet. Das gilt auch für Deutsche. <br><br>Bisher wurden Rückkehrer aus Risikogebieten lediglich gebeten, sich 14 Tage zu Hause aufzuhalten und unnötige Kontakte zu vermeiden - unabhängig davon, ob ein konkreter Corona-Verdachtsfall vorliegt. Aufgrund der pandemischen Ausbreitung von COVID-19 ist weltweit von einem Infektionsrisiko auszugehen. Das RKI weist daher keine besonders betroffenen Risikogebiete mehr aus.<br><br>Fluggäste und Schiffspassagiere sind verpflichtet, Identität, Reiseroute und Kontaktdaten weiterzugeben. Die jeweiligen Beförderer müssen diese sammeln und an die zuständigen Behörden übermitteln. Dies erfolgt per Aussteigekarte und dient der Nachverfolgung von Kontaktpersonen. <a href='https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-regelungen-1735032' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Wirtschaftliche Folgen",
+          "value": "Wirtschaftliche Folgen"
+        },
+        {
+          "label": "Reiseabbruch",
+          "value": "Reiseabbruch"
+        },
+        {
+          "label": "Rückholprogramm",
+          "value": "Rückholprogramm"
+        }
+      ]
+    }
+  ]
+}

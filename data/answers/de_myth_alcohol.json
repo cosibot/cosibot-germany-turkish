@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Durch das Einreiben oder Einsprühen des Körpers mit Alkohol oder Chlor werden keine Viren getötet, die schon in den Körper eingedrungen sind. Im Gegenteil könnten dadurch sogar Schleimhäute und Haut geschädigt werden. Für die Reinigung von Oberflächen sind Alkohol oder Chlor bei sachgerechter Anwendung hingegen geeignet.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Durch das Einreiben oder Einsprühen des Körpers mit Alkohol oder Chlor werden keine Viren getötet, die schon in den Körper eingedrungen sind. Im Gegenteil könnten dadurch sogar Schleimhäute und Haut geschädigt werden. Für die Reinigung von Oberflächen sind Alkohol oder Chlor bei sachgerechter Anwendung hingegen geeignet. <a href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Übertragung durch Mücken",
+          "value": "Übertragung durch Mücken"
+        },
+        {
+          "label": "Covid-19 und Sesamöl",
+          "value": "Covid-19 und Sesamöl"
+        },
+        {
+          "label": "Fake-News",
+          "value": "Fake-News"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Religion ist zwar ein Interessantes Thema, jedoch befasse ich mich nicht sehr damit.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Religion ist zwar ein Interessantes Thema, jedoch befasse ich mich nicht sehr damit."
+    }
+  ]
+}

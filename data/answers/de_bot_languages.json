@@ -1,0 +1,25 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich spreche nur Deutsch, aber ich habe Kolleginnen, die Englisch und Portugiesisch sprechen. Die Links dazu finden Sie eingeblendet.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich spreche nur Deutsch, aber ich habe Kolleginnen, die Englisch und Portugiesisch sprechen. Die Links dazu finden Sie eingeblendet."
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Cosibot Englisch-International",
+          "url": "https://cosibot.org/"
+        },
+        {
+          "title": "Cosibot Portugiesisch",
+          "url": "https://cosibot.org/"
+        }
+      ]
+    }
+  ]
+}

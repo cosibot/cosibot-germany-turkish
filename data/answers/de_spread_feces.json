@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ob Viren über den Stuhlgang übertragen werden können ist nicht hinreichend erforscht. Man geht derzeit davon aus, dass sich das Virus vor allem über Schmier- und Tröpfcheninfektion überträgt.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Ob Viren über den Stuhlgang übertragen werden können ist nicht hinreichend erforscht. Man geht derzeit davon aus, dass sich das Virus vor allem über Schmier- und Tröpfcheninfektion überträgt. <a href='https://www.zusammengegencorona.de/informieren/basiswissen-uebertragung/' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Schutzmaßnahmen",
+          "value": "Schutzmaßnahmen"
+        },
+        {
+          "label": "Kostenübernahme Test",
+          "value": "Kostenübernahme Test"
+        },
+        {
+          "label": "Mundschutz",
+          "value": "Mundschutz"
+        }
+      ]
+    }
+  ]
+}

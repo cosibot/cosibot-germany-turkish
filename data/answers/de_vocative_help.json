@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Natürlich! Was kann ich für Sie tun?</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Natürlich! Was kann ich für Sie tun?"
+    }
+  ]
+}

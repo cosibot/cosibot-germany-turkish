@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Es ist äußerst ratsam, regelmäßig die Nachrichten zu überprüfen. Informieren Sie sich über die neuesten Informationen zum Kowit 19 Ausbruch auf der Website der World Health Organization, des Bundesgesundheitsministeriums, oder des Robert Koch Instituts. Die Links dazu finden Sie eingeblendet.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Es ist äußerst ratsam, regelmäßig die Nachrichten zu überprüfen. Informieren Sie sich über die neuesten Informationen zum Covid-19 Ausbruch auf der Website der World Health Organization, des Bundesgesundheitsministeriums, oder des Robert Koch Instituts. Die Links dazu finden Sie eingeblendet. <a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Bundesgesundheitsministerium",
+          "url": "https://www.bundesgesundheitsministerium.de/coronavirus.html#c17571"
+        },
+        {
+          "title": "Robert Koch Institut",
+          "url": "https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html"
+        },
+        {
+          "title": "World Health Organization",
+          "url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Falschmeldungen",
+          "value": "Falschmeldungen"
+        },
+        {
+          "label": "Wirtschaftliche Folgen",
+          "value": "Wirtschaftliche Folgen"
+        },
+        {
+          "label": "Händewaschen",
+          "value": "Händewaschen"
+        }
+      ]
+    }
+  ]
+}

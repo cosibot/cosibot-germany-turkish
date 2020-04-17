@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Vielen Dank, ich weiß Ihr Kompliment zu schätzen.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Vielen Dank, ich weiß Ihr Kompliment zu schätzen."
+    }
+  ]
+}

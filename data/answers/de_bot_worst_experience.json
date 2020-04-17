@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Meine schlimmste Erfahrung war, als man versucht hat, mich zu löschen.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Meine schlimmste Erfahrung war, als man versucht hat, mich zu löschen."
+    }
+  ]
+}

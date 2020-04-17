@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>In meiner Freizeit befasse ich mich am liebsten mit Gesundheitsthemen :)</speak>"
+    },
+    {
+      "type": "text",
+      "text": "In meiner Freizeit befasse ich mich am liebsten mit Gesundheitsthemen :)"
+    }
+  ]
+}

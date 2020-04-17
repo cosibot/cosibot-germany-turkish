@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Wenn eine an einer Atemwegsinfektion erkrankte Person einen Mund-Nasen-Schutz trägt, kann das Risiko einer Ansteckung anderer Personen vermindert werden, da Tröpfchen, die beim Husten oder Niesen entstehen, zurückgehalten werden. Dass bei gesunden Personen das Tragen eines Mund-Nasen-Schutzes das Risiko einer Ansteckung vermindert, ist nicht bewiesen. Die Meinungen, ob das Tragen einer Maske tatsächlich die Ausbreitung des Virus abbremsen kann, sind gespalten. Die Weltgesundheitsorganisation z.B. sieht keinen Nutzen im allgemeinen Mundschutztragen. Vielmehr gebe es zusätzliche Risiken, wenn Menschen die Masken falsch abnehmen und sich dabei womöglich infizieren. Sie rät daher davon ab, Mundschutz zu tragen, wenn man nicht selbst krank ist. Auch der Chef der Kassenärztlichen Bundesvereinigung hält die Maßnahme für reine Symbolpolitik. Die Maske vermittele eine trügerische Sicherheit, helfe aber so gut wie gar nicht. Virologen hingegen meinen, aus Hongkong wisse man, dass das Tragen einer Maske in Kombination mit anderen Verhaltensregeln erheblich dazu beitragen könne, die Krankheit unter Kontrolle zu halten. Und der Präsident des Robert Koch Instituts betont, auch ein selbstgebauter Schutz halte Tröpfchen zurück, wenn man huste und niese. </speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Wenn eine an einer Atemwegsinfektion erkrankte Person einen Mund-Nasen-Schutz trägt, kann das Risiko einer Ansteckung anderer Personen vermindert werden, da Tröpfchen, die beim Husten oder Niesen entstehen, zurückgehalten werden. Dass bei gesunden Personen das Tragen eines Mund-Nasen-Schutzes das Risiko einer Ansteckung vermindert, ist nicht bewiesen. Die Meinungen, ob das Tragen einer Maske tatsächlich die Ausbreitung des Virus abbremsen kann, sind gespalten.<br>Die Weltgesundheitsorganisation z.B. sieht keinen Nutzen im allgemeinen Mundschutztragen. Vielmehr gebe es zusätzliche Risiken, wenn Menschen die Masken falsch abnehmen und sich dabei womöglich infizieren. Sie rät daher davon ab, Mundschutz zu tragen, wenn man nicht selbst krank ist. Auch der Chef der Kassenärztlichen Bundesvereinigung hält die Maßnahme für reine Symbolpolitik. Die Maske vermittele eine trügerische Sicherheit, helfe aber so gut wie gar nicht.<br> Virologen hingegen meinen, aus Hongkong wisse man, dass das Tragen einer Maske in Kombination mit anderen Verhaltensregeln erheblich dazu beitragen könne, die Krankheit unter Kontrolle zu halten. Und der Präsident des Robert Koch Instituts betont, auch ein selbstgebauter Schutz halte Tröpfchen zurück, wenn man huste und niese. <a href='https://www.zusammengegencorona.de/informieren/praevention/' target='_blank'>(1)</a> <a href='https://www.zdf.de/nachrichten/politik/blog-coronavirus-102.html' target='_blank'>(2)</a>  <a href='https://www.tagesschau.de/inland/corona-deutschland-mundschutz-101.html' target='_blank'>(3)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Mundschutz im Supermarkt",
+          "value": "Mundschutz im Supermarkt"
+        },
+        {
+          "label": "FFP3 Masken",
+          "value": "FFP3 Masken"
+        },
+        {
+          "label": "Schnelltest",
+          "value": "Schnelltest"
+        }
+      ]
+    }
+  ]
+}

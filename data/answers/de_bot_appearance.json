@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die meisten Leute sagen, dass ich sympathisch aussehe.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Die meisten Leute sagen, dass ich sympathisch aussehe."
+    }
+  ]
+}

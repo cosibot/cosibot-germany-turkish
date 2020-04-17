@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Im Folgenden finden Sie eine Auflistung aller Quellen, die für diesen virtuellen Assistenten verwendet worden sind.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Im Folgenden finden Sie eine Auflistung aller Quellen, die für diesen virtuellen Assistenten verwendet worden sind.<br><a href='https://www.bundesgesundheitsministerium.de/' target='_blank'>Bundesgesundheitsministerium (BGM)</a><br> <a href='https://www.zusammengegencorona.de/informieren/' target='_blank'>BGM - Zusammen gegen Corona</a><br> <a href='https://www.rki.de/DE/Home/homepage_node.html' target='_blank'>Robert Koch Institut</a><br> <a href='https://www.bmi.bund.de/DE/startseite/startseite-node.html' target='_blank'>Bundesministerium des Innern, für Bau und Heimat</a><br> <a href='https://www.bahn.de/p/view/home/info/corona_startseite_bahnde.shtml' target='_blank'>Deutsche Bahn</a><br> <a href='https://www.bundesregierung.de/breg-de' target='_blank'>Die Bundesregierung</a><br> <a href='https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Haeufig-gestellte-Fragen.html' target='_blank'>Österreichisches Sozialministerium</a><br> <a href='https://www.ndr.de/' target='_blank'>NDR</a><br> <a href='https://www.dzif.de/de' target='_blank'>Deutsches Zentrum für Infektionsforschung</a><br> <a href='https://www.who.int/' target='_blank'>World Health Organization (WHO)</a><br> <a href='https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6' target='_blank'>Johns Hopkins University</a><br> <a href='https://www.mdr.de/home/index.html' target='_blank'>MDR</a><br> <a href='https://unric.org/de/' target='_blank'>Vereinte Nationen</a><br> <a href='https://www.bzga.de/' target='_blank'>Bundeszentrale für gesundheitliche Aufklärung</a><br> <a href='https://www.auswaertiges-amt.de/de/' target='_blank'>Auswärtiges Amt</a><br> <a href='https://www.dw.com/de/themen/s-9077' target='_blank'>Deutsche Welle</a><br> <a href='https://www.tagesschau.de/' target='_blank'>Tagesschau</a><br> <a href='https://www.evz.de/' target='_blank'>Europäisches Verbraucherzentrum Deutschland</a><br> <a href='https://www.bmas.de/DE/Startseite/start.html' target='_blank'>Bundesministerium für Arbeit und Soziales</a><br> <a href='https://www.bmwi.de/Navigation/DE/Home/home.html' target='_blank'>Bundesministerium für Wirtschaft und Energie</a><br> <a href='https://www.krebsinformationsdienst.de' target='_blank'>Deutsches Krebsforschungszentrum</a><br> <a href='https://www.unicef.de' target='_blank'>UNICEF</a><br> <a href='https://www.krebsinformationsdienst.de' target='_blank'>Krebsinformationsdienst</a><br> <a href='https://www.deutschlandfunk.de/' target='_blank'>Deutschlandfunk</a><br> <a href='https://www.bfr.bund.de/de/start.html' target='_blank'>Bundesinstitut für Risikobewertung</a><br>Zuletzt aktualisiert: 26.03.2020 </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Situation in anderen Ländern",
+          "value": "Situation in anderen Ländern"
+        },
+        {
+          "label": "Internetstörungen",
+          "value": "Internetstörungen"
+        },
+        {
+          "label": "Welche Geschäfte geöffnet",
+          "value": "Welche Geschäfte geöffnet"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Über welches der Themen in Bezug auf Arbeitsrecht und Kowitt 19 würden Sie gern mehr erfahren? Kleiner Tipp. Sollte das Thema, wonach Sie suchen, hier nicht zu finden sein, schlage ich Ihnen vor, auch einen Blick auf die Seite des Bundesministeriums für Arbeit und Soziales sowie auf die Seite von verdi zu werfen. Die Links dazu finden Sie eingeblendet.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Über welches der Themen in Bezug auf Arbeitsrecht und Covid-19 würden Sie gern mehr erfahren? Kleiner Tipp: Sollte das Thema, wonach Sie suchen, hier nicht zu finden sein, schlage ich Ihnen vor, auch einen Blick auf die Seite des Bundesministeriums für Arbeit und Soziales sowie auf die Seite von ver.di zu werfen. Die Links dazu finden Sie eingeblendet.</p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Bundesministerium für Arbeit und Soziales",
+          "url": "https://www.bmas.de/DE/Presse/Meldungen/2020/corona-virus-arbeitsrechtliche-auswirkungen.html"
+        },
+        {
+          "title": "FAQs ver.di",
+          "url": "https://www.verdi.de/themen/recht-datenschutz/++co++37f4d360-58b0-11ea-8408-525400b665de"
+        }
+      ]
+    },
+    {
+      "type": "multichoice",
+      "options": [
+        {
+          "label": "Kurzarbeitergeld und Covit-19",
+          "value": "Kurzarbeitergeld und Covit-19"
+        },
+        {
+          "label": "Anspruch auf Homeoffice",
+          "value": "Anspruch auf Homeoffice"
+        },
+        {
+          "label": "Infiziert als Arbeitnehmer",
+          "value": "Infiziert als Arbeitnehmer"
+        },
+        {
+          "label": "Arbeitsrecht bei Ausfall öffentlicher Verkehrsmittel",
+          "value": "Arbeitsrecht bei Ausfall öffentlicher Verkehrsmittel"
+        },
+        {
+          "label": "Entgeldanspruch und Covit-19",
+          "value": "Entgeldanspruch und Covit-19"
+        },
+        {
+          "label": "Mitteilungspflicht an Arbeitgeber als Infizierter",
+          "value": "Mitteilungspflicht an Arbeitgeber als Infizierter"
+        }
+      ]
+    }
+  ]
+}

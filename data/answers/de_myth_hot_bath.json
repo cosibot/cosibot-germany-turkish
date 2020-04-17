@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ein heißes Bad kann die Übertragung nicht verhindern. Gründliches Händewaschen mit Seife und die Vermeidung, sich an Augen, Nase und Mund zu fassen, sind hingegen wichtig, um das Risiko einer Ansteckung zu senken.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Ein heißes Bad kann die Übertragung nicht verhindern. Gründliches Händewaschen mit Seife und die Vermeidung, sich an Augen, Nase und Mund zu fassen, sind hingegen wichtig, um das Risiko einer Ansteckung zu senken. <a href='https://www.bmbf.de/de/faktencheck-zum-coronavirus-11162.html' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Übertragung durch Mücken",
+          "value": "Übertragung durch Mücken"
+        },
+        {
+          "label": "Covid-19 und Sesamöl",
+          "value": "Covid-19 und Sesamöl"
+        },
+        {
+          "label": "Fake-News",
+          "value": "Fake-News"
+        }
+      ]
+    }
+  ]
+}

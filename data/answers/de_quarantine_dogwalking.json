@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Mit dem Virus infizierte Personen dürfen die Quarantäne nicht verlassen. Das bedeutet auch, dass sie nicht mit dem Hund auf die Straße oder in Parks gehen sollten. Hat die Person jedoch ein eigenes Haus, dann darf sie sich mit dem Hund auf Ihrem Grundstück bewegen. Soziale Kontakte dürfen aber auch in diesem Fall nicht wahrgenommen werden. Bei nicht infizierten Personen sind Spaziergänge mit dem Hund erlaubt. Halten Sie draußen mindestens ein bis zwei Meter Abstand zu anderen Menschen.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Mit dem Virus infizierte Personen dürfen die Quarantäne nicht verlassen. Das bedeutet auch, dass sie nicht mit dem Hund auf die Straße oder in Parks gehen sollten. Hat die Person jedoch ein eigenes Haus, dann darf sie sich mit dem Hund auf Ihrem Grundstück bewegen. Soziale Kontakte dürfen aber auch in diesem Fall nicht wahrgenommen werden. Bei nicht infizierten Personen sind Spaziergänge mit dem Hund erlaubt. Halten Sie draußen mindestens 1-2 Meter Abstand zu anderen Menschen. <a href='https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Haeufig-gestellte-Fragen.html' target='_blank'>(1)</a> <a href='https://www.zusammengegencorona.de/informieren/zuhause-bleiben/' target='_blank'>(2)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Zuhause bleiben – Einkäufe erledigen",
+          "value": "Zuhause bleiben – Einkäufe erledigen"
+        },
+        {
+          "label": "Händewaschen",
+          "value": "Händewaschen"
+        },
+        {
+          "label": "Schnelltest",
+          "value": "Schnelltest"
+        }
+      ]
+    }
+  ]
+}

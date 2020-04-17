@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ob beim Naseputzen, beim Toilettengang, beim Streicheln eines Tieres oder beim Anfassen von Objekten. Die Hände kommen häufig mit Keimen in Kontakt. Beim Händeschütteln oder über gemeinsam benutzte Gegenstände können Krankheitserreger auch leicht von Hand zu Hand gelangen. Berührt man mit den Händen dann das Gesicht, können die Erreger über die Schleimhäute von Mund, Nase oder Augen in den Körper eindringen und eine Infektion auslösen. Händewaschen unterbricht diesen Übertragungsweg. Steht unterwegs keine Waschmöglichkeit zur Verfügung, sollten Sie zumindest vermeiden, mit den Händen Mund, Augen oder Nase zu berühren oder Speisen mit der Hand zu essen. Wenn Sie diese Maßnahmen beachten, ist das Tragen von Handschuhen nicht nötig.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Ob beim Naseputzen, beim Toilettengang, beim Streicheln eines Tieres oder beim Anfassen von Objekten. Die Hände kommen häufig mit Keimen in Kontakt. Beim Händeschütteln oder über gemeinsam benutzte Gegenstände können Krankheitserreger auch leicht von Hand zu Hand gelangen. Berührt man mit den Händen dann das Gesicht, können die Erreger über die Schleimhäute von Mund, Nase oder Augen in den Körper eindringen und eine Infektion auslösen. Händewaschen unterbricht diesen Übertragungsweg. Steht unterwegs keine Waschmöglichkeit zur Verfügung, sollten Sie zumindest vermeiden, mit den Händen Mund, Augen oder Nase zu berühren oder Speisen mit der Hand zu essen. Wenn Sie diese Maßnahmen beachten, ist das Tragen von Handschuhen nicht nötig. <a href='https://www.infektionsschutz.de/haendewaschen/' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Zuhause bleiben",
+          "value": "Zuhause bleiben"
+        },
+        {
+          "label": "Abstand halten",
+          "value": "Abstand halten"
+        },
+        {
+          "label": "Desinfektionsmittel",
+          "value": "Desinfektionsmittel"
+        }
+      ]
+    }
+  ]
+}

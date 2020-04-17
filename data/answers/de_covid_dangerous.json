@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die meisten Menschen, die sich mit dem neuen Coronavirus SARS Koff 2 infizieren, erkranken nicht schwer. Sie zeigen beispielsweise Erkältungssymptome, leiden zumeist aber nicht unter Atemnot und bekommen keine Lungenentzündung. Bei rund 20 Prozent der Erkrankten verläuft die Erkrankung hingegen anders. Wer zur Risikogruppe gehört, wird mit größerer Wahrscheinlichkeit schwer an Kowitt 19 erkranken, das heißt, mit größerer Wahrscheinlichkeit eine Lungenentzündung bekommen, ins Krankenhaus müssen oder sogar an der Krankheit sterben. Betroffen sind vor allem alte Menschen und Menschen mit Vorerkrankungen, also Herz-Kreislauf-Erkrankungen, Diabetes, Lebererkrankungen, Krebs, Asthma, Autoimmunerkrankungen, Pollenallergien.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Die meisten Menschen, die sich mit dem neuen Coronavirus SARS-CoV-2 infizieren, erkranken nicht schwer. Sie zeigen beispielsweise Erkältungssymptome, leiden zumeist aber nicht unter Atemnot und bekommen keine Lungenentzündung. Bei rund 20 Prozent der Erkrankten verläuft die Erkrankung hingegen anders. Wer zur Risikogruppe gehört, wird mit größerer Wahrscheinlichkeit schwer an Covid-19 erkranken, das heißt, mit größerer Wahrscheinlichkeit eine Lungenentzündung bekommen, ins Krankenhaus müssen oder sogar an der Krankheit sterben. Betroffen sind vor allem alte Menschen und Menschen mit Vorerkrankungen, also Herz-Kreislauf-Erkrankungen, Diabetes, Lebererkrankungen, Krebs, Asthma, Autoimmunerkrankungen, Pollenallergien. <a href='https://www.tagesschau.de/faktenfinder/corona-risikogruppen-101.html' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Ursprung des Virus",
+          "value": "Ursprung des Virus"
+        },
+        {
+          "label": "Behandlung",
+          "value": "Behandlung"
+        },
+        {
+          "label": "Inkubationszeit",
+          "value": "Inkubationszeit"
+        }
+      ]
+    }
+  ]
+}

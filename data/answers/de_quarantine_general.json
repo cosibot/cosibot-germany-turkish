@@ -1,0 +1,33 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Eine Quarantäne bedeutet eine vorübergehende behördlich angeordnete Isolierung einer möglicherweise oder tatsächlich infizierten Person, um die Ausbreitung eines Virus verhindern zu können. Dies geschieht über die maximale Dauer der Inkubationszeit. Im Falle des SARS Koff 2 also maximal vierzehn Tage. Die Quarantäne kann sich auf einzelne Personen in deren häuslichen Bereich beschränken oder auch die Bevölkerung einer ganzen Region betreffen, wie beispielsweise aktuell in Italien. Möchten Sie mehr darüber erfahren, wann man in Quarantäne muss, wie die Quarantäne funktioniert, was man darf und was man nicht darf, oder wer sie kontrolliert?</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Eine Quarantäne bedeutet eine vorübergehende behördlich angeordnete Isolierung einer möglicherweise oder tatsächlich infizierten Person, um die Ausbreitung eines Virus verhindern zu können. Dies geschieht über die maximale Dauer der Inkubationszeit – im Falle des SARS-CoV-2 also maximal vierzehn Tage. Die Quarantäne kann sich auf einzelne Personen in deren häuslichen Bereich beschränken oder auch die Bevölkerung einer ganzen Region betreffen, wie beispielsweise aktuell in Italien. Möchten Sie mehr darüber erfahren, wann man in Quarantäne muss, wie die Quarantäne funktioniert, was man darf und was man nicht darf, oder wer sie kontrolliert? <a href='https://www.zusammengegencorona.de/informieren/informationen-alltag/' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Quarantäne – wer, wann und wie lange",
+          "value": "Quarantäne – wer, wann und wie lange"
+        },
+        {
+          "label": "Quarantäne – Verhaltensregeln",
+          "value": "Quarantäne – Verhaltensregeln"
+        },
+        {
+          "label": "Quarantäne – Was geht und was geht nicht",
+          "value": "Quarantäne – Was geht und was geht nicht"
+        },
+        {
+          "label": "Quarantäne – Kontrolle",
+          "value": "Quarantäne – Kontrolle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die Zahl der Infektionen mit dem Coronavirus steigt auch in Deutschland. Wie sich die aktuellen Fallzahlen auf die Bundesländer verteilen, zeigen die interaktiven Coronavirus-Karten von tagesschau D E, die Sie unter dem eingeblendeten Link finden. Jeder Klick auf einen Staat liefert Zahlen zu den dortigen Infektionsfällen. Bei den Zahlen für Deutschland ergeben sich durch die unterschiedlichen Quellen und Aktualisierungszeitpunkte Abweichungen zwischen den Angaben der Johns Hopkins University und des Robert Koch-Instituts. </speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Die Zahl der Infektionen mit dem Coronavirus steigt auch in Deutschland. Wie sich die aktuellen Fallzahlen auf die Bundesländer verteilen, zeigen die interaktiven Coronavirus-Karten von tagesschau.de, die Sie unter dem eingeblendeten Link finden. Jeder Klick auf einen Staat liefert Zahlen zu den dortigen Infektionsfällen. Bei den Zahlen für Deutschland ergeben sich durch die unterschiedlichen Quellen und Aktualisierungszeitpunkte Abweichungen zwischen den Angaben der Johns Hopkins University und des Robert Koch-Instituts. <a href='https://www.tagesschau.de/ausland/coronavirus-karte-101.html' target='_blank'>(1)</a> <a href='https://www.tagesschau.de/inland/coronavirus-karte-deutschland-101.html' target='_blank'>(2)</a></p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Coronavirus-Ausbreitung in Deutschland",
+          "url": "https://www.tagesschau.de/inland/coronavirus-karte-deutschland-101.html"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Schnelltest",
+          "value": "Schnelltest"
+        },
+        {
+          "label": "Aktuelle Lage in Deutschland",
+          "value": "Aktuelle Lage in Deutschland"
+        },
+        {
+          "label": "Maßnahmen in Deutschland",
+          "value": "Maßnahmen in Deutschland"
+        }
+      ]
+    }
+  ]
+}

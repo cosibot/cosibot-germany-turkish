@@ -1,0 +1,38 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Am 16.03. wurden vorübergehende Grenzkontrollen eingeführt. Die Kontrollen an den Binnengrenzen zu Österreich, der Schweiz, Frankreich, Luxemburg und Dänemark gelten zunächst bis zum 26. März 2020. Aktuelle Informationen entnehmen Sie bitte der Seite des Bundesministeriums des Innern, Bau und Heimat. Den Link dazu finden Sie eingeblendet.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Am 16.03. wurden vorübergehende Grenzkontrollen eingeführt. Die Kontrollen an den Binnengrenzen zu Österreich, der Schweiz, Frankreich, Luxemburg und Dänemark gelten zunächst bis zum 26. März 2020. Aktuelle Informationen entnehmen Sie bitte der Seite des Bundesministeriums des Innern, Bau und Heimat. Den Link dazu finden Sie eingeblendet. <a href='https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/bevoelkerungsschutz/coronavirus/coronavirus-faqs.html#doc13738352bodyText3' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Bundesministerium des Innern, Bau und Heimat",
+          "url": "https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/bevoelkerungsschutz/coronavirus/coronavirus-faqs.html#doc13738352bodyText3"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Grenzen zu Nachbarländern",
+          "value": "Grenzen zu Nachbarländern"
+        },
+        {
+          "label": "Quarantäne",
+          "value": "Quarantäne"
+        },
+        {
+          "label": "Hotlines",
+          "value": "Hotlines"
+        }
+      ]
+    }
+  ]
+}

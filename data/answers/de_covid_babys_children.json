@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Da es sich um ein neuartiges Virus handelt, kann laut UNICEF zur Zeit noch nicht gesagt werden, welche Folgen es für schwangere Frauen, Neugeborene und Kinder hat. Es ist bekannt, dass sich Menschen jeden Alters mit dem Virus infizieren können. Bis heute wurden jedoch relativ wenig Fälle von Kowitt 19 bei Kindern gemeldet. Tödlich ist das Virus nur in seltenen Fällen – bisher vor allem bei älteren Menschen mit bereits bestehenden Vorerkrankungen. Zurzeit gibt es ebenfalls noch nicht genügend Erkenntnisse darüber, ob das Coronavirus bereits vor der Geburt Folgen für ungeborene Babys im Mutterleib haben kann.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Da es sich um ein neuartiges Virus handelt, kann laut UNICEF zur Zeit noch nicht gesagt werden, welche Folgen es für schwangere Frauen, Neugeborene und Kinder hat. Es ist bekannt, dass sich Menschen jeden Alters mit dem Virus infizieren können. Bis heute wurden jedoch relativ wenig Fälle von COVID-19 bei Kindern gemeldet. Tödlich ist das Virus nur in seltenen Fällen – bisher vor allem bei älteren Menschen mit bereits bestehenden Vorerkrankungen. Zurzeit gibt es ebenfalls noch nicht genügend Erkenntnisse darüber, ob das Coronavirus bereits vor der Geburt Folgen für ungeborene Babys im Mutterleib haben kann. <a href='https://www.unicef.de/informieren/aktuelles/blog/coronavirus-was-eltern-und-schwangere-jetzt-wissen-sollten/211680' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Spätfolgen",
+          "value": "Spätfolgen"
+        },
+        {
+          "label": "Krankheitsverlauf",
+          "value": "Krankheitsverlauf"
+        },
+        {
+          "label": "Risikogruppen",
+          "value": "Risikogruppen"
+        }
+      ]
+    }
+  ]
+}

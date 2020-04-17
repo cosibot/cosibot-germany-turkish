@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Mir geht's gut. Danke!</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Mir geht's gut. Danke!"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich mag es nicht, vor etwas Angst zu haben. Ich denke, es ist wichtig, immer die Ruhe zu bewahren und nicht in Panik auszubrechen.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich mag es nicht, vor etwas Angst zu haben. Ich denke, es ist wichtig, immer die Ruhe zu bewahren und nicht in Panik auszubrechen. "
+    }
+  ]
+}

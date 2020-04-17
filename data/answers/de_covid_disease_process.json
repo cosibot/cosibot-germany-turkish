@@ -1,0 +1,38 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die Krankheitsverläufe sind unspezifisch, vielfältig und variieren stark, von symptomlosen Verläufen bis zu schweren Pneumonien mit Lungenversagen und Tod. Daher lassen sich keine allgemeingültigen Aussagen zum typischen Krankheitsverlauf machen. Genauere Informationen zu Studien, die den Krankheitsverlauf untersucht haben, finden Sie im Kowitt 19 Steckbrief des Robert Koch Instituts.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Die Krankheitsverläufe sind unspezifisch, vielfältig und variieren stark, von symptomlosen Verläufen bis zu schweren Pneumonien mit Lungenversagen und Tod. Daher lassen sich keine allgemeingültigen Aussagen zum typischen Krankheitsverlauf machen. Genauere Informationen zu Studien, die den Krankheitsverlauf untersucht haben, finden Sie im Covid-19 Steckbrief des Robert Koch Instituts.  <a href='https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText2' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Covid-19 Steckbrief",
+          "url": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html#doc13776792bodyText2"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Sterblichkeitsrate",
+          "value": "Sterblichkeitsrate"
+        },
+        {
+          "label": "Statistiken",
+          "value": "Statistiken"
+        },
+        {
+          "label": "Vorerkrankungen",
+          "value": "Vorerkrankungen"
+        }
+      ]
+    }
+  ]
+}

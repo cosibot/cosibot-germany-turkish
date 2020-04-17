@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Der Nah-, Fern- und Güterverkehr der Deutschen Bahn läuft stabil. Derzeit kommt es nur im grenzüberschreitenden Bahnverkehr aufgrund behördlicher Anordnungen zu Einschränkungen. Für Reisende, die ihre Reise verschieben oder stornieren wollen, gelten erweiterte Kulanzregelungen. Kowitt 19 Verdachtsfälle in der Bahn müssen unverzüglich gemeldet werden. Tritt ein Verdachtsfall auf, müssen Reisende in diesem Zug eine Aussteigekarte ausfüllen. Alle weitere Informationen zum Thema Reisen mit der Bahn entnehmen Sie bitte der Seite der Deutschen Bahn.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Der Nah-, Fern- und Güterverkehr der Deutschen Bahn läuft stabil. Derzeit kommt es nur im grenzüberschreitenden Bahnverkehr aufgrund behördlicher Anordnungen zu Einschränkungen. Für Reisende, die ihre Reise verschieben oder stornieren wollen, gelten erweiterte Kulanzregelungen.<br><br>COVID-19-Verdachtsfälle in der Bahn müssen unverzüglich gemeldet werden. Tritt ein Verdachtsfall auf, müssen Reisende in diesem Zug eine Aussteigekarte ausfüllen. Alle weitere Informationen zum Thema Reisen mit der Bahn entnehmen Sie bitte der Seite der Deutschen Bahn.<a href='https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-regelungen-1735032' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Einschränkungen Deutsche Bahn",
+          "url": "https://www.bahn.de/p/view/service/aktuell/index.shtml"
+        },
+        {
+          "title": "Kulanzregelungen Deutsche Bahn",
+          "url": "https://www.bahn.de/p/view/home/info/corona_startseite_bahnde.shtml"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Covid-19 und Alkohol",
+          "value": "Verdachtsfall in der Bahn"
+        },
+        {
+          "label": "Hotlines",
+          "value": "Hotlines"
+        },
+        {
+          "label": "Vorbeugung",
+          "value": "Vorbeugung"
+        }
+      ]
+    }
+  ]
+}

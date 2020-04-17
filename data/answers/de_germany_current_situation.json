@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Inzwischen sind in allen Bundesländern Infektionsfälle mit dem neuen Coronavirus bestätigt worden. Angesichts der dynamischen Entwicklung des Virus empfehle ich Ihnen, tagesaktuelle Informationen über die Situation Deutschlands der Seite der Bundesregierung und des Robert Koch Instituts zu entnehmen. Die Links dazu finden Sie eingeblendet. Sie können auch eines der Themen unten auswählen.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Inzwischen sind in allen Bundesländern Infektionsfälle mit dem neuen Coronavirus bestätigt worden. Angesichts der dynamischen Entwicklung des Virus empfehle ich Ihnen, tagesaktuelle Informationen über die Situation Deutschlands der Seite der Bundesregierung und des Robert Koch Instituts zu entnehmen. Die Links dazu finden Sie eingeblendet. Sie können auch eines der Themen unten auswählen. <a href='https://www.rki.de/DE/Home/homepage_node.html' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Robert Koch Institut",
+          "url": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html"
+        },
+        {
+          "title": "Die Bundesregierung",
+          "url": "https://www.bundesregierung.de/breg-de/themen/coronavirus/coronavirus-1725960/"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Maßnahmen Deutschland",
+          "value": "Maßnahmen Deutschland"
+        },
+        {
+          "label": "Coronavirus und Leitungswasser",
+          "value": "Coronavirus und Leitungswasser"
+        },
+        {
+          "label": "Grenzen zu Nachbarländern",
+          "value": "Grenzen zu Nachbarländern"
+        },
+        {
+          "label": "Hotlines",
+          "value": "Hotlines"
+        },
+        {
+          "label": "Lebensmittelknappheit",
+          "value": "Lebensmittelknappheit"
+        },
+        {
+          "label": "Coronavirus und Reisen mit der Deutschen Bahn",
+          "value": "Coronavirus und Reisen mit der Deutschen Bahn"
+        }
+      ]
+    }
+  ]
+}

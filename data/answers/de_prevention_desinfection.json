@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Zur chemischen Desinfektion sind Mittel mit nachgewiesener Wirksamkeit, mit dem Wirkungsbereich begrenzt viruzid, begrenzt viruzid Plus oder viruzid anzuwenden. Geeignete Mittel enthalten die Liste der vom Robert Koch Institut geprüften und anerkannten Desinfektionsmittel und -verfahren und die Desinfektionsmittel-Liste des Verbundes für Angewandte Hygiene. Bei behördlich angeordneten Desinfektionsmaßnahmen ist die Robert Koch Instituts Liste heranzuziehen. Zu den Listen gelangen Sie über die eingeblendeten Links.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Zur chemischen Desinfektion sind Mittel mit nachgewiesener Wirksamkeit, mit dem Wirkungsbereich begrenzt viruzid, begrenzt viruzid PLUS oder viruzid anzuwenden. Geeignete Mittel enthalten die Liste der vom RKI geprüften und anerkannten Desinfektionsmittel und -verfahren und die Desinfektionsmittel-Liste des Verbundes für Angewandte Hygiene. Bei behördlich angeordneten Desinfektionsmaßnahmen ist die RKI-Liste heranzuziehen. Zu den Listen gelangen Sie über die eingeblendeten Links. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html?nn=13490888' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Zur RKI-Liste",
+          "url": "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Virusinaktivierung/Virusinakt_node.html"
+        },
+        {
+          "title": "Zur VAH-Liste",
+          "url": "https://vah-online.de/de/"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Ansteckungsgefahr",
+          "value": "Ansteckungsgefahr"
+        },
+        {
+          "label": "Zuhause bleiben",
+          "value": "Zuhause bleiben"
+        },
+        {
+          "label": "Statistiken",
+          "value": "Statistiken"
+        }
+      ]
+    }
+  ]
+}

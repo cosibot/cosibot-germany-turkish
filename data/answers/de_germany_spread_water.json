@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Das Leitungswasser in Deutschland ist sehr gut gegen alle Viren, also auch gegen das neuartige Coronavirus, geschützt und kann laut Umweltbundesamt bedenkenlos getrunken werden. Eine Virusübertragung über die öffentliche Trinkwasserversorgung gelte nach derzeitigem Kenntnisstand als höchst unwahrscheinlich. Trinkwasser gehört hierzulande zu den am besten überwachten Lebensmitteln.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Das Leitungswasser in Deutschland ist sehr gut gegen alle Viren, also auch gegen das neuartige Coronavirus, geschützt und kann laut Umweltbundesamt bedenkenlos getrunken werden. Eine Virusübertragung über die öffentliche Trinkwasserversorgung gelte nach derzeitigem Kenntnisstand als höchst unwahrscheinlich. Trinkwasser gehört hierzulande zu den am besten überwachten Lebensmitteln. <a href='https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-informationen-miete-verbraucherschutz-1734914' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Dauer der Maßnahmen",
+          "value": "Dauer der Maßnahmen"
+        },
+        {
+          "label": "Derzeitige Situation Deutschlands",
+          "value": "Derzeitige Situation Deutschlands"
+        },
+        {
+          "label": "Pandemie-Ausruf in Deutschland",
+          "value": "Pandemie-Ausruf in Deutschland"
+        }
+      ]
+    }
+  ]
+}

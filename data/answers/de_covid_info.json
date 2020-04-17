@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Im Februar 2020 wurde das Coronavirus aufgrund der engen Verwandtschaft mit dem SARS Virus als SARS Koff 2 benannt. Die Erkrankung infolge des Virus heißt seitdem Kowit 19. Der Krankheitsverlauf reicht von leicht bis tödlich.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Im Februar 2020 wurde das Coronavirus aufgrund der engen Verwandtschaft mit dem SARS-Virus als SARS-CoV-2 benannt. Die Erkrankung infolge des Virus heißt seitdem COVID-19. Der Krankheitsverlauf reicht von leicht bis tödlich. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Ursprung des Virus",
+          "value": "Ursprung des Virus"
+        },
+        {
+          "label": "Symptomatik",
+          "value": "Symptomatik"
+        },
+        {
+          "label": "Behandlung",
+          "value": "Behandlung"
+        }
+      ]
+    }
+  ]
+}

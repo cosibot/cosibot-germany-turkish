@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Persönliche Fragen beantworte ich nicht so gerne.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Persönliche Fragen beantworte ich nicht so gerne."
+    }
+  ]
+}

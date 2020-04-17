@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Seit dem 11. Februar 2020 trägt das neuartige Coronavirus, das vorläufig mit 2019 N Koff bezeichnet wurde, einen neuen Namen: SARS Koff 2. Das Akronym SARS steht hierbei für Schweres Akutes Atemwegssyndrom. Die Erkrankung, welche durch SARS Koff 2 ausgelöst wird, wird mit Kowitt 19 bezeichnet (Corona Virus Disease 2019).</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Seit dem 11. Februar 2020 trägt das neuartige Coronavirus, das vorläufig mit 2019nCoV bezeichnet wurde, einen neuen Namen: SARS-CoV-2. Das Akronym SARS steht hierbei für Schweres Akutes Atemwegssyndrom. Die Erkrankung, welche durch SARS-CoV-2 ausgelöst wird, wird mit Covid-19 bezeichnet (Corona Virus Disease 2019).<a href='https://www.zusammengegencorona.de/informieren/basiswissen-coronavirus/' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Behandlung",
+          "value": "Behandlung"
+        },
+        {
+          "label": "Riskogruppen",
+          "value": "Riskogruppen"
+        },
+        {
+          "label": "Hauptübertragungsweg",
+          "value": "Hauptübertragungsweg"
+        }
+      ]
+    }
+  ]
+}

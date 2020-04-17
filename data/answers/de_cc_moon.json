@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die Entfernung von der Erde bis zum Mond beträgt 384400 Kilometer.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Die Entfernung von der Erde bis zum Mond beträgt 384400 Kilometer."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Meine Persönlichkeit würden die meisten als sympathisch, fürsorglich und vertrauensvoll beschreiben.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Meine Persönlichkeit würden die meisten als sympathisch, fürsorglich und vertrauensvoll beschreiben."
+    }
+  ]
+}

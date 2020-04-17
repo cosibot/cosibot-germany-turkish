@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die Beschränkung sozialer Kontakte soll Übertragungsketten und die Ausbreitung des neu-artigen Coronavirus in Deutschland verlangsamen. Ein Abstand von mindestens 1,5 Metern zu anderen vermindert das Risiko einer Übertragung von SARS Koff 2.Das Virus wird vor allem durch direkten Kontakt zwischen Menschen z.B. im Gespräch durch kleine Tröpfchen übertragen. Eine infizierte Person steckt durchschnittlich 2-3 weitere Menschen an. Eine Übertragung durch eine infizierte Person kann auch schon bis zu zwei Tage vor Symptombeginn stattfinden, oder bei einem sehr milden Verlauf der Erkrankung. </speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Die Beschränkung sozialer Kontakte soll Übertragungsketten und die Ausbreitung des neuartigen Coronavirus in Deutschland verlangsamen. Ein Abstand von mindestens 1,5 Metern zu anderen vermindert das Risiko einer Übertragung von SARS-CoV-2.<br>Das Virus wird vor allem durch direkten Kontakt zwischen Menschen (z.B. im Gespräch) durch kleine Tröpfchen übertragen. Eine infizierte Person steckt durchschnittlich 2-3 weitere Menschen an. Eine Übertragung durch eine infizierte Person kann auch schon bis zu zwei Tage vor Symptombeginn stattfinden, oder bei einem sehr milden Verlauf der Erkrankung.  <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Auswirkungen auf Deutschland",
+          "value": "Auswirkungen auf Deutschland"
+        },
+        {
+          "label": "Großeltern besuchen",
+          "value": "Großeltern besuchen"
+        },
+        {
+          "label": "Covid-19 Test",
+          "value": "Covid-19 Test"
+        }
+      ]
+    }
+  ]
+}

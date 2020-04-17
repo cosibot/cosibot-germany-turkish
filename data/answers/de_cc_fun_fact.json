@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Der Eiffelturm schrumpft bei Kälte um 15 Zentimeter.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Der Eiffelturm schrumpft bei Kälte um 15 Zentimeter."
+    }
+  ]
+}

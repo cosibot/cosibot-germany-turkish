@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die häufigsten Symptome sind Fieber über 38,5 Grad Celcius, Husten, Schnupfen und Kratzen im Hals. Die meisten Verläufe sind eher mild. Einige Menschen können allerdings eine Kurzatmigkeit und das Gefühl einer Luftnot bekommen. Sie sollten Ihre Ärztin oder Ihren Arzt verständigen, wenn Sie das Gefühl haben, schwerer Luft zu bekommen als sonst. Es wurde auch beobachtet, dass manche infizierte Patienten  zu Beginn schlechter riechen oder schmecken können. Ein bloßes Kratzen im Hals muss noch kein Anzeichen für eine Infektion mit dem neu-artigen Coronavirus sein. Falls Sie weitere Symptome wie z.B. Fieber, Husten, Kopf- und Gliederschmerzen oder Schnupfen feststellen, wenden Sie sich bitte an Ihren Hausarzt oder Ihre Haus-ärztin bzw. außerhalb der Sprechstunden an den ärztlichen Bereitschaftsdienst unter der 1 1 6 1 1 7. In dringenden Fällen, etwa bei Atemnot, wenden Sie sich an die 1 1 2</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Die häufigsten Symptome sind Fieber über 38,5°C, Husten, Schnupfen und Kratzen im Hals. Die meisten Verläufe sind eher mild. Einige Menschen können allerdings eine Kurzatmigkeit und das Gefühl einer Luftnot bekommen. Sie sollten Ihre Ärztin oder Ihren Arzt verständigen, wenn Sie das Gefühl haben, schwerer Luft zu bekommen als sonst. Es wurde auch beobachtet, dass manche infizierte Patienten  zu Beginn schlechter riechen oder schmecken können. Ein bloßes Kratzen im Hals muss noch kein Anzeichen für eine Infektion mit dem neuartigen Coronavirus sein. Falls Sie weitere Symptome wie z.B. Fieber, Husten, Kopf- und Gliederschmerzen oder Schnupfen feststellen, wenden Sie sich bitte an Ihren Hausarzt oder Ihre Hausärztin bzw. außerhalb der Sprechstunden an den ärztlichen Bereitschaftsdienst unter der 116 117. In dringenden Fällen, etwa bei Atemnot, wenden Sie sich an die 112.<a href='https://www.zusammengegencorona.de/informieren/symptome-erkennen/' target='_blank'>(1)</a> <a href='https://www.mdr.de/wissen/corona-virus-kann-offenbar-auch-gehirn-angreifen100.html' target='_blank'>(2)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Ursprung des Virus",
+          "value": "Ursprung des Virus"
+        },
+        {
+          "label": "Covid-19 und Schwangerschaft",
+          "value": "Covid-19 und Schwangerschaft"
+        },
+        {
+          "label": "Inkubationszeit",
+          "value": "Inkubationszeit"
+        }
+      ]
+    }
+  ]
+}

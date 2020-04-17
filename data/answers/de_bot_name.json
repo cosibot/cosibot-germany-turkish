@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich heiße Helena.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich heiße Helena."
+    }
+  ]
+}

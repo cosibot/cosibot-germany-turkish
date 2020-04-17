@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Die am 22. März beschlossenen Maßnahmen beinhalten unter anderem, dass Kontakte zu anderen Mitmenschen außerhalb der Angehörigen des eigenen Hauses auf ein Minimum reduziert werden sollen. In der Öffentlichkeit sollte mindestens 1,5 Meter Abstand zu anderen Personen gehalten werden. Unter anderem bleiben der Weg zur Arbeit, Einkäufe, Arztbesuche, erforderliche Termine und Bewegung an der frischen Luft weiter möglich. Die Maßnahmen gelten zunächst für 2 Wochen und deutschlandweit. Weitere Informationen darüber sowie Informationen, die Niedersachsen betreffen, entnehmen Sie bitte den eingeblendeten Links.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Die am 22. März beschlossenen Maßnahmen beinhalten unter anderem, dass Kontakte zu anderen Mitmenschen außerhalb der Angehörigen des eigenen Hauses auf ein Minimum reduziert werden sollen. In der Öffentlichkeit sollte mindestens 1,5 Meter Abstand zu anderen Personen gehalten werden. Unter anderem bleiben der Weg zur Arbeit, Einkäufe, Arztbesuche, erforderliche Termine und Bewegung an der frischen Luft weiter möglich. Die Maßnahmen gelten zunächst für 2 Wochen und deutschlandweit. Weitere Informationen darüber sowie Informationen, die Niedersachsen betreffen, entnehmen Sie bitte den eingeblendeten Links. <a href='https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Die Bundesregierung",
+          "url": "https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248"
+        },
+        {
+          "title": "Niedersachsen",
+          "url": "https://www.niedersachsen.de/Coronavirus"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Lebensmittelengpässe",
+          "value": "Lebensmittelengpässe Deutschland"
+        },
+        {
+          "label": "Desinfektionsmittel",
+          "value": "Desinfektionsmittel"
+        },
+        {
+          "label": "Arbeitsrecht",
+          "value": "Arbeitsrecht"
+        }
+      ]
+    }
+  ]
+}

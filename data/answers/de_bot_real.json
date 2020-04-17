@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich bin ein echter <sub alias='Bott'>Bot</sub>. <break time='300ms'/>Ja.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich bin ein echter Bot, ja :-)"
+    }
+  ]
+}

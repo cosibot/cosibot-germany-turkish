@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Bitte bleiben Sie sachlich. Ich gebe mein Bestes und lerne ständig dazu.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Bitte bleiben Sie sachlich. Ich gebe mein Bestes und lerne ständig dazu."
+    }
+  ]
+}

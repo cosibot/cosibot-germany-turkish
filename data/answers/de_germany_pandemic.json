@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Der W H O Generaldirektor hat am 11.03.2020 die Situation zu Erkrankungen mit den neuartigen Coronaviren zu einer Pandemie erklärt. Die Erklärung der Pandemie hat keine direkten Auswirkungen auf die Vorbereitungen und Maßnahmen in Deutschland. Deutschland hat die die Situation von Anfang an sehr ernst genommen und hat auch die Maßnahmen, die von der WHO nun nochmals betont werden, früh selbst umgesetzt. Diese sind. Die Bevölkerung über die Risiken der Erkrankung informieren. Die Bevölkerung darüber informieren, wie sich jeder einzelne schützen kann und alle auffordern, dies auch zu tun. Möglichst jeden Fall finden, zu isolieren, testen und behandeln sowie möglichst alle Kontaktpersonen finden, um eine Weiterverbreitung zu verhindern. die Krankenhäuser auf die zu erwartende besondere Situation vorbereiten. medizinisches Personal vorbereiten und vor Infektionen schützen. sich gegenseitig helfen und umeinander kümmern.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Der WHO-Generaldirektor hat am 11.03.2020 die Situation zu Erkrankungen mit den neuartigen Coronaviren zu einer Pandemie erklärt.<br>Die Erklärung der Pandemie hat keine direkten Auswirkungen auf die Vorbereitungen und Maßnahmen in Deutschland. Deutschland hat die die Situation von Anfang an sehr ernst genommen und hat auch die Maßnahmen, die von der WHO nun nochmals betont werden, früh selbst umgesetzt. Diese sind:<br>- Die Bevölkerung über die Risiken der Erkrankung informieren<br>- Die Bevölkerung darüber informieren, wie sich jeder einzelne schützen kann und alle auffordern, dies auch zu tun<br>-Möglichst jeden Fall finden, zu isolieren, testen und behandeln sowie möglichst alle Kontaktpersonen finden, um eine Weiterverbreitung zu verhindern<br>- Die Krankenhäuser auf die zu erwartende besondere Situation vorbereiten<br>- Medizinisches Personal vorbereiten und vor Infektionen schützen<br>- Sich gegenseitig helfen und umeinander kümmern. <a href='https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html?nn=13490888' target='_blank'>(1)</a> <br></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Maßnahmen Deutschland",
+          "value": "Maßnahmen Deutschland"
+        },
+        {
+          "label": "Quarantäne",
+          "value": "Quarantäne"
+        },
+        {
+          "label": "Hotlines",
+          "value": "Hotlines"
+        }
+      ]
+    }
+  ]
+}

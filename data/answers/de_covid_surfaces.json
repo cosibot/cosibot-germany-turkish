@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Es ist nicht sicher, wie lange das Virus, das Kowitt 19 verursacht, auf Oberflächen überlebt, aber es scheint sich wie andere Coronaviren zu verhalten. Studien deuten darauf hin, dass Coronaviren einige Stunden oder bis zu mehreren Tagen, je nach Art der Oberfläche, auf Oberflächen verbleiben können. Dies kann unter verschiedenen Bedingungen variieren. Wenn Sie glauben, dass eine Oberfläche infiziert sein könnte, reinigen Sie sie mit einem einfachen Desinfektionsmittel, um das Virus abzutöten und sich und andere zu schützen. Reinigen Sie Ihre Hände mit einer alkoholbasierten Handmassage oder waschen Sie sie mit Wasser und Seife. Berühren Sie nicht Ihre Augen, Ihren Mund oder Ihre Nase.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Es ist nicht sicher, wie lange das Virus, das COVID-19 verursacht, auf Oberflächen überlebt, aber es scheint sich wie andere Coronaviren zu verhalten. Studien deuten darauf hin, dass Coronaviren einige Stunden oder bis zu mehreren Tagen je nach Art der Oberfläche auf Oberflächen verbleiben können. Dies kann unter verschiedenen Bedingungen variieren. Wenn Sie glauben, dass eine Oberfläche infiziert sein könnte, reinigen Sie sie mit einem einfachen Desinfektionsmittel, um das Virus abzutöten und sich und andere zu schützen. Reinigen Sie Ihre Hände mit einer alkoholbasierten Handmassage oder waschen Sie sie mit Wasser und Seife. Berühren Sie nicht Ihre Augen, Ihren Mund oder Ihre Nase. <a href='https://www.who.int/news-room/q-a-detail/q-a-coronaviruses' target='_blank'>(1)</a>  </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Infektionen weltweit",
+          "value": "Infektionen weltweit"
+        },
+        {
+          "label": "Behandlung",
+          "value": "Behandlung"
+        },
+        {
+          "label": "Inkubationszeit",
+          "value": "Inkubationszeit"
+        }
+      ]
+    }
+  ]
+}

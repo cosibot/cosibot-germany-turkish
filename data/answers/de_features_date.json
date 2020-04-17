@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Heute ist der 15.04.20.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Heute ist der 15.04.20."
+    }
+  ]
+}

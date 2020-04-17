@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Gern können wir befreundet sein.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Gern können wir befreundet sein."
+    }
+  ]
+}

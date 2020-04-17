@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Waschen Sie Ihre Hände regelmäßig und halten Sie sich mindestens einen Meter von hustenden oder niesenden Menschen entfernt. Befolgen Sie die Anweisungen der örtlichen Behörden. Sie sollten alle örtlichen Einschränkungen, die z.B. den öffentlichen Transport oder Menschenansammlungen betreffen, einhalten. Überprüfen Sie kritisch, ob eine Reise ins Ausland derzeit wirklich notwendig ist oder nicht verschoben werden kann.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Waschen Sie Ihre Hände regelmäßig und halten Sie sich mindestens einen Meter von hustenden oder niesenden Menschen entfernt. Befolgen Sie die Anweisungen der örtlichen Behörden. Sie sollten alle örtlichen Einschränkungen, die z.B. den öffentlichen Transport oder Menschenansammlungen betreffen, einhalten. Überprüfen Sie kritisch, ob eine Reise ins Ausland derzeit wirklich notwendig ist oder nicht verschoben werden kann. <a href='https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/covid-19/2296762' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Auswärtiges Amt",
+          "url": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/covid-19/2296762"
+        },
+        {
+          "title": "Vertretungen anderer Länder",
+          "url": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/vertretungen-anderer-staaten"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Risikogebiete",
+          "value": "Risikogebiete"
+        },
+        {
+          "label": "Rückholprogramm",
+          "value": "Rückholprogramm"
+        },
+        {
+          "label": "Reiserückkehr",
+          "value": "Reiserückkehr"
+        }
+      ]
+    }
+  ]
+}

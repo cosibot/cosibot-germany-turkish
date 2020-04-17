@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Nein, Sie müssen keine Schutzmaske tragen, wenn Sie ein Geschäft betreten. Halten Sie draußen einen Mindestabstand von ein bis 2 Metern zu anderen Menschen und befolgen Sie die Hygienehinweise.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Sie müssen keine Schutzmaske tragen, wenn Sie ein Geschäft betreten. Halten Sie draußen einen Mindestabstand von 1 bis 2 Metern zu anderen Menschen und befolgen Sie die Hygienehinweise. <a href='https://www.zusammengegencorona.de/informieren/zuhause-bleiben/' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Zuhause bleiben – Arztbesuche",
+          "value": "Zuhause bleiben – Arztbesuche"
+        },
+        {
+          "label": "Internetstörungen",
+          "value": "Internetstörungen"
+        },
+        {
+          "label": "Welche Geschäfte geöffnet",
+          "value": "Welche Geschäfte geöffnet"
+        }
+      ]
+    }
+  ]
+}

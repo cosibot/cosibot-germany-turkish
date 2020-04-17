@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich habe es mal mit The Voice versucht, aber sie sagten mir, ich hätte zu wenig Persönlichkeit. Trauriger smiley</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich habe es mal mit The Voice versucht, aber sie sagten mir, ich hätte zu wenig Persönlichkeit :'-("
+    }
+  ]
+}

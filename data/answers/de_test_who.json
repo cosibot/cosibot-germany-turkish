@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Nicht alle Menschen in Deutschland werden bisher auf das neue Coronavirus getestet. Die Kriterien wurden mehrfach angepasst. Derzeit wird getestet, wer typische, grippeähnliche Symptome zeigt\nund entweder in den letzten zwei Wochen Kontakt zu einem bestätigten Corona-Fall hatte, oder Vorerkrankung bestehen, oder derzeitige Atemwegbeschwerden sich verschlimmern (z.B. Fieber), oder durch Arbeit oder Ehrenamt (z.B. Krankenhaus oder Pflege) mit Menschen in Kontakt kommt, die ein hohes Risiko für einen schweren Krankheitsverlauf mit \nKowitt 19 haben. Im Verdachtsfall sollte man sich vorerst telefonisch melden und nicht einfach eine Arztpraxis oder Klinik aufsuchen. Verdachtsfälle sollten sich telefonisch entweder an den Hausarzt oder an eine der offiziellen Hotlines wenden. In Deutschland ist das die 1 1 6 1 1 7 des ärztlichen Bereitschaftsdienstes.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Nicht alle Menschen in Deutschland werden bisher auf das neue Coronavirus getestet. Die Kriterien wurden mehrfach angepasst. Derzeit wird getestet, wer typische, grippeähnliche Symptome zeigt\nUND<br><br>- entweder in den letzten zwei Wochen Kontakt zu einem bestätigten Corona-Fall hatte,<br>- oder Vorerkrankung bestehen, oder derzeitige Atemwegbeschwerden sich verschlimmern (z.B. Fieber),<br>- oder durch Arbeit oder Ehrenamt (z.B. Krankenhaus oder Pflege) mit Menschen in Kontakt kommt, die ein hohes Risiko für einen schweren Krankheitsverlauf mit Covid-19 haben.<br><br>Im Verdachtsfall sollte man sich vorerst telefonisch melden und nicht einfach eine Arztpraxis oder Klinik aufsuchen. Verdachtsfälle sollten sich telefonisch entweder an den Hausarzt oder an eine der offiziellen Hotlines wenden. In Deutschland ist das die 116 117 des ärztlichen Bereitschaftsdienstes. <a href='https://www.quarks.de/gesundheit/medizin/corona-test-wie-funktioniert-der-test/' target='_blank'>(1)</a></p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Schnelltest",
+          "value": "Schnelltest"
+        },
+        {
+          "label": "Inkubationszeit",
+          "value": "Inkubationszeit"
+        },
+        {
+          "label": "Statistiken pro Landkreis",
+          "value": "Statistiken pro Landkreis"
+        }
+      ]
+    }
+  ]
+}

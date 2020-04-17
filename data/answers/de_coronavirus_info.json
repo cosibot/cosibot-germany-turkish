@@ -1,0 +1,29 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Coronaviren wurden erstmals Mitte der 1960er Jahre identifiziert. Sie können sowohl Menschen als auch verschiedene Tiere infizieren, darunter Vögel und Säugetiere. Coronaviren verursachen beim Menschen verschiedene Krankheiten, von gewöhnlichen Erkältungen bis hin zu gefährlichen oder sogar potenziell tödlich verlaufenden Krankheiten wie dem Middle East Respiratory Syndrome (MERS) oder dem Severe Acute Respiratory Syndrome (SARS). Der Name ist auf das charakteristische, kranzförmige Aussehen der Coronaviren zurückzuführen. </speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Coronaviren wurden erstmals Mitte der 1960er Jahre identifiziert. Sie können sowohl Menschen als auch verschiedene Tiere infizieren, darunter Vögel und Säugetiere. Coronaviren verursachen beim Menschen verschiedene Krankheiten, von gewöhnlichen Erkältungen bis hin zu gefährlichen oder sogar potenziell tödlich verlaufenden Krankheiten wie dem Middle East Respiratory Syndrome (MERS) oder dem Severe Acute Respiratory Syndrome (SARS). Der Name ist auf das charakteristische, kranzförmige Aussehen der Coronaviren zurückzuführen. <a href='https://www.dzif.de/de/glossar/coronavirus' target='_blank'>(1)</a> <a href='https://www.rki.de' target='_blank'>(2)</a>  </p>"
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Covid-19 Info",
+          "value": "Covid-19 Info"
+        },
+        {
+          "label": "Symptomatik",
+          "value": "Symptomatik"
+        },
+        {
+          "label": "Krankheitsverlauf",
+          "value": "Krankheitsverlauf"
+        }
+      ]
+    }
+  ]
+}

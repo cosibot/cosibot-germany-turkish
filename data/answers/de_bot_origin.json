@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich wurde von einigen cleveren Leuten entwickelt. Jetzt lerne ich eigenständig..</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich wurde von einigen cleveren Leuten entwickelt. Jetzt lerne ich eigenständig."
+    }
+  ]
+}

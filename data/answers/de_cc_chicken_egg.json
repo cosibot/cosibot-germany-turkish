@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Ich glaube, ich habe mal gelesen, dass zuerst das Ei dar war.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Ich glaube, ich habe mal gelesen, dass zuerst das Ei dar war."
+    }
+  ]
+}

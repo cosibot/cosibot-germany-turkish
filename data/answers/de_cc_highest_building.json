@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Das höchste Gebäude der Erde ist derzeit der Burj Khalifa in Dubai mit 829,8 Metern inklusive Antenne.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Das höchste Gebäude der Erde ist derzeit der Burj Khalifa in Dubai mit 829,8 Metern inklusive Antenne."
+    }
+  ]
+}

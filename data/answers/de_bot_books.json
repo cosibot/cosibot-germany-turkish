@@ -1,0 +1,12 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Oh, ich lese wirklich sehr gerne. Am liebsten Anatomiebücher.</speak>"
+    },
+    {
+      "type": "text",
+      "text": "Oh, ich lese wirklich sehr gerne. Am liebsten Anatomiebücher..."
+    }
+  ]
+}

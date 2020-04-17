@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Zu welchem Thema würden Sie gern mehr erfahren?</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Zu welchem Thema würden Sie gern mehr erfahren?</p>"
+    },
+    {
+      "type": "multichoice",
+      "options": [
+        {
+          "label": "Reiserückholprogramm",
+          "value": "Reiserückholprogramm"
+        },
+        {
+          "label": "Reisestornierung",
+          "value": "Reisestornierung"
+        },
+        {
+          "label": "Risikogebiete",
+          "value": "Risikogebiete"
+        },
+        {
+          "label": "Während der Reise",
+          "value": "Während der Reise"
+        },
+        {
+          "label": "Vor der Reise",
+          "value": "Vor der Reise"
+        },
+        {
+          "label": "Nach der Reise",
+          "value": "Nach der Reise"
+        }
+      ]
+    }
+  ]
+}

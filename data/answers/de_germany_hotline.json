@@ -1,0 +1,38 @@
+{
+  "answers": [
+    {
+      "type": "ssml",
+      "ssml": "<speak>Wenn Sie die Sorge haben, sich mit dem Coronavirus infiziert zu haben, wenden Sie sich telefonisch an Ihren Hausarzt oder rufen Sie den ärztlichen Bereitschaftsdienst unter der Nummer hundertsechzehn hundertsiebzehn an. Die Nummer der unabhängigen Patientenberatung Deutschland lautet, 0 800 0 11 77 22. Die Nummer des Bundesministeriums für Gesundheit lautet, 030 3 4 6 4 6 5 1 00. Für die Allgemeine Erstinformation und Kontaktvermittlung wählen Sie die Behördennummer 115. Ab sofort informiert Sie das Bundesgesundheitsministerium auch auf WhatsApp über das Coronavirus. Um den Infokanal zu nutzen, speichern Sie die Nummer 0 0 4 9 1 5 1 6 2 8 7 5 1 8 3 und schreiben Sie Start.  Weitere Informationen sowie Hotlines entnehmen Sie bitte der Website des Bundesgesundheitsministeriums unter dem eingeblendeten Link.</speak>"
+    },
+    {
+      "type": "html",
+      "text": "<p>Wenn Sie die Sorge haben, sich mit dem Coronavirus infiziert zu haben, wenden Sie sich telefonisch an Ihren Hausarzt oder rufen Sie den ärztlichen Bereitschaftsdienst unter der Nummer 116117 an. Die Nummer der unabhängigen Patientenberatung Deutschland lautet 0800 011 77 22. Die Nummer des Bundesministerium für Gesundheit lautet 030 346 465 100. Für die Allgemeine Erstinformation und Kontaktvermittlung wählen Sie die Behördennummer 115. Ab sofort informiert Sie das Bundesgesundheitsministerium auch auf WhatsApp über das Coronavirus. Um den Infokanal zu nutzen, speichern Sie die Nummer +49 151 62875183 und schreiben Sie 'Start'. Weitere Informationen sowie Hotlines entnehmen Sie bitte der Website des Bundesgesundheitsministeriums unter dem eingeblendeten Link. <a href='https://www.bundesgesundheitsministerium.de/coronavirus.html#c17571' target='_blank'>(1)</a> </p>"
+    },
+    {
+      "type": "links",
+      "links": [
+        {
+          "title": "Bundesgesundheitsministerium",
+          "url": "https://www.bundesgesundheitsministerium.de/coronavirus.html#c17571"
+        }
+      ]
+    },
+    {
+      "type": "hints",
+      "options": [
+        {
+          "label": "Coronavirus und Reisen mit der Deutschen Bahn",
+          "value": "Coronavirus und Reisen mit der Deutschen Bahn"
+        },
+        {
+          "label": "Covid-19 und heißes Bad",
+          "value": "Covid-19 und heißes Bad"
+        },
+        {
+          "label": "Händewaschen",
+          "value": "Händewaschen"
+        }
+      ]
+    }
+  ]
+}
