@@ -1,5 +1,7 @@
-data/data_old
-scripts/scripts_old/
-scripts/.ipynb_checkpoints/
-scripts/Cosibot_Answers.ipynb
-scripts/Cosibot_Intents.ipynb
+bot/models/
+bot/results/
+bot/train_test_split/
+countries/
+data/
+old/
+scripts/
