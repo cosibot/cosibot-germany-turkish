@@ -1,8 +1,11 @@
-# Configuration for Rasa NLU.
-# https://rasa.com/docs/rasa/nlu/components/
-language: tr
+language: "tr"
+
 pipeline:
-  - name: WhitespaceTokenizer
+  - name: "SpacyNLP"
+    model: "xx-ent-wiki-sm"
+    case_sensitive: False
+  - name: SpacyTokenizer
+  - name: SpacyFeaturizer
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer
   - name: CountVectorsFeaturizer

@@ -1,737 +1,737 @@
 ## No test_how intent and test_results_reliability in questions
 #### test_how path
-##* test_how
-##     - utter_test_how
+##* tr_test_how
+##     - utter_tr_test_how
 
 #### test_results_reliability path
-##* test_results_reliability
-##     - utter_test_results_reliability
+##* tr_test_results_reliability
+##     - utter_tr_test_results_reliability
 
 ## germany_train path1
-* germany_train_prevention
-     - utter_germany_train
+* tr_germany_train_prevention
+     - utter_tr_germany_train
 
 ## germany_train path2
-* germany_train_refund
-     - utter_germany_train
+* tr_germany_train_refund
+     - utter_tr_germany_train
 
 ## germany_train path3
-* germany_train_suspect
-     - utter_germany_train
+* tr_germany_train_suspect
+     - utter_tr_germany_train
 
 
 ## travel_while path
-* travel_while
-     - utter_travel_while
+* tr_travel_while
+     - utter_tr_travel_while
 
 ## covid_babys_children path
-* covid_babys_children
-     - utter_covid_babys_children
+* tr_covid_babys_children
+     - utter_tr_covid_babys_children
 
 ## germany_precautions_nordrhein path
-* germany_precautions_nordrhein
-     - utter_germany_precautions_nordrhein
+* tr_germany_precautions_nordrhein
+     - utter_tr_germany_precautions_nordrhein
 
 ## spread_general path
-* spread_general
-     - utter_spread_general
+* tr_spread_general
+     - utter_tr_spread_general
 
 ## covid_preexisting_illness path
-* covid_preexisting_illness
-     - utter_covid_preexisting_illness
+* tr_covid_preexisting_illness
+     - utter_tr_covid_preexisting_illness
 
 ## covid_disease_process path
-* covid_disease_process
-     - utter_covid_disease_process
+* tr_covid_disease_process
+     - utter_tr_covid_disease_process
 
 ## cc_newspaper path
-* cc_newspaper
-     - utter_cc_newspaper
+* tr_cc_newspaper
+     - utter_tr_cc_newspaper
 
 ## userfeeling_negative path
-* userfeeling_negative
-     - utter_userfeeling_negative
+* tr_userfeeling_negative
+     - utter_tr_userfeeling_negative
 
 ## germany_precautions_niedersachsen path
-* germany_precautions_niedersachsen
-     - utter_germany_precautions_niedersachsen
+* tr_germany_precautions_niedersachsen
+     - utter_tr_germany_precautions_niedersachsen
 
 ## stayhomeinfo_supermarket path
-* stayhomeinfo_supermarket
-     - utter_stayhomeinfo_supermarket
+* tr_stayhomeinfo_supermarket
+     - utter_tr_stayhomeinfo_supermarket
 
 ## stayhomeinfo_doctor path
-* stayhomeinfo_doctor
-     - utter_stayhomeinfo_doctor
+* tr_stayhomeinfo_doctor
+     - utter_tr_stayhomeinfo_doctor
 
 ## myth_pneumonia_vaccine path
-* myth_pneumonia_vaccine
-     - utter_myth_pneumonia_vaccine
+* tr_myth_pneumonia_vaccine
+     - utter_tr_myth_pneumonia_vaccine
 
 ## myth_hold_breath path
-* myth_hold_breath
-     - utter_myth_hold_breath
+* tr_myth_hold_breath
+     - utter_tr_myth_hold_breath
 
 ## cc_deepest_point path
-* cc_deepest_point
-     - utter_cc_deepest_point
+* tr_cc_deepest_point
+     - utter_tr_cc_deepest_point
 
 ## quarantine_how_it_works path
-* quarantine_how_it_works
-     - utter_quarantine_how_it_works
+* tr_quarantine_how_it_works
+     - utter_tr_quarantine_how_it_works
 
 ## covid_sars path
-* covid_sars
-     - utter_covid_sars
+* tr_covid_sars
+     - utter_tr_covid_sars
 
 ## covid_dangerous path
-* covid_dangerous
-     - utter_covid_dangerous
+* tr_covid_dangerous
+     - utter_tr_covid_dangerous
 
 ## quarantine_dogwalking path
-* quarantine_dogwalking
-     - utter_quarantine_dogwalking
+* tr_quarantine_dogwalking
+     - utter_tr_quarantine_dogwalking
 
 ## work_notification path
-* work_notification
-     - utter_work_notification
+* tr_work_notification
+     - utter_tr_work_notification
 
 ## prevention_desinfection path
-* prevention_desinfection
-     - utter_prevention_desinfection
+* tr_prevention_desinfection
+     - utter_tr_prevention_desinfection
 
 ## spread_animals path
-* spread_animals
-     - utter_spread_animals
+* tr_spread_animals
+     - utter_tr_spread_animals
 
 ## quarantine_dos_and_donts path
-* quarantine_dos_and_donts
-     - utter_quarantine_dos_and_donts
+* tr_quarantine_dos_and_donts
+     - utter_tr_quarantine_dos_and_donts
 
 ## test_per_day path
-* test_per_day
-     - utter_test_per_day
+* tr_test_per_day
+     - utter_tr_test_per_day
 
 ## covid_current_statistics path
-* covid_current_statistics
-     - utter_covid_current_statistics
+* tr_covid_current_statistics
+     - utter_tr_covid_current_statistics
 
 ## germany_pandemic path
-* germany_pandemic
-     - utter_germany_pandemic
+* tr_germany_pandemic
+     - utter_tr_germany_pandemic
 
 ## work_shorttimework_allowance path
-* work_shorttimework_allowance
-     - utter_work_shorttimework_allowance
+* tr_work_shorttimework_allowance
+     - utter_tr_work_shorttimework_allowance
 
 ## cc_moon path
-* cc_moon
-     - utter_cc_moon
+* tr_cc_moon
+     - utter_tr_cc_moon
 
 ## germany_precautions_hamburg path
-* germany_precautions_hamburg
-     - utter_germany_precautions_hamburg
+* tr_germany_precautions_hamburg
+     - utter_tr_germany_precautions_hamburg
 
 ## user_love path
-* user_love
-     - utter_user_love
+* tr_user_love
+     - utter_tr_user_love
 
 ## bot_fear path
-* bot_fear
-     - utter_bot_fear
+* tr_bot_fear
+     - utter_tr_bot_fear
 
 ## covid_vaccine path
-* covid_vaccine
-     - utter_covid_vaccine
+* tr_covid_vaccine
+     - utter_tr_covid_vaccine
 
 ## test_virus path
-* test_virus
-     - utter_test_virus
+* tr_test_virus
+     - utter_tr_test_virus
 
 ## comment_negative path
-* comment_negative
-     - utter_comment_negative
+* tr_comment_negative
+     - utter_tr_comment_negative
 
 ## cc_politics path
-* cc_politics
-     - utter_cc_politics
+* tr_cc_politics
+     - utter_tr_cc_politics
 
 ## bot_hobbies path
-* bot_hobbies
-     - utter_bot_hobbies
+* tr_bot_hobbies
+     - utter_tr_bot_hobbies
 
 ## covid_symptoms path
-* covid_symptoms
-     - utter_covid_symptoms
+* tr_covid_symptoms
+     - utter_tr_covid_symptoms
 
 ## vocative_you_welcome path
-* vocative_you_welcome
-     - utter_vocative_you_welcome
+* tr_vocative_you_welcome
+     - utter_tr_vocative_you_welcome
 
 ## cc_joke path
-* cc_joke
-     - utter_cc_joke
+* tr_cc_joke
+     - utter_tr_cc_joke
 
 ## germany_precautions_sachsenanhalt path
-* germany_precautions_sachsenanhalt
-     - utter_germany_precautions_sachsenanhalt
+* tr_germany_precautions_sachsenanhalt
+     - utter_tr_germany_precautions_sachsenanhalt
 
 ## prevention_informed path
-* prevention_informed
-     - utter_prevention_informed
+* tr_prevention_informed
+     - utter_tr_prevention_informed
 
 ## user_particles path
-* user_particles
-     - utter_user_particles
+* tr_user_particles
+     - utter_tr_user_particles
 
 ## coronavirus_info path
-* coronavirus_info
-     - utter_coronavirus_info
+* tr_coronavirus_info
+     - utter_tr_coronavirus_info
 
 ## germany_precautions_bayern path
-* germany_precautions_bayern
-     - utter_germany_precautions_bayern
+* tr_germany_precautions_bayern
+     - utter_tr_germany_precautions_bayern
 
 ## covid_origins path
-* covid_origins
-     - utter_covid_origins
+* tr_covid_origins
+     - utter_tr_covid_origins
 
 ## covid_pregnancy path
-* covid_pregnancy
-     - utter_covid_pregnancy
+* tr_covid_pregnancy
+     - utter_tr_covid_pregnancy
 
 ## vocative_thank_you path
-* vocative_thank_you
-     - utter_vocative_thank_you
+* tr_vocative_thank_you
+     - utter_tr_vocative_thank_you
 
 ## covid_aftereffects_immunity path
-* covid_aftereffects_immunity
-     - utter_covid_aftereffects_immunity
+* tr_covid_aftereffects_immunity
+     - utter_tr_covid_aftereffects_immunity
 
 ## user_friend path
-* user_friend
-     - utter_user_friend
+* tr_user_friend
+     - utter_tr_user_friend
 
 ## current_situation path
-* current_situation
-     - utter_current_situation
+* tr_current_situation
+     - utter_tr_current_situation
 
 ## covid_surfaces path
-* covid_surfaces
-     - utter_covid_surfaces
+* tr_covid_surfaces
+     - utter_tr_covid_surfaces
 
 ## germany_food_shortages path
-* germany_food_shortages
-     - utter_germany_food_shortages
+* tr_germany_food_shortages
+     - utter_tr_germany_food_shortages
 
 ## work_covid_general path
-* work_covid_general
-     - utter_work_covid_general
+* tr_work_covid_general
+     - utter_tr_work_covid_general
 
 ## mask_general path
-* mask_general
-     - utter_mask_general
+* tr_mask_general
+     - utter_tr_mask_general
 
 ## myth_alcohol path
-* myth_alcohol
-     - utter_myth_alcohol
+* tr_myth_alcohol
+     - utter_tr_myth_alcohol
 
 ## germany_food_buy path
-* germany_food_buy
-     - utter_germany_food_buy
+* tr_germany_food_buy
+     - utter_tr_germany_food_buy
 
 ## vocative_no path
-* vocative_no
-     - utter_vocative_no
+* tr_vocative_no
+     - utter_tr_vocative_no
 
 ## bot_books path
-* bot_books
-     - utter_bot_books
+* tr_bot_books
+     - utter_tr_bot_books
 
 ## germany_spread_water path
-* germany_spread_water
-     - utter_germany_spread_water
+* tr_germany_spread_water
+     - utter_tr_germany_spread_water
 
 ## prevention_touch path
-* prevention_touch
-     - utter_prevention_touch
+* tr_prevention_touch
+     - utter_tr_prevention_touch
 
 ## germany_precautions_rheinland path
-* germany_precautions_rheinland
-     - utter_germany_precautions_rheinland
+* tr_germany_precautions_rheinland
+     - utter_tr_germany_precautions_rheinland
 
 ## germany_neighbors_close_borders path
-* germany_neighbors_close_borders
-     - utter_germany_neighbors_close_borders
+* tr_germany_neighbors_close_borders
+     - utter_tr_germany_neighbors_close_borders
 
 ## covid_meaning path
-* covid_meaning
-     - utter_covid_meaning
+* tr_covid_meaning
+     - utter_tr_covid_meaning
 
 ## prevention_clean_hands path
-* prevention_clean_hands
-     - utter_prevention_clean_hands
+* tr_prevention_clean_hands
+     - utter_tr_prevention_clean_hands
 
 ## bot_appearance path
-* bot_appearance
-     - utter_bot_appearance
+* tr_bot_appearance
+     - utter_tr_bot_appearance
 
 ## germany_preparation path
-* germany_preparation
-     - utter_germany_preparation
+* tr_germany_preparation
+     - utter_tr_germany_preparation
 
 ## vocative_yes path
-* vocative_yes
-     - utter_vocative_yes
+* tr_vocative_yes
+     - utter_tr_vocative_yes
 
 ## bot_personality path
-* bot_personality
-     - utter_bot_personality
+* tr_bot_personality
+     - utter_tr_bot_personality
 
 ## bot_languages path
-* bot_languages
-     - utter_bot_languages
+* tr_bot_languages
+     - utter_tr_bot_languages
 
 ## sources path
-* sources
-     - utter_sources
+* tr_sources
+     - utter_tr_sources
 
 ## bot_sports path
-* bot_sports
-     - utter_bot_sports
+* tr_bot_sports
+     - utter_tr_bot_sports
 
 ## test_stay_in_china path
-* test_stay_in_china
-     - utter_test_stay_in_china
+* tr_test_stay_in_china
+     - utter_tr_test_stay_in_china
 
 ## spread_feces path
-* spread_feces
-     - utter_spread_feces
+* tr_spread_feces
+     - utter_tr_spread_feces
 
 ## vocative_sorry path
-* vocative_sorry
-     - utter_vocative_sorry
+* tr_vocative_sorry
+     - utter_tr_vocative_sorry
 
 ## travel_before path
-* travel_before
-     - utter_travel_before
+* tr_travel_before
+     - utter_tr_travel_before
 
 ## covid_unknown_cases path
-* covid_unknown_cases
-     - utter_covid_unknown_cases
+* tr_covid_unknown_cases
+     - utter_tr_covid_unknown_cases
 
 ## greeting_hello path
-* greeting_hello
-     - utter_greeting_hello
+* tr_greeting_hello
+     - utter_tr_greeting_hello
 
 ## comment_offense path
-* comment_offense
-     - utter_comment_offense
+* tr_comment_offense
+     - utter_tr_comment_offense
 
 ## travel_risk_countries path
-* travel_risk_countries
-     - utter_travel_risk_countries
+* tr_travel_risk_countries
+     - utter_tr_travel_risk_countries
 
 ## user_no_data path
-* user_no_data
-     - utter_user_no_data
+* tr_user_no_data
+     - utter_tr_user_no_data
 
 ## test_quick_test path
-* test_quick_test
-     - utter_test_quick_test
+* tr_test_quick_test
+     - utter_tr_test_quick_test
 
 ## covid_risk_people path
-* covid_risk_people
-     - utter_covid_risk_people
+* tr_covid_risk_people
+     - utter_tr_covid_risk_people
 
 ## germany_spread path
-* germany_spread
-     - utter_germany_spread
+* tr_germany_spread
+     - utter_tr_germany_spread
 
 ## work_public_transportation path
-* work_public_transportation
-     - utter_work_public_transportation
+* tr_work_public_transportation
+     - utter_tr_work_public_transportation
 
 ## germany_precautions_berlin path
-* germany_precautions_berlin
-     - utter_germany_precautions_berlin
+* tr_germany_precautions_berlin
+     - utter_tr_germany_precautions_berlin
 
 ## covid_crisis_howlong path
-* covid_crisis_howlong
-     - utter_covid_crisis_howlong
+* tr_covid_crisis_howlong
+     - utter_tr_covid_crisis_howlong
 
 ## cc_philosophical path
-* cc_philosophical
-     - utter_cc_philosophical
+* tr_cc_philosophical
+     - utter_tr_cc_philosophical
 
 ## bot_residence path
-* bot_residence
-     - utter_bot_residence
+* tr_bot_residence
+     - utter_tr_bot_residence
 
 ## travel_cancel path
-* travel_cancel
-     - utter_travel_cancel
+* tr_travel_cancel
+     - utter_tr_travel_cancel
 
 ## germany_current_situation path
-* germany_current_situation
-     - utter_germany_current_situation
+* tr_germany_current_situation
+     - utter_tr_germany_current_situation
 
 ## myths_vitamins_plants_minerals_homeopathy path
-* myths_vitamins_plants_minerals_homeopathy
-     - utter_myths_vitamins_plants_minerals_homeopathy
+* tr_myths_vitamins_plants_minerals_homeopathy
+     - utter_tr_myths_vitamins_plants_minerals_homeopathy
 
 ## user_no_further_questions path
-* user_no_further_questions
-     - utter_user_no_further_questions
+* tr_user_no_further_questions
+     - utter_tr_user_no_further_questions
 
 ## travel_return path
-* travel_return
-     - utter_travel_return
+* tr_travel_return
+     - utter_tr_travel_return
 
 ## bot_sexual path
-* bot_sexual
-     - utter_bot_sexual
+* tr_bot_sexual
+     - utter_tr_bot_sexual
 
 ## germany_precautions_hessen path
-* germany_precautions_hessen
-     - utter_germany_precautions_hessen
+* tr_germany_precautions_hessen
+     - utter_tr_germany_precautions_hessen
 
 ## work_infection path
-* work_infection
-     - utter_work_infection
+* tr_work_infection
+     - utter_tr_work_infection
 
 ## bot_availability path
-* bot_availability
-     - utter_bot_availability
+* tr_bot_availability
+     - utter_tr_bot_availability
 
 ## stayhomeinfo_jogging path
-* stayhomeinfo_jogging
-     - utter_stayhomeinfo_jogging
+* tr_stayhomeinfo_jogging
+     - utter_tr_stayhomeinfo_jogging
 
 ## stayhomeinfo_authorities path
-* stayhomeinfo_authorities
-     - utter_stayhomeinfo_authorities
+* tr_stayhomeinfo_authorities
+     - utter_tr_stayhomeinfo_authorities
 
 ## stayhomeinfo_visit60 path
-* stayhomeinfo_visit60
-     - utter_stayhomeinfo_visit60
+* tr_stayhomeinfo_visit60
+     - utter_tr_stayhomeinfo_visit60
 
 ## userfeeling_happy path
-* userfeeling_happy
-     - utter_userfeeling_happy
+* tr_userfeeling_happy
+     - utter_tr_userfeeling_happy
 
 ## prevention_medical_attention path
-* prevention_medical_attention
-     - utter_prevention_medical_attention
+* tr_prevention_medical_attention
+     - utter_tr_prevention_medical_attention
 
 ## bot_capabilities path
-* bot_capabilities
-     - utter_bot_capabilities
+* tr_bot_capabilities
+     - utter_tr_bot_capabilities
 
 ## work_continued_payment path
-* work_continued_payment
-     - utter_work_continued_payment
+* tr_work_continued_payment
+     - utter_tr_work_continued_payment
 
 ## travel_returnprogram path
-* travel_returnprogram
-     - utter_travel_returnprogram
+* tr_travel_returnprogram
+     - utter_tr_travel_returnprogram
 
 ## spread_no_symptoms path
-* spread_no_symptoms
-     - utter_spread_no_symptoms
+* tr_spread_no_symptoms
+     - utter_tr_spread_no_symptoms
 
 ## travel_general path
-* travel_general
-     - utter_travel_general
+* tr_travel_general
+     - utter_tr_travel_general
 
 ## comment_racist path
-* comment_racist
-     - utter_comment_racist
+* tr_comment_racist
+     - utter_tr_comment_racist
 
 ## prevention_distance path
-* prevention_distance
-     - utter_prevention_distance
+* tr_prevention_distance
+     - utter_tr_prevention_distance
 
 ## features_time path
-* features_time
-     - utter_features_time
+* tr_features_time
+     - utter_tr_features_time
 
 ## quarantine_general path
-* quarantine_general
-     - utter_quarantine_general
+* tr_quarantine_general
+     - utter_tr_quarantine_general
 
 ## cc_chicken_egg path
-* cc_chicken_egg
-     - utter_cc_chicken_egg
+* tr_cc_chicken_egg
+     - utter_tr_cc_chicken_egg
 
 ## greeting_goodbye path
-* greeting_goodbye
-     - utter_greeting_goodbye
+* tr_greeting_goodbye
+     - utter_tr_greeting_goodbye
 
 ## cc_fun_fact path
-* cc_fun_fact
-     - utter_cc_fun_fact
+* tr_cc_fun_fact
+     - utter_tr_cc_fun_fact
 
 ## covid_mortality_rate path
-* covid_mortality_rate
-     - utter_covid_mortality_rate
+* tr_covid_mortality_rate
+     - utter_tr_covid_mortality_rate
 
 ## stayhomeinfo_network_congestion path
-* stayhomeinfo_network_congestion
-     - utter_stayhomeinfo_network_congestion
+* tr_stayhomeinfo_network_congestion
+     - utter_tr_stayhomeinfo_network_congestion
 
 ## stayhomeinfo_drive_other_city path
-* stayhomeinfo_drive_other_city
-     - utter_stayhomeinfo_drive_other_city
+* tr_stayhomeinfo_drive_other_city
+     - utter_tr_stayhomeinfo_drive_other_city
 
 ## bot_sing path
-* bot_sing
-     - utter_bot_sing
+* tr_bot_sing
+     - utter_tr_bot_sing
 
 ## cc_religion path
-* cc_religion
-     - utter_cc_religion
+* tr_cc_religion
+     - utter_tr_cc_religion
 
 ## vocative_call path
-* vocative_call
-     - utter_vocative_call
+* tr_vocative_call
+     - utter_tr_vocative_call
 
 ## germany_precautions_saarland path
-* germany_precautions_saarland
-     - utter_germany_precautions_saarland
+* tr_germany_precautions_saarland
+     - utter_tr_germany_precautions_saarland
 
 ## spread_heat_cold path
-* spread_heat_cold
-     - utter_spread_heat_cold
+* tr_spread_heat_cold
+     - utter_tr_spread_heat_cold
 
 ## germany_precautions_sachsen path
-* germany_precautions_sachsen
-     - utter_germany_precautions_sachsen
+* tr_germany_precautions_sachsen
+     - utter_tr_germany_precautions_sachsen
 
 ## germany_precautions_brandenburg path
-* germany_precautions_brandenburg
-     - utter_germany_precautions_brandenburg
+* tr_germany_precautions_brandenburg
+     - utter_tr_germany_precautions_brandenburg
 
 ## work_homeoffice_rights path
-* work_homeoffice_rights
-     - utter_work_homeoffice_rights
+* tr_work_homeoffice_rights
+     - utter_tr_work_homeoffice_rights
 
 ## germany_nomoney path
-* germany_nomoney
-     - utter_germany_nomoney
+* tr_germany_nomoney
+     - utter_tr_germany_nomoney
 
 ## germany_consequences path
-* germany_consequences
-     - utter_germany_consequences
+* tr_germany_consequences
+     - utter_tr_germany_consequences
 
 ## bot_personal_questions path
-* bot_personal_questions
-     - utter_bot_personal_questions
+* tr_bot_personal_questions
+     - utter_tr_bot_personal_questions
 
 ## cc_geography path
-* cc_geography
-     - utter_cc_geography
+* tr_cc_geography
+     - utter_tr_cc_geography
 
 ## covid_ibuprofen path
-* covid_ibuprofen
-     - utter_covid_ibuprofen
+* tr_covid_ibuprofen
+     - utter_tr_covid_ibuprofen
 
 ## bot_worst_experience path
-* bot_worst_experience
-     - utter_bot_worst_experience
+* tr_bot_worst_experience
+     - utter_tr_bot_worst_experience
 
 ## covid_treatment path
-* covid_treatment
-     - utter_covid_treatment
+* tr_covid_treatment
+     - utter_tr_covid_treatment
 
 ## germany_precautions_bremen path
-* germany_precautions_bremen
-     - utter_germany_precautions_bremen
+* tr_germany_precautions_bremen
+     - utter_tr_germany_precautions_bremen
 
 ## spread_surfaces_food_objects path
-* spread_surfaces_food_objects
-     - utter_spread_surfaces_food_objects
+* tr_spread_surfaces_food_objects
+     - utter_tr_spread_surfaces_food_objects
 
 ## germany_precautions_thüringen path
-* germany_precautions_thüringen
-     - utter_germany_precautions_thüringen
+* tr_germany_precautions_thüringen
+     - utter_tr_germany_precautions_thüringen
 
 ## comment_positive path
-* comment_positive
-     - utter_comment_positive
+* tr_comment_positive
+     - utter_tr_comment_positive
 
 ## covid_procedure_after_infection path
-* covid_procedure_after_infection
-     - utter_covid_procedure_after_infection
+* tr_covid_procedure_after_infection
+     - utter_tr_covid_procedure_after_infection
 
 ## comment_smart path
-* comment_smart
-     - utter_comment_smart
+* tr_comment_smart
+     - utter_tr_comment_smart
 
 ## myths_conspiracy_fakenews path
-* myths_conspiracy_fakenews
-     - utter_myths_conspiracy_fakenews
+* tr_myths_conspiracy_fakenews
+     - utter_tr_myths_conspiracy_fakenews
 
 ## quarantine_toiletpaper path
-* quarantine_toiletpaper
-     - utter_quarantine_toiletpaper
+* tr_quarantine_toiletpaper
+     - utter_tr_quarantine_toiletpaper
 
 ## germany_precautions_schleswigholstein path
-* germany_precautions_schleswigholstein
-     - utter_germany_precautions_schleswigholstein
+* tr_germany_precautions_schleswigholstein
+     - utter_tr_germany_precautions_schleswigholstein
 
 ## bot_music path
-* bot_music
-     - utter_bot_music
+* tr_bot_music
+     - utter_tr_bot_music
 
 ## spread_air path
-* spread_air
-     - utter_spread_air
+* tr_spread_air
+     - utter_tr_spread_air
 
 ## cc_highest_building path
-* cc_highest_building
-     - utter_cc_highest_building
+* tr_cc_highest_building
+     - utter_tr_cc_highest_building
 
 ## quarantine_when_who_howlong path
-* quarantine_when_who_howlong
-     - utter_quarantine_when_who_howlong
+* tr_quarantine_when_who_howlong
+     - utter_tr_quarantine_when_who_howlong
 
 ## germany_precautions_badenw path
-* germany_precautions_badenw
-     - utter_germany_precautions_badenw
+* tr_germany_precautions_badenw
+     - utter_tr_germany_precautions_badenw
 
 ## prevention_home path
-* prevention_home
-     - utter_prevention_home
+* tr_prevention_home
+     - utter_tr_prevention_home
 
 ## mask_differences path
-* mask_differences
-     - utter_mask_differences
+* tr_mask_differences
+     - utter_tr_mask_differences
 
 ## covid_incubation path
-* covid_incubation
-     - utter_covid_incubation
+* tr_covid_incubation
+     - utter_tr_covid_incubation
 
 ## myth_hot_bath path
-* myth_hot_bath
-     - utter_myth_hot_bath
+* tr_myth_hot_bath
+     - utter_tr_myth_hot_bath
 
 ## greeting_how_are_you path
-* greeting_how_are_you
-     - utter_greeting_how_are_you
+* tr_greeting_how_are_you
+     - utter_tr_greeting_how_are_you
 
 ## mask_ffp3 path
-* mask_ffp3
-     - utter_mask_ffp3
+* tr_mask_ffp3
+     - utter_tr_mask_ffp3
 
 ## germany_precautions_mecklenburg path
-* germany_precautions_mecklenburg
-     - utter_germany_precautions_mecklenburg
+* tr_germany_precautions_mecklenburg
+     - utter_tr_germany_precautions_mecklenburg
 
 ## bot_version path
-* bot_version
-     - utter_bot_version
+* tr_bot_version
+     - utter_tr_bot_version
 
 ## covid_worry path
-* covid_worry
-     - utter_covid_worry
+* tr_covid_worry
+     - utter_tr_covid_worry
 
 ## bot_origin path
-* bot_origin
-     - utter_bot_origin
+* tr_bot_origin
+     - utter_tr_bot_origin
 
 ## economy_consequences path
-* economy_consequences
-     - utter_economy_consequences
+* tr_economy_consequences
+     - utter_tr_economy_consequences
 
 ## covid_duration path
-* covid_duration
-     - utter_covid_duration
+* tr_covid_duration
+     - utter_tr_covid_duration
 
 ## bot_goal path
-* bot_goal
-     - utter_bot_goal
+* tr_bot_goal
+     - utter_tr_bot_goal
 
 ## vocative_help path
-* vocative_help
-     - utter_vocative_help
+* tr_vocative_help
+     - utter_tr_vocative_help
 
 ## bot_games path
-* bot_games
-     - utter_bot_games
+* tr_bot_games
+     - utter_tr_bot_games
 
 ## bot_real path
-* bot_real
-     - utter_bot_real
+* tr_bot_real
+     - utter_tr_bot_real
 
 ## prevention_general path
-* prevention_general
-     - utter_prevention_general
+* tr_prevention_general
+     - utter_tr_prevention_general
 
 ## cc_lets_talk path
-* cc_lets_talk
-     - utter_cc_lets_talk
+* tr_cc_lets_talk
+     - utter_tr_cc_lets_talk
 
 ## germany_hotline path
-* germany_hotline
-     - utter_germany_hotline
+* tr_germany_hotline
+     - utter_tr_germany_hotline
 
 ## quarantine_control path
-* quarantine_control
-     - utter_quarantine_control
+* tr_quarantine_control
+     - utter_tr_quarantine_control
 
 ## covid_difference_influenza path
-* covid_difference_influenza
-     - utter_covid_difference_influenza
+* tr_covid_difference_influenza
+     - utter_tr_covid_difference_influenza
 
 ## bot_movies path
-* bot_movies
-     - utter_bot_movies
+* tr_bot_movies
+     - utter_tr_bot_movies
 
 ## test_who path
-* test_who
-     - utter_test_who
+* tr_test_who
+     - utter_tr_test_who
 
 ## cc_weather path
-* cc_weather
-     - utter_cc_weather
+* tr_cc_weather
+     - utter_tr_cc_weather
 
 ## test_payment path
-* test_payment
-     - utter_test_payment
+* tr_test_payment
+     - utter_tr_test_payment
 
 ## user_angry path
-* user_angry
-     - utter_user_angry
+* tr_user_angry
+     - utter_tr_user_angry
 
 ## stayhomeinfo_visit_parents_children path
-* stayhomeinfo_visit_parents_children
-     - utter_stayhomeinfo_visit_parents_children
+* tr_stayhomeinfo_visit_parents_children
+     - utter_tr_stayhomeinfo_visit_parents_children
 
 ## stayhomeinfo_mask_supermarket path
-* stayhomeinfo_mask_supermarket
-     - utter_stayhomeinfo_mask_supermarket
+* tr_stayhomeinfo_mask_supermarket
+     - utter_tr_stayhomeinfo_mask_supermarket
 
 ## features_date path
-* features_date
-     - utter_features_date
+* tr_features_date
+     - utter_tr_features_date
 
 ## germany_lockdown_howlong path
-* germany_lockdown_howlong
-     - utter_germany_lockdown_howlong
+* tr_germany_lockdown_howlong
+     - utter_tr_germany_lockdown_howlong
 
 ## myth_mosquito path
-* myth_mosquito
-     - utter_myth_mosquito
+* tr_myth_mosquito
+     - utter_tr_myth_mosquito
 
 ## bot_name path
-* bot_name
-     - utter_bot_name
+* tr_bot_name
+     - utter_tr_bot_name
 
 ## stayhomeinfo_open path
-* stayhomeinfo_open
-     - utter_stayhomeinfo_open
+* tr_stayhomeinfo_open
+     - utter_tr_stayhomeinfo_open
 
 ## covid_info path
-* covid_info
-     - utter_covid_info
+* tr_covid_info
+     - utter_tr_covid_info

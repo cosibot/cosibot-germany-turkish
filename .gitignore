@@ -1,7 +1,7 @@
-bot/models/
-bot/results/
-bot/train_test_split/
-countries/
-data/
-old/
-scripts/
+/bot/models/
+/bot/results/
+/bot/train_test_split/
+/countries/
+/data/
+/old/
+/scripts/

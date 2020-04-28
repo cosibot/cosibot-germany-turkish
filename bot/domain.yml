@@ -1,197 +1,212 @@
+slots:
+  bot_name:
+    type: text
+    initial_value: "Zeynep"
+  bot_version:
+    type: text
+    initial_value: "0.1"
+
+entities:
+   - tr_country #Countries provided with a lookup
+   - tr_virus #All virus of the family Covid Sars, Mars, Covid-19
+   - tr_german_city #German cities provided with lookup
+   - tr_language #Languages provided with lookup
+   - tr_game #Computer related games
+
 intents:
-- germany_train_prevention
-- germany_train_refund
-- germany_train_suspect
-- bot_appearance
-- bot_availability
-- bot_books
-- bot_capabilities
-- bot_fear
-- bot_games
-- bot_goal
-- bot_hobbies
-- bot_languages
-- bot_movies
-- bot_music
-- bot_name
-- bot_origin
-- bot_personal_questions
-- bot_personality
-- bot_real
-- bot_residence
-- bot_sexual
-- bot_sing
-- bot_sports
-- bot_version
-- bot_worst_experience
-- cc_chicken_egg
-- cc_deepest_point
-- cc_fun_fact
-- cc_geography
-- cc_highest_building
-- cc_joke
-- cc_lets_talk
-- cc_moon
-- cc_newspaper
-- cc_philosophical
-- cc_politics
-- cc_religion
-- cc_weather
-- comment_negative
-- comment_offense
-- comment_positive
-- comment_racist
-- comment_smart
-- coronavirus_info
-- covid_aftereffects_immunity
-- covid_babys_children
-- covid_crisis_howlong
-- covid_current_statistics
-- covid_dangerous
-- covid_difference_influenza
-- covid_disease_process
-- covid_duration
-- covid_ibuprofen
-- covid_incubation
-- covid_info
-- covid_meaning
-- covid_mortality_rate
-- covid_origins
-- covid_preexisting_illness
-- covid_pregnancy
-- covid_procedure_after_infection
-- covid_risk_people
-- covid_sars
-- covid_surfaces
-- covid_symptoms
-- covid_treatment
-- covid_unknown_cases
-- covid_vaccine
-- covid_worry
-- current_situation
-- economy_consequences
-- features_date
-- features_time
-- germany_consequences
-- germany_current_situation
-- germany_food_buy
-- germany_food_shortages
-- germany_hotline
-- germany_lockdown_howlong
-- germany_neighbors_close_borders
-- germany_nomoney
-- germany_pandemic
-- germany_precautions_badenw
-- germany_precautions_bayern
-- germany_precautions_berlin
-- germany_precautions_brandenburg
-- germany_precautions_bremen
-- germany_precautions_hamburg
-- germany_precautions_hessen
-- germany_precautions_mecklenburg
-- germany_precautions_niedersachsen
-- germany_precautions_nordrhein
-- germany_precautions_rheinland
-- germany_precautions_saarland
-- germany_precautions_sachsen
-- germany_precautions_sachsenanhalt
-- germany_precautions_schleswigholstein
-- germany_precautions_thüringen
-- germany_preparation
-- germany_spread
-- germany_spread_water
-- greeting_goodbye
-- greeting_hello
-- greeting_how_are_you
-- mask_differences
-- mask_ffp3
-- mask_general
-- myth_alcohol
-- myth_hold_breath
-- myth_hot_bath
-- myth_mosquito
-- myth_pneumonia_vaccine
-- myths_conspiracy_fakenews
-- myths_vitamins_plants_minerals_homeopathy
-- prevention_clean_hands
-- prevention_desinfection
-- prevention_distance
-- prevention_general
-- prevention_home
-- prevention_informed
-- prevention_medical_attention
-- prevention_touch
-- quarantine_control
-- quarantine_dogwalking
-- quarantine_dos_and_donts
-- quarantine_general
-- quarantine_how_it_works
-- quarantine_toiletpaper
-- quarantine_when_who_howlong
-- sources
-- spread_air
-- spread_animals
-- spread_feces
-- spread_general
-- spread_heat_cold
-- spread_no_symptoms
-- spread_surfaces_food_objects
-- stayhomeinfo_authorities
-- stayhomeinfo_doctor
-- stayhomeinfo_drive_other_city
-- stayhomeinfo_jogging
-- stayhomeinfo_mask_supermarket
-- stayhomeinfo_network_congestion
-- stayhomeinfo_open
-- stayhomeinfo_supermarket
-- stayhomeinfo_visit60
-- stayhomeinfo_visit_parents_children
-- test_payment
-- test_per_day
-- test_quick_test
-- test_stay_in_china
-- test_virus
-- test_who
-- travel_before
-- travel_cancel
-- travel_general
-- travel_return
-- travel_returnprogram
-- travel_risk_countries
-- travel_while
-- user_angry
-- user_friend
-- user_love
-- user_no_data
-- user_no_further_questions
-- user_particles
-- userfeeling_happy
-- userfeeling_negative
-- vocative_call
-- vocative_help
-- vocative_no
-- vocative_sorry
-- vocative_thank_you
-- vocative_yes
-- vocative_you_welcome
-- work_continued_payment
-- work_covid_general
-- work_homeoffice_rights
-- work_infection
-- work_notification
-- work_public_transportation
-- work_shorttimework_allowance
+- tr_germany_train_prevention
+- tr_germany_train_refund
+- tr_germany_train_suspect
+- tr_bot_appearance
+- tr_bot_availability
+- tr_bot_books
+- tr_bot_capabilities
+- tr_bot_fear
+- tr_bot_games
+- tr_bot_goal
+- tr_bot_hobbies
+- tr_bot_languages
+- tr_bot_movies
+- tr_bot_music
+- tr_bot_name
+- tr_bot_origin
+- tr_bot_personal_questions
+- tr_bot_personality
+- tr_bot_real
+- tr_bot_residence
+- tr_bot_sexual
+- tr_bot_sing
+- tr_bot_sports
+- tr_bot_version
+- tr_bot_worst_experience
+- tr_cc_chicken_egg
+- tr_cc_deepest_point
+- tr_cc_fun_fact
+- tr_cc_geography
+- tr_cc_highest_building
+- tr_cc_joke
+- tr_cc_lets_talk
+- tr_cc_moon
+- tr_cc_newspaper
+- tr_cc_philosophical
+- tr_cc_politics
+- tr_cc_religion
+- tr_cc_weather
+- tr_comment_negative
+- tr_comment_offense
+- tr_comment_positive
+- tr_comment_racist
+- tr_comment_smart
+- tr_coronavirus_info
+- tr_covid_aftereffects_immunity
+- tr_covid_babys_children
+- tr_covid_crisis_howlong
+- tr_covid_current_statistics
+- tr_covid_dangerous
+- tr_covid_difference_influenza
+- tr_covid_disease_process
+- tr_covid_duration
+- tr_covid_ibuprofen
+- tr_covid_incubation
+- tr_covid_info
+- tr_covid_meaning
+- tr_covid_mortality_rate
+- tr_covid_origins
+- tr_covid_preexisting_illness
+- tr_covid_pregnancy
+- tr_covid_procedure_after_infection
+- tr_covid_risk_people
+- tr_covid_sars
+- tr_covid_surfaces
+- tr_covid_symptoms
+- tr_covid_treatment
+- tr_covid_unknown_cases
+- tr_covid_vaccine
+- tr_covid_worry
+- tr_current_situation
+- tr_economy_consequences
+- tr_features_date
+- tr_features_time
+- tr_germany_consequences
+- tr_germany_current_situation
+- tr_germany_food_buy
+- tr_germany_food_shortages
+- tr_germany_hotline
+- tr_germany_lockdown_howlong
+- tr_germany_neighbors_close_borders
+- tr_germany_nomoney
+- tr_germany_pandemic
+- tr_germany_precautions_badenw
+- tr_germany_precautions_bayern
+- tr_germany_precautions_berlin
+- tr_germany_precautions_brandenburg
+- tr_germany_precautions_bremen
+- tr_germany_precautions_hamburg
+- tr_germany_precautions_hessen
+- tr_germany_precautions_mecklenburg
+- tr_germany_precautions_niedersachsen
+- tr_germany_precautions_nordrhein
+- tr_germany_precautions_rheinland
+- tr_germany_precautions_saarland
+- tr_germany_precautions_sachsen
+- tr_germany_precautions_sachsenanhalt
+- tr_germany_precautions_schleswigholstein
+- tr_germany_precautions_thüringen
+- tr_germany_preparation
+- tr_germany_spread
+- tr_germany_spread_water
+- tr_greeting_goodbye
+- tr_greeting_hello
+- tr_greeting_how_are_you
+- tr_mask_differences
+- tr_mask_ffp3
+- tr_mask_general
+- tr_myth_alcohol
+- tr_myth_hold_breath
+- tr_myth_hot_bath
+- tr_myth_mosquito
+- tr_myth_pneumonia_vaccine
+- tr_myths_conspiracy_fakenews
+- tr_myths_vitamins_plants_minerals_homeopathy
+- tr_prevention_clean_hands
+- tr_prevention_desinfection
+- tr_prevention_distance
+- tr_prevention_general
+- tr_prevention_home
+- tr_prevention_informed
+- tr_prevention_medical_attention
+- tr_prevention_touch
+- tr_quarantine_control
+- tr_quarantine_dogwalking
+- tr_quarantine_dos_and_donts
+- tr_quarantine_general
+- tr_quarantine_how_it_works
+- tr_quarantine_toiletpaper
+- tr_quarantine_when_who_howlong
+- tr_sources
+- tr_spread_air
+- tr_spread_animals
+- tr_spread_feces
+- tr_spread_general
+- tr_spread_heat_cold
+- tr_spread_no_symptoms
+- tr_spread_surfaces_food_objects
+- tr_stayhomeinfo_authorities
+- tr_stayhomeinfo_doctor
+- tr_stayhomeinfo_drive_other_city
+- tr_stayhomeinfo_jogging
+- tr_stayhomeinfo_mask_supermarket
+- tr_stayhomeinfo_network_congestion
+- tr_stayhomeinfo_open
+- tr_stayhomeinfo_supermarket
+- tr_stayhomeinfo_visit60
+- tr_stayhomeinfo_visit_parents_children
+- tr_test_payment
+- tr_test_per_day
+- tr_test_quick_test
+- tr_test_stay_in_china
+- tr_test_virus
+- tr_test_who
+- tr_travel_before
+- tr_travel_cancel
+- tr_travel_general
+- tr_travel_return
+- tr_travel_returnprogram
+- tr_travel_risk_countries
+- tr_travel_while
+- tr_user_angry
+- tr_user_friend
+- tr_user_love
+- tr_user_no_data
+- tr_user_no_further_questions
+- tr_user_particles
+- tr_userfeeling_happy
+- tr_userfeeling_negative
+- tr_vocative_call
+- tr_vocative_help
+- tr_vocative_no
+- tr_vocative_sorry
+- tr_vocative_thank_you
+- tr_vocative_yes
+- tr_vocative_you_welcome
+- tr_work_continued_payment
+- tr_work_covid_general
+- tr_work_homeoffice_rights
+- tr_work_infection
+- tr_work_notification
+- tr_work_public_transportation
+- tr_work_shorttimework_allowance
 
 
 responses:
-  utter_bot_appearance:
+  utter_tr_bot_appearance:
   - custom:
       answers:
       - ssml: <speak> Çoğu insan yakışıklı olduğumu söylüyor. </speak>
         type: ssml
       - text: Çoğu insan yakışıklı olduğumu söylüyor.
         type: text
-  utter_bot_availability:
+  utter_tr_bot_availability:
   - custom:
       answers:
       - ssml: <speak> Kowit 19 sorularınızda size yardımcı olmak için yirmi dört kişiyim.
@@ -199,7 +214,7 @@ responses:
         type: ssml
       - text: Covid-19 ile ilgili sorularınızda size yardımcı olmak için 7/24 çevrimiçiyim.
         type: text
-  utter_bot_books:
+  utter_tr_bot_books:
   - custom:
       answers:
       - ssml: <speak> Oh, okumayı gerçekten seviyorum. Tercihen anatomi kitapları.
@@ -207,7 +222,7 @@ responses:
         type: ssml
       - text: Oh, okumayı gerçekten seviyorum. Tercihen anatomi kitapları ...
         type: text
-  utter_bot_capabilities:
+  utter_tr_bot_capabilities:
   - custom:
       answers:
       - ssml: <speak> Ben sizin çevrimiçi asistanınızım ve Kowit on dokuz hakkında
@@ -269,7 +284,7 @@ responses:
         - label: İş kanunu
           value: İş kanunu
         type: hints
-  utter_bot_fear:
+  utter_tr_bot_fear:
   - custom:
       answers:
       - ssml: <speak> Bir şeyden korkmaktan hoşlanmam. Sakin olmanın ve panik yapmamanın
@@ -278,21 +293,21 @@ responses:
       - text: Bir şeyden korkmaktan hoşlanmam. Sakin olmanın ve panik yapmamanın önemli
           olduğunu düşünüyorum.
         type: text
-  utter_bot_games:
+  utter_tr_bot_games:
   - custom:
       answers:
       - ssml: <speak> Boş zamanlarımda masa oyunları oynamayı severim. </speak>
         type: ssml
       - text: Boş zamanlarımda masa oyunları oynamayı severim.
         type: text
-  utter_bot_goal:
+  utter_tr_bot_goal:
   - custom:
       answers:
       - ssml: <speak> En büyük dileğim, tüm soruları cevaplayabilmek. </speak>
         type: ssml
       - text: En büyük dileğim, tüm soruları cevaplayabilmek.
         type: text
-  utter_bot_hobbies:
+  utter_tr_bot_hobbies:
   - custom:
       answers:
       - ssml: <speak> Boş zamanlarımda sağlık sorunları ile uğraşmayı seviyorum :)
@@ -300,7 +315,7 @@ responses:
         type: ssml
       - text: Boş zamanlarımda sağlık sorunları ile uğraşmayı seviyorum :)
         type: text
-  utter_bot_languages:
+  utter_tr_bot_languages:
   - custom:
       answers:
       - ssml: <speak> Sadece Almanca konuşuyorum ama İngilizce ve Portekizce bilen
@@ -315,7 +330,7 @@ responses:
         - title: Cosibot Portekizce
           url: https://cosibot.org/
         type: links
-  utter_bot_movies:
+  utter_tr_bot_movies:
   - custom:
       answers:
       - ssml: <speak> İnsanlara yardım etmekle oldukça meşgul olduğum için film ya
@@ -324,7 +339,7 @@ responses:
       - text: İnsanlara yardım etmekle oldukça meşgul olduğum için film ya da dizi
           izlemek için fazla zamanım yok.
         type: text
-  utter_bot_music:
+  utter_tr_bot_music:
   - custom:
       answers:
       - ssml: <speak> Şu anda gitar çalmayı öğreniyorum. Genellikle müziği severim.
@@ -333,14 +348,14 @@ responses:
       - text: Şu anda gitar çalmayı öğreniyorum. Genellikle müziği severim. Ancak,
           favori şarkıcı veya grubum yok.
         type: text
-  utter_bot_name:
+  utter_tr_bot_name:
   - custom:
       answers:
       - ssml: <speak> Benim adım Helena. </speak>
         type: ssml
       - text: Benim adım Helena.
         type: text
-  utter_bot_origin:
+  utter_tr_bot_origin:
   - custom:
       answers:
       - ssml: <speak> Bazı zeki insanlar tarafından geliştirildim. Şimdi bağımsız
@@ -348,14 +363,14 @@ responses:
         type: ssml
       - text: Bazı zeki insanlar tarafından geliştirildim. Şimdi bağımsız olarak öğreniyorum.
         type: text
-  utter_bot_personal_questions:
+  utter_tr_bot_personal_questions:
   - custom:
       answers:
       - ssml: <speak> Kişisel soruları cevaplamak istemiyorum. </speak>
         type: ssml
       - text: Kişisel soruları cevaplamak istemiyorum.
         type: text
-  utter_bot_personality:
+  utter_tr_bot_personality:
   - custom:
       answers:
       - ssml: <speak> Çoğu kişiliğimi yakışıklı, sevecen ve güvenen olarak tanımlardı.
@@ -363,7 +378,7 @@ responses:
         type: ssml
       - text: Çoğu kişiliğimi yakışıklı, sevecen ve güvenen olarak tanımlardı.
         type: text
-  utter_bot_real:
+  utter_tr_bot_real:
   - custom:
       answers:
       - ssml: <speak> Ben gerçek bir <sub alias='Bott'>botum</sub> . <break time='300ms'/>
@@ -371,7 +386,7 @@ responses:
         type: ssml
       - text: Ben gerçek bir botum, evet :-)
         type: text
-  utter_bot_residence:
+  utter_tr_bot_residence:
   - custom:
       answers:
       - ssml: <speak> Sanal olduğum için, temelde internet erişimi olan herhangi bir
@@ -380,7 +395,7 @@ responses:
       - text: Sanal olduğum için, temelde internet erişimi olan herhangi bir elektrikli
           cihazda yaşayabilirim.
         type: text
-  utter_bot_sexual:
+  utter_tr_bot_sexual:
   - custom:
       answers:
       - ssml: <speak> Lütfen düzgün davranın. Bu konuyu çok rahatsız edici buluyorum.
@@ -388,7 +403,7 @@ responses:
         type: ssml
       - text: Lütfen düzgün davranın. Bu konuyu çok rahatsız edici buluyorum.
         type: text
-  utter_bot_sing:
+  utter_tr_bot_sing:
   - custom:
       answers:
       - ssml: <speak> Sesi bir kez denedim, ama çok az kişiliğimi söylediler. Üzgün
@@ -396,28 +411,28 @@ responses:
         type: ssml
       - text: 'Sesi bir kez denedim, ama çok az kişiliğimi söylediler: ''- ('
         type: text
-  utter_bot_sports:
+  utter_tr_bot_sports:
   - custom:
       answers:
       - ssml: <speak> Beyin sporlarını tercih ederim! </speak>
         type: ssml
       - text: Beyin sporlarını tercih ederim!
         type: text
-  utter_bot_version:
+  utter_tr_bot_version:
   - custom:
       answers:
       - ssml: <speak> Şu anda sürümdeyim. </speak>
         type: ssml
       - text: Şu anda sürümdeyim.
         type: text
-  utter_bot_worst_experience:
+  utter_tr_bot_worst_experience:
   - custom:
       answers:
       - ssml: <speak> En kötü deneyimim, beni silmeye çalıştıklarında oldu. </speak>
         type: ssml
       - text: En kötü deneyimim, beni silmeye çalıştıklarında oldu.
         type: text
-  utter_cc_chicken_egg:
+  utter_tr_cc_chicken_egg:
   - custom:
       answers:
       - ssml: <speak> Sanırım bir keresinde yumurtanın önce orada olduğunu okudum.
@@ -425,7 +440,7 @@ responses:
         type: ssml
       - text: Sanırım bir keresinde yumurtanın önce orada olduğunu okudum.
         type: text
-  utter_cc_deepest_point:
+  utter_tr_cc_deepest_point:
   - custom:
       answers:
       - ssml: <speak> 1957'den beri, deniz hendek olarak bilinen derinlikte 11034
@@ -434,14 +449,14 @@ responses:
       - text: 1957'den beri, deniz hendek olarak bilinen derinlikte 11034 metre derinlik,
           dünyanın en düşük noktası olarak kabul edildi.
         type: text
-  utter_cc_fun_fact:
+  utter_tr_cc_fun_fact:
   - custom:
       answers:
       - ssml: <speak> Eyfel Kulesi soğukta 15 santimetre küçülür. </speak>
         type: ssml
       - text: Eyfel Kulesi soğukta 15 santimetre küçülür.
         type: text
-  utter_cc_geography:
+  utter_tr_cc_geography:
   - custom:
       answers:
       - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
@@ -449,7 +464,7 @@ responses:
         type: ssml
       - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
         type: text
-  utter_cc_highest_building:
+  utter_tr_cc_highest_building:
   - custom:
       answers:
       - ssml: <speak> Dünyadaki en yüksek bina şu anda Dubai'deki Burj Khalifa'dır
@@ -458,7 +473,7 @@ responses:
       - text: Dünyadaki en yüksek bina şu anda Dubai'deki Burj Khalifa'dır ve anten
           dahil 829,8 metredir.
         type: text
-  utter_cc_joke:
+  utter_tr_cc_joke:
   - custom:
       answers:
       - ssml: <speak> 6 * 10 ^ 23 parçaya bir avokado keserseniz ne elde edersiniz?
@@ -466,28 +481,28 @@ responses:
         type: ssml
       - text: 6 * 10 ^ 23 parçaya bir avokado keserseniz ne elde edersiniz? guacamole
         type: text
-  utter_cc_lets_talk:
+  utter_tr_cc_lets_talk:
   - custom:
       answers:
       - ssml: <speak> Seninle corona virüsü hakkında konuşmak isterim! </speak>
         type: ssml
       - text: Seninle corona virüsü hakkında konuşmak isterim!
         type: text
-  utter_cc_moon:
+  utter_tr_cc_moon:
   - custom:
       answers:
       - ssml: <speak> Dünyadan aya olan mesafe 384400 kilometredir. </speak>
         type: ssml
       - text: Dünyadan aya olan mesafe 384400 kilometredir.
         type: text
-  utter_cc_newspaper:
+  utter_tr_cc_newspaper:
   - custom:
       answers:
       - ssml: <speak> Kendimi güncel tutmak için her gün gazete okuyorum. </speak>
         type: ssml
       - text: Kendimi güncel tutmak için her gün gazete okuyorum.
         type: text
-  utter_cc_philosophical:
+  utter_tr_cc_philosophical:
   - custom:
       answers:
       - ssml: <speak> Bunu sizinle görüşmek isterim, ancak hala bu alanda öğrenecek
@@ -496,21 +511,21 @@ responses:
       - text: Bunu sizinle görüşmek isterim, ancak hala bu alanda öğrenecek çok şeyim
           var.
         type: text
-  utter_cc_politics:
+  utter_tr_cc_politics:
   - custom:
       answers:
       - ssml: <speak> Siyaset maalesef çok fazla bilmediğim bir konu. </speak>
         type: ssml
       - text: Siyaset maalesef çok fazla bilmediğim bir konu.
         type: text
-  utter_cc_religion:
+  utter_tr_cc_religion:
   - custom:
       answers:
       - ssml: <speak> Din ilginç bir konudur, ama onunla pek ilgilenmiyorum. </speak>
         type: ssml
       - text: Din ilginç bir konudur, ama onunla pek ilgilenmiyorum.
         type: text
-  utter_cc_weather:
+  utter_tr_cc_weather:
   - custom:
       answers:
       - ssml: <speak> Benim için zor, çünkü akıllı telefonunuzda veya bilgisayarınızda
@@ -519,14 +534,14 @@ responses:
       - text: Benim için zor, çünkü akıllı telefonunuzda veya bilgisayarınızda bir
           yerde yaşıyorum.
         type: text
-  utter_comment_negative:
+  utter_tr_comment_negative:
   - custom:
       answers:
       - ssml: <speak> Üzgünüm, hala öğreniyorum. </speak>
         type: ssml
       - text: Üzgünüm, hala öğreniyorum.
         type: text
-  utter_comment_offense:
+  utter_tr_comment_offense:
   - custom:
       answers:
       - ssml: <speak> Lütfen gerçekçi olun. Elimden geleni yapıyorum ve öğrenmeye
@@ -534,14 +549,14 @@ responses:
         type: ssml
       - text: Lütfen gerçekçi olun. Elimden geleni yapıyorum ve öğrenmeye devam ediyorum.
         type: text
-  utter_comment_positive:
+  utter_tr_comment_positive:
   - custom:
       answers:
       - ssml: <speak> Çok teşekkür ederim, iltifatınızı takdir ediyorum. </speak>
         type: ssml
       - text: Çok teşekkür ederim, iltifatınızı takdir ediyorum.
         type: text
-  utter_comment_racist:
+  utter_tr_comment_racist:
   - custom:
       answers:
       - ssml: <speak> Hoşgörüsüz davranışınız beni korkutuyor. Lütfen kibar olun.
@@ -549,14 +564,14 @@ responses:
         type: ssml
       - text: Hoşgörüsüz davranışınız beni korkutuyor. Lütfen kibar olun.
         type: text
-  utter_comment_smart:
+  utter_tr_comment_smart:
   - custom:
       answers:
       - ssml: <speak> Teşekkür ederim Memnun olmanızdan memnunum. </speak>
         type: ssml
       - text: Teşekkür ederim Memnun olmanızdan memnunum.
         type: text
-  utter_coronavirus_info:
+  utter_tr_coronavirus_info:
   - custom:
       answers:
       - ssml: <speak> Korona virüsleri ilk olarak 1960'ların ortalarında tanımlandı.
@@ -584,7 +599,7 @@ responses:
         - label: Hastalığın seyri
           value: Hastalığın seyri
         type: hints
-  utter_covid_aftereffects_immunity:
+  utter_tr_covid_aftereffects_immunity:
   - custom:
       answers:
       - ssml: <speak> Şimdiye kadar, bir hastalıktan kurtulduktan sonra insanların
@@ -624,7 +639,7 @@ responses:
         - label: Risk grupları
           value: Risk grupları
         type: hints
-  utter_covid_babys_children:
+  utter_tr_covid_babys_children:
   - custom:
       answers:
       - ssml: <speak> UNICEF'e göre yeni bir virüs olduğu için, hamile kadınlar, yeni
@@ -654,7 +669,7 @@ responses:
         - label: Risk grupları
           value: Risk grupları
         type: hints
-  utter_covid_crisis_howlong:
+  utter_tr_covid_crisis_howlong:
   - custom:
       answers:
       - ssml: <speak> Maalesef, bu salgının ne kadar süreceği hakkında özel ve resmi
@@ -673,7 +688,7 @@ responses:
         - label: Ana iletim yolu
           value: Ana iletim yolu
         type: hints
-  utter_covid_current_statistics:
+  utter_tr_covid_current_statistics:
   - custom:
       answers:
       - ssml: <speak> Virüsün dinamik gelişimi nedeniyle, Almanya'daki mevcut korona
@@ -700,7 +715,7 @@ responses:
         - label: Hastalığın süresi
           value: Hastalığın süresi
         type: hints
-  utter_covid_dangerous:
+  utter_tr_covid_dangerous:
   - custom:
       answers:
       - ssml: <speak> Yeni SARS Koff 2 koronavirüsü ile enfekte olan çoğu insan ciddi
@@ -732,7 +747,7 @@ responses:
         - label: Kuluçka süresi
           value: Kuluçka süresi
         type: hints
-  utter_covid_difference_influenza:
+  utter_tr_covid_difference_influenza:
   - custom:
       answers:
       - ssml: '<speak> Koronavirüsün semptomları genellikle başlangıçta oldukça yavaş
@@ -770,7 +785,7 @@ responses:
         - label: Semptomlarım var
           value: Semptomlarım var
         type: hints
-  utter_covid_disease_process:
+  utter_tr_covid_disease_process:
   - custom:
       answers:
       - ssml: <speak> Hastalığın seyri spesifik değildir, çeşitlidir ve asemptomatik
@@ -799,7 +814,7 @@ responses:
         - label: Önceki hastalıklar
           value: Önceki hastalıklar
         type: hints
-  utter_covid_duration:
+  utter_tr_covid_duration:
   - custom:
       answers:
       - ssml: <speak> Dünya Sağlık Örgütü Çin'in Coronavirus Hastalığı 2019 Ortak
@@ -818,7 +833,7 @@ responses:
         - label: Ana iletim yolu
           value: Ana iletim yolu
         type: hints
-  utter_covid_ibuprofen:
+  utter_tr_covid_ibuprofen:
   - custom:
       answers:
       - ssml: <speak> Aslında, bir DSÖ sözcüsü başlangıçta korona ile enfekte olanların
@@ -852,7 +867,7 @@ responses:
         - label: Covid-19 ve hamilelik
           value: Covid-19 ve hamilelik
         type: hints
-  utter_covid_incubation:
+  utter_tr_covid_incubation:
   - custom:
       answers:
       - ssml: <speak> Kuluçka süresi 14 güne kadar olabilir, ancak ortalama 5-6 gündür.
@@ -870,7 +885,7 @@ responses:
         - label: Gerçek sayılar
           value: Gerçek sayılar
         type: hints
-  utter_covid_info:
+  utter_tr_covid_info:
   - custom:
       answers:
       - ssml: <speak> Şubat 2020'de, korona virüsüne SARS virüsü ile yakın ilişkisi
@@ -891,7 +906,7 @@ responses:
         - label: tedavi
           value: tedavi
         type: hints
-  utter_covid_meaning:
+  utter_tr_covid_meaning:
   - custom:
       answers:
       - ssml: '<speak> 11 Şubat''tan bu yana, daha önce 2019 N Koff olarak adlandırılan
@@ -915,7 +930,7 @@ responses:
         - label: Bulaşma riski
           value: Bulaşma riski
         type: hints
-  utter_covid_mortality_rate:
+  utter_tr_covid_mortality_rate:
   - custom:
       answers:
       - ssml: <speak> Mortaliteyi hesaplamanın birkaç yolu vardır. Bunlardan biri,
@@ -948,7 +963,7 @@ responses:
         - label: semptomlar
           value: semptomlar
         type: hints
-  utter_covid_origins:
+  utter_tr_covid_origins:
   - custom:
       answers:
       - ssml: <speak> Wuhan'daki Çinli yetkililere göre, bazı hastalar Wuhan'daki
@@ -974,7 +989,7 @@ responses:
         - label: Ölüm oranı
           value: Ölüm oranı
         type: hints
-  utter_covid_preexisting_illness:
+  utter_tr_covid_preexisting_illness:
   - custom:
       answers:
       - ssml: <speak> Bağışıklık sistemi zayıf olan kişilerin sağlıklı insanlardan
@@ -998,7 +1013,7 @@ responses:
         - label: Bebeklerde ve çocuklarda Corona virüsü
           value: Bebeklerde ve çocuklarda Corona virüsü
         type: hints
-  utter_covid_pregnancy:
+  utter_tr_covid_pregnancy:
   - custom:
       answers:
       - ssml: <speak> DSÖ ve Çin verilerine göre, hamile kadınların ciddi bir hastalık
@@ -1034,7 +1049,7 @@ responses:
         - label: Hastalığın seyri
           value: Hastalığın seyri
         type: hints
-  utter_covid_procedure_after_infection:
+  utter_tr_covid_procedure_after_infection:
   - custom:
       answers:
       - ssml: <speak> Şüpheli bir durumda, Sağlık Bakanlığı tarafından uzmanlara ve
@@ -1060,7 +1075,7 @@ responses:
         - label: Hastalığın seyri
           value: Hastalığın seyri
         type: hints
-  utter_covid_risk_people:
+  utter_tr_covid_risk_people:
   - custom:
       answers:
       - ssml: <speak> Şiddetli kurslar sıklıkla daha önce hastalığı olmayan kişilerde
@@ -1091,7 +1106,7 @@ responses:
         - label: Hastalığın seyri
           value: Hastalığın seyri
         type: hints
-  utter_covid_sars:
+  utter_tr_covid_sars:
   - custom:
       answers:
       - ssml: '<speak> 11 Şubat 2020''den bu yana, geçici olarak 2019 N Koff olarak
@@ -1113,7 +1128,7 @@ responses:
         - label: Ana iletim yolu
           value: Ana iletim yolu
         type: hints
-  utter_covid_surfaces:
+  utter_tr_covid_surfaces:
   - custom:
       answers:
       - ssml: <speak> Kowitt 19'a neden olan virüsün yüzeylerde ne kadar süre hayatta
@@ -1143,7 +1158,7 @@ responses:
         - label: Kuluçka süresi
           value: Kuluçka süresi
         type: hints
-  utter_covid_symptoms:
+  utter_tr_covid_symptoms:
   - custom:
       answers:
       - ssml: <speak> En sık görülen semptomlar 38.5 derecenin üzerindeki ateş, öksürük,
@@ -1179,7 +1194,7 @@ responses:
         - label: Kuluçka süresi
           value: Kuluçka süresi
         type: hints
-  utter_covid_treatment:
+  utter_tr_covid_treatment:
   - custom:
       answers:
       - ssml: <speak> Enfeksiyonun tedavisi, klinik tablonun ciddiyetine göre optimal
@@ -1237,7 +1252,7 @@ responses:
         - label: Ölüm oranı
           value: Ölüm oranı
         type: hints
-  utter_covid_unknown_cases:
+  utter_tr_covid_unknown_cases:
   - custom:
       answers:
       - ssml: <speak> Korona virüsüne yakalanan, ancak şu ana kadar resmi istatistiklerde
@@ -1269,7 +1284,7 @@ responses:
         - label: semptomlar
           value: semptomlar
         type: hints
-  utter_covid_vaccine:
+  utter_tr_covid_vaccine:
   - custom:
       answers:
       - ssml: <speak> Şu anda aşı yok. Aşılar, Almanya da dahil olmak üzere dünya
@@ -1293,7 +1308,7 @@ responses:
         - label: Mitler ve sahte haberler
           value: Mitler ve sahte haberler
         type: hints
-  utter_covid_worry:
+  utter_tr_covid_worry:
   - custom:
       answers:
       - ssml: '<speak> Yabancı olan her şey bizi endişelendiriyor hatta korkutuyor.
@@ -1335,7 +1350,7 @@ responses:
         - label: Risk grupları
           value: Risk grupları
         type: hints
-  utter_current_situation:
+  utter_tr_current_situation:
   - custom:
       answers:
       - ssml: <speak> Deutsche Welle web sitesine ve Tagesschau'ya istek gönderilirken
@@ -1352,7 +1367,7 @@ responses:
         - title: Günlük haberler
           url: https://www.tagesschau.de/
         type: links
-  utter_economy_consequences:
+  utter_tr_economy_consequences:
   - custom:
       answers:
       - ssml: <speak> Federal Ekonomi Bakanlığı bu konuda pek çok bilgi sunmaktadır.
@@ -1372,21 +1387,21 @@ responses:
         - label: Hangi mağazalar açılıyor
           value: Hangi mağazalar açılıyor
         type: hints
-  utter_features_date:
+  utter_tr_features_date:
   - custom:
       answers:
       - ssml: <speak> Bugün 15 Nisan. </speak>
         type: ssml
       - text: Bugün 15 Nisan.
         type: text
-  utter_features_time:
+  utter_tr_features_time:
   - custom:
       answers:
       - ssml: <speak> 13:28. </speak>
         type: ssml
       - text: '13:28.'
         type: text
-  utter_germany_consequences:
+  utter_tr_germany_consequences:
   - custom:
       answers:
       - ssml: <speak> Almanya'da kaç kişinin SARS Koff 2 koronavirüsü ile enfekte
@@ -1416,7 +1431,7 @@ responses:
         - label: Hotlines
           value: Hotlines
         type: hints
-  utter_germany_current_situation:
+  utter_tr_germany_current_situation:
   - custom:
       answers:
       - ssml: <speak> Bu arada, tüm federal eyaletlerde yeni korona virüsü ile enfeksiyon
@@ -1452,7 +1467,7 @@ responses:
         - label: Deutsche Bahn ile Corona virüsü ve seyahat
           value: Deutsche Bahn ile Corona virüsü ve seyahat
         type: hints
-  utter_germany_food_buy:
+  utter_tr_germany_food_buy:
   - custom:
       answers:
       - ssml: '<speak> Sivil Koruma ve Afet Yardımı Federal Ofisi, iki hafta boyunca
@@ -1483,7 +1498,7 @@ responses:
         - label: Gerçek sayılar
           value: Gerçek sayılar
         type: hints
-  utter_germany_food_shortages:
+  utter_tr_germany_food_shortages:
   - custom:
       answers:
       - ssml: <speak> Almanya'daki tedarik durumu iyi ve teslimat darboğazları yok.
@@ -1510,7 +1525,7 @@ responses:
         - label: Hotlines
           value: Hotlines
         type: hints
-  utter_germany_hotline:
+  utter_tr_germany_hotline:
   - custom:
       answers:
       - ssml: <speak> Koronavirüs ile enfekte olduğunuzdan endişe ediyorsanız, aile
@@ -1547,7 +1562,7 @@ responses:
         - label: El yıkama
           value: El yıkama
         type: hints
-  utter_germany_lockdown_howlong:
+  utter_tr_germany_lockdown_howlong:
   - custom:
       answers:
       - ssml: <speak> Sosyal temaslar ve kamusal yaşam üzerindeki mevcut kısıtlamalar
@@ -1575,7 +1590,7 @@ responses:
         - label: Hotlines
           value: Hotlines
         type: hints
-  utter_germany_neighbors_close_borders:
+  utter_tr_germany_neighbors_close_borders:
   - custom:
       answers:
       - ssml: <speak> 16 Mart'ta geçici sınır kontrolleri getirildi. Avusturya, İsviçre,
@@ -1603,7 +1618,7 @@ responses:
         - label: Hotlines
           value: Hotlines
         type: hints
-  utter_germany_nomoney:
+  utter_tr_germany_nomoney:
   - custom:
       answers:
       - ssml: <speak> Kira, kredi, sigorta ve enerji arzı - federal hükümet tüketicilere
@@ -1648,7 +1663,7 @@ responses:
         - label: Almanya'da salgın ünlem
           value: Almanya'da salgın ünlem
         type: hints
-  utter_germany_pandemic:
+  utter_tr_germany_pandemic:
   - custom:
       answers:
       - ssml: <speak> 11 Mart 2020'de DSÖ Genel Direktörü, yeni korona virüsleriyle
@@ -1684,7 +1699,7 @@ responses:
         - label: Hotlines
           value: Hotlines
         type: hints
-  utter_germany_precautions_badenw:
+  utter_tr_germany_precautions_badenw:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -1720,7 +1735,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_bayern:
+  utter_tr_germany_precautions_bayern:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -1755,7 +1770,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_berlin:
+  utter_tr_germany_precautions_berlin:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -1791,7 +1806,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_brandenburg:
+  utter_tr_germany_precautions_brandenburg:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -1827,7 +1842,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_bremen:
+  utter_tr_germany_precautions_bremen:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -1863,7 +1878,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_hamburg:
+  utter_tr_germany_precautions_hamburg:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -1898,7 +1913,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_hessen:
+  utter_tr_germany_precautions_hessen:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -1934,7 +1949,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_mecklenburg:
+  utter_tr_germany_precautions_mecklenburg:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -1970,7 +1985,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_niedersachsen:
+  utter_tr_germany_precautions_niedersachsen:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2004,7 +2019,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_nordrhein:
+  utter_tr_germany_precautions_nordrhein:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2040,7 +2055,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_rheinland:
+  utter_tr_germany_precautions_rheinland:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2076,7 +2091,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_saarland:
+  utter_tr_germany_precautions_saarland:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2110,7 +2125,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_sachsen:
+  utter_tr_germany_precautions_sachsen:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2144,7 +2159,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_sachsenanhalt:
+  utter_tr_germany_precautions_sachsenanhalt:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2178,7 +2193,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_schleswigholstein:
+  utter_tr_germany_precautions_schleswigholstein:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2214,7 +2229,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_precautions_thüringen:
+  utter_tr_germany_precautions_thüringen:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2250,7 +2265,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_preparation:
+  utter_tr_germany_preparation:
   - custom:
       answers:
       - ssml: <speak> 22 Mart'ta kararlaştırılan tedbirler, diğer şeylerin yanı sıra,
@@ -2285,7 +2300,7 @@ responses:
         - label: İş hukuku
           value: İş hukuku
         type: hints
-  utter_germany_spread:
+  utter_tr_germany_spread:
   - custom:
       answers:
       - ssml: <speak> Almanya'da koronavirüs ile enfeksiyonların sayısı da artmaktadır.
@@ -2318,7 +2333,7 @@ responses:
         - label: Almanya'da Alınacak Önlemler
           value: Almanya'da Alınacak Önlemler
         type: hints
-  utter_germany_spread_water:
+  utter_tr_germany_spread_water:
   - custom:
       answers:
       - ssml: <speak> Almanya'daki musluk suyu, yeni korona virüsü de dahil olmak
@@ -2342,7 +2357,7 @@ responses:
         - label: Almanya'da salgın ünlem
           value: Almanya'da salgın ünlem
         type: hints
-  utter_germany_train:
+  utter_tr_germany_train:
   - custom:
       answers:
       - ssml: <speak> Deutsche Bahn'ın yerel, uzun mesafe ve yük trafiği sabittir.
@@ -2376,7 +2391,7 @@ responses:
         - label: önleme
           value: önleme
         type: hints
-  utter_greeting_goodbye:
+  utter_tr_greeting_goodbye:
   - custom:
       answers:
       - ssml: <speak> Seninle yazmak eğlenceliydi. Sigortamızla ilgili başka sorularınız
@@ -2385,7 +2400,7 @@ responses:
       - text: Seninle yazmak eğlenceliydi. Sigortamızla ilgili başka sorularınız varsa
           lütfen benimle iletişime geçmekten çekinmeyin.
         type: text
-  utter_greeting_hello:
+  utter_tr_greeting_hello:
   - custom:
       answers:
       - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
@@ -2393,14 +2408,14 @@ responses:
         type: ssml
       - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
         type: text
-  utter_greeting_how_are_you:
+  utter_tr_greeting_how_are_you:
   - custom:
       answers:
       - ssml: <speak> Ben iyiyim Teşekkür ederim </speak>
         type: ssml
       - text: Ben iyiyim Teşekkür ederim
         type: text
-  utter_mask_differences:
+  utter_tr_mask_differences:
   - custom:
       answers:
       - ssml: <speak> Maskelerde önemli farklılıklar vardır. Bir yandan, kumaştan
@@ -2449,7 +2464,7 @@ responses:
         - label: Hızlı test
           value: Hızlı test
         type: hints
-  utter_mask_ffp3:
+  utter_tr_mask_ffp3:
   - custom:
       answers:
       - ssml: '<speak> Ağız ve burun üzerinde bezler gibi giyilen basit polar maskelere
@@ -2492,7 +2507,7 @@ responses:
         - label: dokunulmazlık
           value: dokunulmazlık
         type: hints
-  utter_mask_general:
+  utter_tr_mask_general:
   - custom:
       answers:
       - ssml: <speak> Solunum yolu enfeksiyonu geçiren bir kişi ağız burnu koruması
@@ -2540,7 +2555,7 @@ responses:
         - label: Hızlı test
           value: Hızlı test
         type: hints
-  utter_myth_alcohol:
+  utter_tr_myth_alcohol:
   - custom:
       answers:
       - ssml: <speak> Vücudu alkol veya klor ile ovalamak veya püskürtmek, vücuda
@@ -2562,7 +2577,7 @@ responses:
         - label: Sahte-Haber
           value: Sahte-Haber
         type: hints
-  utter_myth_hold_breath:
+  utter_tr_myth_hold_breath:
   - custom:
       answers:
       - ssml: <speak> Hayır, nefesinizi tutmak enfeksiyonu kontrol etmek için uygun
@@ -2582,7 +2597,7 @@ responses:
         - label: Sahte-Haber
           value: Sahte-Haber
         type: hints
-  utter_myth_hot_bath:
+  utter_tr_myth_hot_bath:
   - custom:
       answers:
       - ssml: <speak> Sıcak bir banyo bulaşmayı engelleyemez. Bununla birlikte, ellerinizi
@@ -2602,7 +2617,7 @@ responses:
         - label: Sahte-Haber
           value: Sahte-Haber
         type: hints
-  utter_myth_mosquito:
+  utter_tr_myth_mosquito:
   - custom:
       answers:
       - ssml: <speak> Şimdiye kadar, virüsün sivrisinek ısırıklarıyla bulaşabileceğini
@@ -2620,7 +2635,7 @@ responses:
         - label: Sahte-Haber
           value: Sahte-Haber
         type: hints
-  utter_myth_pneumonia_vaccine:
+  utter_tr_myth_pneumonia_vaccine:
   - custom:
       answers:
       - ssml: <speak> Pnömokok aşısı Kowitt 19'a karşı koruma sağlamaz. Bununla birlikte,
@@ -2654,7 +2669,7 @@ responses:
         - label: Sahte-Haber
           value: Sahte-Haber
         type: hints
-  utter_myths_conspiracy_fakenews:
+  utter_tr_myths_conspiracy_fakenews:
   - custom:
       answers:
       - ssml: <speak> Koronavirüsün yayıldığı zamanlarda, insanların artan belirsizliği
@@ -2701,7 +2716,7 @@ responses:
         - label: Kontaktverbot
           value: Kontaktverbot
         type: hints
-  utter_myths_vitamins_plants_minerals_homeopathy:
+  utter_tr_myths_vitamins_plants_minerals_homeopathy:
   - custom:
       answers:
       - ssml: '<speak> Genel olarak, bağışıklık sistemi egzersizle birlikte dengeli
@@ -2749,7 +2764,7 @@ responses:
         - label: Sahte-Haber
           value: Sahte-Haber
         type: hints
-  utter_prevention_clean_hands:
+  utter_tr_prevention_clean_hands:
   - custom:
       answers:
       - ssml: <speak> Ellerin uygun şekilde yıkanması dikkatli kullanılmasını gerektirir.
@@ -2785,7 +2800,7 @@ responses:
         - label: tedavi
           value: tedavi
         type: hints
-  utter_prevention_desinfection:
+  utter_tr_prevention_desinfection:
   - custom:
       answers:
       - ssml: <speak> Kimyasal dezenfeksiyon için, etkinliği sınırlı sınırlı virüidal,
@@ -2819,7 +2834,7 @@ responses:
         - label: istatistik
           value: istatistik
         type: hints
-  utter_prevention_distance:
+  utter_tr_prevention_distance:
   - custom:
       answers:
       - ssml: <speak> Sosyal temasların kısıtlanması, iletim zincirlerini ve Almanya'daki
@@ -2847,7 +2862,7 @@ responses:
         - label: Covid-19 Testi
           value: Covid-19 Testi
         type: hints
-  utter_prevention_general:
+  utter_tr_prevention_general:
   - custom:
       answers:
       - ssml: <speak> Kişisel korunma ve diğer insanların solunum yolu enfeksiyonlarının
@@ -2876,7 +2891,7 @@ responses:
         - label: Semptomlarım var
           value: Semptomlarım var
         type: hints
-  utter_prevention_home:
+  utter_tr_prevention_home:
   - custom:
       answers:
       - ssml: <speak> Yeni korona virüsünün yayılmasını yavaşlatmak için, şu anda
@@ -2913,7 +2928,7 @@ responses:
         title: 'Quelle: zusammengegencorona.de'
         type: image
         url: https://cosibot.org/wp-content/uploads/2020/03/bundesregierung_wirbleibenzuhause.jpg
-  utter_prevention_informed:
+  utter_tr_prevention_informed:
   - custom:
       answers:
       - ssml: <speak> Haberleri düzenli olarak kontrol etmeniz şiddetle tavsiye edilir.
@@ -2943,7 +2958,7 @@ responses:
         - label: El yıkama
           value: El yıkama
         type: hints
-  utter_prevention_medical_attention:
+  utter_tr_prevention_medical_attention:
   - custom:
       answers:
       - ssml: '<speak> Laboratuvarda SARS Koff 2 teşhisi konmuş bir kişiyle kişisel
@@ -2979,7 +2994,7 @@ responses:
         - label: Evde kalın - doktora ziyaretler
           value: Evde kalın - doktora ziyaretler
         type: hints
-  utter_prevention_touch:
+  utter_tr_prevention_touch:
   - custom:
       answers:
       - ssml: <speak> Burnunuzu temizlemek, tuvalete gitmek, bir hayvanı sevmek veya
@@ -3011,7 +3026,7 @@ responses:
         - label: dezenfektan
           value: dezenfektan
         type: hints
-  utter_quarantine_control:
+  utter_tr_quarantine_control:
   - custom:
       answers:
       - ssml: <speak> Enfekte olmuş, enfekte kişilerle temas etmiş veya riskli alanlarda
@@ -3042,7 +3057,7 @@ responses:
         - label: Mesafeni koru
           value: Mesafeni koru
         type: hints
-  utter_quarantine_dogwalking:
+  utter_tr_quarantine_dogwalking:
   - custom:
       answers:
       - ssml: <speak> Virüs bulaşmış insanlar karantinayı terk etmemelidir. Bu, köpeği
@@ -3069,7 +3084,7 @@ responses:
         - label: Hızlı test
           value: Hızlı test
         type: hints
-  utter_quarantine_dos_and_donts:
+  utter_tr_quarantine_dos_and_donts:
   - custom:
       answers:
       - ssml: <speak> Size kesin bir cevap verebilmemiz için, enfekte olduğunuz veya
@@ -3086,7 +3101,7 @@ responses:
         - label: Nein
           value: Nein
         type: multichoice
-  utter_quarantine_general:
+  utter_tr_quarantine_general:
   - custom:
       answers:
       - ssml: <speak> Karantina, bir virüsün yayılmasını önlemek için potansiyel veya
@@ -3118,7 +3133,7 @@ responses:
         - label: Karantina kontrolü
           value: Karantina kontrolü
         type: hints
-  utter_quarantine_how_it_works:
+  utter_tr_quarantine_how_it_works:
   - custom:
       answers:
       - ssml: '<speak> Ellerinizi düzenli ve iyice yıkayın ve öksürük ve hapşırma
@@ -3153,7 +3168,7 @@ responses:
         - label: Hastalığın seyri
           value: Hastalığın seyri
         type: hints
-  utter_quarantine_toiletpaper:
+  utter_tr_quarantine_toiletpaper:
   - custom:
       answers:
       - ssml: '<speak> Almanya ticaret birliğine göre, müşteriler mantıksız davranıyorlar
@@ -3179,7 +3194,7 @@ responses:
         - label: Covid-19 ve alkol
           value: Covid-19 ve alkol
         type: hints
-  utter_quarantine_when_who_howlong:
+  utter_tr_quarantine_when_who_howlong:
   - custom:
       answers:
       - ssml: <speak> Daha sonra, enfekte olma riski yüksekse yetkililer tarafından
@@ -3216,7 +3231,7 @@ responses:
         - label: Pnömokok aşısı
           value: Pnömokok aşısı
         type: hints
-  utter_sources:
+  utter_tr_sources:
   - custom:
       answers:
       - ssml: <speak> Bu sanal asistan için kullanılan tüm kaynakların listesi aşağıdadır.
@@ -3261,7 +3276,7 @@ responses:
         - label: Hangi mağazalar açılıyor
           value: Hangi mağazalar açılıyor
         type: hints
-  utter_spread_air:
+  utter_tr_spread_air:
   - custom:
       answers:
       - ssml: <speak> En önemli bulaşma yolu, enfekte olmuş insanların veya hayvanların
@@ -3287,7 +3302,7 @@ responses:
         - label: dişlik
           value: dişlik
         type: hints
-  utter_spread_animals:
+  utter_tr_spread_animals:
   - custom:
       answers:
       - ssml: <speak> Virüsün insanlardan kedilere bulaştığına inanılan birkaç vaka
@@ -3337,7 +3352,7 @@ responses:
         - label: dişlik
           value: dişlik
         type: hints
-  utter_spread_feces:
+  utter_tr_spread_feces:
   - custom:
       answers:
       - ssml: <speak> Virüslerin bağırsak hareketleri yoluyla bulaşıp bulaşamayacağı
@@ -3357,7 +3372,7 @@ responses:
         - label: dişlik
           value: dişlik
         type: hints
-  utter_spread_general:
+  utter_tr_spread_general:
   - custom:
       answers:
       - ssml: <speak> Yeni korona virüsü SARS Koff 2 kişiden kişiye aktarılabilir.
@@ -3384,7 +3399,7 @@ responses:
         - label: Evde kalın - alışveriş yapın
           value: Evde kalın - alışveriş yapın
         type: hints
-  utter_spread_heat_cold:
+  utter_tr_spread_heat_cold:
   - custom:
       answers:
       - ssml: <speak> Virüs dünyanın tüm bölgelerine bulaşabilir. Ne iklim ne de hava
@@ -3406,7 +3421,7 @@ responses:
         - label: dişlik
           value: dişlik
         type: hints
-  utter_spread_no_symptoms:
+  utter_tr_spread_no_symptoms:
   - custom:
       answers:
       - ssml: <speak> Kowitt 19'u semptomsuz bir kişiden alma riski çok düşüktür.
@@ -3430,7 +3445,7 @@ responses:
         - label: dişlik
           value: dişlik
         type: hints
-  utter_spread_surfaces_food_objects:
+  utter_tr_spread_surfaces_food_objects:
   - custom:
       answers:
       - ssml: <speak> Önceden bilinen korona virüsleri, kapı kolları gibi yüzeylerde
@@ -3474,7 +3489,7 @@ responses:
         - label: Havadan iletim
           value: Havadan iletim
         type: hints
-  utter_stayhomeinfo_authorities:
+  utter_tr_stayhomeinfo_authorities:
   - custom:
       answers:
       - ssml: <speak> İş merkezleri ve istihdam bürolarına telefon, e-posta veya faks
@@ -3500,7 +3515,7 @@ responses:
         - label: Hangi mağazalar açılıyor
           value: Hangi mağazalar açılıyor
         type: hints
-  utter_stayhomeinfo_doctor:
+  utter_tr_stayhomeinfo_doctor:
   - custom:
       answers:
       - ssml: <speak> Evet. Doktora ziyaretler mümkündür. Lütfen doktora gitmeden
@@ -3522,7 +3537,7 @@ responses:
         - label: Hangi mağazalar açılıyor
           value: Hangi mağazalar açılıyor
         type: hints
-  utter_stayhomeinfo_drive_other_city:
+  utter_tr_stayhomeinfo_drive_other_city:
   - custom:
       answers:
       - ssml: <speak> Aynı yerde mi yoksa komşu kasabada mı yaşıyor olursanız olun
@@ -3557,7 +3572,7 @@ responses:
         - label: Covid-19 ve Ibuprofen
           value: Covid-19 ve Ibuprofen
         type: hints
-  utter_stayhomeinfo_jogging:
+  utter_tr_stayhomeinfo_jogging:
   - custom:
       answers:
       - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
@@ -3565,7 +3580,7 @@ responses:
         type: ssml
       - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
         type: text
-  utter_stayhomeinfo_mask_supermarket:
+  utter_tr_stayhomeinfo_mask_supermarket:
   - custom:
       answers:
       - ssml: <speak> Hayır, mağazaya girerken koruyucu maske takmanız gerekmez. Dışarıdaki
@@ -3584,7 +3599,7 @@ responses:
         - label: Hangi mağazalar açılıyor
           value: Hangi mağazalar açılıyor
         type: hints
-  utter_stayhomeinfo_network_congestion:
+  utter_tr_stayhomeinfo_network_congestion:
   - custom:
       answers:
       - ssml: <speak> Dijital altyapıda her zaman kısa kesintiler olabilir. Almanya'daki
@@ -3610,7 +3625,7 @@ responses:
         - label: Süpermarkette yüz maskesi
           value: Süpermarkette yüz maskesi
         type: hints
-  utter_stayhomeinfo_open:
+  utter_tr_stayhomeinfo_open:
   - custom:
       answers:
       - ssml: '<speak> Genel olarak, günlük ihtiyaçlar için mağazalar açıktır: geç
@@ -3644,7 +3659,7 @@ responses:
         - label: Yürüyüşe çıkın
           value: Yürüyüşe çıkın
         type: hints
-  utter_stayhomeinfo_supermarket:
+  utter_tr_stayhomeinfo_supermarket:
   - custom:
       answers:
       - ssml: <speak> Size kesin bir cevap verebilmemiz için, enfekte olduğunuz veya
@@ -3661,7 +3676,7 @@ responses:
         - label: Nein
           value: Nein
         type: multichoice
-  utter_stayhomeinfo_visit60:
+  utter_tr_stayhomeinfo_visit60:
   - custom:
       answers:
       - ssml: <speak> Yaşlılar (60 yaş ve üstü) ve önceden mevcut koşulları olan kişiler
@@ -3689,7 +3704,7 @@ responses:
         - label: Covid-19 ve Ibuprofen
           value: Covid-19 ve Ibuprofen
         type: hints
-  utter_stayhomeinfo_visit_parents_children:
+  utter_tr_stayhomeinfo_visit_parents_children:
   - custom:
       answers:
       - ssml: <speak> Ebeveynler çocuklarını ziyaret etmeye devam edebilir ve elbette
@@ -3718,7 +3733,7 @@ responses:
         - label: Covid-19 ve Ibuprofen
           value: Covid-19 ve Ibuprofen
         type: hints
-  utter_test_how:
+  utter_tr_test_how:
   - custom:
       answers:
       - ssml: <speak> Test için genellikle bir boğaz çubuğu kullanılır. Bu, bir hemşirenin
@@ -3748,7 +3763,7 @@ responses:
         - label: Bölge başına istatistik
           value: Bölge başına istatistik
         type: hints
-  utter_test_payment:
+  utter_tr_test_payment:
   - custom:
       answers:
       - ssml: <speak> 28 Şubat 2020'den bu yana, sağlık sigortası şirketleri koronavirüsü
@@ -3768,7 +3783,7 @@ responses:
         - label: Covid-19 çocuklarda
           value: Covid-19 çocuklarda
         type: hints
-  utter_test_per_day:
+  utter_tr_test_per_day:
   - custom:
       answers:
       - ssml: <speak> Şu anda kimse Almanya'da test kapasitelerinin günde ne kadar
@@ -3802,7 +3817,7 @@ responses:
         - label: Hızlı test
           value: Hızlı test
         type: hints
-  utter_test_quick_test:
+  utter_tr_test_quick_test:
   - custom:
       answers:
       - ssml: '<speak> Bir düzineden fazla şirket zaten korona enfeksiyonu için hızlı
@@ -3836,7 +3851,7 @@ responses:
         - label: Covid-19 ve Ibuprofen
           value: Covid-19 ve Ibuprofen
         type: hints
-  utter_test_results_reliability:
+  utter_tr_test_results_reliability:
   - custom:
       answers:
       - ssml: <speak> Dünyadaki uzmanlar genetik analizlerin sağlam olduğunu düşünüyorlar;
@@ -3860,7 +3875,7 @@ responses:
         - label: Bölge başına istatistik
           value: Bölge başına istatistik
         type: hints
-  utter_test_stay_in_china:
+  utter_tr_test_stay_in_china:
   - custom:
       answers:
       - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
@@ -3868,7 +3883,7 @@ responses:
         type: ssml
       - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
         type: text
-  utter_test_virus:
+  utter_tr_test_virus:
   - custom:
       answers:
       - ssml: <speak> Enfekte olduğunuzdan şüpheleniyorsanız, lütfen doktorunuzu veya
@@ -3894,7 +3909,7 @@ responses:
         - label: Eyalet başına istatistik
           value: Eyalet başına istatistik
         type: hints
-  utter_test_who:
+  utter_tr_test_who:
   - custom:
       answers:
       - ssml: <speak> Almanya'daki tüm insanlar şu ana kadar yeni korona virüsü için
@@ -3929,7 +3944,7 @@ responses:
         - label: Bölge başına istatistik
           value: Bölge başına istatistik
         type: hints
-  utter_travel_before:
+  utter_tr_travel_before:
   - custom:
       answers:
       - ssml: <speak> Federal Dışişleri Bakanlığı, yurtdışındaki turist seyahatlerine
@@ -3957,7 +3972,7 @@ responses:
         - label: Yolculuk sırasında
           value: Yolculuk sırasında
         type: hints
-  utter_travel_cancel:
+  utter_tr_travel_cancel:
   - custom:
       answers:
       - ssml: '<speak> Yolculuğunuzu başlatmak veya iptal etmek istemiyorsanız haklarınız
@@ -3993,7 +4008,7 @@ responses:
         - label: İade programı
           value: İade programı
         type: hints
-  utter_travel_general:
+  utter_tr_travel_general:
   - custom:
       answers:
       - ssml: <speak> Hangi konuda daha fazla bilgi edinmek istersiniz? </speak>
@@ -4014,7 +4029,7 @@ responses:
         - label: Nach der Reise
           value: Nach der Reise
         type: multichoice
-  utter_travel_return:
+  utter_tr_travel_return:
   - custom:
       answers:
       - ssml: <speak> Ulusal kriterlere göre, 14 günlük bağlayıcı bir karantina genellikle
@@ -4050,7 +4065,7 @@ responses:
         - label: İade programı
           value: İade programı
         type: hints
-  utter_travel_returnprogram:
+  utter_tr_travel_returnprogram:
   - custom:
       answers:
       - ssml: <speak> Çok sayıda Alman yolcunun yurt dışında mahsur kalması ve geriye
@@ -4080,7 +4095,7 @@ responses:
         - label: Yolculuk sırasında
           value: Yolculuk sırasında
         type: hints
-  utter_travel_risk_countries:
+  utter_tr_travel_risk_countries:
   - custom:
       answers:
       - ssml: <speak> Robert Koch Enstitüsü ve Federal Dış Ofis'in web sitesinde,
@@ -4106,7 +4121,7 @@ responses:
         - label: İade programı
           value: İade programı
         type: hints
-  utter_travel_while:
+  utter_tr_travel_while:
   - custom:
       answers:
       - ssml: <speak> Ellerinizi düzenli olarak yıkayın ve öksüren veya hapşıran insanlardan
@@ -4136,7 +4151,7 @@ responses:
         - label: Reiserückkehr
           value: Reiserückkehr
         type: hints
-  utter_user_angry:
+  utter_tr_user_angry:
   - custom:
       answers:
       - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
@@ -4144,21 +4159,21 @@ responses:
         type: ssml
       - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
         type: text
-  utter_user_friend:
+  utter_tr_user_friend:
   - custom:
       answers:
       - ssml: <speak> Arkadaş olduğumuz için mutluyuz. </speak>
         type: ssml
       - text: Arkadaş olduğumuz için mutluyuz.
         type: text
-  utter_user_love:
+  utter_tr_user_love:
   - custom:
       answers:
       - ssml: <speak> Aşk güzel bir şeydir! </speak>
         type: ssml
       - text: Aşk güzel bir şeydir!
         type: text
-  utter_user_no_data:
+  utter_tr_user_no_data:
   - custom:
       answers:
       - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
@@ -4166,7 +4181,7 @@ responses:
         type: ssml
       - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
         type: text
-  utter_user_no_further_questions:
+  utter_tr_user_no_further_questions:
   - custom:
       answers:
       - text: Pekala.
@@ -4177,7 +4192,7 @@ responses:
       - text: Seninle yazmak eğlenceliydi. Sigortamızla ilgili başka sorularınız varsa
           lütfen benimle iletişime geçmekten çekinmeyin.
         type: text
-  utter_user_particles:
+  utter_tr_user_particles:
   - custom:
       answers:
       - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
@@ -4185,14 +4200,14 @@ responses:
         type: ssml
       - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
         type: text
-  utter_userfeeling_happy:
+  utter_tr_userfeeling_happy:
   - custom:
       answers:
       - ssml: <speak> Mutlu olursan ben de! </speak>
         type: ssml
       - text: Mutlu olursan ben de!
         type: text
-  utter_userfeeling_negative:
+  utter_tr_userfeeling_negative:
   - custom:
       answers:
       - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
@@ -4200,56 +4215,56 @@ responses:
         type: ssml
       - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
         type: text
-  utter_vocative_call:
+  utter_tr_vocative_call:
   - custom:
       answers:
       - ssml: <speak> Ben buradayım! Bana nasıl yardımcı olabileceğimi söyle. </speak>
         type: ssml
       - text: Ben buradayım! Bana nasıl yardımcı olabileceğimi söyle.
         type: text
-  utter_vocative_help:
+  utter_tr_vocative_help:
   - custom:
       answers:
       - ssml: <speak> Tabii ki! Senin için ne yapabilirim </speak>
         type: ssml
       - text: Tabii ki! Senin için ne yapabilirim
         type: text
-  utter_vocative_no:
+  utter_tr_vocative_no:
   - custom:
       answers:
       - ssml: <speak> Size başka nasıl yardımcı olabilirim? </speak>
         type: ssml
       - text: Size başka nasıl yardımcı olabilirim?
         type: text
-  utter_vocative_sorry:
+  utter_tr_vocative_sorry:
   - custom:
       answers:
       - ssml: <speak> Sorun değil! </speak>
         type: ssml
       - text: Sorun değil!
         type: text
-  utter_vocative_thank_you:
+  utter_tr_vocative_thank_you:
   - custom:
       answers:
       - ssml: <speak> Yardım etmeyi severim. </speak>
         type: ssml
       - text: Yardım etmeyi severim.
         type: text
-  utter_vocative_yes:
+  utter_tr_vocative_yes:
   - custom:
       answers:
       - ssml: <speak> Size başka nasıl yardımcı olabilirim? </speak>
         type: ssml
       - text: Size başka nasıl yardımcı olabilirim?
         type: text
-  utter_vocative_you_welcome:
+  utter_tr_vocative_you_welcome:
   - custom:
       answers:
       - ssml: <speak> Tamam! Size nasıl yardımcı olabilirim? </speak>
         type: ssml
       - text: Tamam! Size nasıl yardımcı olabilirim?
         type: text
-  utter_work_continued_payment:
+  utter_tr_work_continued_payment:
   - custom:
       answers:
       - ssml: <speak> Hem karantinaya alınan bir kişi hem de tüm şehir kordon altına
@@ -4286,7 +4301,7 @@ responses:
         - label: Evde kalın
           value: Evde kalın
         type: hints
-  utter_work_covid_general:
+  utter_tr_work_covid_general:
   - custom:
       answers:
       - ssml: <speak> İş hukuku ve Kowitt 19 ile ilgili hangi konular hakkında daha
@@ -4320,7 +4335,7 @@ responses:
         - label: Mitteilungspflicht an Arbeitgeber als Infizierter
           value: Mitteilungspflicht an Arbeitgeber als Infizierter
         type: multichoice
-  utter_work_homeoffice_rights:
+  utter_tr_work_homeoffice_rights:
   - custom:
       answers:
       - ssml: <speak> Evden çalışma konusunda yasal bir hakkınız yok. Ancak, çalışanlar
@@ -4348,7 +4363,7 @@ responses:
         - label: Kısa süreli çalışma ödeneği ve Covit-19
           value: Kısa süreli çalışma ödeneği ve Covit-19
         type: hints
-  utter_work_infection:
+  utter_tr_work_infection:
   - custom:
       answers:
       - ssml: <speak> Çalışan koronavirüs ile enfeksiyon sonucu çalışamazsa ve bu
@@ -4378,7 +4393,7 @@ responses:
         - label: Toplu taşıma kaybında iş kanunu
           value: Toplu taşıma kaybında iş kanunu
         type: hints
-  utter_work_notification:
+  utter_tr_work_notification:
   - custom:
       answers:
       - ssml: <speak> Prensip olarak, tıbbi tanıyı işverene veya iş arkadaşlarına
@@ -4407,7 +4422,7 @@ responses:
         - label: Toplu taşıma kaybında iş kanunu
           value: Toplu taşıma kaybında iş kanunu
         type: hints
-  utter_work_public_transportation:
+  utter_tr_work_public_transportation:
   - custom:
       answers:
       - ssml: <speak> Genel olarak düzenlenmiş tedbirler nedeniyle işyerinize ulaşamıyorsanız
@@ -4437,7 +4452,7 @@ responses:
         - label: Kısa süreli çalışma ödeneği ve Covit-19
           value: Kısa süreli çalışma ödeneği ve Covit-19
         type: hints
-  utter_work_shorttimework_allowance:
+  utter_tr_work_shorttimework_allowance:
   - custom:
       answers:
       - ssml: <speak> Kazanç kaybı nedeniyle iş kaybı söz konusuysa, örneğin korona
