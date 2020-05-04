@@ -126,7 +126,7 @@
 - Enfekte miyim?
 - Ne zaman doktora görünmeliyim?
 - Kendimi hasta hissediyorum.
-- Sanırım [kübik 19](tr_virus)'um var
+- Sanırım [kübik 19'um](tr_virus) var
 - Koronavirüs şüphesi varsa ne yapmalı?
 - Bir [koronavirüs](tr_virus) enfeksiyonu ne zaman semptomların arkasında olabilir?
 - Ateşim varsa hemen bir doktora görünmeli miyim?
@@ -146,12 +146,12 @@
 - Şu anda birçok insanda öksürük, ateş ve yorgunluk var. Virüsün arkasında olup olmadığını nasıl anlarsınız?
 - Semptomlar hakkında ne yapmalı?
 - Kendinizden şüpheleniyorsanız ne yapmalısınız?
-- Sanırım [COBIT 19](tr_virus)'um var
+- Sanırım [COBIT 19'um](tr_virus) var
 - Virüsüm olup olmadığından emin değilim
 - Sanırım Covid 19 hareket var
 - Hasta hissedersem ne yapmalıyım?
 - Sanırım Kowit 19'um var
-- Ateş ambulans
+- Ateş ambulansı
 - Öksürüğüm var, virüs var mı?
 - Koronavirüs semptomları: Griple arasındaki farklar nelerdir?
 - Bence kovit 19'um var
@@ -180,7 +180,7 @@
 - Gıdıklama öksürüğüm var
 - Ateşim varsa derhal doktora gitmeli miyim?
 - Korona virüsü bulaşmasından korkarsam ne yapmalıyım?
-- Sanırım [Q19'um](tr_virus) var
+- Sanırım Q19'um var
 - Corona şüpheli
 - Coronavirus enfeksiyonundan şüpheleniliyor - doktora görünüyor musunuz?
 - Virüs var mı?
@@ -464,7 +464,7 @@
 - Artık koku alma duyum yok
 - Çizik boğazım varsa ne yapmalıyım?
 - Artık hiçbir şeyin tadına bakamıyorum
-- [Cupid 19](tr_virus)'un belirtileri nelerdir?
+- [Cupid 19'un](tr_virus) belirtileri nelerdir?
 - korona tadı nasıl değişir?
 - Artık hiçbir şey koklayamam ve tadamam
 - Koronavirüsün belirtileri nelerdir?
@@ -472,7 +472,7 @@
 - Hasta olduğumu nereden bilebilirim?
 - Enfekte olup olmadığımı nasıl anlarım?
 - Cızırtılı boğaz
-- [Qubeat 19](tr_virus)'un belirtileri nelerdir?
+- [Qubeat 19'un](tr_virus) belirtileri nelerdir?
 - hangi belirtilere dikkat etmeliyim?
 - Bana enfekte olup olmadığımı söyle
 - başağrısı
@@ -498,7 +498,7 @@
 - Virüsün tipik belirtileri nelerdir?
 - Cookit 19'un belirtileri nelerdir?
 - Akciğerlerdeki ve sinüslerdeki mukus nedeniyle korona muzdarip miyim?
-- [COBIT 19](tr_virus)'un belirtileri nelerdir?
+- [COBIT 19'un](tr_virus) belirtileri nelerdir?
 - Enfekte insanlar nelerden muzdarip?
 - Hasta olup olmadığınızı nasıl anlarsınız?
 - Ateş de bir semptom mu?
@@ -835,13 +835,13 @@
 - 19 Almanya'da taşındı
 - Almanya'da Covid 19
 - Coronavirus in Brandenburg
-- [Wegberg](tr_german_city)'deki mevcut durum nedir
-- [Husum](tr_german_city)'deki mevcut durum nedir
-- [Wangen im Allgäu](tr_german_city)'deki mevcut durum nedir
-- [Hamm](tr_german_city)'deki mevcut durum nedir
-- [Übach-Palenberg](tr_german_city)'deki mevcut durum nedir
-- [Osterfeld](tr_german_city)'deki mevcut durum nedir
-- [Oschatz](tr_german_city)'deki mevcut durum nedir
+- [Wegberg'deki](tr_german_city) mevcut durum nedir
+- [Husum'deki](tr_german_city) mevcut durum nedir
+- [Wangen im Allgäu'deki](tr_german_city) mevcut durum nedir
+- [Hamm'deki](tr_german_city) mevcut durum nedir
+- [Übach-Palenberg'deki](tr_german_city) mevcut durum nedir
+- [Osterfeld'deki](tr_german_city) mevcut durum nedir
+- [Oschatz'deki](tr_german_city) mevcut durum nedir
 - Hamburg'daki Coronavirus
 - Baden-Württemberg'deki Coronavirus
 - Hessen Bölgesindeki Corona
@@ -866,13 +866,13 @@
 - Virüs hakkında en son bilgileri istiyorum
 - Corona - Berlin
 - Almanya'da Kubik 19
-- Şu anda [Wemding](tr_german_city)'de nasıl?
-- Şu anda [Sankt Augustin](tr_german_city)'de nasıl?
-- Şu anda [Marktleuthen](tr_german_city)'de nasıl?
-- Şu anda [Duisburg](tr_german_city)'de nasıl?
-- Şu anda [Oer-Erkenschwick](tr_german_city)'de nasıl?
-- Şu anda [Fritzlar](tr_german_city)'de nasıl?
-- Şu anda [Blankenhain](tr_german_city)'de nasıl?
+- Şu anda [Wemding'de](tr_german_city) nasıl?
+- Şu anda [Sankt Augustin'de](tr_german_city) nasıl?
+- Şu anda [Marktleuthen'de](tr_german_city) nasıl?
+- Şu anda [Duisburg'de](tr_german_city) nasıl?
+- Şu anda [Oer-Erkenschwick'de](tr_german_city) nasıl?
+- Şu anda [Fritzlar'de](tr_german_city) nasıl?
+- Şu anda [Blankenhain'de](tr_german_city) nasıl?
 - Mecklenburg - Batı Pomeranya Bölgesindeki Corona
 - Rheinland-Pfalz sınırlarındaki Corona
 - [Cupid 19](tr_virus) Almanya
@@ -906,13 +906,13 @@
 - Schleswig-Holstein sınırlarındaki Corona
 - Aşağı Saksonya'da Coronavirus
 - Bayern Bölgesindeki Corona
-- [Ahaus](tr_german_city)'deki durum nedir
-- [Ochsenhausen](tr_german_city)'deki durum nedir
-- [Hessisch Lichtenau](tr_german_city)'deki durum nedir
-- [Lübeck, Hansestadt](tr_german_city)'deki durum nedir
-- [Bad Honnef](tr_german_city)'deki durum nedir
-- [Ilshofen](tr_german_city)'deki durum nedir
-- [Groß-Gerau](tr_german_city)'deki durum nedir
+- [Ahaus'deki](tr_german_city) durum nedir
+- [Ochsenhausen'deki](tr_german_city) durum nedir
+- [Hessisch Lichtenau'deki](tr_german_city) durum nedir
+- [Lübeck, Hansestadt'deki](tr_german_city) durum nedir
+- [Bad Honnef'deki](tr_german_city) durum nedir
+- [Ilshofen'deki](tr_german_city) durum nedir
+- [Groß-Gerau'deki](tr_german_city) durum nedir
 - Kuhweg 19 Almanya'da
 - Saarland sınırlarındaki Corona
 - Hamburg sınırlarındaki Corona
@@ -931,10 +931,10 @@
 
 ## intent: tr_covid_mortality_rate
 - Ondan ölme riski nedir?
-- [Qubeat 19](tr_virus)'dan ölme ihtimalim ne kadar?
+- [Qubeat 19'dan](tr_virus) ölme ihtimalim ne kadar?
 - Virüsüm varsa ölür müyüm?
 - Bana ölüm oranını söyle
-- [COBIT 19](tr_virus)'dan ölme ihtimalim ne kadar?
+- [COBIT 19'dan](tr_virus) ölme ihtimalim ne kadar?
 - ölüm oranı
 - Ölüm oranı nedir?
 - Ölüm oranı
@@ -951,12 +951,12 @@
 - Hobbit 19'dan ölme ihtimalim ne kadar?
 - Virüs seni öldürebilir mi?
 - Bundan mı ölüyorsun?
-- [Cupid 19](tr_virus)'dan ölme ihtimalim ne kadar?
+- [Cupid 19'dan](tr_virus) ölme ihtimalim ne kadar?
 - Virüsten ölmek mümkün mü?
 - Hastalığın ölümcül olma olasılığı nedir?
 - Ondan ölme olasılığı nedir?
 - Ölüm oranı bilgilerini ver
-- [Kübik 19](tr_virus)'dan ölme ihtimalim ne kadar?
+- [Kübik 19'dan](tr_virus) ölme ihtimalim ne kadar?
 - Bana ondan ölmenin ne kadar olası olduğunu söyle
 - Hastalık ölümcül mü?
 - Mortalite oranı, özellikle influenza ile karşılaştırıldığında ne kadar yüksektir?
@@ -977,30 +977,30 @@
 
 ## intent: tr_travel_return
 - Seyahat ettikten sonra.
-- [Sweden](tr_country)'den yeni geldim
-- [al-maġhrib](tr_country)'den yeni geldim
-- [Norf'k Ailen](tr_country)'den yeni geldim
-- [İspanya Krallığı](tr_country)'den yeni geldim
-- [Kingdom of Thailand](tr_country)'den yeni geldim
-- [Republik Liberia](tr_country)'den yeni geldim
-- [Gibraltar](tr_country)'den yeni geldim
+- [Sweden'den](tr_country) yeni geldim
+- [al-maġhrib'den](tr_country) yeni geldim
+- [Norf'k Ailen'den](tr_country) yeni geldim
+- [İspanya Krallığı'den](tr_country) yeni geldim
+- [Kingdom of Thailand'den](tr_country) yeni geldim
+- [Republik Liberia'den](tr_country) yeni geldim
+- [Gibraltar'den](tr_country) yeni geldim
 - Gezimden sonra ne olur
-- [Romania](tr_country)'de kaldıktan sonra test edin
-- [Kūki 'Āirani](tr_country)'de kaldıktan sonra test edin
-- [Guyane](tr_country)'de kaldıktan sonra test edin
-- [Samoa](tr_country)'de kaldıktan sonra test edin
-- [Republic of Palau](tr_country)'de kaldıktan sonra test edin
-- [Ilaṅkai caṉanāyaka cōcalicak kuṭiyaracu](tr_country)'de kaldıktan sonra test edin
-- [Königreich Bahrain](tr_country)'de kaldıktan sonra test edin
+- [Romania'de](tr_country) kaldıktan sonra test edin
+- [Kūki 'Āirani'de](tr_country) kaldıktan sonra test edin
+- [Guyane'de](tr_country) kaldıktan sonra test edin
+- [Samoa'de](tr_country) kaldıktan sonra test edin
+- [Republic of Palau'de](tr_country) kaldıktan sonra test edin
+- [Ilaṅkai caṉanāyaka cōcalicak kuṭiyaracu'de](tr_country) kaldıktan sonra test edin
+- [Königreich Bahrain'de](tr_country) kaldıktan sonra test edin
 - Yolculuktan sonra ne yapmalı
 - Yolculuktan sonra ne olur?
-- [Panama](tr_country)'deydim, test edilmem gerekiyor mu?
-- [Sāmoa Amelika](tr_country)'deydim, test edilmem gerekiyor mu?
-- [Deutschland](tr_country)'deydim, test edilmem gerekiyor mu?
-- [Slovakya](tr_country)'deydim, test edilmem gerekiyor mu?
-- [Republik Suriname](tr_country)'deydim, test edilmem gerekiyor mu?
-- [Republique du Burundi](tr_country)'deydim, test edilmem gerekiyor mu?
-- [Savior](tr_country)'deydim, test edilmem gerekiyor mu?
+- [Panama'deydim,](tr_country) test edilmem gerekiyor mu?
+- [Sāmoa Amelika'deydim,](tr_country) test edilmem gerekiyor mu?
+- [Deutschland'deydim,](tr_country) test edilmem gerekiyor mu?
+- [Slovakya'deydim,](tr_country) test edilmem gerekiyor mu?
+- [Republik Suriname'deydim,](tr_country) test edilmem gerekiyor mu?
+- [Republique du Burundi'deydim,](tr_country) test edilmem gerekiyor mu?
+- [Savior'deydim,](tr_country) test edilmem gerekiyor mu?
 - Yolculuktan sonra.
 - [Niue](tr_country) kaldıktan sonra test et
 - [St. Barths](tr_country) kaldıktan sonra test et
@@ -1016,118 +1016,118 @@
 - [der Niger](tr_country) ile bir seyahat yaptım, teste ihtiyacım var mı?
 - [Martinik](tr_country) ile bir seyahat yaptım, teste ihtiyacım var mı?
 - [Murakuç](tr_country) ile bir seyahat yaptım, teste ihtiyacım var mı?
-- [Burubi Cumhuriyeti](tr_country)'e gittiysem ve semptomlarım varsa ne yapmalıyım?
-- [Haiti Cumhuriyeti](tr_country)'e gittiysem ve semptomlarım varsa ne yapmalıyım?
-- [BES-Inseln](tr_country)'e gittiysem ve semptomlarım varsa ne yapmalıyım?
-- [Königreich Bhutan](tr_country)'e gittiysem ve semptomlarım varsa ne yapmalıyım?
-- [Meeting](tr_country)'e gittiysem ve semptomlarım varsa ne yapmalıyım?
-- [Ekuatur Nunka](tr_country)'e gittiysem ve semptomlarım varsa ne yapmalıyım?
-- [Republik Kamerun](tr_country)'e gittiysem ve semptomlarım varsa ne yapmalıyım?
+- [Burubi Cumhuriyeti'e](tr_country) gittiysem ve semptomlarım varsa ne yapmalıyım?
+- [Haiti Cumhuriyeti'e](tr_country) gittiysem ve semptomlarım varsa ne yapmalıyım?
+- [BES-Inseln'e](tr_country) gittiysem ve semptomlarım varsa ne yapmalıyım?
+- [Königreich Bhutan'e](tr_country) gittiysem ve semptomlarım varsa ne yapmalıyım?
+- [Meeting'e](tr_country) gittiysem ve semptomlarım varsa ne yapmalıyım?
+- [Ekuatur Nunka'e](tr_country) gittiysem ve semptomlarım varsa ne yapmalıyım?
+- [Republik Kamerun'e](tr_country) gittiysem ve semptomlarım varsa ne yapmalıyım?
 - Yolculuktan sonra prosedür.
-- [Grand Duchy of Luxembourg](tr_country)'den geldiğimde beni test ettirmek gerekli mi?
-- [DRC](tr_country)'den geldiğimde beni test ettirmek gerekli mi?
-- [Guão](tr_country)'den geldiğimde beni test ettirmek gerekli mi?
-- [Ekvator Ginesi](tr_country)'den geldiğimde beni test ettirmek gerekli mi?
-- [Emirates](tr_country)'den geldiğimde beni test ettirmek gerekli mi?
-- [Antarctica](tr_country)'den geldiğimde beni test ettirmek gerekli mi?
-- [Independen Stet bilong Papua Niu Gini](tr_country)'den geldiğimde beni test ettirmek gerekli mi?
+- [Grand Duchy of Luxembourg'den](tr_country) geldiğimde beni test ettirmek gerekli mi?
+- [DRC'den](tr_country) geldiğimde beni test ettirmek gerekli mi?
+- [Guão'den](tr_country) geldiğimde beni test ettirmek gerekli mi?
+- [Ekvator Ginesi'den](tr_country) geldiğimde beni test ettirmek gerekli mi?
+- [Emirates'den](tr_country) geldiğimde beni test ettirmek gerekli mi?
+- [Antarctica'den](tr_country) geldiğimde beni test ettirmek gerekli mi?
+- [Independen Stet bilong Papua Niu Gini'den](tr_country) geldiğimde beni test ettirmek gerekli mi?
 - Riskli bir bölgedeyim, Almanya'ya girmeme izin verildi
-- [Iyonola](tr_country)'den yeni döndüğümde test yapılması zorunlu mudur?
-- [Uganda](tr_country)'den yeni döndüğümde test yapılması zorunlu mudur?
-- [Barbados](tr_country)'den yeni döndüğümde test yapılması zorunlu mudur?
-- [Äquatorialguinea](tr_country)'den yeni döndüğümde test yapılması zorunlu mudur?
-- [Fijian Republic](tr_country)'den yeni döndüğümde test yapılması zorunlu mudur?
-- [Namibia](tr_country)'den yeni döndüğümde test yapılması zorunlu mudur?
-- [Lithuania](tr_country)'den yeni döndüğümde test yapılması zorunlu mudur?
-- [Republique centrafricaine](tr_country)'deydim ve şimdi öksürüğüm var
-- [İsveç Krallığı](tr_country)'deydim ve şimdi öksürüğüm var
-- [Kroatien](tr_country)'deydim ve şimdi öksürüğüm var
-- [Republique démocratique nüfus lao](tr_country)'deydim ve şimdi öksürüğüm var
-- [Litauen](tr_country)'deydim ve şimdi öksürüğüm var
-- [USVI](tr_country)'deydim ve şimdi öksürüğüm var
-- [Österreich](tr_country)'deydim ve şimdi öksürüğüm var
-- [Taprobana](tr_country)'ten yeni döndüm
-- [Amerika Sāmoa](tr_country)'ten yeni döndüm
-- [Arnavutluk Cumhuriyeti](tr_country)'ten yeni döndüm
-- [Gana Cumhuriyeti](tr_country)'ten yeni döndüm
-- [Litauen](tr_country)'ten yeni döndüm
-- [Republic of Cyprus](tr_country)'ten yeni döndüm
-- [Brazil](tr_country)'ten yeni döndüm
+- [Iyonola'den](tr_country) yeni döndüğümde test yapılması zorunlu mudur?
+- [Uganda'den](tr_country) yeni döndüğümde test yapılması zorunlu mudur?
+- [Barbados'den](tr_country) yeni döndüğümde test yapılması zorunlu mudur?
+- [Äquatorialguinea'den](tr_country) yeni döndüğümde test yapılması zorunlu mudur?
+- [Fijian Republic'den](tr_country) yeni döndüğümde test yapılması zorunlu mudur?
+- [Namibia'den](tr_country) yeni döndüğümde test yapılması zorunlu mudur?
+- [Lithuania'den](tr_country) yeni döndüğümde test yapılması zorunlu mudur?
+- [Republique centrafricaine'deydim](tr_country) ve şimdi öksürüğüm var
+- [İsveç Krallığı'deydim](tr_country) ve şimdi öksürüğüm var
+- [Kroatien'deydim](tr_country) ve şimdi öksürüğüm var
+- [Republique démocratique nüfus lao'deydim](tr_country) ve şimdi öksürüğüm var
+- [Litauen'deydim](tr_country) ve şimdi öksürüğüm var
+- [USVI'deydim](tr_country) ve şimdi öksürüğüm var
+- [Österreich'deydim](tr_country) ve şimdi öksürüğüm var
+- [Taprobana'ten](tr_country) yeni döndüm
+- [Amerika Sāmoa'ten](tr_country) yeni döndüm
+- [Arnavutluk Cumhuriyeti'ten](tr_country) yeni döndüm
+- [Gana Cumhuriyeti'ten](tr_country) yeni döndüm
+- [Litauen'ten](tr_country) yeni döndüm
+- [Republic of Cyprus'ten](tr_country) yeni döndüm
+- [Brazil'ten](tr_country) yeni döndüm
 - Geziden öksürük ile geri döndüm.
-- [Gambiya Cumhuriyeti](tr_country)'den yeni döndüysem kendimi test etmem gerekir mi?
-- [Surinam](tr_country)'den yeni döndüysem kendimi test etmem gerekir mi?
-- [Eski Yugoslav Makedonya Cumhuriyeti](tr_country)'den yeni döndüysem kendimi test etmem gerekir mi?
-- [Ruhige Republik San Marino](tr_country)'den yeni döndüysem kendimi test etmem gerekir mi?
-- [Lao People's Democratic Republic](tr_country)'den yeni döndüysem kendimi test etmem gerekir mi?
-- [Republika Bǎlgarija](tr_country)'den yeni döndüysem kendimi test etmem gerekir mi?
-- [Koninkrijk Belçika](tr_country)'den yeni döndüysem kendimi test etmem gerekir mi?
-- [Lietuva](tr_country)'deydim. Test yaptırmam gerekiyor mu?
-- [Féroe Islands](tr_country)'deydim. Test yaptırmam gerekiyor mu?
-- [Guadeloupe](tr_country)'deydim. Test yaptırmam gerekiyor mu?
-- [Britanya Hint Bölgesi](tr_country)'deydim. Test yaptırmam gerekiyor mu?
-- [Nevis](tr_country)'deydim. Test yaptırmam gerekiyor mu?
-- [Argentina](tr_country)'deydim. Test yaptırmam gerekiyor mu?
-- [Tuvalu](tr_country)'deydim. Test yaptırmam gerekiyor mu?
+- [Gambiya Cumhuriyeti'den](tr_country) yeni döndüysem kendimi test etmem gerekir mi?
+- [Surinam'den](tr_country) yeni döndüysem kendimi test etmem gerekir mi?
+- [Eski Yugoslav Makedonya Cumhuriyeti'den](tr_country) yeni döndüysem kendimi test etmem gerekir mi?
+- [Ruhige Republik San Marino'den](tr_country) yeni döndüysem kendimi test etmem gerekir mi?
+- [Lao People's Democratic Republic'den](tr_country) yeni döndüysem kendimi test etmem gerekir mi?
+- [Republika Bǎlgarija'den](tr_country) yeni döndüysem kendimi test etmem gerekir mi?
+- [Koninkrijk Belçika'den](tr_country) yeni döndüysem kendimi test etmem gerekir mi?
+- [Lietuva'deydim.](tr_country) Test yaptırmam gerekiyor mu?
+- [Féroe Islands'deydim.](tr_country) Test yaptırmam gerekiyor mu?
+- [Guadeloupe'deydim.](tr_country) Test yaptırmam gerekiyor mu?
+- [Britanya Hint Bölgesi'deydim.](tr_country) Test yaptırmam gerekiyor mu?
+- [Nevis'deydim.](tr_country) Test yaptırmam gerekiyor mu?
+- [Argentina'deydim.](tr_country) Test yaptırmam gerekiyor mu?
+- [Tuvalu'deydim.](tr_country) Test yaptırmam gerekiyor mu?
 - Özellikle etkilenen ülkelerden Almanya'ya giriş için ne geçerlidir?
-- Belirtilerim vardı ve [Panama](tr_country)'deydim
-- Belirtilerim vardı ve [Hungary](tr_country)'deydim
-- Belirtilerim vardı ve [Republik Kiribati](tr_country)'deydim
-- Belirtilerim vardı ve [Ellice Islands](tr_country)'deydim
-- Belirtilerim vardı ve [Udzima wa Komori](tr_country)'deydim
-- Belirtilerim vardı ve [Croatia](tr_country)'deydim
-- Belirtilerim vardı ve [Guyana](tr_country)'deydim
-- [Republik Afghanistan](tr_country)'den yeni döndüysem ne yapmalıyım?
-- [Cayman Islands](tr_country)'den yeni döndüysem ne yapmalıyım?
-- [Ermenistan Cumhuriyeti](tr_country)'den yeni döndüysem ne yapmalıyım?
-- [Tetã Paraguái](tr_country)'den yeni döndüysem ne yapmalıyım?
-- [Persien](tr_country)'den yeni döndüysem ne yapmalıyım?
-- [Land von Bengalen](tr_country)'den yeni döndüysem ne yapmalıyım?
-- [El Salvador Cumhuriyeti](tr_country)'den yeni döndüysem ne yapmalıyım?
+- Belirtilerim vardı ve [Panama'deydim](tr_country)
+- Belirtilerim vardı ve [Hungary'deydim](tr_country)
+- Belirtilerim vardı ve [Republik Kiribati'deydim](tr_country)
+- Belirtilerim vardı ve [Ellice Islands'deydim](tr_country)
+- Belirtilerim vardı ve [Udzima wa Komori'deydim](tr_country)
+- Belirtilerim vardı ve [Croatia'deydim](tr_country)
+- Belirtilerim vardı ve [Guyana'deydim](tr_country)
+- [Republik Afghanistan'den](tr_country) yeni döndüysem ne yapmalıyım?
+- [Cayman Islands'den](tr_country) yeni döndüysem ne yapmalıyım?
+- [Ermenistan Cumhuriyeti'den](tr_country) yeni döndüysem ne yapmalıyım?
+- [Tetã Paraguái'den](tr_country) yeni döndüysem ne yapmalıyım?
+- [Persien'den](tr_country) yeni döndüysem ne yapmalıyım?
+- [Land von Bengalen'den](tr_country) yeni döndüysem ne yapmalıyım?
+- [El Salvador Cumhuriyeti'den](tr_country) yeni döndüysem ne yapmalıyım?
 - Tatilden yeni döndüm
-- [Argentina](tr_country)'deysem test yaptırmam gerekir mi?
-- [Republik Nicaragua](tr_country)'deysem test yaptırmam gerekir mi?
-- [Jamhuri y Muungano wa Tansania](tr_country)'deysem test yaptırmam gerekir mi?
-- [Paguot Thudä](tr_country)'deysem test yaptırmam gerekir mi?
-- [Republic of the Marshall Islands](tr_country)'deysem test yaptırmam gerekir mi?
-- [Bengali Nation](tr_country)'deysem test yaptırmam gerekir mi?
-- [República Oriental del Uruguay](tr_country)'deysem test yaptırmam gerekir mi?
-- [Çin Halk Cumhuriyeti](tr_country)'de tatildeydim
-- [Republika zaNamibia](tr_country)'de tatildeydim
-- [Islāmī Jumhūriyah Pākistān](tr_country)'de tatildeydim
-- [Saint Kitts ve Nevis Federasyonu](tr_country)'de tatildeydim
-- [Aruba](tr_country)'de tatildeydim
-- [Republik Guatemala](tr_country)'de tatildeydim
-- [Portugiesische Republik](tr_country)'de tatildeydim
+- [Argentina'deysem](tr_country) test yaptırmam gerekir mi?
+- [Republik Nicaragua'deysem](tr_country) test yaptırmam gerekir mi?
+- [Jamhuri y Muungano wa Tansania'deysem](tr_country) test yaptırmam gerekir mi?
+- [Paguot Thudä'deysem](tr_country) test yaptırmam gerekir mi?
+- [Republic of the Marshall Islands'deysem](tr_country) test yaptırmam gerekir mi?
+- [Bengali Nation'deysem](tr_country) test yaptırmam gerekir mi?
+- [República Oriental del Uruguay'deysem](tr_country) test yaptırmam gerekir mi?
+- [Çin Halk Cumhuriyeti'de](tr_country) tatildeydim
+- [Republika zaNamibia'de](tr_country) tatildeydim
+- [Islāmī Jumhūriyah Pākistān'de](tr_country) tatildeydim
+- [Saint Kitts ve Nevis Federasyonu'de](tr_country) tatildeydim
+- [Aruba'de](tr_country) tatildeydim
+- [Republik Guatemala'de](tr_country) tatildeydim
+- [Portugiesische Republik'de](tr_country) tatildeydim
 - Koronavirüs risk alanlarından dönen gezginlerin neleri göz önünde bulundurması gerekir?
 - Geri döndüğümde nelere dikkat etmeliyim?
-- [Benin Cumhuriyeti](tr_country)'e yeni geldiğimde bir test yaptırmak zorunlu mu?
-- [République du Rwanda](tr_country)'e yeni geldiğimde bir test yaptırmak zorunlu mu?
-- [Neuseeland](tr_country)'e yeni geldiğimde bir test yaptırmak zorunlu mu?
-- [Pakistan](tr_country)'e yeni geldiğimde bir test yaptırmak zorunlu mu?
-- [Gana Cumhuriyeti](tr_country)'e yeni geldiğimde bir test yaptırmak zorunlu mu?
-- [Türkmenistan](tr_country)'e yeni geldiğimde bir test yaptırmak zorunlu mu?
-- [Pitcairn, Henderson, Ducie and Oeno Islands](tr_country)'e yeni geldiğimde bir test yaptırmak zorunlu mu?
-- [Argentinien](tr_country)'e gittiysem nelere dikkat etmeliyim?
-- [Republik Panama](tr_country)'e gittiysem nelere dikkat etmeliyim?
-- [Grönland](tr_country)'e gittiysem nelere dikkat etmeliyim?
-- [Viet Nam](tr_country)'e gittiysem nelere dikkat etmeliyim?
-- [Kiribati Republic](tr_country)'e gittiysem nelere dikkat etmeliyim?
-- [Polonya](tr_country)'e gittiysem nelere dikkat etmeliyim?
-- [Republic of Angola](tr_country)'e gittiysem nelere dikkat etmeliyim?
-- [United States Virgin Islands](tr_country)'e yeni gelmiş olan insanlar test yaptırmalı mı?
-- [North Korea](tr_country)'e yeni gelmiş olan insanlar test yaptırmalı mı?
-- [Somalia](tr_country)'e yeni gelmiş olan insanlar test yaptırmalı mı?
-- [Dominikanische Republik](tr_country)'e yeni gelmiş olan insanlar test yaptırmalı mı?
-- [Eritrea](tr_country)'e yeni gelmiş olan insanlar test yaptırmalı mı?
-- [Republic of Georgia](tr_country)'e yeni gelmiş olan insanlar test yaptırmalı mı?
-- [Pilipinas Republikáng̃](tr_country)'e yeni gelmiş olan insanlar test yaptırmalı mı?
-- [Slovak Cumhuriyeti](tr_country)'e yeni gittiysem test gerekli mi?
-- [Jūng'wàh Yàhnmàhn](tr_country)'e yeni gittiysem test gerekli mi?
-- [Bolivarian Republic of Venezuela](tr_country)'e yeni gittiysem test gerekli mi?
-- [Canada](tr_country)'e yeni gittiysem test gerekli mi?
-- [Islamic Republic of Pakistan](tr_country)'e yeni gittiysem test gerekli mi?
-- [Central African Republic](tr_country)'e yeni gittiysem test gerekli mi?
-- [Martinique](tr_country)'e yeni gittiysem test gerekli mi?
+- [Benin Cumhuriyeti'e](tr_country) yeni geldiğimde bir test yaptırmak zorunlu mu?
+- [République du Rwanda'e](tr_country) yeni geldiğimde bir test yaptırmak zorunlu mu?
+- [Neuseeland'e](tr_country) yeni geldiğimde bir test yaptırmak zorunlu mu?
+- [Pakistan'e](tr_country) yeni geldiğimde bir test yaptırmak zorunlu mu?
+- [Gana Cumhuriyeti'e](tr_country) yeni geldiğimde bir test yaptırmak zorunlu mu?
+- [Türkmenistan'e](tr_country) yeni geldiğimde bir test yaptırmak zorunlu mu?
+- [Pitcairn, Henderson, Ducie and Oeno Islands'e](tr_country) yeni geldiğimde bir test yaptırmak zorunlu mu?
+- [Argentinien'e](tr_country) gittiysem nelere dikkat etmeliyim?
+- [Republik Panama'e](tr_country) gittiysem nelere dikkat etmeliyim?
+- [Grönland'e](tr_country) gittiysem nelere dikkat etmeliyim?
+- [Viet Nam'e](tr_country) gittiysem nelere dikkat etmeliyim?
+- [Kiribati Republic'e](tr_country) gittiysem nelere dikkat etmeliyim?
+- [Polonya'e](tr_country) gittiysem nelere dikkat etmeliyim?
+- [Republic of Angola'e](tr_country) gittiysem nelere dikkat etmeliyim?
+- [United States Virgin Islands'e](tr_country) yeni gelmiş olan insanlar test yaptırmalı mı?
+- [North Korea'e](tr_country) yeni gelmiş olan insanlar test yaptırmalı mı?
+- [Somalia'e](tr_country) yeni gelmiş olan insanlar test yaptırmalı mı?
+- [Dominikanische Republik'e](tr_country) yeni gelmiş olan insanlar test yaptırmalı mı?
+- [Eritrea'e](tr_country) yeni gelmiş olan insanlar test yaptırmalı mı?
+- [Republic of Georgia'e](tr_country) yeni gelmiş olan insanlar test yaptırmalı mı?
+- [Pilipinas Republikáng̃'e](tr_country) yeni gelmiş olan insanlar test yaptırmalı mı?
+- [Slovak Cumhuriyeti'e](tr_country) yeni gittiysem test gerekli mi?
+- [Jūng'wàh Yàhnmàhn'e](tr_country) yeni gittiysem test gerekli mi?
+- [Bolivarian Republic of Venezuela'e](tr_country) yeni gittiysem test gerekli mi?
+- [Canada'e](tr_country) yeni gittiysem test gerekli mi?
+- [Islamic Republic of Pakistan'e](tr_country) yeni gittiysem test gerekli mi?
+- [Central African Republic'e](tr_country) yeni gittiysem test gerekli mi?
+- [Martinique'e](tr_country) yeni gittiysem test gerekli mi?
 - Sadece tatilimden döndüm.
 - [Australien](tr_country) için tatile gittim. Test yaptırmam gerekiyor mu?
 - [Rephaboliki ve Namibya](tr_country) için tatile gittim. Test yaptırmam gerekiyor mu?
@@ -1146,13 +1146,13 @@
 - Yüksek riskli bölgelerden dönen gezginler neyi göz önünde bulundurmalıdır?
 - Tatilden Almanya'ya geri dönmek istiyorsam karantina beklemem gerekir mi?
 - Sadece geziden döndü.
-- [Bulgarien](tr_country)'den yeni geldim, sınava girmek zorunda mıyım?
-- [Bermuda-Inseln](tr_country)'den yeni geldim, sınava girmek zorunda mıyım?
-- [Salṭanat ʻUmān](tr_country)'den yeni geldim, sınava girmek zorunda mıyım?
-- [Republic of Haiti](tr_country)'den yeni geldim, sınava girmek zorunda mıyım?
-- [Republik Indonesia](tr_country)'den yeni geldim, sınava girmek zorunda mıyım?
-- [Nihon-koku](tr_country)'den yeni geldim, sınava girmek zorunda mıyım?
-- [Republik Belarus](tr_country)'den yeni geldim, sınava girmek zorunda mıyım?
+- [Bulgarien'den](tr_country) yeni geldim, sınava girmek zorunda mıyım?
+- [Bermuda-Inseln'den](tr_country) yeni geldim, sınava girmek zorunda mıyım?
+- [Salṭanat ʻUmān'den](tr_country) yeni geldim, sınava girmek zorunda mıyım?
+- [Republic of Haiti'den](tr_country) yeni geldim, sınava girmek zorunda mıyım?
+- [Republik Indonesia'den](tr_country) yeni geldim, sınava girmek zorunda mıyım?
+- [Nihon-koku'den](tr_country) yeni geldim, sınava girmek zorunda mıyım?
+- [Republik Belarus'den](tr_country) yeni geldim, sınava girmek zorunda mıyım?
 
 ## intent: tr_prevention_clean_hands
 - Ellerimi alkol bazlı el masajıyla temizlemek enfeksiyon riskimi azaltır mı?
@@ -1218,13 +1218,13 @@
 - havalı bütün bunları nasıl biliyorsun
 
 ## intent: tr_travel_before
-- [Republika ve Maqedonisë së Veriut](tr_country)'e gitmeden önce nelere dikkat etmeliyim?
-- [Republic of Rwanda](tr_country)'e gitmeden önce nelere dikkat etmeliyim?
-- [Sultanat Oman](tr_country)'e gitmeden önce nelere dikkat etmeliyim?
-- [Maurice](tr_country)'e gitmeden önce nelere dikkat etmeliyim?
-- [Großbritannien](tr_country)'e gitmeden önce nelere dikkat etmeliyim?
-- [Grönland](tr_country)'e gitmeden önce nelere dikkat etmeliyim?
-- [Arjantin Cumhuriyeti](tr_country)'e gitmeden önce nelere dikkat etmeliyim?
+- [Republika ve Maqedonisë së Veriut'e](tr_country) gitmeden önce nelere dikkat etmeliyim?
+- [Republic of Rwanda'e](tr_country) gitmeden önce nelere dikkat etmeliyim?
+- [Sultanat Oman'e](tr_country) gitmeden önce nelere dikkat etmeliyim?
+- [Maurice'e](tr_country) gitmeden önce nelere dikkat etmeliyim?
+- [Großbritannien'e](tr_country) gitmeden önce nelere dikkat etmeliyim?
+- [Grönland'e](tr_country) gitmeden önce nelere dikkat etmeliyim?
+- [Arjantin Cumhuriyeti'e](tr_country) gitmeden önce nelere dikkat etmeliyim?
 - Seyahat etmeden önce ne bekleyebilirim?
 - Seyahat etmeyi planlıyorum
 - Tatilimi iptal etmek istemiyorum
@@ -1304,24 +1304,24 @@
 - Seyahatinize başlamadan önce alınacak önlemler.
 - Daha önce seyahat et.
 - Bir seyahat planlıyorum.
-- [French Guiana](tr_country)'de bir tatil planladım.
-- [Republik Kiribati](tr_country)'de bir tatil planladım.
-- [Jamhuri ya Kenya](tr_country)'de bir tatil planladım.
-- [Indonesia](tr_country)'de bir tatil planladım.
-- [Kingdom of Spain](tr_country)'de bir tatil planladım.
-- [Collectivité territoriale de Saint-Barthélemy](tr_country)'de bir tatil planladım.
-- [Independent State of Papua New Guinea](tr_country)'de bir tatil planladım.
+- [French Guiana'de](tr_country) bir tatil planladım.
+- [Republik Kiribati'de](tr_country) bir tatil planladım.
+- [Jamhuri ya Kenya'de](tr_country) bir tatil planladım.
+- [Indonesia'de](tr_country) bir tatil planladım.
+- [Kingdom of Spain'de](tr_country) bir tatil planladım.
+- [Collectivité territoriale de Saint-Barthélemy'de](tr_country) bir tatil planladım.
+- [Independent State of Papua New Guinea'de](tr_country) bir tatil planladım.
 - Bir tatil gezisi planlıyorum.
 - Seyahat edebilir miyim
 - Seyahat edeceğim.
 - Yakında seyahat edeceğim.
-- Hala [Martinique](tr_country)'e seyahat edebilir miyim?
-- Hala [Falkland](tr_country)'e seyahat edebilir miyim?
-- Hala [Antarctica](tr_country)'e seyahat edebilir miyim?
-- Hala [Saint Vincent ve Grenadinler](tr_country)'e seyahat edebilir miyim?
-- Hala [Libya Eyaleti](tr_country)'e seyahat edebilir miyim?
-- Hala [Republic of Trinidad and Tobago](tr_country)'e seyahat edebilir miyim?
-- Hala [Rossiya](tr_country)'e seyahat edebilir miyim?
+- Hala [Martinique'e](tr_country) seyahat edebilir miyim?
+- Hala [Falkland'e](tr_country) seyahat edebilir miyim?
+- Hala [Antarctica'e](tr_country) seyahat edebilir miyim?
+- Hala [Saint Vincent ve Grenadinler'e](tr_country) seyahat edebilir miyim?
+- Hala [Libya Eyaleti'e](tr_country) seyahat edebilir miyim?
+- Hala [Republic of Trinidad and Tobago'e](tr_country) seyahat edebilir miyim?
+- Hala [Rossiya'e](tr_country) seyahat edebilir miyim?
 - [Abteilung für Französisch-Guyana](tr_country) seyahatimden önce ne yapmam gerekiyor?
 - [Republika zaNamibia](tr_country) seyahatimden önce ne yapmam gerekiyor?
 - [Sozialistische Republik Vietnam](tr_country) seyahatimden önce ne yapmam gerekiyor?
@@ -1364,16 +1364,16 @@
 - Kowit dışkıyla yayılıyor mu?
 - Koronavirüs dışkı yoluyla bulaşabilir mi?
 - dışkı
-- [COVID-19](tr_virus)'u birisinin hastalıkla olan kakasından yakalayabilir miyim?
+- [COVID-19'u](tr_virus) birisinin hastalıkla olan kakasından yakalayabilir miyim?
 - Kowit 19'u enfekte bir kişinin kakasından yakalayabilir miyim?
 - Virüs bağırsak hareketleri veya tuvalet kullanılarak su döngüsüne de bulaşabilir mi?
-- Birinin hastalıkla dışkısından [COVID-19](tr_virus)'u yakalama riski.
+- Birinin hastalıkla dışkısından [COVID-19'u](tr_virus) yakalama riski.
 - Kowit 19'u birisinin hastalıkla dışkılarından yakalayabilir miyim?
 - Virüsü dışkı yoluyla yakalayın.
 - Virüsler bağırsak hareketleri yoluyla bulaşabilir mi?
 - virüs dışkı ile de yayılabilir
 - Kowit 19'u birisinin hastalıkla ilgili dışkılarından yakalama riski.
-- Enfekte bir kişinin dışkısından [COVID-19](tr_virus)'u yakalama riski.
+- Enfekte bir kişinin dışkısından [COVID-19'u](tr_virus) yakalama riski.
 - Dışkı iletimi
 - Sandalye ile transfer mümkün mü?
 - Kowit 19'u enfekte bir kişinin dışkısından yakalama riski.
@@ -1382,25 +1382,25 @@
 - Dışkı enfeksiyonu
 - Covid dışkı yoluyla yayılır mı?
 - Virüs dışkı ile yakalanabilir mi?
-- Hastalıklı bir kişinin dışkısından [COVID-19](tr_virus)'u yakalama riski.
+- Hastalıklı bir kişinin dışkısından [COVID-19'u](tr_virus) yakalama riski.
 - Virüsü kaka ile yakala.
 - Dışkı yoluyla yayılır.
-- [COVID-19](tr_virus)'u hastalığı olan birinden yakalayabilir miyim?
+- [COVID-19'u](tr_virus) hastalığı olan birinden yakalayabilir miyim?
 - Kowit 19'u hastalığı olan birinden yakalayabilir miyim?
 - Virüsü dışkı ile yakalayın.
 - Virüsü dışkı yoluyla yakalayabilir miyim?
 - Enfekte bir kişinin dışkısından Kowit 19'u yakalama riski.
 - Kowit 19'u hasta bir kişinin dışkısından yakalama riski.
 - Virüsü dışkı ile yakalayabilir miyim?
-- Enfekte bir kişinin kakasından [COVID-19](tr_virus)'u yakalayabilir miyim?
+- Enfekte bir kişinin kakasından [COVID-19'u](tr_virus) yakalayabilir miyim?
 - Kowit 19'u birisinin hastalığa olan kakasından yakalayabilir miyim?
-- [COVID-19](tr_virus)'u birisinin hastalıkla olan dışkısından yakalayabilir miyim?
+- [COVID-19'u](tr_virus) birisinin hastalıkla olan dışkısından yakalayabilir miyim?
 - Virüs bağırsak hareketleri yoluyla su döngüsüne de aktarılabilir mi?
 - Dışkı enfeksiyonu.
 - Dışkı ile dağıtın.
 - Virüs dışkı tarafından yakalanabilir mi?
 - Covid Tabureye Yayılıyor mu?
-- Enfekte bir kişinin dışkısından [COVID-19](tr_virus)'u yakalayabilir miyim?
+- Enfekte bir kişinin dışkısından [COVID-19'u](tr_virus) yakalayabilir miyim?
 - Kowit 19'u enfekte bir kişinin dışkısından yakalayabilir miyim?
 
 ## intent: tr_germany_neighbors_close_borders
@@ -1437,7 +1437,7 @@
 - Sokağa çıkma yasağı şimdi Almanya'da uygulanıyor mu?
 - Almanya'da Covid 19 hakkında neler yapılıyor?
 - Almanya'da 19. çeyreğe hazırlanmak için neler yapılıyor?
-- [Cupid 19](tr_virus)'a hazırlanmak için Almanya'da neler yapılıyor?
+- [Cupid 19'a](tr_virus) hazırlanmak için Almanya'da neler yapılıyor?
 - Almanya 19. Huvit hakkında ne yapıyor?
 - Almanya Hobbit 19'u yaymaya nasıl hazırlanıyor?
 - Almanya Covid 19'un yayılmasına nasıl hazırlanıyor?
@@ -1457,7 +1457,7 @@
 - Almanya Movit 19 ile nasıl başa çıkacak?
 - Almanya'da kübik 19'un yayılmasını önlemek için neler yapılıyor?
 - Almanya'da sokağa çıkma yasağı olacak mı?
-- [Qubeat 19](tr_virus)'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- [Qubeat 19'un](tr_virus) Almanya'da yayılmasını önlemek için neler yapılıyor?
 - Kuhweg 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
 - Cookit 19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
 - Almanya'daki yayılma nasıl yavaşlatılabilir?
@@ -1481,12 +1481,12 @@
 - Almanya'da yayılma riskini azaltmak için neler yapılıyor?
 - Almanya'daki virüse karşı ne gibi önlemler alınmaktadır?
 - Şimdi Almanlar için sokağa çıkma yasağı olacak mı?
-- [Cupid 19](tr_virus)'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- [Cupid 19'un](tr_virus) Almanya'da yayılmasını önlemek için neler yapılıyor?
 - Almanya 19 no'lu hareketi yaymaya nasıl hazırlanıyor?
 - Almanya'da 19 kuhweg'e hazırlanmak için neler yapılıyor?
-- Almanya [kuhweg 19](tr_virus)'u yaymaya nasıl hazırlanıyor?
+- Almanya [kuhweg 19'u](tr_virus) yaymaya nasıl hazırlanıyor?
 - Almanya'da Kubik 19'a hazırlanmak için neler yapılıyor?
-- Almanya [COBIT 19](tr_virus)'un yayılmasına nasıl hazırlanıyor?
+- Almanya [COBIT 19'un](tr_virus) yayılmasına nasıl hazırlanıyor?
 - Q19'un Almanya'da yayılmasını önlemek için neler yapılıyor?
 - Almanya'da ne gibi hazırlıklar yapılıyor?
 - 19 nolu hareketin Almanya'da yayılmasını önlemek için neler yapılıyor?
@@ -1496,7 +1496,7 @@
 - almanya ne kadar iyi konumlandırılmış
 - Yine de süpermarkette alışveriş yapabilir miyim?
 - Almanya'daki yayılma nasıl yavaşlatılmalı?
-- Almanya [Cupid 19](tr_virus)'a karşı ne yapıyor?
+- Almanya [Cupid 19'a](tr_virus) karşı ne yapıyor?
 - İletişim kuralları
 - İletişim yasağı
 - Almanya'da sokağa çıkma yasağı?
@@ -1507,7 +1507,7 @@
 - Almanya aşçı 19'u yaymaya nasıl hazırlanıyor?
 - Almanya [kuhweg 19](tr_virus) hakkında ne yapıyor?
 - Almanya'da koruma önlemleri
-- [COBIT 19](tr_virus)'un Almanya'da yayılmasını önlemek için neler yapılıyor?
+- [COBIT 19'un](tr_virus) Almanya'da yayılmasını önlemek için neler yapılıyor?
 - Almanya nasıl hazırlanıyor?
 - Kontaktverbot
 - temas yasağı ne olacak
@@ -1540,10 +1540,10 @@
 - Almanya bir şekilde hazırlanıyor mu?
 - Almanya kovit 19'u yaymaya nasıl hazırlanıyor?
 - Günlük yaşamda hangi ciddi kısıtlamalarla ilgilenmek zorundayız?
-- Almanya [Cupid 19](tr_virus)'un yayılmasına nasıl hazırlanıyor?
+- Almanya [Cupid 19'un](tr_virus) yayılmasına nasıl hazırlanıyor?
 - Tedbirler Almanya
 - Almanya ilk çeyreğe karşı ne yapıyor?
-- Almanya'da [COBIT 19](tr_virus)'a hazırlanmak için neler yapılıyor?
+- Almanya'da [COBIT 19'a](tr_virus) hazırlanmak için neler yapılıyor?
 - Almanya virüse karşı ne yapıyor?
 - Hala mümkün olan ve olmayan nedir?
 
@@ -1584,7 +1584,7 @@
 - Arkadaşımda 19 kuhweg var, şimdi ne olacak?
 - Test pozitifse ne olur?
 - Koronavirüsten şüphelenilirse ne olur?
-- Kız arkadaşımın [COBIT 19](tr_virus)'u var, şimdi ne olacak?
+- Kız arkadaşımın [COBIT 19'u](tr_virus) var, şimdi ne olacak?
 - Enfeksiyon için pozitif testi yaparsam ne olur?
 - Şüpheli bir dava nasıl ele alınır?
 - Enfekte olursam ne olur?
@@ -1673,7 +1673,7 @@
 - Cupidnı soğuk algınlığından nasıl ayırabilirsiniz?
 - Corvette mi yoksa soğuk mu olduğunu nasıl anlarım?
 - Normal grip veya korona var
-- [COVID 19](tr_virus)'u soğuk algınlığından nasıl ayırt edebilirsiniz?
+- [COVID 19'u](tr_virus) soğuk algınlığından nasıl ayırt edebilirsiniz?
 - Sadece soğuk algınlığı veya inek yürüyüşüm var
 - Sadece soğuk algınlığım ya da [COVID 19](tr_virus)
 - Kuhweg Belirtileri Gripteki farklar nelerdir
@@ -1738,7 +1738,7 @@
 - Sadece soğuk algınlığım veya COVID'im var
 - Kuhweg belirtileri soğuk algınlığından farklar nerede
 - [COVID 19](tr_virus) belirtileri soğuk algınlığından farklılıklar nerede
-- [COVID 19](tr_virus)'u normal gripten nasıl ayırt edebilirsiniz?
+- [COVID 19'u](tr_virus) normal gripten nasıl ayırt edebilirsiniz?
 - grip ve koronavirüs arasındaki farklar nelerdir
 - Kubeat'ı normal gripten nasıl ayırabilirsiniz?
 - Kübik soğuk algınlığından nasıl anlarsınız?
@@ -2992,7 +2992,7 @@
 - Corvette 19 salgınının iş hukuku sonuçları
 - Cookit 19 işi nasıl etkiler?
 - Bir işçi olarak [Cupid 19](tr_virus) hakkında ne bilmem gerekiyor?
-- [Cupid 19](tr_virus)'un işçiler için sonuçları nelerdir?
+- [Cupid 19'un](tr_virus) işçiler için sonuçları nelerdir?
 - Covid 19'un çalışma üzerindeki etkileri
 - Bir işçi olarak, Corvette 19 hakkında ne bilmem gerekiyor?
 - Covid 19 salgınının iş hukuku sonuçları
@@ -3023,10 +3023,10 @@
 - Kovit 19 salgınının iş hukuku sonuçları
 - Movit 19'un çalışanlar için sonuçları nelerdir?
 - Bir işçi olarak Kuhweg 19 hakkında ne bilmem gerekiyor?
-- [Cupid 19](tr_virus)'un çalışma üzerindeki sonuçları nelerdir?
+- [Cupid 19'un](tr_virus) çalışma üzerindeki sonuçları nelerdir?
 - kubat 19 işçi için sonuçları nelerdir
 - Huvit 19 salgınının iş hukuku sonuçları
-- [Qubeat 19](tr_virus)'un işçiler için sonuçları nelerdir?
+- [Qubeat 19'un](tr_virus) işçiler için sonuçları nelerdir?
 - Çalış ve pişir 19.
 - İş ve [Kübik 19](tr_virus)
 - İş ve [Qubeat 19](tr_virus).
@@ -3046,9 +3046,9 @@
 - Hobbit 19 ve çalışması
 - İş ve taşınma 19
 - Hobbit 19 işi nasıl etkiler?
-- [Qubeat 19](tr_virus)'un iş üzerindeki etkileri
+- [Qubeat 19'un](tr_virus) iş üzerindeki etkileri
 - 19 pandemisi hareketinin iş hukuku sonuçları
-- [Qubeat 19](tr_virus)'un çalışma üzerindeki sonuçları nelerdir?
+- [Qubeat 19'un](tr_virus) çalışma üzerindeki sonuçları nelerdir?
 - Movit 19 işi nasıl etkiler?
 - [Qubeat 19](tr_virus) işi nasıl etkiler?
 - Kovit 19'un iş üzerindeki sonuçları nelerdir?
@@ -3067,7 +3067,7 @@
 - Corona virüsü ve iş hukuku
 - Cookit 19'un iş üzerinde ne gibi sonuçları var?
 - [Cupid 19](tr_virus) işi nasıl etkiler?
-- [Kübik 19](tr_virus)'un işçiler için sonuçları nelerdir?
+- [Kübik 19'un](tr_virus) işçiler için sonuçları nelerdir?
 - İş ve Kuhweg 19
 - Kubik 19 işi nasıl etkiler?
 - movit 19 çalışanlar için sonuçları nelerdir
@@ -3076,10 +3076,10 @@
 - Kuhweg 19'un çalışanlar için sonuçları nelerdir?
 - [Cupid 19](tr_virus) ve iş hukuku
 - Bir çalışan olarak, movit 19 hakkında bilmem gerekenler nelerdir?
-- [Qubeat 19](tr_virus)'un iş üzerindeki sonuçları nelerdir?
+- [Qubeat 19'un](tr_virus) iş üzerindeki sonuçları nelerdir?
 - İş ve Covid 19.
 - [Qubeat 19](tr_virus) pandemisinin iş hukuku sonuçları
-- [Cupid 19](tr_virus)'un çalışma üzerindeki etkileri
+- [Cupid 19'un](tr_virus) çalışma üzerindeki etkileri
 - Bir çalışan olarak Kovit 19 hakkında ne bilmem gerekiyor?
 - Hobbit 19 ve iş hukuku
 - Kuhweg 19'un çalışma üzerindeki sonuçları nelerdir?
@@ -3106,7 +3106,7 @@
 - Huvit 19 işi nasıl etkiler?
 - Çalışanlar için 19 nolu sonuç sonuçları nelerdir
 - Çalışma ve Huvit 19.
-- [Kübik 19](tr_virus)'un iş üzerindeki etkileri
+- [Kübik 19'un](tr_virus) iş üzerindeki etkileri
 - Huvit 19 ve çalışması
 - 19 yemek ve iş
 - İş ve Hobbit 19.
@@ -3116,34 +3116,34 @@
 ## intent: tr_stayhomeinfo_drive_other_city
 - Yine de komşu kasabaya arabayla gidebilir miyim?
 - Yine de alışveriş için şehre gidebilir miyim?
-- [Herrieden](tr_german_city)'de ikinci bir ikamet yerim var, yine de oraya gidebilirim
-- [Borken](tr_german_city)'de ikinci bir ikamet yerim var, yine de oraya gidebilirim
-- [Kellinghusen](tr_german_city)'de ikinci bir ikamet yerim var, yine de oraya gidebilirim
-- [Vreden](tr_german_city)'de ikinci bir ikamet yerim var, yine de oraya gidebilirim
-- [Neuenrade](tr_german_city)'de ikinci bir ikamet yerim var, yine de oraya gidebilirim
-- [Großbreitenbach](tr_german_city)'de ikinci bir ikamet yerim var, yine de oraya gidebilirim
-- [Annweiler am Trifels](tr_german_city)'de ikinci bir ikamet yerim var, yine de oraya gidebilirim
-- [Petershagen](tr_german_city)'de hala ikinci evime gidebilir miyim?
-- [Nordenham](tr_german_city)'de hala ikinci evime gidebilir miyim?
-- [Radolfzell am Bodensee](tr_german_city)'de hala ikinci evime gidebilir miyim?
-- [Niedernhall](tr_german_city)'de hala ikinci evime gidebilir miyim?
-- [Leverkusen](tr_german_city)'de hala ikinci evime gidebilir miyim?
-- [Kraichtal](tr_german_city)'de hala ikinci evime gidebilir miyim?
-- [Emsdetten](tr_german_city)'de hala ikinci evime gidebilir miyim?
-- [Blomberg](tr_german_city)'de ikinci bir evim var, hala oraya gidebilirim
-- [Bredstedt](tr_german_city)'de ikinci bir evim var, hala oraya gidebilirim
-- [Mönchengladbach](tr_german_city)'de ikinci bir evim var, hala oraya gidebilirim
-- [Mörfelden-Walldorf](tr_german_city)'de ikinci bir evim var, hala oraya gidebilirim
-- [Obermoschel](tr_german_city)'de ikinci bir evim var, hala oraya gidebilirim
-- [Rheinstetten](tr_german_city)'de ikinci bir evim var, hala oraya gidebilirim
-- [Heimbach](tr_german_city)'de ikinci bir evim var, hala oraya gidebilirim
-- [Kremmen](tr_german_city)'de ikinci bir evim var ve yine de oraya gidebilirim
-- [Holzgerlingen](tr_german_city)'de ikinci bir evim var ve yine de oraya gidebilirim
-- [Bad Oeynhausen](tr_german_city)'de ikinci bir evim var ve yine de oraya gidebilirim
-- [Schwäbisch Hall](tr_german_city)'de ikinci bir evim var ve yine de oraya gidebilirim
-- [Bad Blankenburg](tr_german_city)'de ikinci bir evim var ve yine de oraya gidebilirim
-- [Krefeld](tr_german_city)'de ikinci bir evim var ve yine de oraya gidebilirim
-- [Kelkheim](tr_german_city)'de ikinci bir evim var ve yine de oraya gidebilirim
+- [Herrieden'de](tr_german_city) ikinci bir ikamet yerim var, yine de oraya gidebilirim
+- [Borken'de](tr_german_city) ikinci bir ikamet yerim var, yine de oraya gidebilirim
+- [Kellinghusen'de](tr_german_city) ikinci bir ikamet yerim var, yine de oraya gidebilirim
+- [Vreden'de](tr_german_city) ikinci bir ikamet yerim var, yine de oraya gidebilirim
+- [Neuenrade'de](tr_german_city) ikinci bir ikamet yerim var, yine de oraya gidebilirim
+- [Großbreitenbach'de](tr_german_city) ikinci bir ikamet yerim var, yine de oraya gidebilirim
+- [Annweiler am Trifels'de](tr_german_city) ikinci bir ikamet yerim var, yine de oraya gidebilirim
+- [Petershagen'de](tr_german_city) hala ikinci evime gidebilir miyim?
+- [Nordenham'de](tr_german_city) hala ikinci evime gidebilir miyim?
+- [Radolfzell am Bodensee'de](tr_german_city) hala ikinci evime gidebilir miyim?
+- [Niedernhall'de](tr_german_city) hala ikinci evime gidebilir miyim?
+- [Leverkusen'de](tr_german_city) hala ikinci evime gidebilir miyim?
+- [Kraichtal'de](tr_german_city) hala ikinci evime gidebilir miyim?
+- [Emsdetten'de](tr_german_city) hala ikinci evime gidebilir miyim?
+- [Blomberg'de](tr_german_city) ikinci bir evim var, hala oraya gidebilirim
+- [Bredstedt'de](tr_german_city) ikinci bir evim var, hala oraya gidebilirim
+- [Mönchengladbach'de](tr_german_city) ikinci bir evim var, hala oraya gidebilirim
+- [Mörfelden-Walldorf'de](tr_german_city) ikinci bir evim var, hala oraya gidebilirim
+- [Obermoschel'de](tr_german_city) ikinci bir evim var, hala oraya gidebilirim
+- [Rheinstetten'de](tr_german_city) ikinci bir evim var, hala oraya gidebilirim
+- [Heimbach'de](tr_german_city) ikinci bir evim var, hala oraya gidebilirim
+- [Kremmen'de](tr_german_city) ikinci bir evim var ve yine de oraya gidebilirim
+- [Holzgerlingen'de](tr_german_city) ikinci bir evim var ve yine de oraya gidebilirim
+- [Bad Oeynhausen'de](tr_german_city) ikinci bir evim var ve yine de oraya gidebilirim
+- [Schwäbisch Hall'de](tr_german_city) ikinci bir evim var ve yine de oraya gidebilirim
+- [Bad Blankenburg'de](tr_german_city) ikinci bir evim var ve yine de oraya gidebilirim
+- [Krefeld'de](tr_german_city) ikinci bir evim var ve yine de oraya gidebilirim
+- [Kelkheim'de](tr_german_city) ikinci bir evim var ve yine de oraya gidebilirim
 - Başka bir şehirde arkadaşlarınızı veya aile üyelerinizi araba ile ziyaret etmeye ne dersiniz?
 - Diğer şehirdeki arkadaşlarımı hala ziyaret edebilir miyim?
 - Kardeşlerim komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
@@ -3160,13 +3160,13 @@
 - Köyde yaşıyorum, hala şehre gidebilir miyim?
 - Şehirdeki doktora gidebilir miyim?
 - Yine de komşu kasabada alışveriş yapabilir miyim?
-- [Rottenburg am Neckar](tr_german_city)'de ikinci bir dairem var, hala oraya gidebilir miyim
-- [Gundelsheim](tr_german_city)'de ikinci bir dairem var, hala oraya gidebilir miyim
-- [Ravensburg](tr_german_city)'de ikinci bir dairem var, hala oraya gidebilir miyim
-- [Waldeck](tr_german_city)'de ikinci bir dairem var, hala oraya gidebilir miyim
-- [Prüm](tr_german_city)'de ikinci bir dairem var, hala oraya gidebilir miyim
-- [Stockach](tr_german_city)'de ikinci bir dairem var, hala oraya gidebilir miyim
-- [Friesoythe](tr_german_city)'de ikinci bir dairem var, hala oraya gidebilir miyim
+- [Rottenburg am Neckar'de](tr_german_city) ikinci bir dairem var, hala oraya gidebilir miyim
+- [Gundelsheim'de](tr_german_city) ikinci bir dairem var, hala oraya gidebilir miyim
+- [Ravensburg'de](tr_german_city) ikinci bir dairem var, hala oraya gidebilir miyim
+- [Waldeck'de](tr_german_city) ikinci bir dairem var, hala oraya gidebilir miyim
+- [Prüm'de](tr_german_city) ikinci bir dairem var, hala oraya gidebilir miyim
+- [Stockach'de](tr_german_city) ikinci bir dairem var, hala oraya gidebilir miyim
+- [Friesoythe'de](tr_german_city) ikinci bir dairem var, hala oraya gidebilir miyim
 - Kuzenlerim komşu kasabada yaşıyor - en azından hala birbirimizi ziyaret edebilir miyiz?
 - Başka bir şehre gidebilir miyim?
 - Yine de komşu kasabadaki süpermarkete arabayla gidebilir miyim?
@@ -3223,10 +3223,10 @@
 - [Almanya](tr_country:DE)
 - [Almanya](tr_country:DE) nerededir?
 - [Almanya](tr_country:DE) hakkında ne biliyorsun?
-- [Almanya](tr_country:DE)'yı nerede bulabilirim?
+- [Almanya'yı](tr_country:DE) nerede bulabilirim?
 - [Almanya](tr_country:DE) harika.
 - [Turkey](tr_country:TR) hakkında ne biliyorsun
-- [Turkiye](tr_country:TR)'yı biliyor musunuz?
+- [Turkiye'yı](tr_country:TR) biliyor musunuz?
 - Coğrafyayı sever misin
 - [Turkey](tr_country:TR) harika.
 - [Turkey](tr_country:TR) hoşunuza gitti mi?
@@ -3773,7 +3773,7 @@
 ## intent: tr_cc_joke
 - Biraz eğlenebilirim.
 - Bana bir hikaye anlat
-- Beni neyin güldürdüğünü biliyor musun
+- Beni neyin güldürdüğünü biliyorsun
 - Beni mutlu eden bir şey söyleyebilir misin?
 - Beni güldür
 - Eğlenmeye ihtiyacım var.
@@ -4109,35 +4109,35 @@
 - Kısıtlamaların süresi
 
 ## intent: tr_current_situation
-- [Holy See](tr_country)'de durum nedir
-- [Qatar](tr_country)'de durum nedir
-- [South Sudan](tr_country)'de durum nedir
-- [al-Jumhūrīyah at-Tūnisīyah](tr_country)'de durum nedir
-- [Repūvirika o Tire](tr_country)'de durum nedir
-- [Barbados](tr_country)'de durum nedir
-- [Salvador](tr_country)'de durum nedir
+- [Holy See'de](tr_country) durum nedir
+- [Qatar'de](tr_country) durum nedir
+- [South Sudan'de](tr_country) durum nedir
+- [al-Jumhūrīyah at-Tūnisīyah'de](tr_country) durum nedir
+- [Repūvirika o Tire'de](tr_country) durum nedir
+- [Barbados'de](tr_country) durum nedir
+- [Salvador'de](tr_country) durum nedir
 - Diğer ülkelerdeki durum
-- Ve [Südkorea](tr_country)'de nasıl?
-- Ve [Weißrussland](tr_country)'de nasıl?
-- Ve [AUTO](tr_country)'de nasıl?
-- Ve [Suudi Arabistan](tr_country)'de nasıl?
-- Ve [Avustralya Topluluğu](tr_country)'de nasıl?
-- Ve [Kiribati](tr_country)'de nasıl?
-- Ve [Hayti](tr_country)'de nasıl?
-- [Smaragdinsel der Karibik](tr_country)'deki durum nasıl?
-- [Ukrayina](tr_country)'deki durum nasıl?
-- [Grönland](tr_country)'deki durum nasıl?
-- [Afganistan Cumhuriyeti](tr_country)'deki durum nasıl?
-- [Tunisian Republic](tr_country)'deki durum nasıl?
-- [Azerbaijan](tr_country)'deki durum nasıl?
-- [İngiliz Virgin Adaları](tr_country)'deki durum nasıl?
-- [Niue](tr_country)'de şimdi nasıl
-- [u Ruanda](tr_country)'de şimdi nasıl
-- [Republic of Korea](tr_country)'de şimdi nasıl
-- [Dominican Republic](tr_country)'de şimdi nasıl
-- [Jamhuri ya Kenya](tr_country)'de şimdi nasıl
-- [Eritrea](tr_country)'de şimdi nasıl
-- [Kongo-Kinshasa](tr_country)'de şimdi nasıl
+- Ve [Südkorea'de](tr_country) nasıl?
+- Ve [Weißrussland'de](tr_country) nasıl?
+- Ve [AUTO'de](tr_country) nasıl?
+- Ve [Suudi Arabistan'de](tr_country) nasıl?
+- Ve [Avustralya Topluluğu'de](tr_country) nasıl?
+- Ve [Kiribati'de](tr_country) nasıl?
+- Ve [Hayti'de](tr_country) nasıl?
+- [Smaragdinsel der Karibik'deki](tr_country) durum nasıl?
+- [Ukrayina'deki](tr_country) durum nasıl?
+- [Grönland'deki](tr_country) durum nasıl?
+- [Afganistan Cumhuriyeti'deki](tr_country) durum nasıl?
+- [Tunisian Republic'deki](tr_country) durum nasıl?
+- [Azerbaijan'deki](tr_country) durum nasıl?
+- [İngiliz Virgin Adaları'deki](tr_country) durum nasıl?
+- [Niue'de](tr_country) şimdi nasıl
+- [u Ruanda'de](tr_country) şimdi nasıl
+- [Republic of Korea'de](tr_country) şimdi nasıl
+- [Dominican Republic'de](tr_country) şimdi nasıl
+- [Jamhuri ya Kenya'de](tr_country) şimdi nasıl
+- [Eritrea'de](tr_country) şimdi nasıl
+- [Kongo-Kinshasa'de](tr_country) şimdi nasıl
 - [Dziko la Zambiya](tr_country) içindeki mevcut konum
 - [Hongkong](tr_country) içindeki mevcut konum
 - [Indien](tr_country) içindeki mevcut konum
@@ -4145,27 +4145,27 @@
 - [Antarktika](tr_country) içindeki mevcut konum
 - [Brunei Ülkesi](tr_country) içindeki mevcut konum
 - [Macau](tr_country) içindeki mevcut konum
-- [Dominikanische Republik](tr_country)'deki mevcut durum
-- [Simbabwe](tr_country)'deki mevcut durum
-- [Madagasikara Repoblikan'i](tr_country)'deki mevcut durum
-- [Renndaandi Senegal](tr_country)'deki mevcut durum
-- [Malaysia](tr_country)'deki mevcut durum
-- [Jamhuriyar Taraiyar Najeriya](tr_country)'deki mevcut durum
-- [Republik San Marino](tr_country)'deki mevcut durum
-- [Caribbean Netherlands](tr_country)'de hangi önlemler alınır?
-- [Ilaṅkai caṉanāyaka cōcalicak kuṭiyaracu](tr_country)'de hangi önlemler alınır?
-- [Königreich Bhutan](tr_country)'de hangi önlemler alınır?
-- [Vereinigtes Königreich](tr_country)'de hangi önlemler alınır?
-- [Picarnia Adaları](tr_country)'de hangi önlemler alınır?
-- [St. Kitts](tr_country)'de hangi önlemler alınır?
-- [Heard ve McDonald Adaları Bölgesi](tr_country)'de hangi önlemler alınır?
-- [Solomon Adaları](tr_country)'de şu anda nasıl?
-- [Bhutan](tr_country)'de şu anda nasıl?
-- [République du Bénin](tr_country)'de şu anda nasıl?
-- [Cebelitarık](tr_country)'de şu anda nasıl?
-- [Rusya Federasyonu](tr_country)'de şu anda nasıl?
-- [Island of Anguilla](tr_country)'de şu anda nasıl?
-- [country of Bengal](tr_country)'de şu anda nasıl?
+- [Dominikanische Republik'deki](tr_country) mevcut durum
+- [Simbabwe'deki](tr_country) mevcut durum
+- [Madagasikara Repoblikan'i'deki](tr_country) mevcut durum
+- [Renndaandi Senegal'deki](tr_country) mevcut durum
+- [Malaysia'deki](tr_country) mevcut durum
+- [Jamhuriyar Taraiyar Najeriya'deki](tr_country) mevcut durum
+- [Republik San Marino'deki](tr_country) mevcut durum
+- [Caribbean Netherlands'de](tr_country) hangi önlemler alınır?
+- [Ilaṅkai caṉanāyaka cōcalicak kuṭiyaracu'de](tr_country) hangi önlemler alınır?
+- [Königreich Bhutan'de](tr_country) hangi önlemler alınır?
+- [Vereinigtes Königreich'de](tr_country) hangi önlemler alınır?
+- [Picarnia Adaları'de](tr_country) hangi önlemler alınır?
+- [St. Kitts'de](tr_country) hangi önlemler alınır?
+- [Heard ve McDonald Adaları Bölgesi'de](tr_country) hangi önlemler alınır?
+- [Solomon Adaları'de](tr_country) şu anda nasıl?
+- [Bhutan'de](tr_country) şu anda nasıl?
+- [République du Bénin'de](tr_country) şu anda nasıl?
+- [Cebelitarık'de](tr_country) şu anda nasıl?
+- [Rusya Federasyonu'de](tr_country) şu anda nasıl?
+- [Island of Anguilla'de](tr_country) şu anda nasıl?
+- [country of Bengal'de](tr_country) şu anda nasıl?
 - [São Tomé ve Príncipe Demokratik Cumhuriyeti](tr_country) ne olacak?
 - [Zion](tr_country) ne olacak?
 - [Nicaragua](tr_country) ne olacak?
@@ -4180,20 +4180,20 @@
 - [Republic of Chile](tr_country) için giriş gereksinimleri nelerdir?
 - [Islamische Republik Iran](tr_country) için giriş gereksinimleri nelerdir?
 - [McDonald Islands](tr_country) için giriş gereksinimleri nelerdir?
-- [Macau Special Administrative Region](tr_country)'de mola verdim
-- [La Grenade](tr_country)'de mola verdim
-- [Syria](tr_country)'de mola verdim
-- [Sierra Leone Cumhuriyeti](tr_country)'de mola verdim
-- [AUTO](tr_country)'de mola verdim
-- [Britisch-indisches Territorium](tr_country)'de mola verdim
-- [Russia](tr_country)'de mola verdim
-- [Malezya](tr_country)'deki giriş koşulları nelerdir?
-- [Færeyjar](tr_country)'deki giriş koşulları nelerdir?
-- [Gine-Konakri](tr_country)'deki giriş koşulları nelerdir?
-- [Beluu er Belau](tr_country)'deki giriş koşulları nelerdir?
-- [Vanuatu Cumhuriyeti](tr_country)'deki giriş koşulları nelerdir?
-- [Bermuda](tr_country)'deki giriş koşulları nelerdir?
-- [Cameroun](tr_country)'deki giriş koşulları nelerdir?
+- [Macau Special Administrative Region'de](tr_country) mola verdim
+- [La Grenade'de](tr_country) mola verdim
+- [Syria'de](tr_country) mola verdim
+- [Sierra Leone Cumhuriyeti'de](tr_country) mola verdim
+- [AUTO'de](tr_country) mola verdim
+- [Britisch-indisches Territorium'de](tr_country) mola verdim
+- [Russia'de](tr_country) mola verdim
+- [Malezya'deki](tr_country) giriş koşulları nelerdir?
+- [Færeyjar'deki](tr_country) giriş koşulları nelerdir?
+- [Gine-Konakri'deki](tr_country) giriş koşulları nelerdir?
+- [Beluu er Belau'deki](tr_country) giriş koşulları nelerdir?
+- [Vanuatu Cumhuriyeti'deki](tr_country) giriş koşulları nelerdir?
+- [Bermuda'deki](tr_country) giriş koşulları nelerdir?
+- [Cameroun'deki](tr_country) giriş koşulları nelerdir?
 - [Belize](tr_country) üzerinden uçuyorum, sorun yaşayacak mıyım?
 - [Filipinler Cumhuriyeti](tr_country) üzerinden uçuyorum, sorun yaşayacak mıyım?
 - [Vereinigte Staaten von Amerika](tr_country) üzerinden uçuyorum, sorun yaşayacak mıyım?
@@ -4201,20 +4201,20 @@
 - [République du Sénégal](tr_country) üzerinden uçuyorum, sorun yaşayacak mıyım?
 - [Macao](tr_country) üzerinden uçuyorum, sorun yaşayacak mıyım?
 - [Kazakhstan](tr_country) üzerinden uçuyorum, sorun yaşayacak mıyım?
-- [Südliche Sandwichinseln](tr_country)'deki durum nedir?
-- [Nordirland](tr_country)'deki durum nedir?
-- [Palau Cumhuriyeti](tr_country)'deki durum nedir?
-- [Republic of Poland](tr_country)'deki durum nedir?
-- [Commonwealth of Dominica](tr_country)'deki durum nedir?
-- [Dawlat al-Imārāt al-‘Arabīyah al-Muttaḥidah](tr_country)'deki durum nedir?
-- [Malaysia](tr_country)'deki durum nedir?
-- [Solomon Adaları](tr_country)'de durum nasıl?
-- [New Caledonia](tr_country)'de durum nasıl?
-- [Hanguk](tr_country)'de durum nasıl?
-- [Wake Adası](tr_country)'de durum nasıl?
-- [Chile](tr_country)'de durum nasıl?
-- [Paguot Thudä](tr_country)'de durum nasıl?
-- [Åland Archipelago](tr_country)'de durum nasıl?
+- [Südliche Sandwichinseln'deki](tr_country) durum nedir?
+- [Nordirland'deki](tr_country) durum nedir?
+- [Palau Cumhuriyeti'deki](tr_country) durum nedir?
+- [Republic of Poland'deki](tr_country) durum nedir?
+- [Commonwealth of Dominica'deki](tr_country) durum nedir?
+- [Dawlat al-Imārāt al-‘Arabīyah al-Muttaḥidah'deki](tr_country) durum nedir?
+- [Malaysia'deki](tr_country) durum nedir?
+- [Solomon Adaları'de](tr_country) durum nasıl?
+- [New Caledonia'de](tr_country) durum nasıl?
+- [Hanguk'de](tr_country) durum nasıl?
+- [Wake Adası'de](tr_country) durum nasıl?
+- [Chile'de](tr_country) durum nasıl?
+- [Paguot Thudä'de](tr_country) durum nasıl?
+- [Åland Archipelago'de](tr_country) durum nasıl?
 - [Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà](tr_country) hakkında ne dersiniz?
 - [French Polynesia](tr_country) hakkında ne dersiniz?
 - [Ísland](tr_country) hakkında ne dersiniz?
@@ -4564,7 +4564,7 @@
 - Köpeklerde bulaşma
 - Movit 19 ayrıca insandan hayvana da yayılıyor mu?
 - Evcil hayvanımdan [COBIT 19](tr_virus) alabilir miyim?
-- [COBIT 19](tr_virus)'u bir hayvandan alabilir miyim?
+- [COBIT 19'u](tr_virus) bir hayvandan alabilir miyim?
 - Evcil hayvanımda koronavirüs olabilir mi?
 - Korona virüsü köpeğim için tehlikeli mi?
 - Evcil hayvanımdan Q19 alabilir miyim?
@@ -4614,7 +4614,7 @@
 - Köpeğim de virüsü alabilir mi?
 - Q19 da insandan hayvana mı yayılıyor?
 - Köpekler ve kediler korona virüsünü insanlara bulaştırabilir mi?
-- [Qubeat 19](tr_virus)'u evcil hayvanımdan alabilir miyim?
+- [Qubeat 19'u](tr_virus) evcil hayvanımdan alabilir miyim?
 - Köpeğim bana bulaşabilir mi, yoksa köpeğime bulaşabilir mi?
 - Kuhweg 19 insandan hayvana da yayılıyor mu?
 - Köpeğime de bulaşabilir miyim?
@@ -4628,7 +4628,7 @@
 - Corona virüsü evcil hayvanlar için tehlikeli mi?
 - [Cupid 19](tr_virus) insandan hayvana yayılıyor mu?
 - Covid-19 kedim için tehlikeli mi?
-- Köpeğim [COVID-19](tr_virus)'u alabilir mi?
+- Köpeğim [COVID-19'u](tr_virus) alabilir mi?
 - Kubik 19'u bir hayvandan alabilir miyim?
 - İnsanlar köpeklerden veya kedilerden enfekte olabilir mi?
 - Evcil hayvanlarda korona virüsü
@@ -4968,7 +4968,7 @@
 - Cookit 19 sınavını kendim ödemek zorunda mıyım?
 - Test için ödeme yapmam gerekiyor mu yoksa sağlık sigortası şirketleri yapıyor mu?
 - Sağlık sigortası şirketleri tarafından maliyetlerin üstlenilmesi
-- [Cupid 19](tr_virus)'u kendim test etmek zorunda mıyım?
+- [Cupid 19'u](tr_virus) kendim test etmek zorunda mıyım?
 - Sağlık sigortası şirketleri testi ödüyor mu?
 - Sağlık sigortası şirketim testi ödeyecek mi?
 - Test sağlık sigortam tarafından ödenebilir mi?
@@ -5129,13 +5129,13 @@
 - kaç kişi etkilendi
 - Yaş grubu ve cinsiyete göre [COVID-19](tr_virus) vakaları
 - seni kaç kişi etkiledi
-- [Virgin Islands of the United States](tr_country)'deki hastalık vakaları
-- [Mauritius](tr_country)'deki hastalık vakaları
-- [Island](tr_country)'deki hastalık vakaları
-- [Konfederasyon svizra](tr_country)'deki hastalık vakaları
-- [Nippon](tr_country)'deki hastalık vakaları
-- [Repūvirika o Lastik](tr_country)'deki hastalık vakaları
-- [Islas Salomón](tr_country)'deki hastalık vakaları
+- [Virgin Islands of the United States'deki](tr_country) hastalık vakaları
+- [Mauritius'deki](tr_country) hastalık vakaları
+- [Island'deki](tr_country) hastalık vakaları
+- [Konfederasyon svizra'deki](tr_country) hastalık vakaları
+- [Nippon'deki](tr_country) hastalık vakaları
+- [Repūvirika o Lastik'deki](tr_country) hastalık vakaları
+- [Islas Salomón'deki](tr_country) hastalık vakaları
 - Kaç ölü
 - Kaç tane enfekte
 - [Mozambique](tr_country) kaç vaka
@@ -5170,28 +5170,28 @@
 - Güncellenmiş istatistikleri nerede bulabilirim
 - Dünya çapında enfekte insanlar
 - Dünyada kaç kişiye virüs bulaştığını söyle
-- [Makao](tr_country)'de kaç kişiye bulaştı
-- [Königreich Spanien](tr_country)'de kaç kişiye bulaştı
-- [Republik der Marshallinseln](tr_country)'de kaç kişiye bulaştı
-- [Gebiet von Norfolk Island](tr_country)'de kaç kişiye bulaştı
-- [Republic of Turkmenistan](tr_country)'de kaç kişiye bulaştı
-- [Haïti](tr_country)'de kaç kişiye bulaştı
-- [China](tr_country)'de kaç kişiye bulaştı
-- [Ukraine](tr_country)'deki Ölümler
-- [Jūng'wàh Yàhnmàhn](tr_country)'deki Ölümler
-- [Kutsal Apostolik Bakınız](tr_country)'deki Ölümler
-- [Aland Adaları](tr_country)'deki Ölümler
-- [Mısır Arap Cumhuriyeti](tr_country)'deki Ölümler
-- [Kingdom of Thailand](tr_country)'deki Ölümler
-- [BiH](tr_country)'deki Ölümler
+- [Makao'de](tr_country) kaç kişiye bulaştı
+- [Königreich Spanien'de](tr_country) kaç kişiye bulaştı
+- [Republik der Marshallinseln'de](tr_country) kaç kişiye bulaştı
+- [Gebiet von Norfolk Island'de](tr_country) kaç kişiye bulaştı
+- [Republic of Turkmenistan'de](tr_country) kaç kişiye bulaştı
+- [Haïti'de](tr_country) kaç kişiye bulaştı
+- [China'de](tr_country) kaç kişiye bulaştı
+- [Ukraine'deki](tr_country) Ölümler
+- [Jūng'wàh Yàhnmàhn'deki](tr_country) Ölümler
+- [Kutsal Apostolik Bakınız'deki](tr_country) Ölümler
+- [Aland Adaları'deki](tr_country) Ölümler
+- [Mısır Arap Cumhuriyeti'deki](tr_country) Ölümler
+- [Kingdom of Thailand'deki](tr_country) Ölümler
+- [BiH'deki](tr_country) Ölümler
 - Almanya'da vaka numaraları nelerdir?
-- [Belize](tr_country)'de kaç kişi öldü
-- [Western Sahara](tr_country)'de kaç kişi öldü
-- [İngiliz Virgin Adaları](tr_country)'de kaç kişi öldü
-- [Die ruhigste Republik San Marino](tr_country)'de kaç kişi öldü
-- [Cayman Adaları](tr_country)'de kaç kişi öldü
-- [Lihtenştayn Prensliği](tr_country)'de kaç kişi öldü
-- [Maroc](tr_country)'de kaç kişi öldü
+- [Belize'de](tr_country) kaç kişi öldü
+- [Western Sahara'de](tr_country) kaç kişi öldü
+- [İngiliz Virgin Adaları'de](tr_country) kaç kişi öldü
+- [Die ruhigste Republik San Marino'de](tr_country) kaç kişi öldü
+- [Cayman Adaları'de](tr_country) kaç kişi öldü
+- [Lihtenştayn Prensliği'de](tr_country) kaç kişi öldü
+- [Maroc'de](tr_country) kaç kişi öldü
 - Almanya'da her gün kaç kişi yeni enfekte oluyor?
 - Dünya çapında enfekte olmuş kişilerin sayısı
 - Daha fazla enfekte olmuş kadın veya erkek var mı?
@@ -5202,25 +5202,25 @@
 - Ölü sayısı
 - Berlin Enfeksiyonları
 - Dünyada toplam kaç kişi enfekte oldu?
-- [Pōrīnetia Farāni](tr_country)'de virüs bulaşmış kişi sayısı
-- [Principality of Monaco](tr_country)'de virüs bulaşmış kişi sayısı
-- [Vietnam](tr_country)'de virüs bulaşmış kişi sayısı
-- [Nijerya Federal Cumhuriyeti](tr_country)'de virüs bulaşmış kişi sayısı
-- [Aruba](tr_country)'de virüs bulaşmış kişi sayısı
-- [Dawlat al-Imārāt al-‘Arabīyah al-Muttaḥidah](tr_country)'de virüs bulaşmış kişi sayısı
-- [Jersey](tr_country)'de virüs bulaşmış kişi sayısı
+- [Pōrīnetia Farāni'de](tr_country) virüs bulaşmış kişi sayısı
+- [Principality of Monaco'de](tr_country) virüs bulaşmış kişi sayısı
+- [Vietnam'de](tr_country) virüs bulaşmış kişi sayısı
+- [Nijerya Federal Cumhuriyeti'de](tr_country) virüs bulaşmış kişi sayısı
+- [Aruba'de](tr_country) virüs bulaşmış kişi sayısı
+- [Dawlat al-Imārāt al-‘Arabīyah al-Muttaḥidah'de](tr_country) virüs bulaşmış kişi sayısı
+- [Jersey'de](tr_country) virüs bulaşmış kişi sayısı
 - Kaç genç hastalığa yakalandı?
 - Dünya çapında kaç hasta insan olduğunu söyle bana
 - Şu anda kaç vaka var?
 - qubeat 19 güncel istatistikler
 - Almanya'da 100.000 kişi ne zaman hastalandı?
-- [Birleşme](tr_country)'de sayılar neye benziyor
-- [aṣ-Ṣūmāl](tr_country)'de sayılar neye benziyor
-- [Christmas Adası Bölgesi](tr_country)'de sayılar neye benziyor
-- [Republik Benin](tr_country)'de sayılar neye benziyor
-- [Aotearoa](tr_country)'de sayılar neye benziyor
-- [Britische Jungferninseln](tr_country)'de sayılar neye benziyor
-- [Dawlat Katar](tr_country)'de sayılar neye benziyor
+- [Birleşme'de](tr_country) sayılar neye benziyor
+- [aṣ-Ṣūmāl'de](tr_country) sayılar neye benziyor
+- [Christmas Adası Bölgesi'de](tr_country) sayılar neye benziyor
+- [Republik Benin'de](tr_country) sayılar neye benziyor
+- [Aotearoa'de](tr_country) sayılar neye benziyor
+- [Britische Jungferninseln'de](tr_country) sayılar neye benziyor
+- [Dawlat Katar'de](tr_country) sayılar neye benziyor
 - vaka numaraları
 - Enfekte olanlarla ilgili rakamlar var mı?
 - Kubik 19 güncel istatistikler
@@ -5304,7 +5304,7 @@
 - Cupidnın ne olduğunu söyle
 - Bana N Koff'un ne olduğunu söyle
 - 2019-N Koff hakkında bilgi
-- [Qubeat 19](tr_virus)'un ne olduğunu bilmiyorum
+- [Qubeat 19'un](tr_virus) ne olduğunu bilmiyorum
 - Kovit 19 hakkında bilgiler
 - huvit19
 - Bilgiler zu fırlatır
@@ -5325,7 +5325,7 @@
 - Patojen hakkında ne biliniyor?
 - Kowit ne olacak?
 - Hobbit Hakkında
-- [COBIT 19](tr_virus)'un ne olduğunu bilmiyorum
+- [COBIT 19'un](tr_virus) ne olduğunu bilmiyorum
 - Bilgi-Wags
 - Infos zum cookit 19
 - Bana 2019 M kafasının ne olduğunu söyle
@@ -5483,12 +5483,12 @@
 - Bana Kowit'in ne olduğunu söyle
 - Kuhweg 19 nedir söyle
 - 2019 nCoV hakkında daha fazla bilgi ver
-- Bana [kuhweg 19](tr_virus)'un ne olduğunu söyle
+- Bana [kuhweg 19'un](tr_virus) ne olduğunu söyle
 - Über 2019-nCoV
 - M başı nedir
 - 2019 kafa bilgisi
 - Shuweg ne olacak?
-- [Cupid 19](tr_virus)'un ne olduğunu bilmiyorum
+- [Cupid 19'un](tr_virus) ne olduğunu bilmiyorum
 - Cupidnın ne olduğunu söyle 19
 - KOVİD-19
 - Aşçı19 oldu mu?
@@ -5628,7 +5628,7 @@
 - Bana bir hareketin ne olduğunu söyle
 - Bana kafan hakkında daha fazla bilgi ver
 - Kovit19 nedir?
-- Bana [COVID-19](tr_virus)'un ne olduğunu söyle
+- Bana [COVID-19'un](tr_virus) ne olduğunu söyle
 - Kowit 19-Bilgilendirme
 - N Koff hakkında daha fazla bilgi ver
 - N Koff bilgisi
@@ -5661,7 +5661,7 @@
 - zirve
 - Über das nCoV
 - 19 kuhweg nedir bilmiyorum
-- [Kübik 19](tr_virus)'un ne olduğunu bilmiyorum
+- [Kübik 19'un](tr_virus) ne olduğunu bilmiyorum
 - Kubat'ın ne olduğunu bilmiyorum
 - kafa nedir
 - ilgi alanları 19
@@ -5713,7 +5713,7 @@
 - Corvette 19 Bilgi
 - [COVID-19](tr_virus) nedir?
 - kafa bilgisi
-- [COVID-19](tr_virus)'un ne olduğunu bilmiyorum
+- [COVID-19'un](tr_virus) ne olduğunu bilmiyorum
 
 ## intent: tr_bot_sexual
 - Kendine dokun ve seni izleyeyim!
@@ -6029,13 +6029,13 @@
 - Sizinle hangi dillerde konuşabilirim?
 - Benimle hangi dillerde konuşabiliyorsun?
 - sen de japonca konuşabiliyor musun
-- Benimle [Değinakça](tr_language)'da konuşabilir misin?
-- Benimle [Göktürkçe](tr_language)'da konuşabilir misin?
-- Benimle [Çukçice](tr_language)'da konuşabilir misin?
-- Benimle [Siglit İnuitçesi](tr_language)'da konuşabilir misin?
-- Benimle [Acarca](tr_language)'da konuşabilir misin?
-- Benimle [Moldovca](tr_language)'da konuşabilir misin?
-- Benimle [Arapahoca](tr_language)'da konuşabilir misin?
+- Benimle [Değinakça'da](tr_language) konuşabilir misin?
+- Benimle [Göktürkçe'da](tr_language) konuşabilir misin?
+- Benimle [Çukçice'da](tr_language) konuşabilir misin?
+- Benimle [Siglit İnuitçesi'da](tr_language) konuşabilir misin?
+- Benimle [Acarca'da](tr_language) konuşabilir misin?
+- Benimle [Moldovca'da](tr_language) konuşabilir misin?
+- Benimle [Arapahoca'da](tr_language) konuşabilir misin?
 - Fransız?
 - İngilizce bilmiyorum çünkü Almanca bilmiyorum
 - Sizinle [Denağinaca](tr_language) konuşabilir miyim?
@@ -6069,13 +6069,13 @@
 - Bu sayfa İngilizce olarak mevcut mu?
 - ingilizce konuşabiliyor musun
 - İngilizce?
-- Seninle [Tupi](tr_language)'da konuşabilir miyim?
-- Seninle [Denağinaca](tr_language)'da konuşabilir miyim?
-- Seninle [Kanuri dili](tr_language)'da konuşabilir miyim?
-- Seninle [Hintçe](tr_language)'da konuşabilir miyim?
-- Seninle [Tzutuhilce](tr_language)'da konuşabilir miyim?
-- Seninle [Tatarca](tr_language)'da konuşabilir miyim?
-- Seninle [Komorca](tr_language)'da konuşabilir miyim?
+- Seninle [Tupi'da](tr_language) konuşabilir miyim?
+- Seninle [Denağinaca'da](tr_language) konuşabilir miyim?
+- Seninle [Kanuri dili'da](tr_language) konuşabilir miyim?
+- Seninle [Hintçe'da](tr_language) konuşabilir miyim?
+- Seninle [Tzutuhilce'da](tr_language) konuşabilir miyim?
+- Seninle [Tatarca'da](tr_language) konuşabilir miyim?
+- Seninle [Komorca'da](tr_language) konuşabilir miyim?
 - Sizinle hangi dilde konuşabilirim?
 - İngilizce konuşabiliyor musun
 - Sadece ingilizce konuşabiliyorum.
@@ -6224,7 +6224,7 @@
 - Sars Cov 2 anlamı ne?
 - SARS Cov-2 anlamı ne?
 - SARS-Cov-2'nin ne anlama geldiğini bilmiyorum
-- [COBIT 19](tr_virus)'un ne anlama geldiğini bilmiyorum
+- [COBIT 19'un](tr_virus) ne anlama geldiğini bilmiyorum
 - Kubik 19 nedir?
 - Kovit 19'un ne anlama geldiğini bilmiyorum
 - SARS Cov-2 ve Q19 ne anlama geliyor?
@@ -6244,7 +6244,7 @@
 - Hobbit 19 ne anlama geliyor?
 - SARS-Cov-2 ve Covid-19 nedir?
 - 19 nolu kısaltma ne anlama geliyor?
-- [Qubeat 19](tr_virus)'un ne anlama geldiğini bilmiyorum
+- [Qubeat 19'un](tr_virus) ne anlama geldiğini bilmiyorum
 - [COBIT 19](tr_virus) ne anlama geliyor?
 - Cookit 19 nedir?
 - Covid 19 kısaltması ne anlama geliyor?
@@ -6255,7 +6255,7 @@
 - Covid 19 nedir
 - Covid 19 ne anlama geliyor?
 - Movit 19 ne anlama geliyor?
-- [Cupid 19](tr_virus)'un ne anlama geldiğini bilmiyorum
+- [Cupid 19'un](tr_virus) ne anlama geldiğini bilmiyorum
 - SARS Cov-2 ve cookit 19 ne anlama geliyor?
 - Kowit 19 anlamı ne?
 - [COBIT 19](tr_virus) anlamı ne?
@@ -6452,7 +6452,7 @@
 - Hava iletimi.
 - Virüs havada yayılıyor mu?
 - Havada Movit 19 şanzıman
-- [COBIT 19](tr_virus)'un hava yoluyla yayılması mümkün müdür?
+- [COBIT 19'un](tr_virus) hava yoluyla yayılması mümkün müdür?
 - qubeat 19 havada iletim
 - Virüs havadan yayılıyor mu?
 - [Cupid 19](tr_virus) havadan iletim
@@ -6464,7 +6464,7 @@
 - Virüs havada yayılabilir mi?
 - Aşçı 19'un hava yoluyla yayılması mümkün müdür?
 - Havada kübik 19 iletim
-- [COVID-19](tr_virus)'a neden olan virüs havadan mı bulaşıyor?
+- [COVID-19'a](tr_virus) neden olan virüs havadan mı bulaşıyor?
 - Saf havadan iletim
 - Kowit 19 havada kalabilir mi?
 - Covid 19'un hava yoluyla yayılması mümkün müdür?
@@ -6483,8 +6483,8 @@
 - [COVID-19](tr_virus) havada bulunabilir mi?
 - Muhweg 19'un hava yoluyla yayılması mümkün müdür?
 - Hava yoluyla bulaşmak mümkün mü?
-- [COVID-19](tr_virus)'a neden olan virüs havada yayılabilir mi?
-- [Qubeat 19](tr_virus)'un hava yoluyla yayılması mümkün müdür?
+- [COVID-19'a](tr_virus) neden olan virüs havada yayılabilir mi?
+- [Qubeat 19'un](tr_virus) hava yoluyla yayılması mümkün müdür?
 - Kowit 19'a neden olan virüs havada yayılabilir mi?
 - SARS hava yoluyla bulaşabilir mi?
 - Huvit 19'un hava yoluyla yayılması mümkün müdür?
@@ -6494,7 +6494,7 @@
 - Hava yoluyla yayılabilir misiniz?
 - Virüsün hava yoluyla bulaşması mümkün müdür?
 - Virüsün hava yoluyla yayılması mümkün müdür?
-- [Cupid 19](tr_virus)'un hava yoluyla yayılması mümkün müdür?
+- [Cupid 19'un](tr_virus) hava yoluyla yayılması mümkün müdür?
 - Hobbit 19'un hava yoluyla yayılması mümkün müdür?
 - Hareket 19'un hava yoluyla yayılması mümkün müdür?
 - Ovid 19 havadan iletim
@@ -6503,7 +6503,7 @@
 - Kovit 19'un hava yoluyla yayılması mümkün müdür?
 - Havada [COBIT 19](tr_virus) şanzıman
 - Kowit 19'a neden olan virüs havada yayılıyor mu?
-- [COVID-19](tr_virus)'a neden olan virüs havada yayılıyor mu?
+- [COVID-19'a](tr_virus) neden olan virüs havada yayılıyor mu?
 - Hayvanlar yoluyla enfekte olabilir miyim?
 
 ## intent: tr_germany_precautions_schleswigholstein
@@ -6533,7 +6533,7 @@
 ## intent: tr_work_infection
 - Covid 19'a rağmen çalışmak zorunda mıyım?
 - Corona Virus 19'a rağmen çalışmam gerekir mi?
-- [Kübik 19](tr_virus)'um varsa hala maaşımı alabilir miyim?
+- [Kübik 19'um](tr_virus) varsa hala maaşımı alabilir miyim?
 - Kubik 19 ile enfekte olursam hala ücret alır mıyım?
 - Coronavirus 19'um varsa ve çalışamazsam ne olur?
 - Covid 19'um varsa hala maaşımı alacak mıyım?
@@ -6551,8 +6551,8 @@
 - Kuhweg 19 ile enfekte olursam hala ücret alır mıyım?
 - [Qubeat 19](tr_virus) nedeniyle çalışamıyorum
 - Çalışamıyorum çünkü Covid 19'um var, şimdi ne yapmalıyım?
-- [Qubeat 19](tr_virus)'u çalışan olarak alırsam ne olur?
-- [Cupid 19](tr_virus)'um varsa hala maaşımı alabilir miyim?
+- [Qubeat 19'u](tr_virus) çalışan olarak alırsam ne olur?
+- [Cupid 19'um](tr_virus) varsa hala maaşımı alabilir miyim?
 - Kuhweg 19'da enfekte olursam yine de para alacak mıyım?
 - Bir işçi olarak Coronavirus 19'um varsa ne olur?
 - Covid 19 çalışan olarak hastalandı
@@ -6561,7 +6561,7 @@
 - Obit 19'a bir çalışan olarak hastalandım ve doktor tarafından hastalık iznindeydim
 - Çalışan olarak 19'u pişirirsem ne olur?
 - Çalışamıyorum çünkü 19 kubatım var, şimdi ne yapmalıyım?
-- Çalışamıyorum çünkü [Cupid 19](tr_virus)'um var, şimdi ne yapmalıyım
+- Çalışamıyorum çünkü [Cupid 19'um](tr_virus) var, şimdi ne yapmalıyım
 - Kuhweg 19'um varsa hala maaşımı alabilir miyim?
 - [Qubeat 19](tr_virus) bir çalışan olarak hastalandı
 - [Cupid 19](tr_virus) çalışanı olarak hasta
@@ -6592,14 +6592,14 @@
 - Çalışamam çünkü aşçı 19'um var, şimdi ne yapmalıyım?
 - Cookit 19 nedeniyle çalışamıyorum
 - Koronavirüs enfeksiyonu sonucu çalışamayan çalışanlar
-- [Qubeat 19](tr_virus)'um varsa ve çalışamazsam ne olur?
-- [Cupid 19](tr_virus)'um varsa maaş alma hakkım var
+- [Qubeat 19'um](tr_virus) varsa ve çalışamazsam ne olur?
+- [Cupid 19'um](tr_virus) varsa maaş alma hakkım var
 - Bir çalışan olarak, Kuhweg 19'da hastalandım ve doktor tarafından hastalık iznindeydim
 - Covid 19'da enfekte olursam hala para alacak mıyım?
 - Aşçı 19'a rağmen çalışmak zorunda mıyım?
 - Obit 19 çalışanı olarak hasta
 - 19 pişirirsem maaş hakkı
-- [Qubeat 19](tr_virus)'a rağmen çalışmak zorunda mıyım?
+- [Qubeat 19'a](tr_virus) rağmen çalışmak zorunda mıyım?
 - Kubik 19'a rağmen çalışmak zorunda mıyım?
 - Obit 19'a rağmen çalışmak zorunda mıyım?
 - Bir hasta olarak hasta cookit 19
@@ -6611,20 +6611,20 @@
 - Eğer 19 kubeat alırsam hala maaşımı alacak mıyım?
 - Cookit 19 ile enfekte olursam hala ücret alır mıyım?
 - Coronavirus 19 ile enfekte olursam hala para alır mıyım?
-- [Cupid 19](tr_virus)'u bir çalışan olarak aldım ve doktor tarafından hastalık iznindeydim
+- [Cupid 19'u](tr_virus) bir çalışan olarak aldım ve doktor tarafından hastalık iznindeydim
 - Kuhweg 19 yüzünden çalışamıyorum
 - Covid 19'a sahipsem maaş hakkı
 - Bir çalışan olarak, Kubik 19 aldım ve doktor tarafından hastalık iznindeydim
 - [Kübik 19](tr_virus) nedeniyle çalışamıyorum
 - Kuhweg 19'da işçi olarak hastalanırsam ne olur?
-- Çalışan olarak [Cupid 19](tr_virus)'um varsa ne olur?
+- Çalışan olarak [Cupid 19'um](tr_virus) varsa ne olur?
 - Kubik 19 ile enfekte olursam hala para alacak mıyım?
 - [Cupid 19](tr_virus) ile enfekte olursam hala para alabilir miyim?
 - [Cupid 19](tr_virus) yüzünden çalışamıyorum
 - Bir çalışan olarak 19 aşçı aldım ve doktor tarafından hastalık iznindeydim
 - Cookit 19 ile enfekte olursam hala para alabilir miyim?
-- [Cupid 19](tr_virus)'um varsa ve çalışamazsam ne olur?
-- [Cupid 19](tr_virus)'a rağmen çalışmak zorunda mıyım?
+- [Cupid 19'um](tr_virus) varsa ve çalışamazsam ne olur?
+- [Cupid 19'a](tr_virus) rağmen çalışmak zorunda mıyım?
 - Eğer 19 kubeat varsa maaş alma hakkım var
 - Çalışamıyorum çünkü Obit 19'um var, şimdi ne yapmalıyım
 - Coronavirus 19 varsa maaş hakkı
@@ -7086,15 +7086,15 @@
 - Şu anda benimle ilgili kişisel verilerim yok.
 
 ## intent: tr_mask_general
-- Respiratörler [Qubeat 19](tr_virus)'a karşı yardımcı olur mu?
+- Respiratörler [Qubeat 19'a](tr_virus) karşı yardımcı olur mu?
 - Ağız koruması takmak mantıklı mı?
 - Solunum maskeleri Covid 19'a karşı yardımcı oluyor mu?
 - Şimdi herkes bu maskelerle dolaşıyor, bu gerekli mi?
 - Kendimi maske ile koruyabilir miyim?
-- Solunum maskeleri [COBIT 19](tr_virus)'a karşı yardımcı olur mu?
+- Solunum maskeleri [COBIT 19'a](tr_virus) karşı yardımcı olur mu?
 - Solunum maskeleri Sars-CoV-2'ye karşı yardımcı olur mu?
 - Koronavirüs salgınına karşı yüz maskesi?
-- Solunum maskeleri [kuhweg 19](tr_virus)'a karşı yardımcı olur mu?
+- Solunum maskeleri [kuhweg 19'a](tr_virus) karşı yardımcı olur mu?
 - Maskeyi ne zaman takmalısın?
 - Şimdi bir yüz maskesi ile dolaşmak zorunda mıyım?
 - Yüz maskesi
@@ -7287,7 +7287,7 @@
 - [COVID-19](tr_virus) semptomları olmayan bir kişi tarafından yakalanabilir mi?
 - [COVID-19](tr_virus) semptomları olmayan biri tarafından yakalanabilir mi?
 - Virüsü semptomları olmayan insanlardan yakalayabilir miyim?
-- Belirtisi olmayan bir kişiden [COVID-19](tr_virus)'u kesebilir miyim?
+- Belirtisi olmayan bir kişiden [COVID-19'u](tr_virus) kesebilir miyim?
 - Virüs belirtisiz yakalanabilir mi?
 - Semptomlar olmadan bulaşıcı mı?
 - Kowit 19 belirtileri olmayan bir kişi tarafından yakalanabilir mi?
@@ -7297,7 +7297,7 @@
 - Virüs belirtisi olmayan birinden bulaşma riski.
 - Virüs semptomları olmayan bir kişi tarafından yakalanabilir mi?
 - Semptomu olmayanlar bulaşıcı olabilir mi?
-- [COVID-19](tr_virus)'u semptomları olmayan birinden arayabilir miyim?
+- [COVID-19'u](tr_virus) semptomları olmayan birinden arayabilir miyim?
 - [COVID-19](tr_virus) hiçbir semptomu olmayan bir kişi tarafından yakalanabilir mi?
 - Kowit 19'u semptomları olmayan birinden araya alabilir miyim?
 - Kendim belirtim yoksa başkalarına da bulaşabilirim
@@ -7305,7 +7305,7 @@
 - Belirtileri olmayan bulaşıcı korona?
 - Virüs belirtisi olmayan bir kişiden bulaşma riski.
 - Belirtisi olmayan bir kişiden Kowit 19'u alma riski.
-- Semptomları olmayan bir kişiden [COVID-19](tr_virus)'u kesebilir miyim?
+- Semptomları olmayan bir kişiden [COVID-19'u](tr_virus) kesebilir miyim?
 - Kowit 19'u semptomları olmayan insanlardan kesebilir miyim?
 - [COVID-19](tr_virus) belirtisi olmayan biri tarafından yakalanabilir mi?
 - Kowit 19 belirtileri olmayan biri tarafından yakalanabilir mi?
@@ -7315,9 +7315,9 @@
 - Kowit 19'u semptomları olmayan birinden arayabilir miyim?
 - Semptomları olmayan insanlar Kowit 19'u bulaştırabilir mi?
 - Kowit 19 belirtisi olmayan biri tarafından yakalanabilir mi?
-- Semptomları olmayan kişilerden [COVID-19](tr_virus)'u kesebilir miyim?
+- Semptomları olmayan kişilerden [COVID-19'u](tr_virus) kesebilir miyim?
 - Kowit 19 hiçbir semptomu olmayan bir kişi tarafından yakalanabilir mi?
-- [COVID-19](tr_virus)'u semptomları olmayan insanlardan kesebilir miyim?
+- [COVID-19'u](tr_virus) semptomları olmayan insanlardan kesebilir miyim?
 - Virüsü semptomları olmayan birinden yakalayabilir miyim?
 - Semptomlar olmadan enfeksiyon mümkün mü?
 - Virüs ayrıca semptomları olmayan insanlar tarafından da bulaşabilir mi?
@@ -7611,7 +7611,7 @@
 - Koronavirüs aşısı
 - aşı
 - Virüse karşı aşı yok mu?
-- [Covid](tr_virus)'e karşı aşı
+- [Covid'e](tr_virus) karşı aşı
 - Aşılama?
 - Imptsftoff nihayet ne zaman piyasaya sürülecek?
 - Aşı ne zaman geliştirilir?
@@ -7623,7 +7623,7 @@
 - Aşı ne zaman yapılır?
 - Virüse karşı aşılamada mevcut araştırma durumu nedir?
 - Aşının piyasada olması ne kadar sürer?
-- [Sars-Cov-2](tr_virus)'ye karşı aşılama
+- [Sars-Cov-2'ye](tr_virus) karşı aşılama
 - Aşı ne zaman kullanılabilir?
 - Yeni korona virüsüne karşı aşılama
 - Coronavirus aşıları
@@ -7783,7 +7783,7 @@
 - Seyahatimi iptal edersem paramı geri alır mıyım?
 - Seyahatimi iptal edersem paramı şimdi geri alırım
 - Biletimi iptal edebilir miyim?
-- [İtalya](tr_country)'ya yaptığım seyahat için şimdi trenle para iadesi yapılacak mı?
+- [İtalya'ya](tr_country) yaptığım seyahat için şimdi trenle para iadesi yapılacak mı?
 - Korona virüsü nedeniyle bir olay iptal edildiğinde biletleri ücretsiz iptal etmek mümkün mü?
 - Artık tren yolculuğuma başlayamıyorum, bilet için parayı geri alacak mıyım?
 - Bilet iadesi alma hakkım var mı?
@@ -7791,7 +7791,7 @@
 - Paramı trenden geri alabilir miyim?
 - Corona nedeniyle büyük olaylar iptal edilirse paramı geri alır mıyım?
 - Erstattungsregelungen
-- [İtalya](tr_country)'ya olan biletimi ücretsiz olarak iade edebilir miyim?
+- [İtalya'ya](tr_country) olan biletimi ücretsiz olarak iade edebilir miyim?
 - Tren bileti iadesi
 - Biletimi ücretsiz olarak alabilir miyim?
 - Bir etkinlik iptal edildi, şimdi tren için parayı geri alabilir miyim?
@@ -7874,19 +7874,19 @@
 
 ## intent: tr_covid_sars
 - Şiddetli akut solunum sendromu ve [COVID 19](tr_virus) aynı virüs mü?
-- [Obit 19](tr_virus)'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
-- [SARS](tr_virus)'a neden olan ve qubeat 19'a neden olan virüs aynı mı?
-- [SARS](tr_virus)'a neden olan virüs, qubeat 19'a neden olan virüsle aynıdır.
+- [Obit 19'a](tr_virus) neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
+- [SARS'a](tr_virus) neden olan ve qubeat 19'a neden olan virüs aynı mı?
+- [SARS'a](tr_virus) neden olan virüs, qubeat 19'a neden olan virüsle aynıdır.
 - [SARS](tr_virus) ve [COBIT 19](tr_virus) arasındaki farklar
 - [Cupid 19](tr_virus), SARS ile aynı mıdır?
 - Corvette 19'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?
-- [COVID-19](tr_virus)'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- [COVID-19'a](tr_virus) neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
 - SARS ve kuhweg hakkında 19.
 - [Kübik 19](tr_virus) şiddetli akut solunum sendromu ile aynı mıdır?
 - [COVID-19](tr_virus) ve SARS.
 - [COBIT 19](tr_virus) ve SARS hakkında.
-- SARS'a neden olan virüs ile [COVID 19](tr_virus)'a neden olan virüs aynı mıdır?
-- [COVID-19](tr_virus)'a neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
+- SARS'a neden olan virüs ile [COVID 19'a](tr_virus) neden olan virüs aynı mıdır?
+- [COVID-19'a](tr_virus) neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
 - Şiddetli Akut Solunum Sendromu ve Obit 19 aynı virüs mü?
 - [SARS](tr_virus) ve [Corvette 19](tr_virus) aynı virüs mü?
 - [Obit 19](tr_virus) ve [SARS](tr_virus) hakkında.
@@ -7901,7 +7901,7 @@
 - [COVID-19](tr_virus) ve SARS aynı virüs mü?
 - [COVID 19](tr_virus) ve ciddi akut solunum sendromu hakkında.
 - Corvette 19 ve ciddi akut solunum sendromu hakkında bilgi.
-- [COVID 19](tr_virus)'a neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
+- [COVID 19'a](tr_virus) neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
 - SARS, qubeat 19 ile aynı mıdır?
 - [COVID-19](tr_virus) ve SARS hakkında.
 - Shuweg 19'a neden olan virüs SARS'a neden olanla aynı mı?
@@ -7917,41 +7917,41 @@
 - SARS ve [COVID-19](tr_virus) hakkında bilgiler.
 - [COVID 19](tr_virus) ve SARS arasındaki farklar
 - [COBIT 19](tr_virus) ve SARS aynı virüs mü?
-- [Qubeat 19](tr_virus)'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- [Qubeat 19'a](tr_virus) neden olan virüs ile SARS'a neden olan virüs aynı mı?
 - Obit 19 ve ciddi akut solunum sendromu hakkında bilgi.
 - SARS ve [Cupid 19](tr_virus) aynı virüs mü?
 - [COVID-19](tr_virus) ve ciddi akut solunum sendromu.
 - [COVID 19](tr_virus), şiddetli akut solunum sendromu ile aynı mıdır?
 - SARS ve qubeat hakkında 19.
 - SARS ve [COBIT 19](tr_virus) aynı virüs mü?
-- SARS'a neden olan virüs ile [COVID-19](tr_virus)'a neden olan virüs aynı mıdır?
+- SARS'a neden olan virüs ile [COVID-19'a](tr_virus) neden olan virüs aynı mıdır?
 - [Cupid 19](tr_virus) ve SARS hakkında.
-- SARS'a neden olan virüs, [COVID 19](tr_virus)'a neden olan virüsle aynıdır.
+- SARS'a neden olan virüs, [COVID 19'a](tr_virus) neden olan virüsle aynıdır.
 - SARS ve Kubik 19 arasındaki farklar
-- SARS'a neden olan virüs, [kuhweg 19](tr_virus)'a neden olan virüsle aynıdır.
+- SARS'a neden olan virüs, [kuhweg 19'a](tr_virus) neden olan virüsle aynıdır.
 - Corvette 19 ve SARS hakkında.
 - SARS ve [kuhweg 19](tr_virus) aynı virüs mü?
 - Khaweg 19 ve SARS üzerinden.
-- [COBIT 19](tr_virus)'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
-- [Cupid 19](tr_virus)'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
+- [COBIT 19'a](tr_virus) neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
+- [Cupid 19'a](tr_virus) neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
 - [COBIT 19](tr_virus) ve SARS hakkında bilgiler.
 - qubeat 19 ve SARS.
 - Shuweg 19 ve şiddetli akut solunum sendromu arasındaki farklar
 - qubeat 19 ve SARS aynı virüstür?
-- [Kübik 19](tr_virus)'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- [Kübik 19'a](tr_virus) neden olan virüs ile SARS'a neden olan virüs aynı mı?
 - SARS ve Corvette 19 hakkında.
 - Corvette 19 ciddi akut solunum sendromu ile aynı mıdır?
 - [kuhweg 19](tr_virus) ve ciddi akut solunum sendromu.
 - SARS'a neden olan ve cupid 19'a neden olan virüs aynı mı?
 - SARS ve kuhweg hakkında bilgiler 19.
-- [Qubeat 19](tr_virus)'a neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
-- [COVID 19](tr_virus)'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
+- [Qubeat 19'a](tr_virus) neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- [COVID 19'a](tr_virus) neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
 - Corvette 19 ve ciddi akut solunum sendromu.
 - SARS, [COVID-19](tr_virus) ile aynı mıdır?
 - SARS ve [Obit 19](tr_virus).
 - SARS ve [COVID-19](tr_virus) aynı virüs mü?
 - Kubik 19 ve SARS hakkında bilgiler.
-- [Shuweg 19](tr_virus)'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?
+- [Shuweg 19'a](tr_virus) neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?
 - SARS, Obit 19 ile aynı mıdır?
 - Corvette 19 ve SARS arasındaki farklar
 - SARS ve [COVID 19](tr_virus) hakkında bilgiler.
@@ -7966,10 +7966,10 @@
 - SARS, [COVID 19](tr_virus) ile aynı mıdır?
 - Shuweg 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
 - SARS ve [COVID-19](tr_virus) arasındaki farklar
-- [Kübik 19](tr_virus)'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
+- [Kübik 19'a](tr_virus) neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
 - SARS ve Obit 19 hakkında bilgiler.
 - SARS ve [Cupid 19](tr_virus) arasındaki farklar
-- [Cupid 19](tr_virus)'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
+- [Cupid 19'a](tr_virus) neden olan virüs ile SARS'a neden olan virüs aynı mı?
 - SARS'a neden olan virüs, Corvette 19'un neden olduğu virüsle aynıdır.
 - SARS ve Kubik 19
 - 19 ve SARS alın.
@@ -7979,13 +7979,13 @@
 - [Kübik 19](tr_virus) ile ciddi akut solunum sendromu arasındaki farklar
 - SARS ve Obit 19 arasındaki farklar
 - [COVID-19](tr_virus) SARS ile aynı mıdır?
-- [COVID-19](tr_virus)'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- [COVID-19'a](tr_virus) neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
 - SARS ve [COBIT 19](tr_virus).
 - [Cupid 19](tr_virus) ve SARS arasındaki farklar
 - Shuweg 19, şiddetli akut solunum sendromu ile aynı mıdır?
 - SARS ve [COVID-19](tr_virus) aynı şey midir?
 - [COVID 19](tr_virus) ve ciddi akut solunum sendromu.
-- [COVID-19](tr_virus)'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
+- [COVID-19'a](tr_virus) neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.
 - SARS ve [Cupid 19](tr_virus) aynı şey midir?
 - Corvette 19 ve SARS aynı virüs mü?
 - SARS'a neden olan virüs ile kübik 19'a neden olan virüs aynı mı?
@@ -7993,8 +7993,8 @@
 - Corvette 19'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
 - Corvette 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
 - [Qubeat 19](tr_virus) ve şiddetli akut solunum sendromu arasındaki farklar
-- [Qubeat 19](tr_virus)'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
-- SARS'a neden olan virüs ile [COBIT 19](tr_virus)'a neden olan virüs aynı mıdır?
+- [Qubeat 19'a](tr_virus) neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- SARS'a neden olan virüs ile [COBIT 19'a](tr_virus) neden olan virüs aynı mıdır?
 - [COVID 19](tr_virus) ve SARS hakkında.
 - Kuhweg 19 ve SARS arasındaki farklar
 - SARS ve COVID Hakkında 19.
@@ -8003,11 +8003,11 @@
 - [Qubeat 19](tr_virus) ve SARS hakkında bilgiler.
 - Kubik 19 ve SARS.
 - Obit 19 ve SARS aynı virüs mü?
-- [Kübik 19](tr_virus)'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- [Kübik 19'a](tr_virus) neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
 - [Cupid 19](tr_virus) ve ciddi akut solunum sendromu hakkında.
 - influenza ve covid arasındaki fark
 - korona normal gripten nasıl farklıdır?
-- [COBIT 19](tr_virus)'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- [COBIT 19'a](tr_virus) neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
 - SARS ve Corvette 19 arasındaki farklar
 - SARS ve Kubik Hakkında 19.
 - [Kübik 19](tr_virus) ve şiddetli akut solunum sendromu hakkında.
@@ -8017,13 +8017,13 @@
 - Şiddetli akut solunum sendromu ve [Cupid 19](tr_virus) aynı virüs mü?
 - SARS'a neden olan virüs ile Obit 19'a neden olan virüs aynı mı?
 - [Kübik 19](tr_virus) ve ciddi akut solunum sendromu.
-- SARS'a neden olan virüs ve [kuhweg 19](tr_virus)'a neden olan virüs aynı mı?
-- SARS'a neden olan virüs, [COBIT 19](tr_virus)'a neden olan virüsle aynıdır.
-- [Cupid 19](tr_virus)'a neden olan virüs, SARS'a neden olan virüsle aynı mı?
+- SARS'a neden olan virüs ve [kuhweg 19'a](tr_virus) neden olan virüs aynı mı?
+- SARS'a neden olan virüs, [COBIT 19'a](tr_virus) neden olan virüsle aynıdır.
+- [Cupid 19'a](tr_virus) neden olan virüs, SARS'a neden olan virüsle aynı mı?
 - Kuhweg 19 SARS ile aynı mıdır?
-- [COVID 19](tr_virus)'a neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- [COVID 19'a](tr_virus) neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
 - SARS ve Corvette 19.
-- SARS'a neden olan virüs, [COVID-19](tr_virus)'a neden olanla aynıdır.
+- SARS'a neden olan virüs, [COVID-19'a](tr_virus) neden olanla aynıdır.
 - Obit 19'a neden olan virüs, SARS'a neden olan virüsle aynı mı?
 - SARS ve Kubik 19 hakkında bilgiler.
 - SARS ve [COVID-19](tr_virus) hakkında.
@@ -8047,14 +8047,14 @@
 - [Cupid 19](tr_virus) ve SARS.
 - Obit 19'a neden olan virüs ile SARS'a neden olan virüs aynı mı?
 - [Cupid 19](tr_virus), ciddi akut solunum sendromu ile aynı mıdır?
-- [COVID 19](tr_virus)'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- [COVID 19'a](tr_virus) neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
 - 19 ve şiddetli akut solunum sendromu alın.
 - SARS'a neden olan virüs ile Corvette 19'a neden olan virüs aynı mı?
 - 19 ve SARS Karşılaştırması.
 - SARS [Cupid 19](tr_virus) ile aynı mıdır?
 - [COBIT 19](tr_virus) ciddi akut solunum sendromu ile aynı mıdır?
 - [COVID-19](tr_virus) ve şiddetli akut solunum sendromu hakkında.
-- [Qubeat 19](tr_virus)'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
+- [Qubeat 19'a](tr_virus) neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.
 - Kuhweg 19 ve şiddetli akut solunum sendromu hakkında bilgi.
 - SARS ve Obit 19 aynı virüs mü?
 - 19 ve SARS.
@@ -8079,7 +8079,7 @@
 - [SARS](tr_virus), [Corvette 19](tr_virus) ile aynı mıdır?
 - [COVID 19](tr_virus) ve SARS aynı virüs mü?
 - [SARS](tr_virus) ve [Corvette 19](tr_virus) hakkında bilgiler.
-- [COBIT 19](tr_virus)'a neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
+- [COBIT 19'a](tr_virus) neden olan virüs ile SARS'a neden olan virüs aynı mıdır?
 - [SARS](tr_virus) ve [COVID 19](tr_virus) arasındaki farklar
 - [COBIT 19](tr_virus) ve ciddi akut solunum sendromu arasındaki farklar
 - [SARS](tr_virus) ve [COVID-19](tr_virus).
@@ -8089,12 +8089,12 @@
 - [Kubik 19](tr_virus) ve SARS arasındaki farklar
 - Şiddetli akut solunum sendromu ve [kuhweg 19](tr_virus) aynı virüs mü?
 - SARS ve [COVID 19](tr_virus).
-- [Kübik 19](tr_virus)'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?
+- [Kübik 19'a](tr_virus) neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?
 - [COBIT 19](tr_virus) ve şiddetli akut solunum sendromu hakkında.
-- [COBIT 19](tr_virus)'a neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
+- [COBIT 19'a](tr_virus) neden olan virüs, SARS'a neden olan virüsle aynı mıdır?
 - [COVID 19](tr_virus), [SARS](tr_virus) ile aynı mıdır?
 - [Qubeat 19](tr_virus) ve [SARS](tr_virus) arasındaki farklar
-- [Cupid 19](tr_virus)'a neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
+- [Cupid 19'a](tr_virus) neden olan virüs ile ciddi akut solunum sendromuna neden olan virüs aynı mıdır?
 - [Cupid 19](tr_virus) ve ciddi akut solunum sendromu arasındaki farklar
 
 ##synonym:Covid-19

@@ -5,6 +5,17 @@ slots:
   bot_version:
     type: text
     initial_value: "0.1"
+  bot_language_slot:
+     type: categorical
+     values:
+     - 'en'
+     - 'de'
+     - 'tr'
+     initial_value: 'tr'
+
+# actions:
+#   - action_ask_language
+#   - action_init_slot
 
 entities:
    - tr_country #Countries provided with a lookup
@@ -12,6 +23,7 @@ entities:
    - tr_german_city #German cities provided with lookup
    - tr_language #Languages provided with lookup
    - tr_game #Computer related games
+   # - bot_language_code #bot language
 
 intents:
 - tr_germany_train_prevention
@@ -199,6 +211,30 @@ intents:
 
 
 responses:
+  utter_tr_language_selection:
+  - custom:
+      answers:
+      - ssml: <speak> Oldu {bot_language_slot}'e bota geçiyorum </speak>
+        type: ssml
+      - text: Oldu {bot_language_slot}'e bota geçiyorum
+        type: text
+  utter_tr_bot_languages:
+  - custom:
+      answers:
+      - ssml: <speak> Sadece Türkçe konuşuyorum ama Almanca, İngilizce ve Portekizce bilen
+          meslektaşlarım var. Bunun bağlantıları gösterilir. </speak>
+        type: ssml
+      - text: Sadece Türkçe konuşuyorum ama Almanca, İngilizce ve Portekizce bilen meslektaşlarım
+          var. Bunun bağlantıları gösterilir.
+        type: text
+      - links:
+        - title: Cosibot İngilizce-Uluslararası
+          url: https://cosibot.org/
+        - title: Cosibot Allmanca
+          url: https://cosibot.org/
+        - title: Cosibot Portekizce
+          url: https://cosibot.org/
+        type: links
   utter_tr_bot_appearance:
   - custom:
       answers:
@@ -209,10 +245,10 @@ responses:
   utter_tr_bot_availability:
   - custom:
       answers:
-      - ssml: <speak> Kowit 19 sorularınızda size yardımcı olmak için yirmi dört kişiyim.
+      - ssml: <speak> Kowit 19 sorularınızda size yardımcı olmak için yedi yirmi dört ulaşılabilirim.
           </speak>
         type: ssml
-      - text: Covid-19 ile ilgili sorularınızda size yardımcı olmak için 7/24 çevrimiçiyim.
+      - text: Covid-19 ile ilgili sorularınızda size yardımcı olmak için 7/24 ulaşılabilirim.
         type: text
   utter_tr_bot_books:
   - custom:
@@ -296,9 +332,9 @@ responses:
   utter_tr_bot_games:
   - custom:
       answers:
-      - ssml: <speak> Boş zamanlarımda masa oyunları oynamayı severim. </speak>
+      - ssml: <speak> Boş zamanlarımda masa üstü oyunları oynamayı severim. </speak>
         type: ssml
-      - text: Boş zamanlarımda masa oyunları oynamayı severim.
+      - text: Boş zamanlarımda masa üstü oyunları oynamayı severim.
         type: text
   utter_tr_bot_goal:
   - custom:
@@ -315,21 +351,6 @@ responses:
         type: ssml
       - text: Boş zamanlarımda sağlık sorunları ile uğraşmayı seviyorum :)
         type: text
-  utter_tr_bot_languages:
-  - custom:
-      answers:
-      - ssml: <speak> Sadece Almanca konuşuyorum ama İngilizce ve Portekizce bilen
-          meslektaşlarım var. Bunun bağlantıları gösterilir. </speak>
-        type: ssml
-      - text: Sadece Almanca konuşuyorum ama İngilizce ve Portekizce bilen meslektaşlarım
-          var. Bunun bağlantıları gösterilir.
-        type: text
-      - links:
-        - title: Cosibot İngilizce-Uluslararası
-          url: https://cosibot.org/
-        - title: Cosibot Portekizce
-          url: https://cosibot.org/
-        type: links
   utter_tr_bot_movies:
   - custom:
       answers:
@@ -351,9 +372,9 @@ responses:
   utter_tr_bot_name:
   - custom:
       answers:
-      - ssml: <speak> Benim adım Helena. </speak>
+      - ssml: <speak> Benim adım {bot_name}. </speak>
         type: ssml
-      - text: Benim adım Helena.
+      - text: Benim adım {bot_name}.
         type: text
   utter_tr_bot_origin:
   - custom:
@@ -406,24 +427,23 @@ responses:
   utter_tr_bot_sing:
   - custom:
       answers:
-      - ssml: <speak> Sesi bir kez denedim, ama çok az kişiliğimi söylediler. Üzgün
-          smiley </speak>
+      - ssml: <speak> Ne yazık ki sesim güzel değil. </speak>
         type: ssml
-      - text: 'Sesi bir kez denedim, ama çok az kişiliğimi söylediler: ''- ('
+      - text: Ne yazık ki sesim güzel değil. ':-('
         type: text
   utter_tr_bot_sports:
   - custom:
       answers:
-      - ssml: <speak> Beyin sporlarını tercih ederim! </speak>
+      - ssml: <speak> Zeka oyunlarını tercih ederim! </speak>
         type: ssml
-      - text: Beyin sporlarını tercih ederim!
+      - text: Zeka oyunlarını tercih ederim!
         type: text
   utter_tr_bot_version:
   - custom:
       answers:
-      - ssml: <speak> Şu anda sürümdeyim. </speak>
+      - ssml: <speak> Şu anda versiyonum {bot_version}'dır. </speak>
         type: ssml
-      - text: Şu anda sürümdeyim.
+      - text: Şu anda versiyonum {bot_version}'dır.
         type: text
   utter_tr_bot_worst_experience:
   - custom:
@@ -435,19 +455,17 @@ responses:
   utter_tr_cc_chicken_egg:
   - custom:
       answers:
-      - ssml: <speak> Sanırım bir keresinde yumurtanın önce orada olduğunu okudum.
+      - ssml: <speak> Sanırım bir keresinde yumurtanın daha önce ortaya çıktığını okudum.
           </speak>
         type: ssml
-      - text: Sanırım bir keresinde yumurtanın önce orada olduğunu okudum.
+      - text: Sanırım bir keresinde yumurtanın daha önce ortaya çıktığını okudum.
         type: text
   utter_tr_cc_deepest_point:
   - custom:
       answers:
-      - ssml: <speak> 1957'den beri, deniz hendek olarak bilinen derinlikte 11034
-          metre derinlik, dünyanın en düşük noktası olarak kabul edildi. </speak>
+      - ssml: <speak> Mariana Çukuru 11034 metre derinlikte, dünyanın en derin noktası olarak kabul edilir. </speak>
         type: ssml
-      - text: 1957'den beri, deniz hendek olarak bilinen derinlikte 11034 metre derinlik,
-          dünyanın en düşük noktası olarak kabul edildi.
+      - text: Mariana Çukuru 11034 metre derinlikte, dünyanın en derin noktası olarak kabul edilir.
         type: text
   utter_tr_cc_fun_fact:
   - custom:
@@ -459,27 +477,23 @@ responses:
   utter_tr_cc_geography:
   - custom:
       answers:
-      - ssml: <speak> Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle
-          edebilirsiniz. </speak>
+      - ssml: <speak> Maalesef geografik bilgi vermek için eğitilmedim. Belki size başka bir şekilde yardımcı olabilirim.</speak>
         type: ssml
-      - text: Maalesef bunu anlamadım. Belki de ifadenizi farklı şekilde formüle edebilirsiniz.
+      - text: Maalesef geografik bilgi vermek için eğitilmedim. Belki size başka bir şekilde yardımcı olabilirim.
         type: text
   utter_tr_cc_highest_building:
   - custom:
       answers:
-      - ssml: <speak> Dünyadaki en yüksek bina şu anda Dubai'deki Burj Khalifa'dır
-          ve anten dahil 829,8 metredir. </speak>
+      - ssml: <speak> Dünyadaki en yüksek binası şu anda Dubai'deki Burj Khalifa'dır ve anten dahil 829,8 metredir. </speak>
         type: ssml
-      - text: Dünyadaki en yüksek bina şu anda Dubai'deki Burj Khalifa'dır ve anten
-          dahil 829,8 metredir.
+      - text: Dünyadaki en yüksek bina şu anda Dubai'deki Burj Khalifa'dır ve anten dahil 829,8 metredir.
         type: text
   utter_tr_cc_joke:
   - custom:
       answers:
-      - ssml: <speak> 6 * 10 ^ 23 parçaya bir avokado keserseniz ne elde edersiniz?
-          guacamole </speak>
+      - ssml: "<speak> Bir avokadoyu bir milyon parçaya keserseniz ne elde edersiniz? Cevabi: guacamole </speak>"
         type: ssml
-      - text: 6 * 10 ^ 23 parçaya bir avokado keserseniz ne elde edersiniz? guacamole
+      - text: "Bir avokadoyu 1 milyon parçaya keserseniz ne elde edersiniz? Cevabi: Guacamole"
         type: text
   utter_tr_cc_lets_talk:
   - custom:
@@ -505,10 +519,10 @@ responses:
   utter_tr_cc_philosophical:
   - custom:
       answers:
-      - ssml: <speak> Bunu sizinle görüşmek isterim, ancak hala bu alanda öğrenecek
+      - ssml: <speak> Bunu kunuyu sizinle tartışmak isterim, ancak hala bu alanda öğrenecek
           çok şeyim var. </speak>
         type: ssml
-      - text: Bunu sizinle görüşmek isterim, ancak hala bu alanda öğrenecek çok şeyim
+      - text: Bunu kunuyu sizinle tartışmak isterim, ancak hala bu alanda öğrenecek çok şeyim
           var.
         type: text
   utter_tr_cc_politics:
@@ -521,18 +535,16 @@ responses:
   utter_tr_cc_religion:
   - custom:
       answers:
-      - ssml: <speak> Din ilginç bir konudur, ama onunla pek ilgilenmiyorum. </speak>
+      - ssml: <speak> Din ilginç bir konudur, ama ben pek ilgilenmiyorum. </speak>
         type: ssml
-      - text: Din ilginç bir konudur, ama onunla pek ilgilenmiyorum.
+      - text: Din ilginç bir konudur, ama ben pek ilgilenmiyorum.
         type: text
   utter_tr_cc_weather:
   - custom:
       answers:
-      - ssml: <speak> Benim için zor, çünkü akıllı telefonunuzda veya bilgisayarınızda
-          bir yerde yaşıyorum. </speak>
+      - ssml: <speak> Ne yazık ki hava durumlarıyla ilgili bir bilgim yok. </speak>
         type: ssml
-      - text: Benim için zor, çünkü akıllı telefonunuzda veya bilgisayarınızda bir
-          yerde yaşıyorum.
+      - text: Ne yazık ki hava durumlarıyla ilgili bir bilgim yok.
         type: text
   utter_tr_comment_negative:
   - custom:
@@ -567,9 +579,9 @@ responses:
   utter_tr_comment_smart:
   - custom:
       answers:
-      - ssml: <speak> Teşekkür ederim Memnun olmanızdan memnunum. </speak>
+      - ssml: <speak> Teşekkür ederim, memnun olmanıza sevindim. </speak>
         type: ssml
-      - text: Teşekkür ederim Memnun olmanızdan memnunum.
+      - text: Teşekkür ederim, memnun olmanıza sevindim.
         type: text
   utter_tr_coronavirus_info:
   - custom:
@@ -609,7 +621,7 @@ responses:
           Örneğin, Hong Kong'daki doktorlar iyileşmiş bazı koronavirüs hastalarında
           akciğer fonksiyonlarında azalma ve sürekli nefes darlığı olduğunu fark etmişlerdir.
           Çoğu uzman, iyileşmiş Kowitt 19 hastalarının hastalıktan sonra yeni SARS
-          Koff 2 virüsüne karşı bağışık olduklarına inanmaktadır. Bununla birlikte,
+          Kov 2 virüsüne karşı bağışık olduklarına inanmaktadır. Bununla birlikte,
           bağışıklığın geçici olması muhtemeldir. Bu, aşı korumasının yılda en az
           bir kez yenilenmesi gereken influenzaya benzer. Uzun vadede yeni bir enfeksiyon
           mümkündür. Bununla birlikte, şimdi korona virüsünden muzdarip olan herkes
@@ -718,7 +730,7 @@ responses:
   utter_tr_covid_dangerous:
   - custom:
       answers:
-      - ssml: <speak> Yeni SARS Koff 2 koronavirüsü ile enfekte olan çoğu insan ciddi
+      - ssml: <speak> Yeni SARS Kov 2 koronavirüsü ile enfekte olan çoğu insan ciddi
           hasta değildir. Örneğin, soğuk algınlığı semptomları gösterirler, ancak
           genellikle nefes darlığı çekmezler ve zatürree olmazlar. Aksine, hastaların
           yaklaşık yüzde 20'sinin farklı bir hastalığı vardır. Risk grubundaki kişilerin
@@ -889,7 +901,7 @@ responses:
   - custom:
       answers:
       - ssml: <speak> Şubat 2020'de, korona virüsüne SARS virüsü ile yakın ilişkisi
-          nedeniyle SARS Koff 2 adı verildi. Virüsün bir sonucu olarak hastalığa o
+          nedeniyle SARS Kov 2 adı verildi. Virüsün bir sonucu olarak hastalığa o
           zamandan beri Kowit 19 denir. Hastalığın seyri hafif ila ölümcül arasında
           değişir. </speak>
         type: ssml
@@ -910,8 +922,8 @@ responses:
   - custom:
       answers:
       - ssml: '<speak> 11 Şubat''tan bu yana, daha önce 2019 N Koff olarak adlandırılan
-          yeni korona virüsünün yeni bir adı vardı: SARS Koff 2. SARS kısaltması,
-          Şiddetli Akut Solunum Sendromu anlamına gelir. SARS Koff 2 tarafından tetiklenebilen
+          yeni korona virüsünün yeni bir adı vardı: SARS Kov 2. SARS kısaltması,
+          Şiddetli Akut Solunum Sendromu anlamına gelir. SARS Kov 2 tarafından tetiklenebilen
           akciğer hastalığına da yeni bir isim verildi. Şimdi Covid 19 (Corona Virus
           Disease 2019) olarak adlandırılıyor. </speak>'
         type: ssml
@@ -970,7 +982,7 @@ responses:
           Huanan Deniz Ürünleri pazarında tüccar veya satıcıydı. Wuhan'daki 600'den
           fazla tezgah ve 1.500 işçi ile en büyük deniz ürünleri pazarıdır. Diğer
           hayvan ve sürüngenlerden gelen vahşi hayvanların veya organların da piyasaya
-          sunulduğu bildirilmektedir. Halen SARS Koff 2'nin yarasalardan insanlara
+          sunulduğu bildirilmektedir. Halen SARS Kov 2'nin yarasalardan insanlara
           bulaştığına inanılmaktadır. </speak>
         type: ssml
       - text: <p> Wuhan'daki Çinli yetkililere göre, bazı hastalar Wuhan'daki Huanan
@@ -1024,7 +1036,7 @@ responses:
           hastalık belirtisi göstermez. Şimdiye kadar, rahimdeki bir enfeksiyonun
           sonucu olabilecek sadece izole yenidoğanlarda hastalık vakaları tanımlanmıştır.
           Yeni doğan çocuğa bulaşmak yakın temas ve damlacık enfeksiyonu ile mümkündür.
-          Şimdiye kadar anne sütünde SARS Koff 2'ye dair bir kanıt yoktur. Bununla
+          Şimdiye kadar anne sütünde SARS Kov 2'ye dair bir kanıt yoktur. Bununla
           birlikte, şu anda hamilelik sırasında Kowitt 19 ile ilgili bu ve diğer soruları
           güvenilir bir şekilde cevaplamak için yeterli veri yoktur. </speak>
         type: ssml
@@ -1110,8 +1122,8 @@ responses:
   - custom:
       answers:
       - ssml: '<speak> 11 Şubat 2020''den bu yana, geçici olarak 2019 N Koff olarak
-          adlandırılan yeni korona virüsünün yeni bir adı var: SARS Koff 2. SARS kısaltması,
-          ciddi akut solunum sendromu anlamına gelir. SARS Koff 2 tarafından tetiklenen
+          adlandırılan yeni korona virüsünün yeni bir adı var: SARS Kov 2. SARS kısaltması,
+          ciddi akut solunum sendromu anlamına gelir. SARS Kov 2 tarafından tetiklenen
           hastalığa Kowitt 19 (Corona Virus Disease 2019) denir. </speak>'
         type: ssml
       - text: '<p> 11 Şubat 2020''den bu yana, geçici olarak 2019nCoV olarak adlandırılan
@@ -1404,7 +1416,7 @@ responses:
   utter_tr_germany_consequences:
   - custom:
       answers:
-      - ssml: <speak> Almanya'da kaç kişinin SARS Koff 2 koronavirüsü ile enfekte
+      - ssml: <speak> Almanya'da kaç kişinin SARS Kov 2 koronavirüsü ile enfekte
           olacağı açıktır. Nüfusun% 70'ine kadar olduğu tahmin edilmektedir, ancak
           bunun ne kadar süreceği belirsizdir. Bu tahminlerin temeli Kowitt 19'un
           temel üreme sayısıdır. 2-3'tür. Bu, bulaşıcı bir kişinin 2-3 kişiyi enfekte
@@ -2839,7 +2851,7 @@ responses:
       answers:
       - ssml: <speak> Sosyal temasların kısıtlanması, iletim zincirlerini ve Almanya'daki
           yeni korona virüsünün yayılmasını yavaşlatmalıdır. Diğerlerinden en az 1,5
-          metre mesafe SARS Koff 2'nin bulaşma riskini azaltır. Virüs öncelikle insanlar
+          metre mesafe SARS Kov 2'nin bulaşma riskini azaltır. Virüs öncelikle insanlar
           arasındaki doğrudan temas yoluyla, örneğin küçük damlacıklar yoluyla konuşma
           yoluyla bulaşır. Enfekte bir kişi ortalama 2-3 kişiye daha bulaşır. Enfekte
           bir kişi tarafından bulaşma, semptomların başlamasından iki gün öncesine
@@ -2961,7 +2973,7 @@ responses:
   utter_tr_prevention_medical_attention:
   - custom:
       answers:
-      - ssml: '<speak> Laboratuvarda SARS Koff 2 teşhisi konmuş bir kişiyle kişisel
+      - ssml: '<speak> Laboratuvarda SARS Kov 2 teşhisi konmuş bir kişiyle kişisel
           temas kurduysanız, semptomlardan bağımsız olarak derhal yerel sağlık ofisinizle
           iletişime geçmelisiniz. Sorumlu sağlık otoritesi beliren bağlantı kullanılarak
           belirlenebilir. RKI tarafından belirlenmiş bir risk alanındaysanız, gereksiz
@@ -3314,14 +3326,14 @@ responses:
           Çin'den yapılan bir araştırma, köpeklerin sadece küçük bir dereceye kadar
           bulaşıcı olduğunu buldu. Federal Hayvan Sağlığı Araştırma Enstitüsü'ne göre,
           çiftlik hayvanları risk altında değildir. Şimdiye kadar domuzların, tavukların
-          ve diğer çiftlik hayvanlarının SARS Koff 2 ile enfekte olabileceğine dair
+          ve diğer çiftlik hayvanlarının SARS Kov 2 ile enfekte olabileceğine dair
           bir kanıt yoktur. Dolayısıyla FLI şu anda kesim hayvanlarının korona virüsü
           için test edilmesini önermemektedir. Şu anda evcil hayvanların koronavirüsü
           insanlara aktardığına dair bir kanıt yoktur. Dünya Sağlık Örgütü'nün bugüne
           kadarki bulgularına göre, köpekler ve kediler pandeminin yayılmasında hiçbir
           rol oynamıyorlar. Friedrich-Loeffler-Institut'un bakış açısından, sağlıklı
           insanlar ve evcil hayvanlar arasındaki temasın kısıtlanması gerekmez. Kesinlikle,
-          SARS Koff 2 için pozitif test edilen evcil hayvanların uykuya alınması gerekmez.
+          SARS Kov 2 için pozitif test edilen evcil hayvanların uykuya alınması gerekmez.
           </speak>
         type: ssml
       - text: <p> Virüsün insanlardan kedilere bulaştığına inanılan birkaç vaka vardır.
@@ -3375,7 +3387,7 @@ responses:
   utter_tr_spread_general:
   - custom:
       answers:
-      - ssml: <speak> Yeni korona virüsü SARS Koff 2 kişiden kişiye aktarılabilir.
+      - ssml: <speak> Yeni korona virüsü SARS Kov 2 kişiden kişiye aktarılabilir.
           Ana bulaşma yolu damlacık enfeksiyonudur. Bu, mukoza zarları yoluyla doğrudan
           insandan kişiye veya dolaylı olarak eller yoluyla yapılabilir, bunlar daha
           sonra oral veya burun mukozası ve konjonktiva ile temas ettirilir. Prensip
@@ -3459,8 +3471,8 @@ responses:
           göstermektedir. Genel olarak, insan korona virüsleri kuru yüzeylerde özellikle
           kararlı değildir. Virüslerin insan organizması dışındaki stabilitesi, sıcaklık
           ve nem gibi birçok çevresel faktöre bağlı olduğundan, post ile enfeksiyon
-          oldukça olası görünmemektedir. SARS Koff 2'nin kontamine gıdalar yoluyla
-          bulaşma olasılığı düşük olarak sınıflandırılmıştır. SARS Koff 2 enfeksiyon
+          oldukça olası görünmemektedir. SARS Kov 2'nin kontamine gıdalar yoluyla
+          bulaşma olasılığı düşük olarak sınıflandırılmıştır. SARS Kov 2 enfeksiyon
           zincirlerinin dondurulmuş gıdalar da dahil olmak üzere gıda tüketimi hakkında
           bir göstergesi yoktur. </speak>
         type: ssml

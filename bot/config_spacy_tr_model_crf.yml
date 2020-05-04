@@ -2,7 +2,7 @@ language: "tr"
 
 pipeline:
   - name: "SpacyNLP"
-    model: "xx-ent-wiki-sm"
+    model: "tr_model"
     case_sensitive: False
   - name: SpacyTokenizer
   - name: SpacyFeaturizer
@@ -13,8 +13,10 @@ pipeline:
     analyzer: "char_wb"
     min_ngram: 1
     max_ngram: 4
+  - name: CRFEntityExtractor
   - name: DIETClassifier
     epochs: 100
+    entity_recognition : False
   - name: EntitySynonymMapper
   - name: ResponseSelector
     epochs: 100
