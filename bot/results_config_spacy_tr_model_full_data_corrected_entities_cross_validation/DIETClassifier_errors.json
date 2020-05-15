@@ -1,0 +1,3714 @@
+[
+  {
+    "text": "Coronavirus Belirtileriniz varsa ne yapmalı?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Coronavirus",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Bir koronavirüs enfeksiyonu ne zaman arkasında olabilir?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 4,
+        "end": 15,
+        "extractor": "DIETClassifier",
+        "value": "koronavirüs"
+      }
+    ]
+  },
+  {
+    "text": "Covid-19 ile bir hastalık nasıl gider?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Tedavi Hobbit 19.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 7,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "Hobbit 19"
+      }
+    ]
+  },
+  {
+    "text": "Murakuç ile bir seyahat yaptım, teste ihtiyacım var mı?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Murakuç",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Britanya Hint Bölgesi'deydim. Test yaptırmam gerekiyor mu?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "Britanya Hint Bölgesi'deydim.",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 28,
+        "extractor": "DIETClassifier",
+        "value": "Britanya Hint Bölgesi'deydim"
+      }
+    ]
+  },
+  {
+    "text": "Çin Halk Cumhuriyeti'de tatildeydim",
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "value": "Çin Halk Cumhuriyeti'de",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 9,
+        "end": 23,
+        "extractor": "DIETClassifier",
+        "value": "Cumhuriyeti'de"
+      }
+    ]
+  },
+  {
+    "text": "Svizra tatile gitmek istiyorum.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Svizra",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Filasṭīn adresine seyahat edin",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "Filasṭīn",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "SPD, CDU, Yeşiller, FDP, Sol hakkında ne düşünüyorsunuz?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "SPD, CDU"
+      }
+    ]
+  },
+  {
+    "text": "Amerika Birleşik Devletleri Başkanı'nı adlandırabilir misiniz?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 7,
+        "extractor": "DIETClassifier",
+        "value": "Amerika"
+      }
+    ]
+  },
+  {
+    "text": "Almanya",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "DE",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Sudoku oynar mısın?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Sudoku",
+        "entity": "tr_game"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Bulmaca yapar mısın?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Bulmaca",
+        "entity": "tr_game"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "İngiliz Virgin Adaları'deki durum nasıl?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 27,
+        "value": "İngiliz Virgin Adaları'deki",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 16,
+        "end": 28,
+        "extractor": "DIETClassifier",
+        "value": "daları'deki "
+      }
+    ]
+  },
+  {
+    "text": "İrlanda Adası ne olacak?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "İrlanda Adası",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Yine de naturopat'a gidebilir miyim?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 8,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "naturopat'a"
+      }
+    ]
+  },
+  {
+    "text": "Evcil hayvanımdan cupid 19 alabilir miyim?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 18,
+        "end": 26,
+        "extractor": "DIETClassifier",
+        "value": "cupid 19"
+      }
+    ]
+  },
+  {
+    "text": "cupid 19 geçerli rakamlar",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "cupid 19"
+      }
+    ]
+  },
+  {
+    "text": "qubeat 19 bilgi",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Bana COVID-19'un ne olduğunu söyle",
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "value": "COVID-19'un",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Reenkarnasyon ve diriliş arasındaki fark nedir?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 13,
+        "extractor": "DIETClassifier",
+        "value": "Reenkarnasyon"
+      }
+    ]
+  },
+  {
+    "text": "Marzionizm nedir?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 10,
+        "extractor": "DIETClassifier",
+        "value": "Marzionizm"
+      }
+    ]
+  },
+  {
+    "text": "Siglit İnuitçesi konuşabiliyor musun?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "value": "Siglit İnuitçesi",
+        "entity": "tr_language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "WiFi'de tıkanıklık olacak mı?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 7,
+        "extractor": "DIETClassifier",
+        "value": "WiFi'de"
+      }
+    ]
+  },
+  {
+    "text": "Corona virüsü bilgileri",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Corona"
+      }
+    ]
+  },
+  {
+    "text": "Korona nedir",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Korona"
+      }
+    ]
+  },
+  {
+    "text": "Korona Enfeksiyonu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Korona",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Çocuklarda SARS-CoV-2 enfeksiyonları",
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "value": "SARS-CoV-2",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Covid-19 korkusu ne kadar haklı?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Covid 19 enfeksiyonu tehlikelidir.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid 19"
+      }
+    ]
+  },
+  {
+    "text": "Shuweg 19 enfeksiyonu tehlikelidir.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Shuweg 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "SARS-CoV-2 enfeksiyonu ne kadar tehlikelidir?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "SARS-CoV-2",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Imptsftoff nihayet ne zaman piyasaya sürülecek?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 10,
+        "extractor": "DIETClassifier",
+        "value": "Imptsftoff"
+      }
+    ]
+  },
+  {
+    "text": "Obit 19 ve SARS hakkında.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Obit 19",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "value": "SARS",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Qubeat 19, SARS ile aynı mıdır?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Qubeat 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Qubeat 19"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 11,
+        "end": 15,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Cupid 19 aynı virüs mü?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "Cupid 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "Cupid 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS, COVID-19 ile aynı mıdır?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "value": "COVID-19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 6,
+        "end": 14,
+        "extractor": "DIETClassifier",
+        "value": "COVID-19"
+      }
+    ]
+  },
+  {
+    "text": "Shuweg 19'a neden olan virüs ve ciddi akut solunum sendromuna neden olan virüs aynı mı?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Shuweg 19'a",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "qubeat 19 ve ciddi akut solunum sendromu.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Şiddetli akut solunum sendromu ve Corvette 19 aynı virüs mü?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 34,
+        "end": 45,
+        "extractor": "DIETClassifier",
+        "value": "Corvette 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS, COVID 19 ile aynı mıdır?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "value": "COVID 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 6,
+        "end": 14,
+        "extractor": "DIETClassifier",
+        "value": "COVID 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve COVID Hakkında 19.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 13,
+        "extractor": "DIETClassifier",
+        "value": "COVID"
+      }
+    ]
+  },
+  {
+    "text": "Kuhweg 19 ve SARS hakkında bilgiler.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve COVID-19.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "SARS",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 8,
+        "end": 16,
+        "value": "COVID-19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "COVID-19"
+      }
+    ]
+  },
+  {
+    "text": "Bildirilmemiş vakaların Covid-19'daki rolü",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 24,
+        "end": 37,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19'daki"
+      }
+    ]
+  },
+  {
+    "text": "40 derecelik bir ateşim var. Endişelenmem gerekiyor mu?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 2,
+        "extractor": "DIETClassifier",
+        "value": "40"
+      }
+    ]
+  },
+  {
+    "text": "Tedavi seçenekleri kuhweg 19",
+    "entities": [
+      {
+        "start": 19,
+        "end": 28,
+        "value": "kuhweg 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Covid 19 inç Freiberg am Neckar",
+    "entities": [
+      {
+        "start": 13,
+        "end": 31,
+        "value": "Freiberg am Neckar",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_german_city",
+        "start": 13,
+        "end": 21,
+        "extractor": "DIETClassifier",
+        "value": "Freiberg"
+      },
+      {
+        "entity": "tr_german_city",
+        "start": 25,
+        "end": 31,
+        "extractor": "DIETClassifier",
+        "value": "Neckar"
+      }
+    ]
+  },
+  {
+    "text": "Wangen im Allgäu'deki mevcut durum nedir",
+    "entities": [
+      {
+        "start": 0,
+        "end": 21,
+        "value": "Wangen im Allgäu'deki",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 21,
+        "extractor": "DIETClassifier",
+        "value": "Wangen im Allgäu'deki"
+      }
+    ]
+  },
+  {
+    "text": "Corona in Bebra",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "Bebra",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Ahaus'deki durum nedir",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "Ahaus'deki",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 10,
+        "extractor": "DIETClassifier",
+        "value": "Ahaus'deki"
+      }
+    ]
+  },
+  {
+    "text": "der Niger ile bir seyahat yaptım, teste ihtiyacım var mı?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "der Niger",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 4,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Niger"
+      }
+    ]
+  },
+  {
+    "text": "İsveç Krallığı'deydim ve şimdi öksürüğüm var",
+    "entities": [
+      {
+        "start": 0,
+        "end": 21,
+        "value": "İsveç Krallığı'deydim",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Makao Özel İdari Bölgesi için tatile gittim. Test yaptırmam gerekiyor mu?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 24,
+        "value": "Makao Özel İdari Bölgesi",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 5,
+        "extractor": "DIETClassifier",
+        "value": "Makao"
+      },
+      {
+        "entity": "tr_country",
+        "start": 18,
+        "end": 25,
+        "extractor": "DIETClassifier",
+        "value": "ölgesi "
+      }
+    ]
+  },
+  {
+    "text": "Almanya'da kübik 19'un yayılmasını önlemek için neler yapılıyor?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 11,
+        "end": 22,
+        "extractor": "DIETClassifier",
+        "value": "kübik 19'un"
+      }
+    ]
+  },
+  {
+    "text": "Almanya kübik 19'un yayılmasına nasıl hazırlanıyor?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "kübik 19'un"
+      }
+    ]
+  },
+  {
+    "text": "Coronavirus hatları",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 11,
+        "extractor": "DIETClassifier",
+        "value": "Coronavirus"
+      }
+    ]
+  },
+  {
+    "text": "Covid 19 şirketinde Ibuprofen",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid 19"
+      }
+    ]
+  },
+  {
+    "text": "Kuhweg 19 şirketinde Ibuprofen",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "Qubeat 19th şirketinde Ibuprofen",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Qubeat 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Almanya hakkında ne biliyorsun?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "DE",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Almanya nerede",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 7,
+        "extractor": "DIETClassifier",
+        "value": "DE",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "qubeat 19 bulaşma",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Huvit 19 nasıl bulaşır?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Huvit 19"
+      }
+    ]
+  },
+  {
+    "text": "Kuhweg 19 enfeksiyonu",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "Tuvalet kağıdında COVID 19",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "COVID 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "kuhweg 19 güncel istatistikler",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "kuhweg 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "qubeat 19 güncel istatistikler",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Kuhweg 19 üzerinden",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "Hobbit 19 hakkında daha fazla bilgi ver",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Hobbit 19"
+      }
+    ]
+  },
+  {
+    "text": "N tabutuna ne dersin?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_game",
+        "start": 0,
+        "end": 10,
+        "extractor": "DIETClassifier",
+        "value": "N tabutuna"
+      }
+    ]
+  },
+  {
+    "text": "COBIT 19 nedir söyle",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "COBIT 19"
+      }
+    ]
+  },
+  {
+    "text": "Huvit 19 hakkında daha fazla bilgi ver",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Huvit 19"
+      }
+    ]
+  },
+  {
+    "text": "Kuhweg 19 bilgileri",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "Arkana yaslan ve seninle oynamama izin verin.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 13,
+        "extractor": "DIETClassifier",
+        "value": "Arkana yaslan"
+      }
+    ]
+  },
+  {
+    "text": "Müslümanlar Muhammed'e ibadet eder mi?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 12,
+        "end": 22,
+        "extractor": "DIETClassifier",
+        "value": "Muhammed'e"
+      }
+    ]
+  },
+  {
+    "text": "SARS Cov-2 ve kuhweg 19 ne anlama geliyor?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "value": "kuhweg 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Çin'deydim. Test yaptırmam gerekiyor mu?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 11,
+        "extractor": "DIETClassifier",
+        "value": "Çin'deydim."
+      }
+    ]
+  },
+  {
+    "text": "qubeat 19 havada iletim",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Havada kübik 19 iletim",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 7,
+        "end": 15,
+        "extractor": "DIETClassifier",
+        "value": "kübik 19"
+      }
+    ]
+  },
+  {
+    "text": "Coronavirus SARS-CoV-2",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Coronavirus",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "value": "SARS-CoV-2",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Coronavirus doğum",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 11,
+        "extractor": "DIETClassifier",
+        "value": "Coronavirus"
+      }
+    ]
+  },
+  {
+    "text": "Solunum hastalığı Covid-19'un Almanya'da yayılma riski ne kadar büyük?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 18,
+        "end": 29,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19'un"
+      }
+    ]
+  },
+  {
+    "text": "deutschland içinde cookit 19",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 11,
+        "extractor": "DIETClassifier",
+        "value": "deutschland"
+      }
+    ]
+  },
+  {
+    "text": "İthal edilen gıdalardan, yüzeylerden veya nesnelerden yeni tip korona virüsü (SARS-CoV-2) ile enfekte olma riski var mı?",
+    "entities": [
+      {
+        "start": 63,
+        "end": 76,
+        "value": "korona virüsü",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 78,
+        "end": 88,
+        "value": "SARS-CoV-2",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Kowit 19 ve evde karantina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "Kowit 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Hareket 19 ile enfeksiyon tehlikelidir.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 10,
+        "extractor": "DIETClassifier",
+        "value": "Hareket 19"
+      }
+    ]
+  },
+  {
+    "text": "Kovit 19 enfeksiyonu tehlikelidir.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Kovit 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve COBIT 19 arasındaki farklar",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "SARS",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 8,
+        "end": 16,
+        "value": "COBIT 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "COBIT 19"
+      }
+    ]
+  },
+  {
+    "text": "Şiddetli akut solunum sendromu ve qubeat 19 aynı virüs mü?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 34,
+        "end": 43,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Corvette 19 ve ciddi akut solunum sendromu hakkında.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Corvette 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "qubeat 19 ve SARS aynı virüstür?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve COVID-19 aynı virüs mü?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "COVID-19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "COVID-19"
+      }
+    ]
+  },
+  {
+    "text": "Kubik 19 ve SARS hakkında bilgiler.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Kubik 19"
+      }
+    ]
+  },
+  {
+    "text": "Shuweg 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüs ile aynıdır.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 11,
+        "extractor": "DIETClassifier",
+        "value": "Shuweg 19'a"
+      }
+    ]
+  },
+  {
+    "text": "Corvette 19 ve SARS aynı virüs mü?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 11,
+        "extractor": "DIETClassifier",
+        "value": "Corvette 19"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 15,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve qubeat arasındaki farklar 19",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Corvette 19.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "Corvette 19"
+      }
+    ]
+  },
+  {
+    "text": "Kuhweg 19 ve şiddetli akut solunum sendromu hakkında bilgi.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "Şiddetli akut solunum sendromu ve kübik 19 aynı virüs mü?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 34,
+        "end": 42,
+        "extractor": "DIETClassifier",
+        "value": "kübik 19"
+      }
+    ]
+  },
+  {
+    "text": "COVID 19 ve SARS hakkında bilgiler.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "COVID 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "COVID 19"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 12,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "cupid 19 ve ciddi akut solunum sendromu.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "cupid 19"
+      }
+    ]
+  },
+  {
+    "text": "Sanırım Covid-19'um var",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19'um"
+      }
+    ]
+  },
+  {
+    "text": "Corona nasıl?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Corona"
+      }
+    ]
+  },
+  {
+    "text": "Coronavirus enfeksiyonu nasıl tedavi edilir?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Coronavirus",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Hessisch Lichtenau'deki durum nedir",
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "value": "Hessisch Lichtenau'deki",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_german_city",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Hessisch"
+      },
+      {
+        "entity": "tr_country",
+        "start": 9,
+        "end": 23,
+        "extractor": "DIETClassifier",
+        "value": "Lichtenau'deki"
+      }
+    ]
+  },
+  {
+    "text": "Will için tatile gittim. Test yaptırmam gerekiyor mu?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "Will",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Yine de Jemen adresine gidebilir miyim?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "value": "Jemen",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Insel Anguilla seyahatimden önce ne yapmam gerekiyor?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "value": "Insel Anguilla",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 6,
+        "end": 14,
+        "extractor": "DIETClassifier",
+        "value": "Anguilla"
+      }
+    ]
+  },
+  {
+    "text": "Almanya kuhweg 19'u yaymaya nasıl hazırlanıyor?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "kuhweg 19'u",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Korona virüsü ve ısı",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Korona"
+      }
+    ]
+  },
+  {
+    "text": "İş ve Qubeat 19.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 15,
+        "value": "Qubeat 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Annweiler am Trifels'de ikinci bir ikamet yerim var, yine de oraya gidebilirim",
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "value": "Annweiler am Trifels'de",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 23,
+        "extractor": "DIETClassifier",
+        "value": "Annweiler am Trifels'de"
+      }
+    ]
+  },
+  {
+    "text": "Almanya'yı nerede bulabilirim?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "DE",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Covid-19 şanzıman",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Enfeksiyon kübik 19",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 11,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "kübik 19"
+      }
+    ]
+  },
+  {
+    "text": "Ve Avustralya Topluluğu'de nasıl?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 26,
+        "value": "Avustralya Topluluğu'de",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 14,
+        "end": 26,
+        "extractor": "DIETClassifier",
+        "value": "Topluluğu'de"
+      }
+    ]
+  },
+  {
+    "text": "Rusya Federasyonu'de şu anda nasıl?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 20,
+        "value": "Rusya Federasyonu'de",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 6,
+        "end": 20,
+        "extractor": "DIETClassifier",
+        "value": "Federasyonu'de"
+      }
+    ]
+  },
+  {
+    "text": "Covid-19 kedim için tehlikeli mi?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "S veya U-Bahn işe gitmezse ne olur?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 1,
+        "extractor": "DIETClassifier",
+        "value": "S"
+      },
+      {
+        "entity": "tr_country",
+        "start": 7,
+        "end": 13,
+        "extractor": "DIETClassifier",
+        "value": "U-Bahn"
+      }
+    ]
+  },
+  {
+    "text": "benden bir kaç tane al",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 20,
+        "end": 22,
+        "extractor": "DIETClassifier",
+        "value": "al"
+      }
+    ]
+  },
+  {
+    "text": "İngiliz Virgin Adaları'de kaç kişi öldü",
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "value": "İngiliz Virgin Adaları'de",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 16,
+        "end": 26,
+        "extractor": "DIETClassifier",
+        "value": "daları'de "
+      }
+    ]
+  },
+  {
+    "text": "kuhweg 19 bilgi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "kuhweg 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Benimle İskoç dili konuşabilir misin?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 18,
+        "value": "İskoç dili",
+        "entity": "tr_language"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_language",
+        "start": 15,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "ili "
+      }
+    ]
+  },
+  {
+    "text": "Lehçe (dil)|Lehçe konuşabiliyor musun?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "Lehçe (dil)|Lehçe",
+        "entity": "tr_language"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_language",
+        "start": 7,
+        "end": 17,
+        "extractor": "DIETClassifier",
+        "value": "dil)|Lehçe"
+      }
+    ]
+  },
+  {
+    "text": "Kino?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "Kino"
+      }
+    ]
+  },
+  {
+    "text": "SARS Cov-2 ve cupid 19 ne anlama geliyor?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 14,
+        "end": 22,
+        "extractor": "DIETClassifier",
+        "value": "cupid 19"
+      }
+    ]
+  },
+  {
+    "text": "Covid-19 korkusuyla seyahatimi iptal edebilir miyim?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Korona virüsleri hakkında bilgi",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Korona"
+      }
+    ]
+  },
+  {
+    "text": "Koronavirüs",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "value": "Koronavirüs",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Covid 19 çocuklarda hastalık",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid 19"
+      }
+    ]
+  },
+  {
+    "text": "Solunum maskeleri kuhweg 19'a karşı yardımcı olur mu?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 29,
+        "value": "kuhweg 19'a",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Şimdi Covid-19 için endişelenmeli misiniz?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 6,
+        "end": 14,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "cupid 19 ile enfeksiyon zararsız mıdır?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "cupid 19"
+      }
+    ]
+  },
+  {
+    "text": "Kowit 19 enfeksiyonu zararsız mı?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "Kowit 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Movit 19 üzerinde günde kaç test yapılır?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Movit 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Cupid 19",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "SARS",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 8,
+        "end": 16,
+        "value": "Cupid 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "Cupid 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS, qubeat 19 ile aynı mıdır?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 6,
+        "end": 15,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "COVID-19 ve SARS hakkında.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "COVID-19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "COVID-19"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 12,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Obit 19.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "value": "Obit 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Obit Hakkında 19.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "SARS'a neden olan virüs, Corvette 19'un neden olduğu virüsle aynıdır.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "SARS'a"
+      }
+    ]
+  },
+  {
+    "text": "Kuhweg 19 ve SARS arasındaki farklar",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Corvette 19 arasındaki farklar",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "Corvette 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS, Kuhweg 19 ile aynı mıdır?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 6,
+        "end": 15,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Corvette 19 hakkında bilgiler.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "SARS",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 8,
+        "end": 19,
+        "value": "Corvette 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Sanırım kübik 19'um var",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "kübik 19'um",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Coronavirus enfeksiyonundan şüpheleniliyor - doktora görünüyor musunuz?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 11,
+        "extractor": "DIETClassifier",
+        "value": "Coronavirus"
+      }
+    ]
+  },
+  {
+    "text": "Covid-19'un belirtileri ne olacak?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 11,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19'un"
+      }
+    ]
+  },
+  {
+    "text": "Hamile kadınların Covid-19 hakkında neleri bilmesi gerekir?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 18,
+        "end": 26,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Hamileyim ve corona var",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "corona",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Osterfeld'deki mevcut durum nedir",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "value": "Osterfeld'deki",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 14,
+        "extractor": "DIETClassifier",
+        "value": "Osterfeld'deki"
+      }
+    ]
+  },
+  {
+    "text": "Oschatz'deki mevcut durum nedir",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "value": "Oschatz'deki",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 12,
+        "extractor": "DIETClassifier",
+        "value": "Oschatz'deki"
+      }
+    ]
+  },
+  {
+    "text": "Şu anda Sankt Augustin'de nasıl?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 25,
+        "value": "Sankt Augustin'de",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 8,
+        "end": 25,
+        "extractor": "DIETClassifier",
+        "value": "Sankt Augustin'de"
+      }
+    ]
+  },
+  {
+    "text": "Şu anda Fritzlar'de nasıl?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "Fritzlar'de",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 8,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "Fritzlar'de"
+      }
+    ]
+  },
+  {
+    "text": "Almanya ne olacak?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 7,
+        "extractor": "DIETClassifier",
+        "value": "DE",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Lübeck, Hansestadt'deki durum nedir",
+    "entities": [
+      {
+        "start": 0,
+        "end": 23,
+        "value": "Lübeck, Hansestadt'deki",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 23,
+        "extractor": "DIETClassifier",
+        "value": "Lübeck, Hansestadt'deki"
+      }
+    ]
+  },
+  {
+    "text": "Pitcairn, Henderson, Ducie and Oeno Islands'e yeni geldiğimde bir test yaptırmak zorunlu mu?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 45,
+        "value": "Pitcairn, Henderson, Ducie and Oeno Islands'e",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 20,
+        "extractor": "DIETClassifier",
+        "value": "Pitcairn, Henderson,"
+      },
+      {
+        "entity": "tr_country",
+        "start": 36,
+        "end": 45,
+        "extractor": "DIETClassifier",
+        "value": "Islands'e"
+      }
+    ]
+  },
+  {
+    "text": "Australien için tatile gittim. Test yaptırmam gerekiyor mu?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "Australien",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 10,
+        "extractor": "DIETClassifier",
+        "value": "Australien"
+      },
+      {
+        "entity": "tr_country",
+        "start": 29,
+        "end": 30,
+        "extractor": "DIETClassifier",
+        "value": "."
+      }
+    ]
+  },
+  {
+    "text": "Collectivité territoriale de Saint-Barthélemy'de bir tatil planladım.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 48,
+        "value": "Collectivité territoriale de Saint-Barthélemy'de",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 25,
+        "extractor": "DIETClassifier",
+        "value": "Collectivité territoriale"
+      },
+      {
+        "entity": "tr_country",
+        "start": 29,
+        "end": 48,
+        "extractor": "DIETClassifier",
+        "value": "Saint-Barthélemy'de"
+      }
+    ]
+  },
+  {
+    "text": "ICE'de bir koronavirüs vakası olduğundan şüpheleniyorum.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "ICE'de"
+      }
+    ]
+  },
+  {
+    "text": "Life ve life arasındaki fark nedir?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "Life"
+      }
+    ]
+  },
+  {
+    "text": "Radolfzell am Bodensee'de hala ikinci evime gidebilir miyim?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 25,
+        "value": "Radolfzell am Bodensee'de",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_german_city",
+        "start": 0,
+        "end": 13,
+        "extractor": "DIETClassifier",
+        "value": "Radolfzell am"
+      },
+      {
+        "entity": "tr_country",
+        "start": 14,
+        "end": 25,
+        "extractor": "DIETClassifier",
+        "value": "Bodensee'de"
+      }
+    ]
+  },
+  {
+    "text": "COVID 19 ekonomiyi etkiler",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "COVID 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Tetris oynamak hoşunuza gitti mi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Tetris",
+        "entity": "tr_game"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Heard ve McDonald Adaları Bölgesi'de hangi önlemler alınır?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 36,
+        "value": "Heard ve McDonald Adaları Bölgesi'de",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 5,
+        "extractor": "DIETClassifier",
+        "value": "Heard"
+      },
+      {
+        "entity": "tr_country",
+        "start": 9,
+        "end": 36,
+        "extractor": "DIETClassifier",
+        "value": "McDonald Adaları Bölgesi'de"
+      }
+    ]
+  },
+  {
+    "text": "Covid-19 köpeğim için tehlikeli mi?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Bir hayvandan qubeat 19 alabilir miyim?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 14,
+        "end": 23,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Mozambique kaç vaka",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "Mozambique",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Kutsal Apostolik Bakınız'deki Ölümler",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "Kutsal Apostolik Bakınız'deki",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 7,
+        "end": 29,
+        "extractor": "DIETClassifier",
+        "value": "Apostolik Bakınız'deki"
+      }
+    ]
+  },
+  {
+    "text": "sen de japonca konuşabiliyor musun",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_language",
+        "start": 7,
+        "end": 14,
+        "extractor": "DIETClassifier",
+        "value": "japonca"
+      }
+    ]
+  },
+  {
+    "text": "Sizinle Zhong Hua Yu Zi konuşabilir miyim?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 23,
+        "value": "Zhong Hua Yu Zi",
+        "entity": "tr_language"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 8,
+        "end": 20,
+        "extractor": "DIETClassifier",
+        "value": "Zhong Hua Yu"
+      }
+    ]
+  },
+  {
+    "text": "SARS-Cov-2 ve Covid-19 nedir?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 14,
+        "end": 22,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Korona virüsü hakkında",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Korona"
+      }
+    ]
+  },
+  {
+    "text": "Korona virüsünün ne olduğunu bilmiyorum",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Korona"
+      }
+    ]
+  },
+  {
+    "text": "Covid-19 çocuklar için ne kadar tehlikeli?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Solunum maskeleri Covid 19'a karşı yardımcı oluyor mu?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 18,
+        "end": 28,
+        "extractor": "DIETClassifier",
+        "value": "Covid 19'a"
+      }
+    ]
+  },
+  {
+    "text": "SARS-CoV-2 virüsü vücut dışında ne kadar süre yaşayabilir ve bulaşıcıdır? (örn. kapı kolları, toplu taşımadaki korkuluklar veya mikrofonlarda)",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 10,
+        "extractor": "DIETClassifier",
+        "value": "SARS-CoV-2"
+      }
+    ]
+  },
+  {
+    "text": "COVID-19 hakkında endişelenmem gerekiyor mu?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "COVID-19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Demcookit 19 enfeksiyonu zararsız mı?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 12,
+        "extractor": "DIETClassifier",
+        "value": "Demcookit 19"
+      }
+    ]
+  },
+  {
+    "text": "Covid'e karşı aşı",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Covid'e",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Sars-Cov-2'ye karşı aşılama",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "Sars-Cov-2'ye",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Hobbit 19 üzerinde günde kaç test yapılır?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Hobbit 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "İtalya'ya yaptığım seyahat için şimdi trenle para iadesi yapılacak mı?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "İtalya'ya",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Obit 19'a neden olan virüs, ciddi akut solunum sendromuna neden olan virüsle aynıdır.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Obit 19'a",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "SARS ve qubeat hakkında 19.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "qubeat 19 ve SARS.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Corvette 19 SARS ile aynı mı?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "Corvette 19 SARS"
+      }
+    ]
+  },
+  {
+    "text": "Kuhweg 19 SARS ile aynı mıdır?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve COVID-19 hakkında.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "COVID-19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "COVID-19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Corvette 19 aynı şey midir?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 19,
+        "extractor": "DIETClassifier",
+        "value": "Corvette 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve qubeat 19 aynı virüs mü?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "SARS",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 8,
+        "end": 17,
+        "value": "qubeat 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "SARS ve COVID 19 arasındaki farklar",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "SARS",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 8,
+        "end": 16,
+        "value": "COVID 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "COVID 19"
+      }
+    ]
+  },
+  {
+    "text": "Kubik 19 ve SARS arasındaki farklar",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "Kubik 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Qubeat 19 ve SARS arasındaki farklar",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Qubeat 19",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "value": "SARS",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "Qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Bir koronavirüs enfeksiyonu ne zaman semptomların arkasında olabilir?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 15,
+        "value": "koronavirüs",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Korona var mı?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Korona"
+      }
+    ]
+  },
+  {
+    "text": "Tedavi Kuhweg 19",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 7,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "Şu anda Duisburg'de nasıl?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "Duisburg'de",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Şu anda Oer-Erkenschwick'de nasıl?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 27,
+        "value": "Oer-Erkenschwick'de",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 8,
+        "end": 27,
+        "extractor": "DIETClassifier",
+        "value": "Oer-Erkenschwick'de"
+      }
+    ]
+  },
+  {
+    "text": "Corona in Schleiz",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "value": "Schleiz",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Groß-Gerau'deki durum nedir",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "value": "Groß-Gerau'deki",
+        "entity": "tr_german_city"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 15,
+        "extractor": "DIETClassifier",
+        "value": "Groß-Gerau'deki"
+      }
+    ]
+  },
+  {
+    "text": "İspanya Krallığı'den yeni geldim",
+    "entities": [
+      {
+        "start": 0,
+        "end": 20,
+        "value": "İspanya Krallığı'den",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Iyonola kaldıktan sonra test et",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "Iyonola",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Brazil'ten yeni döndüm",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "Brazil'ten",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Negara Brunei Darussalam seyahat etmek istiyorum.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 24,
+        "value": "Negara Brunei Darussalam",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 13,
+        "extractor": "DIETClassifier",
+        "value": "Negara Brunei"
+      }
+    ]
+  },
+  {
+    "text": "Tazminat hakkı ve kübik 19",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 18,
+        "end": 26,
+        "extractor": "DIETClassifier",
+        "value": "kübik 19"
+      }
+    ]
+  },
+  {
+    "text": "Bir işçi olarak Kuhweg 19 hakkında ne bilmem gerekiyor?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 16,
+        "end": 25,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19"
+      }
+    ]
+  },
+  {
+    "text": "Almanya harika.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "DE",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Turkiye'yı biliyor musunuz?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "TR",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Bigisayar oynar mısın?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "Bigisayar",
+        "entity": "tr_game"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Covid-19 ve sıcak banyo",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19"
+      }
+    ]
+  },
+  {
+    "text": "Brunei Ülkesi içindeki mevcut konum",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "Brunei Ülkesi",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Brunei"
+      }
+    ]
+  },
+  {
+    "text": "Zion ne olacak?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "Zion",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà hakkında ne dersiniz?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 29,
+        "value": "Ọ̀hàńjíkọ̀ Ọ̀hànézè Naìjíríyà",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "French Polynesia hakkında ne dersiniz?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "value": "French Polynesia",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Kongo Brazzaville hakkında ne dersiniz?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 17,
+        "value": "Kongo Brazzaville",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_country",
+        "start": 0,
+        "end": 5,
+        "extractor": "DIETClassifier",
+        "value": "Kongo"
+      }
+    ]
+  },
+  {
+    "text": "Република Србија hakkında ne dersiniz?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "value": "Република Србија",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Monserrate içinde enfekte",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "Monserrate",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "qubeat 19",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 9,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "Sizinle Provensal konuşabilir miyim?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "value": "Provensal",
+        "entity": "tr_language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Sizinle Kangiryuarmiut İnuitçesi konuşabilir miyim?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 32,
+        "value": "Kangiryuarmiut İnuitçesi",
+        "entity": "tr_language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Seninle Kanuri dili'da konuşabilir miyim?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 22,
+        "value": "Kanuri dili'da",
+        "entity": "tr_language"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_language",
+        "start": 15,
+        "end": 22,
+        "extractor": "DIETClassifier",
+        "value": "dili'da"
+      }
+    ]
+  },
+  {
+    "text": "Nattilik İnuitçesi konuşabiliyor musun?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "value": "Nattilik İnuitçesi",
+        "entity": "tr_language"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Çalışamıyorum çünkü Kuhweg 19'um var, şimdi ne yapmalıyım?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 20,
+        "end": 32,
+        "extractor": "DIETClassifier",
+        "value": "Kuhweg 19'um"
+      }
+    ]
+  },
+  {
+    "text": "Corona bilgisi",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "Corona",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Korona virüsleri hakkında",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 6,
+        "extractor": "DIETClassifier",
+        "value": "Korona"
+      }
+    ]
+  },
+  {
+    "text": "Şimdi Covid-19'dan korkmak zorunda mısın?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 6,
+        "end": 18,
+        "extractor": "DIETClassifier",
+        "value": "Covid-19'dan"
+      }
+    ]
+  },
+  {
+    "text": "Q19 enfeksiyonu güvenli midir?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 3,
+        "value": "Q19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "İtalya'ya olan biletimi ücretsiz olarak iade edebilir miyim?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "İtalya'ya",
+        "entity": "tr_country"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "SARS'a neden olan ve qubeat 19'a neden olan virüs aynı mı?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "SARS'a",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 21,
+        "end": 32,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19'a"
+      }
+    ]
+  },
+  {
+    "text": "SARS'a neden olan virüs, qubeat 19'a neden olan virüsle aynıdır.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "value": "SARS'a",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "SARS ve Corvette 19 aynı virüs mü?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "SARS",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 8,
+        "end": 19,
+        "value": "Corvette 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Obit 19 ve Şiddetli Akut Solunum Sendromu Hakkında.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 7,
+        "extractor": "DIETClassifier",
+        "value": "Obit 19"
+      }
+    ]
+  },
+  {
+    "text": "Obit 19 ve ciddi akut solunum sendromu hakkında bilgi.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 7,
+        "extractor": "DIETClassifier",
+        "value": "Obit 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS'a neden olan ve cupid 19'a neden olan virüs aynı mı?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 21,
+        "end": 31,
+        "extractor": "DIETClassifier",
+        "value": "cupid 19'a"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve COVID 19 hakkında bilgiler.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "COVID 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 16,
+        "extractor": "DIETClassifier",
+        "value": "COVID 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve COBIT Hakkında 19.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 13,
+        "extractor": "DIETClassifier",
+        "value": "COBIT"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve Cupid hakkında 19.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      }
+    ]
+  },
+  {
+    "text": "SARS ve qubeat 19 aynı şey midir?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 4,
+        "extractor": "DIETClassifier",
+        "value": "SARS"
+      },
+      {
+        "entity": "tr_virus",
+        "start": 8,
+        "end": 17,
+        "extractor": "DIETClassifier",
+        "value": "qubeat 19"
+      }
+    ]
+  },
+  {
+    "text": "SARS, Corvette 19 ile aynı mıdır?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "SARS",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 6,
+        "end": 17,
+        "value": "Corvette 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "kuhweg 19 ve SARS aynı virüs mü?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "kuhweg 19",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "COVID 19, SARS ile aynı mıdır?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "COVID 19",
+        "entity": "tr_virus"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "value": "SARS",
+        "entity": "tr_virus"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "tr_virus",
+        "start": 0,
+        "end": 8,
+        "extractor": "DIETClassifier",
+        "value": "COVID 19"
+      }
+    ]
+  }
+]
